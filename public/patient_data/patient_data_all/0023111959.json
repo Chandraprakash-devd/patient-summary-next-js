@@ -1,0 +1,161 @@
+{
+  "p": {
+    "uid": "0023111959",
+    "mr": "P711812",
+    "v": 2,
+    "f": "2025-02-24",
+    "l": "2025-05-15"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2025-02-24",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "Congenital coloboma of iris × 1",
+          "Fundus coloboma × 1",
+          "Immature cataract × 1",
+          "Pterygium × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636"
+          },
+          {
+            "UCVA": "618"
+          }
+        ]
+      },
+      "s": {
+        "h": "Cardiac;Non-Ocular Sx;Remarks;Thyroid Status;Identification Marks;Asthma;Other Allergies;Diabetes;TB;Hypertension;Others;Hyperlipidemia;Drug Allergies"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "COLOBOMA IRIS INFERONASALLY",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "Pharmacologically Dilated,IRREGULAR",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "NS3",
+          "Clear"
+        ]
+      },
+      "op": {
+        "ref": "RE PTEYRGIUM EXCISION"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "Clear"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "RC COLOBOMA INFERIORLY",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "21",
+          "18"
+        ]
+      }
+    },
+    {
+      "v": 2,
+      "d": "2025-05-15",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "Congenital coloboma of iris × 1",
+          "Immature cataract × 1",
+          "Pterygium × 1",
+          "Fundus coloboma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636"
+          },
+          {
+            "UCVA": "618"
+          }
+        ]
+      },
+      "s": {
+        "h": "Hypertension;Identification Marks;Asthma;Remarks;Non-Ocular Sx;Drug Allergies;Diabetes;Hyperlipidemia;Cardiac;Others;TB;Thyroid Status;Other Allergies"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "COLOBOMA IRIS INFERONASALLY",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "Pharmacologically Dilated,IRREGULAR",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "NS3",
+          "Clear"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "Clear"
+        ],
+        "di": [
+          "Normal",
+          "OD pit"
+        ],
+        "ve": "Normal",
+        "br": "RC COLOBOMA INFERIORLY",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 8
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "19",
+          "16"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,932 @@
+{
+  "p": {
+    "uid": "0018672756",
+    "mr": "P2322079",
+    "v": 10,
+    "f": "2022-07-08",
+    "l": "2023-11-09"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-07-08",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "Pigmentary Glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "618",
+            "UCVA": "624"
+          },
+          {}
+        ],
+        "dist": [
+          {
+            "sph": "-2.00",
+            "ax": "90",
+            "va": "612",
+            "ucva": "624"
+          },
+          {
+            "ax": "0"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+1.00",
+            "ax": "90"
+          },
+          {
+            "sph": "+1.00"
+          }
+        ]
+      },
+      "s": {
+        "h": "Diabetes;Hypertension;Cardiac;Asthma;Other Allergies;Non-Ocular Sx;Others;Hyperlipidemia;Drug Allergies;Remarks;H/O COVID 19;H/O COVID VACCINE;Identification Marks;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "illsustained",
+          "RAPD-I"
+        ],
+        "lens": "iris pigments on lens"
+      },
+      "op": {
+        "ref": "advanced poag"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "near total cupping",
+          "glaucomaatous optic atrophy"
+        ],
+        "me": "Clear",
+        "di": [
+          "CDR 0.9",
+          "CDR 0.95"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "LUMIGAN DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": "Night Only"
+        },
+        {
+          "name": "MISOPT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2,
+          "dur": 5,
+          "med_start": "08/07/2022",
+          "med_end": "12/07/2022"
+        },
+        {
+          "name": "PANTOCID40MGTAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only",
+          "dur": 5,
+          "med_start": "08/07/2022",
+          "med_end": "12/07/2022"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "20",
+          "30"
+        ],
+        "sp": {
+          "r": ",DONE"
+        }
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-07-23",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "Pigmentary Glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "612P"
+          },
+          {}
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "illsustained",
+          "RAPD-I"
+        ],
+        "lens": "iris pigments on lens"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "near total cupping",
+          "glaucomaatous optic atrophy"
+        ],
+        "me": "Clear",
+        "di": [
+          "CDR 0.9",
+          "CDR 0.95"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "LUMIGAN DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": "Night Only"
+        },
+        {
+          "name": "MISOPT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "15",
+          "11"
+        ],
+        "sp": {
+          "r": ",COMPLETED"
+        }
+      },
+      "fup": {
+        "adv": "2 days"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2022-07-25",
+      "c": "F2",
+      "diag": [
+        "",
+        "",
+        [
+          "Pigmentary Glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "612"
+          },
+          {}
+        ]
+      },
+      "as": {
+        "rem": [
+          "ROPLAS NEGATIVE",
+          ""
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "illsustained",
+          "RAPD-I"
+        ],
+        "lens": "iris pigments on lens"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "near total cupping",
+          "glaucomaatous optic atrophy"
+        ],
+        "me": "Clear",
+        "di": [
+          "CDR 0.9",
+          "CDR 0.95"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "LUMIGAN DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": "Night Only"
+        },
+        {
+          "name": "MISOPT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": "9"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2022-07-26",
+      "c": "F3",
+      "as": {
+        "rem": [
+          "ROPLAS NEGATIVE",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "blood",
+          "Normal Depth"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "bleb",
+          "Normal"
+        ],
+        "pu": [
+          "dialeted",
+          "RAPD-I"
+        ],
+        "lens": "iris pigments on lens"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "near total cupping",
+          "glaucomaatous optic atrophy"
+        ]
+      },
+      "m": [
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 8,
+          "dur": 10,
+          "med_start": "26/07/2022",
+          "med_end": "04/08/2022"
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 7,
+          "dur": 10,
+          "med_start": "05/08/2022",
+          "med_end": "14/08/2022"
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6,
+          "dur": 10,
+          "med_start": "15/08/2022",
+          "med_end": "24/08/2022"
+        },
+        {
+          "name": "EXOCIN EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3,
+          "dur": 7,
+          "med_start": "26/07/2022",
+          "med_end": "01/08/2022"
+        },
+        {
+          "name": "ATROPINE 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2,
+          "dur": 15,
+          "med_start": "26/07/2022",
+          "med_end": "09/08/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3,
+          "dur": 30,
+          "med_start": "26/07/2022",
+          "med_end": "24/08/2022"
+        },
+        {
+          "name": "TEARSNATURLE 5 ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3,
+          "dur": 30,
+          "med_start": "26/07/2022",
+          "med_end": "24/08/2022"
+        },
+        {
+          "name": "NEUROBION FORTE TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only",
+          "dur": 30,
+          "med_start": "26/07/2022",
+          "med_end": "24/08/2022"
+        },
+        {
+          "name": "FOLVITE TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only",
+          "dur": 30,
+          "med_start": "26/07/2022",
+          "med_end": "24/08/2022"
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "13 days"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2022-08-08",
+      "c": "F4",
+      "diag": [
+        [
+          "Post Trabeculectomy × 1"
+        ],
+        "",
+        [
+          "Pigmentary Glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636",
+            "UCVA With PH": "618"
+          },
+          {}
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "SPI(P)",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "BLEB- GR2, + SCH+",
+          "Normal"
+        ],
+        "pu": [
+          "dialeted",
+          "RAPD-I"
+        ],
+        "lens": "iris pigments on lens"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "near total cupping",
+          "glaucomaatous optic atrophy"
+        ],
+        "me": "Clear",
+        "di": [
+          "CDR 0.9",
+          "CDR 0.95"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": "9"
+      },
+      "fup": {
+        "adv": "14 days"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2022-08-19",
+      "c": "F5",
+      "diag": [
+        [
+          "Post Trabeculectomy × 1"
+        ],
+        "",
+        [
+          "Pigmentary Glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636"
+          },
+          {}
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "SPI(P)",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "BLEB- GR2, + SCH+ TEMPORALLY",
+          "Normal"
+        ],
+        "pu": [
+          "dialeted",
+          "RAPD-I"
+        ],
+        "lens": "iris pigments on lens"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "near total cupping",
+          "glaucomaatous optic atrophy"
+        ],
+        "me": "Clear",
+        "di": [
+          "CDR 0.9",
+          "CDR 0.95"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "13",
+          "15"
+        ]
+      },
+      "fup": {
+        "adv": "17 days"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2022-09-01",
+      "c": "F6",
+      "diag": [
+        [
+          "Post TRAB+TRAB × 1"
+        ],
+        "",
+        [
+          "Pigmentary Glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636P",
+            "UCVA With PH": "624"
+          },
+          {}
+        ],
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "BLEB RAISED WELL ON MASSAGE",
+          ""
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "SPI(P)",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "BLEB- GR2, DIFFUSE",
+          "Normal"
+        ],
+        "pu": [
+          "dialeted",
+          "RAPD-I"
+        ],
+        "lens": "iris pigments on lens"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "near total cupping",
+          "glaucomaatous optic atrophy"
+        ],
+        "me": "Clear",
+        "di": [
+          "CDR 0.9",
+          "CDR 0.95"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "LUMIGAN DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Night Only"
+        },
+        {
+          "name": "MISOPT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6,
+          "dur": 10,
+          "med_start": "01/09/2022",
+          "med_end": "10/09/2022"
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 5,
+          "dur": 10,
+          "med_start": "11/09/2022",
+          "med_end": "20/09/2022"
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4,
+          "dur": 10,
+          "med_start": "21/09/2022",
+          "med_end": "30/09/2022"
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3,
+          "dur": 10,
+          "med_start": "01/10/2022",
+          "med_end": "10/10/2022"
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2,
+          "dur": 10,
+          "med_start": "11/10/2022",
+          "med_end": "20/10/2022"
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1,
+          "dur": 10,
+          "med_start": "21/10/2022",
+          "med_end": "30/10/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3,
+          "dur": 30,
+          "med_start": "01/09/2022",
+          "med_end": "30/09/2022"
+        },
+        {
+          "name": "TEARSNATURLE 5 ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3,
+          "dur": 30,
+          "med_start": "01/09/2022",
+          "med_end": "30/09/2022"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "9",
+          "26"
+        ]
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2022-09-19",
+      "c": "F7",
+      "diag": [
+        [
+          "Post TRAB+TRAB × 1"
+        ],
+        "",
+        [
+          "Pigmentary Glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "660",
+            "UCVA With PH": "636"
+          },
+          {}
+        ],
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "SPI(P)",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "Bleb-Diffused, 2 RS",
+          "Normal"
+        ],
+        "pu": [
+          "Dialted",
+          "RAPD-I"
+        ],
+        "lens": "iris pigments on lens"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "near total cupping",
+          "glaucomaatous optic atrophy"
+        ],
+        "me": "Clear",
+        "di": [
+          "CDR 0.9",
+          "CDR 0.95"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": "10"
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    },
+    {
+      "v": 9,
+      "d": "2023-10-09",
+      "c": "F8",
+      "diag": [
+        "",
+        "",
+        [
+          "Pigmentary glaucoma × 1",
+          "Early opacity of lens × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636",
+            "Glasses": "612P"
+          },
+          {}
+        ],
+        "dist": [
+          {
+            "sph": "-2.00",
+            "ax": "90",
+            "va": "612P",
+            "ucva": "636"
+          },
+          {
+            "ax": "0"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+1.00",
+            "ax": "90"
+          },
+          {
+            "sph": "+1.00",
+            "ax": "NAS"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth;Deep",
+        "ir": [
+          "Normal Color and Pattern;Peripheral Iridectomy-Surgical-Patent",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "Normal;DIFFUSE BLEB",
+          "Normal"
+        ],
+        "pu": "Normal Size and Reaction to Light;Pharmacologically Dilated",
+        "lens": [
+          "Clear;central PSCC;central PSCC,Pigments on ALC",
+          "Clear;Lens Changes;Lens Changes,Pigments on ALC,Schie Stripe;Lens Changes,Pigments on ALC,Scheie Stripe"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.9,Pale",
+          "cup disc ratio-GOA"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "8",
+          "11"
+        ]
+      },
+      "fup": {
+        "adv": "3 months;1 month"
+      }
+    },
+    {
+      "v": 10,
+      "d": "2023-11-09",
+      "c": "F9",
+      "diag": [
+        "",
+        "",
+        [
+          "Early opacity of lens × 1",
+          "Pigmentary glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "618P"
+          },
+          {}
+        ]
+      },
+      "at": {
+        "ac": "Deep",
+        "ir": [
+          "Peripheral Iridectomy-Surgical-Patent",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "DIFFUSE BLEB",
+          "Normal"
+        ],
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "central PSCC,Pigments on ALC",
+          "Lens Changes,Pigments on ALC,Scheie Stripe"
+        ]
+      },
+      "op": {
+        "ref": "small ped adjacent to fovea",
+        "rem": "one eyed"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.9,Pale",
+          "cup disc ratio-GOA"
+        ],
+        "ve": "Normal",
+        "br": [
+          "small ped adjacent t fovea",
+          "Normal"
+        ],
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "9",
+          "20"
+        ],
+        "sp": {
+          "r": "COMPLETED,COMPLETED,COMPLETED,"
+        }
+      },
+      "fup": {
+        "adv": "3 months;2 months"
+      }
+    }
+  ]
+}

@@ -1,0 +1,633 @@
+{
+  "p": {
+    "uid": "0020058637",
+    "mr": "P1911700",
+    "v": 11,
+    "f": "2023-04-24",
+    "l": "2023-10-13"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2023-04-24",
+      "c": "Initial",
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "660"
+          },
+          {
+            "UCVA": "612P"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-10",
+            "ax": "0",
+            "va": "624",
+            "ucva": "660"
+          },
+          {
+            "sph": "-2.5",
+            "ax": "0",
+            "va": "69P",
+            "ucva": "612P"
+          }
+        ]
+      },
+      "s": {
+        "h": "Diabetes;Hypertension;Cardiac;Asthma;Other Allergies;Non-Ocular Sx;Others;Hyperlipidemia;Drug Allergies;Remarks;H/O COVID 19;H/O COVID VACCINE;Identification Marks;Thyroid"
+      },
+      "at": {
+        "ac": "VH Gr 3",
+        "ir": [
+          "Peripheral Iridectomy- Patent",
+          "Peripheral Iridectomy-Laser-Patent"
+        ],
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": [
+          "Pigments on ALC, ICL insitu, vault 1 CT, NS2",
+          "ICL insitu, vault 1CT"
+        ]
+      },
+      "op": {
+        "ref": "OU - s/p ICL Defective vision since 1 year;BE Stable post ICL. Wants opinion on clear lens extraction",
+        "rem": "KIndly opine"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": "Myopic Disc"
+      },
+      "inv": {
+        "iop": [
+          "13",
+          "12"
+        ],
+        "sp": {
+          "r": "No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 year"
+      },
+      "oh": {
+        "desc": "ICL/Phakic IOL explanation"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2023-04-25",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "High Myopia × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "660",
+            "UCVA With PH": "624"
+          },
+          {
+            "UCVA": "612P",
+            "UCVA With PH": "69P"
+          }
+        ]
+      },
+      "at": {
+        "ac": "VH Gr 3",
+        "ir": [
+          "Peripheral Iridectomy- Patent",
+          "Peripheral Iridectomy-Laser-Patent"
+        ],
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "Pigments on ALC, ICL insitu, vault 1 CT, NS2",
+          "ICL insitu, vault 1CT, Lens changes"
+        ]
+      },
+      "op": {
+        "ref": "High Myope"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": "Myopic Disc",
+        "me": "Clear",
+        "di": "Myopic disc",
+        "ve": "Normal",
+        "br": [
+          "Inf Pigmented lattice",
+          "Inferior and superior pigmented lattices, Inferior CRA"
+        ],
+        "mf": "Dull"
+      },
+      "inv": {
+        "iop": [
+          "13",
+          "14"
+        ],
+        "sp": {
+          "r": "FC Normal,FC Normal"
+        }
+      }
+    },
+    {
+      "v": 3,
+      "d": "2023-04-29",
+      "c": "F2",
+      "diag": [
+        "",
+        "",
+        [
+          "High Myopia × 1"
+        ]
+      ],
+      "fup": {
+        "adv": "3 weeks"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-05-26",
+      "c": "F3",
+      "diag": [
+        [
+          "IMC × 1",
+          "Nuclear Sclerosis Grade-II × 1"
+        ],
+        "",
+        [
+          "High Myopia × 1",
+          "Lattice Degeneration × 1",
+          "S/P Barrage Laser × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "660",
+            "UCVA With PH": "624"
+          },
+          {
+            "UCVA": "612P",
+            "UCVA With PH": "69P"
+          }
+        ]
+      },
+      "at": {
+        "ac": "VH Gr 3",
+        "ir": [
+          "Peripheral Iridectomy- Patent",
+          "Peripheral Iridectomy-Laser-Patent"
+        ],
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "Pigments on ALC, ICL insitu, vault 1 CT, NS2",
+          "ICL insitu, vault 1CT, Lens changes"
+        ]
+      },
+      "op": {
+        "ref": "right eye icl removal and phaco with foldable iol;S/P ICL for review"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Myopic disc",
+        "ve": "Normal",
+        "br": [
+          "Inf Pigmented lattice-S/P-barrage-stable",
+          "Inferior and superior pigmented lattices, Inferior CRA, S/P-barrage-stable"
+        ],
+        "mf": "Dull",
+        "rem": "No new lesions"
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "1",
+          "fre": 8
+        },
+        {
+          "name": "ALPRAX 0.5 TAB",
+          "eye": "5",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "21",
+          "18"
+        ]
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2023-05-27",
+      "c": "F4",
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "eye": "1",
+          "fre": 8
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "eye": "1",
+          "fre": 6
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "eye": "1",
+          "fre": 5
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "eye": "1",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2023-05-29",
+      "c": "F5",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "High Myopia × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69",
+            "UCVA With PH": "66P"
+          },
+          {}
+        ]
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2023-06-23",
+      "c": "F6",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "High Myopia × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA With PH": "66P",
+            "UCVA": "66P"
+          },
+          {
+            "UCVA With PH": "69P",
+            "UCVA": "624"
+          }
+        ],
+        "dist": [
+          {
+            "va": "66P",
+            "ucva": "66P"
+          },
+          {
+            "sph": "-2.5",
+            "va": "612P",
+            "ucva": "624"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "#ERROR!"
+          },
+          {}
+        ]
+      },
+      "at": {
+        "ac": "VH Gr 3",
+        "ir": [
+          "Peripheral Iridectomy- Patent",
+          "Peripheral Iridectomy-Laser-Patent"
+        ],
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "Pigments on ALC, PCIOL",
+          "ICL insitu, vault 1CT, Lens changes"
+        ]
+      },
+      "op": {
+        "ref": "LE--ICL Patient wants cataract surgery"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Myopic disc",
+        "ve": "Normal",
+        "br": [
+          "Inf Pigmented lattice-S/P-barrage-stable",
+          "Inferior and superior pigmented lattices, Inferior CRA, S/P-barrage-stable"
+        ],
+        "mf": "Dull"
+      },
+      "inv": {
+        "iop": [
+          "15",
+          "13"
+        ]
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2023-08-29",
+      "c": "F7",
+      "diag": [
+        "",
+        "",
+        [
+          "High Myopia × 1",
+          "PCIOL × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66P",
+            "UCVA With PH": "66P"
+          },
+          {
+            "UCVA": "618",
+            "UCVA With PH": "612"
+          }
+        ]
+      },
+      "at": {
+        "ac": "VH Gr 3",
+        "ir": [
+          "Peripheral Iridectomy- Patent",
+          "Peripheral Iridectomy-Laser-Patent"
+        ],
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "Pigments on ALC, PCIOL",
+          "ICL insitu, vault 1CT, Lens changes"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Myopic disc",
+        "ve": "Normal",
+        "br": [
+          "Inf Pigmented lattice-S/P-barrage-stable",
+          "Inferior and superior pigmented lattices, Inferior CRA, S/P-barrage-stable"
+        ],
+        "mf": "Dull"
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "2",
+          "fre": 8
+        },
+        {
+          "name": "ALPRAX 0.5 TAB",
+          "eye": "5",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "14",
+          "15"
+        ]
+      }
+    },
+    {
+      "v": 9,
+      "d": "2023-09-02",
+      "c": "F8",
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "eye": "2",
+          "fre": 8
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "eye": "2",
+          "fre": 6
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "eye": "2",
+          "fre": 5
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "eye": "2",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 10,
+      "d": "2023-09-04",
+      "c": "F9",
+      "diag": [
+        "",
+        "",
+        [
+          "PCIOL × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "69",
+            "UCVA With PH": "66"
+          }
+        ]
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 11,
+      "d": "2023-10-13",
+      "c": "F10",
+      "diag": [
+        "",
+        "",
+        [
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66P",
+            "Glasses": "66"
+          },
+          {
+            "UCVA": "66P",
+            "Glasses": "660"
+          }
+        ],
+        "dist": [
+          {
+            "va": "66P",
+            "ucva": "66P"
+          },
+          {
+            "va": "66P",
+            "ucva": "66P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "#ERROR!"
+          },
+          {
+            "sph": "#ERROR!"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Peripheral Iridectomy-Laser-Patent",
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Pharmacologically Dilated"
+        ],
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Myopic disc",
+        "ve": "Normal",
+        "br": [
+          "Inf Pigmented lattice-S/P-barrage-stable",
+          "Inferior and superior pigmented lattices, Inferior CRA, S/P-barrage-stable"
+        ],
+        "mf": "Dull"
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    }
+  ]
+}

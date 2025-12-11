@@ -1,0 +1,392 @@
+{
+  "p": {
+    "uid": "0012275037",
+    "mr": "P1352885",
+    "v": 7,
+    "f": "2022-02-17",
+    "l": "2024-09-23"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-02-17",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "Post PRK × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "66"
+        },
+        "dist": [
+          {
+            "ax": "0",
+            "va": "66",
+            "ucva": "66"
+          },
+          {
+            "ax": "0",
+            "va": "66",
+            "ucva": "66"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "OPTIVE EYE DROPS",
+          "eye": "3",
+          "fre": 4,
+          "dur": 30,
+          "med_start": "17/02/2022",
+          "med_end": "18/03/2022"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "17",
+          "15"
+        ]
+      },
+      "fup": {
+        "adv": "1 year"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-10-13",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "Post PRK × 1",
+          "Acute Conjunctivitis × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "66"
+        },
+        "dist": [
+          {
+            "ax": "0",
+            "va": "66"
+          },
+          {
+            "ax": "0",
+            "va": "66",
+            "ucva": "66"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "mild congestion",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "MOXAP EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 4,
+          "dur": 7,
+          "med_start": "13/10/2022",
+          "med_end": "19/10/2022"
+        },
+        {
+          "name": "EYEMIST FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3,
+          "dur": 30,
+          "med_start": "13/10/2022",
+          "med_end": "11/11/2022"
+        }
+      ],
+      "fup": {
+        "adv": "1 year"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2023-03-11",
+      "c": "F2",
+      "diag": [
+        "",
+        "",
+        [
+          "Post PRK × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "66"
+        },
+        "dist": [
+          {
+            "ax": "0",
+            "va": "66",
+            "ucva": "66"
+          },
+          {
+            "ax": "0",
+            "va": "66",
+            "ucva": "66"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": "Normal"
+      },
+      "inv": {
+        "iop": "13"
+      },
+      "fup": {
+        "adv": "1 year"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-09-24",
+      "c": "F3",
+      "diag": [
+        "",
+        "",
+        [
+          "Corneal abrasion × 1",
+          "Normal × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "MOXIGRAM EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "LUBREX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6
+        },
+        {
+          "name": "PANTHEGEL  OINT",
+          "eye": "1",
+          "fre": 2
+        }
+      ],
+      "fup": {
+        "adv": "Tomorrow"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2023-09-25",
+      "c": "F4",
+      "diag": [
+        "",
+        "",
+        [
+          "Ametropia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": "Normal"
+      },
+      "fup": {
+        "adv": "Whenever Required"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2024-08-08",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "Ametropia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear"
+      },
+      "op": {
+        "ref": "Post PRK"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Inferior pigmented lattice",
+          "Normal"
+        ],
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "21",
+          "14"
+        ]
+      },
+      "fup": {
+        "adv": "1 year"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2024-09-23",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "Normal × 1",
+          "Subconjunctival haemorrhage × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "as": {
+        "rem": [
+          "",
+          "No e/o f/b"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Normal Depth, quiet"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Normal",
+          "mild sch temporally, post limit seen"
+        ],
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": "Normal"
+      },
+      "m": [
+        {
+          "name": "APDROPS EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "LUBREX-DS DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "fup": {
+        "adv": "Whenever Required"
+      }
+    }
+  ]
+}

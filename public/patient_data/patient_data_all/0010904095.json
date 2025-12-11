@@ -1,0 +1,1050 @@
+{
+  "p": {
+    "uid": "0010904095",
+    "mr": "P4448991",
+    "v": 16,
+    "f": "2023-05-02",
+    "l": "2025-04-18"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2023-05-02",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "IMC × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "612",
+            "Glasses": "69"
+          },
+          {
+            "UCVA": "636",
+            "Glasses": "69"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "165",
+            "va": "66",
+            "ucva": "612"
+          },
+          {
+            "sph": "+1.00",
+            "ax": "180",
+            "va": "66P",
+            "ucva": "636"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5",
+            "ax": "180"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "ns2"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Hazy-Cataract",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "19",
+          "17"
+        ]
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2023-05-09",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "IMC × 1",
+          "Nuclear Sclerosis Grade-II × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "69",
+            "UCVA": "612"
+          },
+          {
+            "Glasses": "69",
+            "UCVA": "636"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;Hyperlipidemia;Hypertension;Non-Ocular Sx;Other Allergies;Others;Remarks;H/O COVID 19;H/O COVID VACCINE;Identification Marks;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, 6mm",
+        "lens": "ns2"
+      },
+      "op": {
+        "ref": "LE PHACO with PATIENT’S PREF.",
+        "rem": "LE HIGH ASTIGMATISM"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Hazy-Cataract",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": "Not Measurable"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2023-05-16",
+      "c": "F2",
+      "op": {
+        "ref": "LE MICS with AUROVUE TORIC",
+        "rem": "ECG"
+      },
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "NR"
+        }
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-05-17",
+      "c": "F3",
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "66P"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0"
+          },
+          {
+            "ax": "0",
+            "va": "66P",
+            "ucva": "66P"
+          }
+        ],
+        "nr": [
+          {},
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "op": {
+        "ref": "LE MICS with AUROVUE TORIC",
+        "rem": "ecg"
+      },
+      "m": [
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 6
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 5
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        }
+      ],
+      "fup": {
+        "adv": "1 month;15/06/2023"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2023-06-15",
+      "c": "F4",
+      "diag": [
+        [
+          "Nuclear Sclerosis Grade-II × 1",
+          "Nuclear Sclerosis Grade-III × 1"
+        ],
+        [
+          "PCIOL × 1",
+          "Post Toric IOL × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "612"
+          },
+          {
+            "UCVA": "66"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "165",
+            "va": "66",
+            "ucva": "612"
+          },
+          {
+            "va": "66",
+            "ucva": "66"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "m": [
+        {
+          "name": "NPACT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "17"
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2023-09-13",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "PCIOL × 1",
+          "Nuclear Sclerosis Grade-II × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69"
+          },
+          {
+            "UCVA": "66"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "165",
+            "va": "66",
+            "ucva": "69"
+          },
+          {
+            "va": "66",
+            "ucva": "66"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, 6mm",
+        "lens": [
+          "ns2",
+          "toric IOL @180 degrees"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "19",
+          "15"
+        ]
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2024-03-16",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "Immature cataract × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light;Pharmacologically Dilated",
+        "lens": [
+          "Clear;IMC",
+          "Clear;PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "Clear"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "IRIMIST EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "20",
+          "14"
+        ]
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2024-09-07",
+      "c": "F7",
+      "diag": [
+        "",
+        "",
+        [
+          "Immature cataract × 1",
+          "Pseudophakia × 1",
+          "PAC × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated,4MM;Normal Size and Reaction to Light",
+        "lens": [
+          "NS 2",
+          "PCIOL"
+        ]
+      },
+      "op": {
+        "ref": "RE HIGH IOP. FAMILY HISTORY OF GLAUCOMA+",
+        "rem": "KINDLY OPINE"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Hazy",
+          "Normal"
+        ],
+        "me": [
+          "",
+          "Clear"
+        ],
+        "di": [
+          "not visualised",
+          "Normal"
+        ],
+        "ve": [
+          "",
+          "Normal"
+        ],
+        "br": [
+          "",
+          "Normal"
+        ],
+        "mf": [
+          "not visualised",
+          "Present"
+        ]
+      },
+      "m": [
+        {
+          "name": "TIMOLET-OD EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": "Morning Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "30",
+          "20"
+        ]
+      }
+    },
+    {
+      "v": 9,
+      "d": "2024-09-16",
+      "c": "F8",
+      "diag": [
+        "",
+        "",
+        [
+          "Immature cataract × 1",
+          "PAC × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": [
+          "NS 2",
+          "PCIOL"
+        ]
+      },
+      "op": {
+        "ref": "RE YAG PI"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Hazy",
+          "Normal"
+        ]
+      },
+      "m": [
+        {
+          "name": "GATILOX-DM EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "GATILOX-DM EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "PYRIGESIC TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Whenever Required"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "19",
+          "13"
+        ]
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 10,
+      "d": "2024-10-01",
+      "c": "F9",
+      "diag": [
+        "",
+        "",
+        [
+          "Immature cataract × 1",
+          "Pseudophakia × 1",
+          "Primary angle closure × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "612"
+          },
+          {
+            "None": "66"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "patent lpi",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": [
+          "NS 2",
+          "PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Hazy",
+          "Normal"
+        ],
+        "me": [
+          "Hazy-Cataract",
+          "Clear"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Normal"
+      },
+      "m": [
+        {
+          "name": "MISOPT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "38",
+          "14"
+        ],
+        "sp": {
+          "r": "No Data;done"
+        }
+      },
+      "fup": {
+        "adv": "21 days"
+      }
+    },
+    {
+      "v": 11,
+      "d": "2024-10-22",
+      "c": "F10",
+      "diag": [
+        "",
+        "",
+        [
+          "Immature cataract × 1",
+          "Primary angle closure × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "patent lpi",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": [
+          "NS 3",
+          "PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Hazy",
+          "Normal"
+        ],
+        "me": [
+          "Hazy-Cataract",
+          "Clear"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Normal"
+      },
+      "inv": {
+        "iop": [
+          "16",
+          "14"
+        ],
+        "sp": {
+          "r": "DONE,DONE,done"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 12,
+      "d": "2024-11-12",
+      "c": "F11",
+      "diag": [
+        "",
+        "",
+        [
+          "Immature cataract × 1",
+          "Primary angle closure × 1",
+          "Pseudophakia × 1",
+          "MGD × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "69"
+          },
+          {
+            "None": "66"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "patent lpi",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "NS 3",
+          "PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "Clear"
+        ],
+        "di": "cup disc ratio-0.4",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Normal"
+      },
+      "m": [
+        {
+          "name": "OCUPOL EYE OINT",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "16"
+        ]
+      }
+    },
+    {
+      "v": 13,
+      "d": "2024-11-27",
+      "c": "F12",
+      "diag": [
+        "",
+        "",
+        [
+          "Immature cataract × 1",
+          "Primary angle closure × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "Normal Color and Pattern;Peripheral Iridectomy-Laser-Patent",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light;Pharmacologically Dilated",
+        "lens": [
+          "Clear;Nuclear Sclerosis-II",
+          "Clear;PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "ALPRAX 0.25 TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Night Only"
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 8
+        }
+      ],
+      "inv": {
+        "iop": [
+          "15",
+          "13"
+        ],
+        "sp": {
+          "r": "Low voltage complexes"
+        }
+      }
+    },
+    {
+      "v": 14,
+      "d": "2024-11-28",
+      "c": "F13",
+      "vi": {
+        "vis": [
+          {
+            "None": "612"
+          },
+          {}
+        ]
+      },
+      "m": [
+        {
+          "name": "DEXA 7.5 ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 5
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      }
+    },
+    {
+      "v": 15,
+      "d": "2024-12-18",
+      "c": "F14",
+      "diag": [
+        "",
+        "",
+        [
+          "PACS × 1",
+          "Ocular hypertension × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "612"
+          },
+          {
+            "None": "66"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, quiet",
+          "Normal Depth"
+        ],
+        "ir": [
+          "Peripheral Iridectomy-Laser-Patent",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "op": {
+        "ref": "RE POD 21 with PAC s/p PI on AGM",
+        "rem": "KINDLY REVIEW"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "NEPAWEL EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "LOPRES 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "17",
+          "19"
+        ]
+      }
+    },
+    {
+      "v": 16,
+      "d": "2025-04-18",
+      "c": "F15",
+      "diag": [
+        "",
+        "",
+        [
+          "Ocular hypertension × 1",
+          "PACS × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "With Spectacles": "66",
+            "UCVA": "612"
+          },
+          {
+            "With Spectacles": "66",
+            "UCVA": "66"
+          }
+        ]
+      },
+      "s": {
+        "h": "TB;Hyperlipidemia;Rheumatoid Arthritis;Other Allergies;Non-Ocular Sx;History of Malignancy;Renal Disease;Lungs Problem;Drug Allergies;Thyroid Status;Diabetes;Asthma;Hypertension;Liver Disease;Stroke/Neuro;Remarks;Others;Cardiac;Identification Marks"
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, quiet",
+          "Normal Depth"
+        ],
+        "ir": [
+          "Peripheral Iridectomy-Laser-Patent",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "14",
+          "15"
+        ]
+      }
+    }
+  ]
+}

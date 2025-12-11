@@ -1,0 +1,921 @@
+{
+  "p": {
+    "uid": "0003332771",
+    "mr": "P3786009",
+    "v": 14,
+    "f": "2024-01-16",
+    "l": "2025-07-14"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2024-01-16",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "NPDR × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "Glasses": "66P",
+            "UCVA": "612"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66",
+            "ucva": "618"
+          },
+          {
+            "sph": "=+0.5",
+            "ax": "180",
+            "va": "66",
+            "ucva": "612"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5",
+            "ax": "180"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light;Pharmacologically Dilated",
+        "lens": "Clear;pciol"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "dot hges, exudates;Moderate NPDR",
+          "Moderate NPDR"
+        ]
+      },
+      "m": [
+        {
+          "name": "ZIVIFRESH EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": "20"
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2024-02-01",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "618"
+          },
+          {
+            "UCVA": "612"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;H/O COVID 19;Hyperlipidemia;Hypertension;Identification Marks;Non-Ocular Sx;Other Allergies;Others;Remarks;TB;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal;Concretions-Upper palpebral conjunctiva,Papillae",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear;PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "Dot and blot Hg in 4 quad, CWS"
+        ],
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "18",
+          "20"
+        ]
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2024-11-09",
+      "c": "F2",
+      "diag": [
+        "",
+        "",
+        [
+          "Pseudophakia × 1",
+          "Severe nonproliferative diabetic retinopathy × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "69"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light;Pharmacologically Dilated",
+        "lens": "Clear;PCIOL"
+      },
+      "op": {
+        "ref": "BE - DME"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Dot n blot hgs,Hard exudates in periphery and posterior pole",
+        "mf": [
+          "Present",
+          "Absent-Hgs,HE,CSME"
+        ]
+      },
+      "inv": {
+        "iop": "19",
+        "sp": {
+          "r": "HRA - Macular edema with sub foveal detachment with hard exudates, Foveal Thickness - 343M.,HRA - Macular edema with hard exudates, Foveal Thickness - 263M.",
+          "e": [
+            "343M",
+            "263M"
+          ]
+        }
+      }
+    },
+    {
+      "v": 4,
+      "d": "2024-11-12",
+      "c": "F3",
+      "diag": [
+        "",
+        "",
+        [
+          "Pseudophakia × 1",
+          "Severe nonproliferative diabetic retinopathy × 1",
+          "Diabetic macular edema × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "None": "624"
+          },
+          {
+            "None": "612"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "op": {
+        "ref": "BE - DME"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Dot n blot hgs,Hard exudates",
+        "mf": [
+          "DME, NSD,Hard exudates",
+          "DME, PARAFOVEAL"
+        ],
+        "rem": "Severe npdr , DME"
+      },
+      "m": [
+        {
+          "name": "MICRONAC PF - EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "d": "2024-11-27",
+      "c": "F4",
+      "diag": [
+        "",
+        "",
+        [
+          "Diabetic macular edema × 1",
+          "Pseudophakia × 1",
+          "Severe nonproliferative diabetic retinopathy × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "Tricort"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Dot n blot hgs,Hard exudates",
+        "mf": [
+          "DME, NSD,Hard exudates",
+          "DME, PARAFOVEAL"
+        ],
+        "rem": "Severe npdr , DME"
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "20"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2024-12-28",
+      "c": "F5",
+      "vi": {
+        "vis": [
+          {
+            "None": "624"
+          },
+          {
+            "None": "618"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "PCIOL"
+      },
+      "op": {
+        "ref": "RE High IOP s/p IVTA -Steroid responder"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "inv": {
+        "iop": [
+          "26",
+          "18"
+        ],
+        "sp": {
+          "r": "HRA - Resolving Macular edema with No sub foveal detachment with hard exudates, Foveal Thickness - 242M.,HRA -Increasing Macular edema with hard exudates, Foveal Thickness - 294M.",
+          "e": [
+            "242M",
+            "294M"
+          ]
+        }
+      }
+    },
+    {
+      "v": 7,
+      "d": "2025-01-03",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "Diabetic macular edema × 1",
+          "Pseudophakia × 1",
+          "Severe nonproliferative diabetic retinopathy × 1",
+          "Secondary glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "69"
+          },
+          {
+            "None": "66"
+          }
+        ]
+      },
+      "as": {
+        "rem": "No NVI in dilated state"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light;Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.6-0.7",
+          "Normal"
+        ],
+        "ve": "Dilated",
+        "br": [
+          "Dot n blot hgs,Hard exudates",
+          "Haemorrhage-Dot & blot,Hard exudates"
+        ],
+        "mf": [
+          "DME, NSD,Hard exudates",
+          "DME, PARAFOVEAL"
+        ],
+        "rem": "Severe npdr , DME"
+      },
+      "m": [
+        {
+          "name": "BriTiGan",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "NEPAWEL EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "30",
+          "20"
+        ]
+      }
+    },
+    {
+      "v": 8,
+      "d": "2025-02-04",
+      "c": "F7",
+      "diag": [
+        "",
+        "",
+        [
+          "Secondary glaucoma × 1",
+          "Diabetic macular edema × 1",
+          "Pseudophakia × 1",
+          "Severe nonproliferative diabetic retinopathy × 1",
+          "Glaucoma suspect × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "618",
+            "With Spectacles": "66"
+          },
+          {
+            "UCVA": "612",
+            "With Spectacles": "66"
+          }
+        ]
+      },
+      "as": {
+        "rem": "No NVI in dilated state"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "op": {
+        "ref": "REVIEW"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Iinferior IVTA",
+          "Clear"
+        ],
+        "di": "cup disc ratio-0.65-0.7",
+        "ve": "Dilated",
+        "br": "Haemorrhage-Dot & blot,Hard exudates",
+        "mf": [
+          "Resolving DMEHard exudates",
+          "DME parafoveal"
+        ],
+        "rem": [
+          "Severe NPDR , DME s/p IVTA",
+          "Severe NPDR , DME"
+        ]
+      },
+      "m": [
+        {
+          "name": "BriTiGan",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "NEPAWEL EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "13",
+          "16"
+        ],
+        "sp": {
+          "r": "RNFL Normal Study,RNFL Normal Study,done,done,HRA - Persisting Macular edema with No sub foveal detachment with hard exudates, PVD+, Foveal Thickness - 242M.,HRA -Increasing Macular edema with hard exudates, PVD+, Foveal Thickness -370M.",
+          "e": [
+            "242M",
+            "370M"
+          ]
+        }
+      }
+    },
+    {
+      "v": 9,
+      "d": "2025-03-19",
+      "c": "F8",
+      "diag": [
+        "",
+        "",
+        [
+          "Secondary glaucoma × 1",
+          "Glaucoma suspect × 1",
+          "Diabetic macular edema × 1",
+          "Pseudophakia × 1",
+          "Severe nonproliferative diabetic retinopathy × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA With PH": "66",
+            "UCVA": "618",
+            "With Spectacles": "66"
+          },
+          {
+            "UCVA With PH": "66",
+            "UCVA": "612",
+            "With Spectacles": "66"
+          }
+        ]
+      },
+      "as": {
+        "rem": "No NVI in dilated state"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "cup disc ratio-0.65-0.7",
+        "ve": "Dilated",
+        "br": "Haemorrhage-Dot & blot,Hard exudates",
+        "mf": [
+          "Increasing parafoveal DME, Hard exudates",
+          "DME, NSD on OCT"
+        ],
+        "rem": [
+          "Severe NPDR , DME s/p IVTA",
+          "Severe NPDR , DME"
+        ]
+      },
+      "m": [
+        {
+          "name": "AMPLINAK EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": "20",
+        "sp": {
+          "r": "HRA - Persisting Macular edema with No sub foveal detachment with hard exudates, PVD+, Foveal Thickness - 242M.,HRA -Increasing Macular edema with sub foveal detachment with hard exudates, PVD+, Foveal Thickness -385M.",
+          "e": [
+            "242M",
+            "385M"
+          ]
+        }
+      }
+    },
+    {
+      "v": 10,
+      "d": "2025-04-19",
+      "c": "F9",
+      "diag": [
+        "",
+        "",
+        [
+          "Secondary glaucoma × 1",
+          "Glaucoma suspect × 1",
+          "Diabetic macular edema × 1",
+          "Pseudophakia × 1",
+          "Severe nonproliferative diabetic retinopathy × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": {
+          "With Spectacles": "66",
+          "UCVA": "612",
+          "UCVA With PH": "66"
+        }
+      },
+      "as": {
+        "rem": "No NVI in dilated state"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "cup disc ratio-0.65-0.7",
+        "ve": "Dilated",
+        "br": "Haemorrhage-Dot & blot,Hard exudates",
+        "mf": "Increasing DME, Hard exudates",
+        "rem": [
+          "Severe NPDR , DME s/p IVTA",
+          "Severe NPDR , DME"
+        ]
+      },
+      "m": [
+        {
+          "name": "NEXT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": "Afternoon Only"
+        },
+        {
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Afternoon Only"
+        }
+      ],
+      "inv": {
+        "iop": "20",
+        "sp": {
+          "r": "HRA -Increasing Macular edema with sub foveal detachment with hard exudates, PVD+, Foveal Thickness -489M.,HRA - Increasing Macular edema with No sub foveal detachment with hard exudates, PVD+, Foveal Thickness - 307M.,FP Done Eidon,FP Done Eidon",
+          "e": [
+            "489M",
+            "307M"
+          ]
+        }
+      }
+    },
+    {
+      "v": 11,
+      "d": "2025-05-22",
+      "c": "F10",
+      "diag": [
+        "",
+        "",
+        [
+          "Secondary glaucoma × 1",
+          "Glaucoma suspect × 1",
+          "Diabetic macular edema × 1",
+          "Pseudophakia × 1",
+          "Severe nonproliferative diabetic retinopathy × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": {
+          "With Spectacles": "66",
+          "UCVA": "612"
+        }
+      },
+      "as": {
+        "rem": "No NVI in dilated state"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "cup disc ratio-0.65-0.7",
+        "ve": "Dilated",
+        "br": "Haemorrhage-Dot & blot,Hard exudates",
+        "mf": "Increasing DME, Hard exudates",
+        "rem": [
+          "Severe NPDR , DME s/p IVTA",
+          "Severe NPDR , DME"
+        ]
+      },
+      "m": [
+        {
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Afternoon Only"
+        },
+        {
+          "name": "NEXT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": "20",
+        "sp": {
+          "r": "HRA -Increasing Macular edema with sub foveal detachment with hard exudates, PVD+, Foveal Thickness -577M.,HRA - Increasing Macular edema with  sub foveal detachment with hard exudates, PVD+, Foveal Thickness - 396M.,FP Done Eidon,FP Done Eidon",
+          "e": [
+            "577M",
+            "396M"
+          ]
+        }
+      }
+    },
+    {
+      "v": 12,
+      "d": "2025-05-28",
+      "c": "F11",
+      "diag": [
+        "",
+        "",
+        [
+          "Secondary glaucoma × 1",
+          "Glaucoma suspect × 1",
+          "Diabetic macular edema × 1",
+          "Pseudophakia × 1",
+          "Severe nonproliferative diabetic retinopathy × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "Avastin"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "as": {
+        "rem": "No NVI in dilated state"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "cup disc ratio-0.65-0.7",
+        "ve": "Dilated",
+        "br": "Haemorrhage-Dot & blot,Hard exudates",
+        "mf": "Increasing DME, Hard exudates",
+        "rem": [
+          "Severe NPDR , DME s/p IVTA",
+          "Severe NPDR , DME"
+        ]
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "15"
+      }
+    },
+    {
+      "v": 13,
+      "d": "2025-06-05",
+      "c": "F12",
+      "diag": [
+        "",
+        "",
+        [
+          "Secondary glaucoma × 1",
+          "Glaucoma suspect × 1",
+          "Diabetic macular edema × 1",
+          "Pseudophakia × 1",
+          "Severe nonproliferative diabetic retinopathy × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            "No RE procedure"
+          ],
+          [
+            [
+              "Avastin"
+            ]
+          ]
+        ]
+      },
+      "as": {
+        "rem": "No NVI in dilated state"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "cup disc ratio-0.65-0.7",
+        "ve": "Dilated",
+        "br": "Haemorrhage-Dot & blot,Hard exudates",
+        "mf": "Increasing DME, Hard exudates",
+        "rem": [
+          "Severe NPDR , DME s/p IVTA",
+          "Severe NPDR , DME"
+        ]
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 6
+        }
+      ],
+      "inv": {
+        "iop": "18"
+      }
+    },
+    {
+      "v": 14,
+      "d": "2025-07-14",
+      "c": "F13",
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "HRA - Resolving Macular edema with sub foveal detachment with hard exudates, PVD+, Foveal Thickness - 275M.;HRA - Resolving Macular edema with sub foveal detachment with hard exudates, PVD+, Foveal Thickness -383M.",
+          "e": [
+            "275M",
+            "383M"
+          ]
+        }
+      }
+    }
+  ]
+}

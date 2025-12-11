@@ -1,0 +1,900 @@
+{
+  "p": {
+    "uid": "0018851656",
+    "mr": "P2912860",
+    "v": 15,
+    "f": "2022-08-13",
+    "l": "2023-06-09"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-08-13",
+      "c": "Initial",
+      "diag": [
+        [
+          "Nuclear Cataract/Brown Cataract × 1"
+        ],
+        "",
+        [
+          "IMC × 1",
+          "ARMD × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "612P"
+          },
+          {
+            "UCVA": "560"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-0.75",
+            "ax": "0",
+            "va": "69P",
+            "ucva": "612P"
+          },
+          {
+            "ax": "0",
+            "va": "560",
+            "ucva": "560"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "2.5"
+          },
+          {
+            "sph": "2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Poorly dilating pupil, 4mm",
+        "lens": [
+          "NS4",
+          "NS2-3"
+        ]
+      },
+      "op": {
+        "ref": "Fundus s/o ARMD, Planned for cataract surgery"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Hazy, disc hazily seen",
+          "Hazy, disc hazily seen, Macular drusen +"
+        ],
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "drusen, ? SRF",
+          "rpe degeneration, SRF"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "14",
+          "15"
+        ],
+        "sp": {
+          "r": "HRA DONE,HRA DONE"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-08-15",
+      "c": "F1"
+    },
+    {
+      "v": 3,
+      "d": "2022-08-20",
+      "c": "F2",
+      "m": [
+        {
+          "name": "DEXA 7.5 ML",
+          "eye": "1",
+          "fre": 6,
+          "dur": 2,
+          "med_start": "21/08/2022",
+          "med_end": "22/08/2022"
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "eye": "1",
+          "fre": 4,
+          "dur": 5,
+          "med_start": "23/08/2022",
+          "med_end": "27/08/2022"
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "eye": "1",
+          "fre": 3,
+          "dur": 5,
+          "med_start": "28/08/2022",
+          "med_end": "01/09/2022"
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "eye": "1",
+          "fre": 2,
+          "dur": 7,
+          "med_start": "02/09/2022",
+          "med_end": "08/09/2022"
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "eye": "1",
+          "fre": 1,
+          "dur": 7,
+          "med_start": "09/09/2022",
+          "med_end": "15/09/2022"
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "1",
+          "fre": 3,
+          "dur": 7,
+          "med_start": "21/08/2022",
+          "med_end": "27/08/2022"
+        },
+        {
+          "name": "NEPAWEL EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3,
+          "dur": 30,
+          "med_start": "21/08/2022",
+          "med_end": "19/09/2022"
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "23 days"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2022-08-21",
+      "c": "F3",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "IMC × 1"
+        ],
+        [
+          "ARMD × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "660",
+            "UCVA With PH": "636"
+          },
+          {
+            "UCVA": "560"
+          }
+        ]
+      },
+      "m": [
+        {
+          "name": "HYPERSOL-5 DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4,
+          "dur": 1,
+          "med_start": "19/5/2023",
+          "med_end": "19/5/2023"
+        }
+      ],
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2022-09-03",
+      "c": "F4",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "IMC × 1"
+        ],
+        [
+          "ARMD × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69"
+          },
+          {
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Poorly dilating pupil, 4mm",
+        "lens": [
+          "PCIOL",
+          "NS2-3"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Hazy, disc hazily seen",
+          "Hazy, disc hazily seen, Macular drusen +"
+        ],
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "drusen, ? SRF",
+          "rpe degeneration, SRF"
+        ]
+      },
+      "inv": {
+        "iop": "13"
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2022-09-17",
+      "c": "F5",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "IMC × 1"
+        ],
+        [
+          "ARMD × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "612",
+            "Glasses": "66"
+          },
+          {
+            "UCVA": "560",
+            "Glasses": "560"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "PCIOL",
+          "NS2-3"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "drusen, SRF",
+          "SRF RPE degen"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "11",
+          "12"
+        ],
+        "sp": {
+          "r": "HRA done,HRA done,"
+        }
+      },
+      "fup": {
+        "adv": "Whenever Required"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2022-09-19",
+      "c": "F6",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "IMC × 1"
+        ],
+        [
+          "ARMD × 1",
+          "NPDR Moderate × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "Green"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "PCIOL",
+          "NS2-3"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "drusen, SRF",
+          "SRF RPE degen"
+        ]
+      },
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "HRA done,HRA done"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2022-10-20",
+      "c": "F7",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "IMC × 1"
+        ],
+        [
+          "ARMD × 1",
+          "NPDR Moderate × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "612",
+            "Glasses": "69"
+          },
+          {
+            "UCVA": "560",
+            "Glasses": "560"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "PCIOL",
+          "NS2-3"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "DOT HGES, / CWS",
+        "mf": [
+          "drusen",
+          "RPE degen"
+        ]
+      },
+      "m": [
+        {
+          "name": "MACUMER TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only",
+          "dur": 60,
+          "med_start": "20/10/2022",
+          "med_end": "18/12/2022"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "15",
+          "13"
+        ],
+        "sp": {
+          "r": "HRA DONE,HRA DONE"
+        }
+      },
+      "fup": {
+        "adv": "2 months"
+      }
+    },
+    {
+      "v": 9,
+      "d": "2023-02-24",
+      "c": "F8",
+      "inv": {
+        "sp": {
+          "r": "HRA done"
+        }
+      }
+    },
+    {
+      "v": 10,
+      "d": "2023-02-25",
+      "c": "F9",
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "PCIOL",
+          "NS2-3"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "MACUMER TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only"
+        }
+      ],
+      "inv": {
+        "sp": {
+          "r": "HRA done,HRA done"
+        }
+      }
+    },
+    {
+      "v": 11,
+      "d": "2023-02-27",
+      "c": "F10",
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "PCIOL",
+          "NS2-3"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      }
+    },
+    {
+      "v": 12,
+      "d": "2023-05-13",
+      "c": "F11",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "IMC × 1"
+        ],
+        [
+          "ARMD × 1",
+          "NPDR Moderate × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69"
+          },
+          {
+            "UCVA": "560"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66",
+            "ucva": "69"
+          },
+          {
+            "ax": "0",
+            "va": "560",
+            "ucva": "560"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "2.5"
+          },
+          {
+            "sph": "2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "PCIOL",
+          "NS2-3"
+        ]
+      },
+      "op": {
+        "ref": "LEPHACO with DECIDE AFTER A-SCAN",
+        "rem": "BASIC PACKAGE"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "DOT HGES, / CWS",
+        "mf": [
+          "drusen",
+          "RPE degen"
+        ]
+      },
+      "m": [
+        {
+          "name": "I-SITE AF",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "15",
+          "18"
+        ],
+        "sp": {
+          "r": "HRA done,HRA done,HRA done,HRA done"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 13,
+      "d": "2023-05-19",
+      "c": "F12",
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69"
+          },
+          {
+            "UCVA": "636"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "66",
+            "ucva": "69"
+          },
+          {
+            "ax": "0",
+            "va": "636",
+            "ucva": "636"
+          }
+        ],
+        "nr": [
+          {},
+          {
+            "sph": "2.5"
+          }
+        ]
+      },
+      "m": [
+        {
+          "name": "DEXA 7.5 ML",
+          "eye": "2",
+          "fre": 6
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "eye": "2",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "NEPAWEL EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        }
+      ],
+      "fup": {
+        "adv": "21 days"
+      }
+    },
+    {
+      "v": 14,
+      "d": "2023-05-20",
+      "c": "F13",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "ARMD × 1",
+          "NPDR Moderate × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69"
+          },
+          {
+            "UCVA": "636"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "69",
+            "ucva": "69"
+          },
+          {
+            "ax": "0",
+            "va": "636",
+            "ucva": "636"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "2.5"
+          },
+          {
+            "sph": "2.5"
+          }
+        ]
+      },
+      "fup": {
+        "adv": "3 weeks"
+      }
+    },
+    {
+      "v": 15,
+      "d": "2023-06-09",
+      "c": "F14",
+      "diag": [
+        "",
+        "",
+        [
+          "ARMD × 1",
+          "NPDR Moderate × 1",
+          "PCIOL × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69",
+            "Glasses": "66"
+          },
+          {
+            "UCVA": "624P",
+            "Glasses": "624P"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "130",
+            "va": "66",
+            "ucva": "69"
+          },
+          {
+            "va": "624P",
+            "ucva": "624P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "#ERROR!",
+            "ax": "130"
+          },
+          {
+            "sph": "#ERROR!"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Quiet"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "op": {
+        "ref": "LE  post iolsx/ BE  chronic cscr"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "DOT HGES, / CWS",
+        "mf": [
+          "drusen",
+          "RPE degen, /scar"
+        ]
+      },
+      "m": [
+        {
+          "name": "OPTIGOLD TABLET",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "10",
+          "12"
+        ]
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    }
+  ]
+}

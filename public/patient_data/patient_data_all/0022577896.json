@@ -1,0 +1,801 @@
+{
+  "p": {
+    "uid": "0022577896",
+    "mr": "P5912523",
+    "v": 9,
+    "f": "2024-10-16",
+    "l": "2025-03-29"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2024-10-16",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "ICE (irido-corneo-endothelial) syndrome × 1",
+          "Secondary glaucoma × 1",
+          "Normal × 1",
+          "Cogan-Reese syndrome × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "s": {
+        "h": "GIT;Renal;RS;Diabetes;Hypertension;Cardiac;Asthma;Other Allergies;Non-Ocular Sx;Others;TB;Hyperlipidemia;Drug Allergies;Remarks;Identification Marks;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "Normal Color and Pattern;defect inferotemporally",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light;5mm, SRTL",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "Clear"
+      },
+      "op": {
+        "ref": "To document specular microscopy and opinion before RE AADI Implantation"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.7",
+          "CDR 0.5"
+        ],
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.6",
+          "Normal"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "ALPRAX 0.25 TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Night Only"
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 8
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only"
+        },
+        {
+          "name": "IOPAR-SR CAP",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "28",
+          "14"
+        ],
+        "sp": {
+          "r": "done,done;No Data;DONE,DONE"
+        }
+      },
+      "fup": {
+        "adv": "Whenever Required"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2024-11-02",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "Cogan-Reese syndrome × 1",
+          "ICE (irido-corneo-endothelial) syndrome × 1",
+          "Secondary glaucoma × 1",
+          "Normal × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "at": {
+        "ac": [
+          "Variable depth. PAS from 5 to 6 o clock.",
+          "Normal Depth"
+        ],
+        "ir": [
+          "defect inferotemporally",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "5mm, SRTL",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "Clear"
+      },
+      "op": {
+        "ref": "RE AADI Implantation",
+        "rem": "BE baseline specular microscopy done and clearance for AADI given by MRD Sir last visit.;iv manitol"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.7",
+          "CDR 0.5"
+        ]
+      },
+      "m": [
+        {
+          "name": "ALPRAX 0.25 TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Night Only"
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 8
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "10"
+        ],
+        "sp": {
+          "r": "Done,Done;RNFL & GCC Normal Study,RNFL Normal Study  GCC Not Clear;t wave changes+"
+        }
+      }
+    },
+    {
+      "v": 3,
+      "d": "2024-11-06",
+      "c": "F2",
+      "diag": [
+        "",
+        "",
+        [
+          "Cogan-Reese syndrome × 1",
+          "ICE (irido-corneo-endothelial) syndrome × 1",
+          "Secondary glaucoma × 1",
+          "Normal × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "618"
+          },
+          {
+            "None": "66"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "well formed, aadi tube at 11 o clk not touching iris or endotheilum",
+          "Normal Depth"
+        ],
+        "ir": [
+          "defect inferotemporally",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "STQ aadi plate, swa;STQ aadi plate;STQ aadi plate, with supramid in situ",
+          "Normal"
+        ],
+        "pu": [
+          "5mm, SRTL;Pharmacologically Dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "Clear"
+      },
+      "op": {
+        "ref": "RE AADI Implantation",
+        "rem": "IV MANITOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.7",
+          "CDR 0.5"
+        ],
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.65",
+          "cup disc ratio-0.5"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "TOBAREN-DM EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "TOBAREN-DM EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "IOPAR-SR CAP",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "TOBAREN-DM EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "IOPAR-SR CAP",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "PYRIGESIC TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": "Night Only"
+        },
+        {
+          "dos": "100   ml",
+          "eye": "5"
+        },
+        {
+          "name": "TOBAREN-DM EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "Trisopt eye drops",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "36",
+          "Not Measurable"
+        ]
+      }
+    },
+    {
+      "v": 4,
+      "d": "2024-11-27",
+      "c": "F3",
+      "diag": [
+        "",
+        "",
+        [
+          "Cogan-Reese syndrome × 1",
+          "ICE (irido-corneo-endothelial) syndrome × 1",
+          "Secondary glaucoma × 1",
+          "Normal × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "69"
+          },
+          {
+            "None": "66"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "well formed, aadi tube at 11 o clk not touching iris or endotheilum",
+          "Normal Depth"
+        ],
+        "ir": [
+          "defect inferotemporally",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "STQ aadi plate, with supralon suture exposure at the tip",
+          "Normal"
+        ],
+        "pu": [
+          "Pharmacologically Dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.65",
+          "cup disc ratio-0.5"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "IOPAR-SR CAP",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only"
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "34",
+          "12"
+        ]
+      }
+    },
+    {
+      "v": 5,
+      "d": "2024-12-18",
+      "c": "F4",
+      "diag": [
+        "",
+        "",
+        [
+          "Cogan-Reese syndrome × 1",
+          "ICE (irido-corneo-endothelial) syndrome × 1",
+          "Secondary glaucoma × 1",
+          "Normal × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "69"
+          },
+          {
+            "None": "66"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "well formed, aadi tube at 11 o clk not touching iris or endotheilum",
+          "Normal Depth"
+        ],
+        "ir": [
+          "defect inferotemporally",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "STQ aadi plate, with supralon suture - no exposure",
+          "Normal"
+        ],
+        "pu": [
+          "Pharmacologically Dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.65",
+          "cup disc ratio-0.5"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "34",
+          "12"
+        ]
+      }
+    },
+    {
+      "v": 6,
+      "d": "2025-01-08",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "Cogan-Reese syndrome × 1",
+          "ICE (irido-corneo-endothelial) syndrome × 1",
+          "Secondary glaucoma × 1",
+          "Normal × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "at": {
+        "ac": [
+          "well formed, aadi tube at 11 o clk not touching iris or endotheilum",
+          "Normal Depth"
+        ],
+        "ir": [
+          "polycoria inferiorly",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "STQ aadi plate, with supralon suture - no exposure",
+          "Normal"
+        ],
+        "pu": "Pharmacologically Dilated",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.65",
+          "cup disc ratio-0.5"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "42",
+          "12"
+        ]
+      }
+    },
+    {
+      "v": 7,
+      "d": "2025-01-22",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "Cogan-Reese syndrome × 2",
+          "ICE (irido-corneo-endothelial) syndrome × 2",
+          "Secondary glaucoma × 2",
+          "Normal × 2"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "as": {
+        "rem": [
+          "s/p supramid removal",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "well formed, aadi tube at 11 o clk not touching iris or endotheilum",
+          "Normal Depth"
+        ],
+        "ir": [
+          "polycoria inferiorly",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "STQ aadi plate, with supralon suture - no exposure;STQ aadi plate",
+          "Normal"
+        ],
+        "pu": "Pharmacologically Dilated",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.65",
+          "cup disc ratio-0.5"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "LOPRES 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "IOPAR-SR CAP",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "TOBAREN-DM EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "TOBAREN-DM EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "TOBAREN-DM EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "48",
+          "14"
+        ]
+      }
+    },
+    {
+      "v": 8,
+      "d": "2025-02-15",
+      "c": "F7",
+      "diag": [
+        "",
+        "",
+        [
+          "Cogan-Reese syndrome × 1",
+          "ICE (irido-corneo-endothelial) syndrome × 1",
+          "Secondary glaucoma × 2",
+          "Normal × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69"
+          },
+          {
+            "UCVA": "66"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "s/p supramid removal",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "well formed, aadi tube at 11 o clk not touching iris or endotheilum",
+          "Normal Depth"
+        ],
+        "ir": [
+          "polycoria inferiorly",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "STQ aadi plate",
+          "Normal"
+        ],
+        "pu": "Pharmacologically Dilated",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.65",
+          "cup disc ratio-0.5"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "MISOPT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "28",
+          "13"
+        ]
+      }
+    },
+    {
+      "v": 9,
+      "d": "2025-03-29",
+      "c": "F8",
+      "diag": [
+        "",
+        "",
+        [
+          "Cogan-Reese syndrome × 1",
+          "ICE (irido-corneo-endothelial) syndrome × 1",
+          "Secondary glaucoma × 1",
+          "Normal × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69",
+            "UCVA With PH": "66"
+          },
+          {
+            "UCVA": "66",
+            "UCVA With PH": "66"
+          }
+        ]
+      },
+      "s": {
+        "h": "Others;TB;Asthma;Non-Ocular Sx;Remarks;RS;Diabetes;Other Allergies;Cardiac;Lungs Problem;Hyperlipidemia;GIT;Rheumatoid Arthritis;History of Malignancy;Hypertension;Thyroid Status;Identification Marks;Stroke/Neuro;Liver Disease;Drug Allergies;Renal Disease"
+      },
+      "as": {
+        "rem": [
+          "s/p supramid removal",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "well formed, aadi tube at 11 o clk not touching iris or endotheilum",
+          "Normal Depth"
+        ],
+        "ir": [
+          "polycoria inferiorly",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "STQ aadi plate",
+          "Normal"
+        ],
+        "pu": "Pharmacologically Dilated",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.65",
+          "cup disc ratio-0.5"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "16",
+          "14"
+        ]
+      }
+    }
+  ]
+}

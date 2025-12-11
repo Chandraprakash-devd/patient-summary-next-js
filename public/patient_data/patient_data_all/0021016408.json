@@ -1,0 +1,1417 @@
+{
+  "p": {
+    "uid": "0021016408",
+    "mr": "F164650",
+    "v": 14,
+    "f": "2023-11-03",
+    "l": "2024-10-29"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2023-11-03",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "Blunt injury of eye × 1",
+          "Subluxation of lens × 1",
+          "Normal × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "636"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0"
+          },
+          {
+            "sph": "-2.5",
+            "ax": "0",
+            "va": "66P",
+            "ucva": "636"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+1.25"
+          },
+          {
+            "sph": "+1.25"
+          }
+        ]
+      },
+      "s": {
+        "h": "Diabetes;Hypertension;Cardiac;Asthma;Other Allergies;Non-Ocular Sx;Others;Hyperlipidemia;Drug Allergies;Remarks;Identification Marks;Thyroid"
+      },
+      "as": {
+        "rem": [
+          "S/P LID TEAR  REPAIR",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth;FLARE;Irregular depth,Subluxated lens in AC, Cells3+,Flare1+,Vitreous in AC",
+          "Normal Depth"
+        ],
+        "ir": [
+          "Normal Color and Pattern;IRREGULAR;Iridodialysis from 12'o clk to 5'o clk",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light;? Pharmacologically Dilated;Dilated,?Traumatic mydriasis",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Clear;?SUBLUXATED NASALLY;SUBLUXATED NASALLY",
+          "Clear"
+        ]
+      },
+      "op": {
+        "ref": "RE-Anterior subluxated lens -Kindly opine;RE-Post traumatic high IOP, Anterior subluxated lens-Kindly opine",
+        "rem": "H/O Blunt trauma RE;Pt is on AGM RE(Timolol e/d BD)"
+      },
+      "om": {
+        "om": "FULL;RESTRICTED;Limited,except depression",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Hazy;Hazily seen -Disc app N",
+          "Disc-N"
+        ],
+        "me": [
+          "not visualised",
+          "Clear"
+        ],
+        "di": [
+          "",
+          "Normal"
+        ],
+        "ve": [
+          "",
+          "Normal"
+        ],
+        "br": [
+          "",
+          "Normal"
+        ],
+        "mf": [
+          "not visualised",
+          "Present"
+        ]
+      },
+      "m": [
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTAKIND 40 MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "B2 DOC -EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "TIMOBEST EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "53",
+          "16"
+        ],
+        "sp": {
+          "r": "Comments : RE- ? Dislocated lens in AVF .Disc cupping with  Mild  dot echos .AXL-24.36mm.RCS complex is 1.02mm.No e/o RD or CD"
+        }
+      },
+      "fup": {
+        "adv": "6 days"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2023-11-09",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "Blunt injury of eye × 1",
+          "Subluxation of lens × 1",
+          "Normal × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "636",
+            "UCVA With PH": "66P"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "S/P LID TEAR  REPAIR",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular depth,Subluxated lens in AC, Cells3+,Flare1+,Vitreous in AC;Irregular depth,Subluxated lens in AC, Cells1+,Flare1+,Vitreous in AC",
+          "Normal Depth"
+        ],
+        "ir": [
+          "Iridodialysis from 12'o clk to 5'o clk",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "Dilated,?Traumatic mydriasis",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "SUBLUXATED NASALLY",
+          "Clear"
+        ]
+      },
+      "op": {
+        "ref": "RE Avastin IntraVit Inj;RE- traumatic subluxated cataract nasally, Opine ragarding lens removal and PPV"
+      },
+      "om": {
+        "om": "Limited,except depression",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Hazily seen -Disc app N",
+          "Disc-N"
+        ],
+        "me": [
+          "Hazy-Corneal Edema,SUBLUXATED CATARACTOUS LENS NASALLY",
+          "Clear"
+        ],
+        "di": [
+          "cdr app to be 0.4",
+          "cup disc ratio-0.5"
+        ],
+        "ve": [
+          "not visualised",
+          "Normal"
+        ],
+        "br": [
+          "retina on",
+          "Normal"
+        ],
+        "mf": [
+          "not visualised",
+          "Present"
+        ]
+      },
+      "m": [
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6
+        }
+      ],
+      "inv": {
+        "iop": [
+          "34",
+          "14"
+        ],
+        "sp": {
+          "r": ","
+        }
+      }
+    },
+    {
+      "v": 3,
+      "d": "2023-11-17",
+      "c": "F2",
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "636",
+            "UCVA With PH": "66P"
+          }
+        ]
+      },
+      "op": {
+        "ref": "RE Avastin IntraVit Inj"
+      },
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": ",done,"
+        }
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-11-20",
+      "c": "F3",
+      "pr": {
+        "act": [
+          [
+            [
+              "Avastin"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "160",
+            "UCVA With PH": "160"
+          },
+          {
+            "UCVA": "636",
+            "UCVA With PH": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "S/P LID TEAR  REPAIR",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular depth,Subluxated lens in AC, Cells1+,Flare1+,Vitreous in AC",
+          "Normal Depth"
+        ],
+        "ir": [
+          "Iridodialysis from 12'o clk to 5'o clk",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "Dilated,?Traumatic mydriasis",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "SUBLUXATED NASALLY",
+          "Clear"
+        ]
+      },
+      "om": {
+        "om": "Limited,except depression",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Hazily seen -Disc app N",
+          "Disc-N"
+        ],
+        "me": [
+          "Hazy-Corneal Edema,SUBLUXATED CATARACTOUS LENS NASALLY",
+          "Clear"
+        ],
+        "di": [
+          "cdr app to be 0.4",
+          "cup disc ratio-0.5"
+        ],
+        "ve": "Normal",
+        "br": [
+          "retina Appears on",
+          "Normal"
+        ],
+        "mf": [
+          "DULL",
+          "Present"
+        ]
+      },
+      "m": [
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "52",
+          "14"
+        ]
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2023-12-08",
+      "c": "F4",
+      "diag": [
+        "",
+        "",
+        [
+          "Subluxation of lens × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "636P"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0"
+          },
+          {
+            "sph": "-2.5",
+            "ax": "0",
+            "va": "66P",
+            "ucva": "636P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+1.00"
+          },
+          {
+            "sph": "+1.00"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular depth,Subluxated lens in AC, Cells1+,Flare1+,Vitreous in AC;Irregular depth,Subluxated lens in AC, Cells2+,Flare1+,Vitreous in AC",
+          "Normal Depth"
+        ],
+        "ir": [
+          "Iridodialysis from 12'o clk to 5'o clk",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "Dilated,?Traumatic mydriasis;Traumatic mydriasis",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "SUBLUXATED NASALLY",
+          "Clear"
+        ]
+      },
+      "op": {
+        "ref": "RE REVIEW;RE Parsplana Lensectomy (PPL) +  Parsplana Vitrectomy (PPV)"
+      },
+      "om": {
+        "om": "Limited,except depression",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Corneal Edema,SUBLUXATED CATARACTOUS LENS NASALLY",
+          "Clear"
+        ],
+        "di": [
+          "cdr app to be 0.4",
+          "cup disc ratio-0.5"
+        ],
+        "ve": "Normal",
+        "br": [
+          "Retina Appears on",
+          "Normal"
+        ],
+        "mf": [
+          "DULL",
+          "Present"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "52",
+          "17"
+        ],
+        "sp": {
+          "r": "Comments;RE-  Dislocated lens in vitreous . Mild dot vit echoes. AXL- 22.79mm & ON normal. RCS Complex is 1.19mm. no e/o RD or CD.,DONE,DONE,DONE,Comments;RE-  Dislocated lens in vitreous . Mild dot vit echoes. AXL- 22.79mm & ON normal. RCS Complex is 1.19mm. no e/o RD or CD.,done"
+        }
+      }
+    },
+    {
+      "v": 6,
+      "d": "2024-02-12",
+      "c": "F5",
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "HM",
+            "UCVA With PH": "HM"
+          },
+          {
+            "UCVA": "636P",
+            "UCVA With PH": "69"
+          }
+        ]
+      },
+      "op": {
+        "ref": "RE Parsplana Lensectomy (PPL) +  Parsplana Vitrectomy (PPV)"
+      },
+      "m": [
+        {
+          "name": "CILACAR5MG",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2024-02-27",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "Subluxation of lens × 1",
+          "Corneal haze × 1",
+          "Iris neovascularization × 1",
+          "Traumatic glaucoma × 1",
+          "Traumatic iridodialysis × 1",
+          "Traumatic subluxation of lens × 1",
+          "Ametropia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "HM",
+            "UCVA With PH": "HM"
+          },
+          {
+            "UCVA": "636",
+            "UCVA With PH": "69"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular depth,Subluxated lens in AC, Cells2+,Flare1+,Vitreous in AC;Normal Depth,CELLS 3+,FLARE 1+;Normal Depth,CELLS 3+, FLARE 1+",
+          "Normal Depth"
+        ],
+        "ir": [
+          "Iridodialysis from 12'o clk to 5'o clk;IRIS EXCISION DONE NASALLY FROM 12 O'CLOCK TO 5 O'CLOCK;PRE-EXISTING IRIDODIALYSIS NASALLY, IRIS EXCISION DONE NASALLY FROM 12 O'CLOCK TO 5 O'CLOCK;PRE-EXISTING IRIDODIALYSIS NASALLY, IRIS EXCISION DONE FROM 12 O'CLOCK TO 5 O'CLOCK;PRE-EXISTING IRIDODIALYSIS NASALLY, IRIS EXCISION DONE FROM 12 O'CLOCK TO 5 O'CLOCK, Blood clot over Iris Temporally",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "Normal;CONGESTION,SUTURES IN PLACE;CONGESTION, SUTURES IN PLACE",
+          "Normal"
+        ],
+        "pu": [
+          "Traumatic mydriasis;Pharmacologically Dilated",
+          "Normal Size and Reaction to Light;Pharmacologically Dilated"
+        ],
+        "lens": [
+          "SUBLUXATED NASALLY;SFIOL,? PC REMAINAT BEHIND IOL;SFIOL, INFLAMMATORY FIBRINOUS STRANDS BEHIND IOL",
+          "Clear"
+        ]
+      },
+      "op": {
+        "ref": "RE Parsplana Lensectomy (PPL) +  Parsplana Vitrectomy (PPV)",
+        "rem": "IV. Manitol,"
+      },
+      "om": {
+        "om": "Limited,except depression;Limited, except depression",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "MILD DISPERSED VCH, INFLAMMATORY STRANDS IN VITREOUS",
+          "Clear"
+        ],
+        "di": [
+          "CDR 0.9,NOTCHING +",
+          "cup disc ratio-0.55"
+        ],
+        "ve": "Normal",
+        "br": [
+          "Retina Appears on,HAZY VIEW",
+          "RETINA ON, FEW DRUSEN, VISIBLE PERIPHERY WNL"
+        ],
+        "mf": [
+          "ON",
+          "Present"
+        ],
+        "rem": [
+          "B SCAN SHOWS VITRITIS",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "PANTAKIND 40 MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "PYRIGESIC 650MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "rem": "MANITOL",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 8
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 7
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 5
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 8
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "ALPRAX 0.5 TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Night Only"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "PYRIGESIC 650MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "OFLACIN DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6
+        },
+        {
+          "name": "OFLIN 200MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTHEGEL  OINT",
+          "eye": "1",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "56",
+          "13"
+        ],
+        "sp": {
+          "r": "DONE,DONE"
+        }
+      }
+    },
+    {
+      "v": 8,
+      "d": "2024-03-15",
+      "c": "F7",
+      "diag": [
+        "",
+        "",
+        [
+          "Corneal haze × 1",
+          "Iris neovascularization × 1",
+          "Traumatic glaucoma × 1",
+          "Traumatic iridodialysis × 1",
+          "Traumatic subluxation of lens × 1",
+          "Ametropia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "HM"
+          },
+          {
+            "None": "69"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth,CELLS 3+, FLARE 1+;Normal Depth, Cells 2+, Flare 1+;Normal Depth, Pigments in AC",
+          "Normal Depth"
+        ],
+        "ir": [
+          "PRE-EXISTING IRIDODIALYSIS NASALLY, IRIS EXCISION DONE FROM 12 O'CLOCK TO 5 O'CLOCK, Blood clot over Iris Temporally;Pre-existing Iridodialysis nasally, post Iris excision;Pre-existing Iridodialysis nasally, post Iris excision from 12 to 5 o' clock",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "CONGESTION, SUTURES IN PLACE;Congestion, Partially Absorbed sutures",
+          "Normal"
+        ],
+        "pu": [
+          "Pharmacologically Dilated",
+          "Normal Size and Reaction to Light;Pharmacologically Dilated"
+        ],
+        "lens": [
+          "SFIOL, INFLAMMATORY FIBRINOUS STRANDS BEHIND IOL;SFIOL in situ;SFIOL in situ, pigments over IOL",
+          "Clear"
+        ]
+      },
+      "op": {
+        "ref": "R/E UNCONTROLLED IOP;RE Treatment Retina FITINESS FOR IV MANNITOL 100ML",
+        "rem": "R/E POST TRAUMA, POST PPV, SFIOL - MAY CONSIDER R/E DIODE CPC"
+      },
+      "om": {
+        "om": "Limited, except depression",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "MILD DISPERSED VCH, INFLAMMATORY STRANDS IN VITREOUS",
+          "Clear"
+        ],
+        "di": [
+          "CDR 0.9, BIPOLAR NOTCHING",
+          "cup disc ratio-0.55"
+        ],
+        "ve": "Normal",
+        "br": "RETINA ON, FEW DRUSEN, VISIBLE PERIPHERY WNL",
+        "mf": [
+          "ON",
+          "Present"
+        ],
+        "rem": [
+          "TRAUMATIC IRIDODIALYSIS WITH SUBLUXATION OF LENS, NVI, S/P IVB (1), S/P PPV+PPL+SFIOL",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "IOPAR-SR CAP",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTAKIND 40 MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "OPTIVE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "B2 DOC -EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "TIMOBEST EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "52",
+          "16"
+        ]
+      },
+      "fup": {
+        "adv": "15 days;1 week"
+      }
+    },
+    {
+      "v": 9,
+      "d": "2024-03-22",
+      "c": "F8",
+      "diag": [
+        "",
+        "",
+        [
+          "Corneal haze × 1",
+          "Iris neovascularization × 1",
+          "Traumatic glaucoma × 1",
+          "Traumatic iridodialysis × 1",
+          "Traumatic subluxation of lens × 1",
+          "Ametropia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "HM"
+          },
+          {
+            "None": "624"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;Hyperlipidemia;Hypertension;Identification Marks;Non-Ocular Sx;Other Allergies;Others;Remarks;Thyroid;Renal Disease;Liver Disease;Stroke/Neuro;Lungs Problem;Malignancy-site;Rheumatoid Arthritis;TB"
+      },
+      "as": {
+        "rem": [
+          "PL inconsistent",
+          "inverse RAPD"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, Pigments in AC",
+          "Normal Depth"
+        ],
+        "ir": [
+          "Pre-existing Iridodialysis nasally, post Iris excision from 12 to 5 o' clock",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "Congestion, Partially Absorbed sutures",
+          "Normal"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light;dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "SFIOL in situ, pigments over IOL",
+          "Clear"
+        ]
+      },
+      "op": {
+        "ref": "RE Diode Laser CPC"
+      },
+      "om": {
+        "om": "Limited, except depression",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Corneal Edema",
+          "Clear"
+        ],
+        "di": [
+          "CDR 0.9, BIPOLAR NOTCHING",
+          "cup disc ratio-0.55"
+        ],
+        "ve": "Normal",
+        "br": "RETINA ON, FEW DRUSEN, VISIBLE PERIPHERY WNL",
+        "mf": [
+          "ON",
+          "Present"
+        ],
+        "rem": [
+          "TRAUMATIC IRIDODIALYSIS WITH SUBLUXATION OF LENS, NVI, S/P IVB (1), S/P PPV+PPL+SFIOL",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "DIAMOX TAB",
+          "dos": "2 tablet",
+          "eye": "5"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "47",
+          "19"
+        ]
+      }
+    },
+    {
+      "v": 10,
+      "d": "2024-03-23",
+      "c": "F9",
+      "vi": {
+        "vis": [
+          {
+            "None": "NIP"
+          },
+          {
+            "None": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "PL inconsistent",
+          "inverse RAPD"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, Pigments in AC",
+          "Normal Depth"
+        ],
+        "ir": [
+          "Pre-existing Iridodialysis nasally, post Iris excision from 12 to 5 o' clock",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "Congestion, Partially Absorbed sutures, CHEMOSIS, DIODE LASER MARKS",
+          "Normal"
+        ],
+        "pu": [
+          "dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "SFIOL in situ, pigments over IOL",
+          "Clear"
+        ]
+      },
+      "om": {
+        "om": "Limited, except depression",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "LYSER - D TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "COMBIFLAM  TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "41",
+          "8"
+        ]
+      },
+      "fup": {
+        "adv": "5 days"
+      }
+    },
+    {
+      "v": 11,
+      "d": "2024-03-28",
+      "c": "F10",
+      "diag": [
+        "",
+        "",
+        [
+          "Iris neovascularization × 1",
+          "Immature cataract × 1",
+          "Traumatic glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "HM"
+          },
+          {
+            "None": "612"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "PL inconsistent;PL+PR ACC ONLY IN TEMPORAL QUADRANT",
+          "inverse RAPD"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, Pigments in AC",
+          "Normal Depth"
+        ],
+        "ir": [
+          "Pre-existing Iridodialysis nasally, post Iris excision from 12 to 5 o' clock",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "Congestion, Partially Absorbed sutures, CHEMOSIS, DIODE LASER MARKS;Congestion",
+          "Normal"
+        ],
+        "pu": [
+          "dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "SFIOL in situ, pigments over IOL",
+          "Clear"
+        ]
+      },
+      "op": {
+        "ref": "RE POST OP REVIEW"
+      },
+      "om": {
+        "om": "Limited, except depression",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Corneal Haze",
+          "Clear"
+        ],
+        "di": [
+          "CDR 0.9, BIPOLAR NOTCHING",
+          "cup disc ratio-0.55"
+        ],
+        "ve": "Normal",
+        "br": "RETINA ON, FEW DRUSEN, VISIBLE PERIPHERY WNL",
+        "mf": [
+          "ON",
+          "Present"
+        ],
+        "rem": [
+          "TRAUMATIC IRIDODIALYSIS WITH SUBLUXATION OF LENS, NVI, S/P IVB (1), S/P PPV+PPL+SFIOL",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "BETAFREE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "TIMOBEST EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "IOPAR-SR CAP",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only"
+        },
+        {
+          "name": "PANTAKIND 40 MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "32",
+          "20"
+        ]
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 12,
+      "d": "2024-04-12",
+      "c": "F11",
+      "diag": [
+        "",
+        "",
+        [
+          "Iris neovascularization × 1",
+          "Traumatic glaucoma × 1",
+          "Immature cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "HM"
+          },
+          {
+            "None": "636"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "PL+PR ACC ONLY IN TEMPORAL QUADRANT;PL+PR ACC ONLY IN TEMPORAL QUADRANT, NO pain",
+          "inverse RAPD"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, Pigments in AC",
+          "Normal Depth"
+        ],
+        "ir": [
+          "Pre-existing Iridodialysis nasally, post Iris excision from 12 to 5 o' clock",
+          "Normal Color and Pattern;no nvi"
+        ],
+        "cj": [
+          "Congestion;mild Congestion",
+          "Normal"
+        ],
+        "pu": [
+          "dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "SFIOL in situ, pigments over IOL",
+          "Clear;No1, CC"
+        ]
+      },
+      "op": {
+        "ref": "6/36"
+      },
+      "om": {
+        "om": "Limited, except depression",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Corneal Haze",
+          "Clear"
+        ],
+        "di": [
+          "CDR 0.95-GOA",
+          "cup disc ratio-0.55"
+        ],
+        "ve": "Normal",
+        "br": "RETINA ON, FEW DRUSEN, VISIBLE PERIPHERY WNL",
+        "mf": [
+          "ON",
+          "Present"
+        ],
+        "rem": [
+          "TRAUMATIC IRIDODIALYSIS WITH SUBLUXATION OF LENS, NVI, S/P IVB (1), S/P PPV+PPL+SFIOL",
+          ""
+        ]
+      },
+      "inv": {
+        "iop": [
+          "47",
+          "15"
+        ]
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 13,
+      "d": "2024-07-12",
+      "c": "F12",
+      "diag": [
+        "",
+        "",
+        [
+          "Iris neovascularization × 1",
+          "Traumatic glaucoma × 1",
+          "Immature cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "HM"
+          },
+          {
+            "None": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "PL+PR ACC ONLY IN TEMPORAL QUADRANT, NO pain",
+          "inverse RAPD"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, Pigments in AC",
+          "Normal Depth"
+        ],
+        "ir": [
+          "Pre-existing Iridodialysis nasally, post Iris excision from 12 to 5 o' clock",
+          "no nvi"
+        ],
+        "cj": [
+          "mild Congestion",
+          "Normal"
+        ],
+        "pu": [
+          "dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "SFIOL in situ, pigments over IOL",
+          "No1, CC"
+        ]
+      },
+      "om": {
+        "om": "Limited, except depression",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Corneal Haze",
+          "Clear"
+        ],
+        "di": [
+          "CDR 0.95-GOA",
+          "cup disc ratio-0.55"
+        ],
+        "ve": "Normal",
+        "br": "RETINA ON, FEW DRUSEN, VISIBLE PERIPHERY WNL",
+        "mf": [
+          "ON",
+          "Present"
+        ],
+        "rem": [
+          "TRAUMATIC IRIDODIALYSIS WITH SUBLUXATION OF LENS, NVI, S/P IVB (1), S/P PPV+PPL+SFIOL",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "BETAFREE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "37",
+          "10"
+        ]
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 14,
+      "d": "2024-10-29",
+      "c": "F13",
+      "diag": [
+        "",
+        "",
+        [
+          "Iris neovascularization × 1",
+          "Traumatic glaucoma × 1",
+          "Immature cataract × 1",
+          "Absolute glaucoma × 1",
+          "Glaucoma suspect × 1",
+          "Blepharitis × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "HM"
+          },
+          {
+            "None": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "PL+PR ACC ONLY IN TEMPORAL QUADRANT, NO pain",
+          "inverse RAPD"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, Pigments in AC",
+          "Normal Depth"
+        ],
+        "ir": [
+          "Pre-existing Iridodialysis nasally, post Iris excision from 12 to 5 o' clock",
+          "no nvi"
+        ],
+        "cj": [
+          "mild Congestion",
+          "Normal"
+        ],
+        "pu": [
+          "dilated",
+          "Pharmacologically Dilated,7MM"
+        ],
+        "lens": [
+          "SFIOL in situ, pigments over IOL",
+          "Cataract-Early Cataract"
+        ]
+      },
+      "om": {
+        "om": "Limited, except depression",
+        "cr": "Orthophoric",
+        "gl": [
+          "HYPOGLOBUS",
+          "Normal"
+        ]
+      },
+      "fu": {
+        "me": [
+          "Hazy-Corneal Haze",
+          "Clear"
+        ],
+        "di": [
+          "CDR 0.95-GOA",
+          "cup disc ratio-0.55, IR SLOPING, PALLOR"
+        ],
+        "ve": "Normal",
+        "br": "RETINA ON, FEW DRUSEN, VISIBLE PERIPHERY WNL",
+        "mf": [
+          "ON",
+          "Present"
+        ],
+        "rem": [
+          "TRAUMATIC IRIDODIALYSIS WITH SUBLUXATION OF LENS, NVI, S/P IVB (1), S/P PPV+PPL+SFIOL",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "OCUPOL EYE OINT",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "35",
+          "15"
+        ]
+      }
+    }
+  ]
+}

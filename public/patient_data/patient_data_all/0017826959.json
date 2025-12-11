@@ -1,0 +1,769 @@
+{
+  "p": {
+    "uid": "0017826959",
+    "mr": "P5406506",
+    "v": 11,
+    "f": "2022-01-13",
+    "l": "2024-03-09"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-01-13",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "NPDR Moderate × 1",
+          "CSME × 1",
+          "Nuclear Sclerosis Grade-II × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636",
+            "Glasses": "618P"
+          },
+          {
+            "UCVA": "624",
+            "Glasses": "618"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-1.00",
+            "ax": "105",
+            "va": "618P",
+            "ucva": "636"
+          },
+          {
+            "ax": "60",
+            "va": "618",
+            "ucva": "624"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5",
+            "ax": "120"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "s": {
+        "h": "Diabetes;Hypertension;Cardiac;Asthma;Other Allergies;Non-Ocular Sx;Others;Hyperlipidemia;Drug Allergies;Remarks;H/O COVID 19;H/O COVID VACCINE;Identification Marks;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "Nuclear Sclerosis-II-III"
+      },
+      "op": {
+        "ref": "BE MOD NPDR and CSME;LE PHACO with AUROFLEX",
+        "rem": "duct"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Hazy-Cataract",
+        "di": "cup disc ratio-0.5, pale",
+        "ve": "Normal",
+        "br": [
+          "dot blot hmg",
+          "dot blot hmg, Exudates-Hard Exudates"
+        ],
+        "mf": "dull, ? csme",
+        "rem": "?mod NPDR"
+      },
+      "m": [
+        {
+          "name": "ALPRAX 0.5 TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Night Only",
+          "dur": 1,
+          "med_start": "13/01/2022",
+          "med_end": "13/01/2022"
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "2",
+          "fre": 8,
+          "dur": 1,
+          "med_start": "13/01/2022",
+          "med_end": "13/01/2022"
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "2",
+          "fre": 3,
+          "dur": 1,
+          "med_start": "14/01/2022",
+          "med_end": "14/01/2022"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "17",
+          "15"
+        ]
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-01-20",
+      "c": "F1"
+    },
+    {
+      "v": 3,
+      "d": "2022-01-25",
+      "c": "F2"
+    },
+    {
+      "v": 4,
+      "d": "2023-05-30",
+      "c": "F3",
+      "diag": [
+        [
+          "Nuclear Sclerosis Grade-II × 1",
+          "Nuclear Sclerosis Grade-III × 1"
+        ],
+        [
+          "Nuclear Sclerosis Grade-III × 1",
+          "PSCC × 1"
+        ],
+        [
+          "NPDR Moderate × 1",
+          "CSME × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636"
+          },
+          {
+            "UCVA": "624"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "636",
+            "ucva": "636"
+          },
+          {
+            "ax": "0",
+            "va": "624",
+            "ucva": "624"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;H/O COVID 19;H/O COVID VACCINE;Hyperlipidemia;Hypertension;Identification Marks;Non-Ocular Sx;Other Allergies;Others;Remarks;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, 7mm",
+        "lens": [
+          "Nuclear Sclerosis-II, PSCC",
+          "Nuclear Sclerosis-III, PSCC"
+        ]
+      },
+      "op": {
+        "ref": "follow up, be: mod npdr le:erm, clearance for le : phaco",
+        "rem": "will the  pt need  combined surgery"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "hemorrhages",
+        "br": "he",
+        "mf": [
+          "dull",
+          "erm"
+        ],
+        "rem": "mod npdr"
+      },
+      "inv": {
+        "iop": "17",
+        "sp": {
+          "r": "HRA - Para foveal hard exudates.,HRA - ERM, Para foveal hard exudates."
+        }
+      }
+    },
+    {
+      "v": 5,
+      "d": "2023-06-01",
+      "c": "F4",
+      "diag": [
+        [
+          "DME × 1"
+        ],
+        [
+          "ERM × 1",
+          "DME × 1"
+        ],
+        [
+          "PSCC NSG  2 × 1",
+          "NPDR Moderate × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636"
+          },
+          {
+            "UCVA": "624"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, 7mm",
+        "lens": "Nuclear Sclerosis-II, PSCC"
+      },
+      "op": {
+        "ref": "follow up, be: mod npdr le:erm, clearance for le : phaco",
+        "rem": "will the  pt need  combined surgery"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "NEPAWEL EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        },
+        {
+          "name": "ENVISA TABS",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2023-07-01",
+      "c": "F5",
+      "diag": [
+        [
+          "DME × 1"
+        ],
+        [
+          "ERM × 1",
+          "DME × 1"
+        ],
+        [
+          "PSCC NSG  2 × 1",
+          "NPDR Moderate × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636"
+          },
+          {
+            "UCVA": "624"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "636",
+            "ucva": "636"
+          },
+          {
+            "ax": "0",
+            "va": "624",
+            "ucva": "624"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, 7mm",
+        "lens": "Nuclear Sclerosis-II, PSCC"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Haemorrhage-Dot & blot",
+        "mf": [
+          "dull",
+          "ERM"
+        ]
+      },
+      "m": [
+        {
+          "name": "ENVISA TABS",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "ALPRAX 0.5 TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Night Only"
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "2",
+          "fre": 8
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "2",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "19",
+          "20"
+        ],
+        "sp": {
+          "r": "HRA - Para foveal hard exudates.Foveal thickness-185M,HRA - ERM, Para foveal hard exudates.Foveal thickness-242M",
+          "e": [
+            "185M",
+            "242M"
+          ]
+        }
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2023-07-05",
+      "c": "F6",
+      "diag": [
+        [
+          "DME × 1"
+        ],
+        [
+          "DME × 1"
+        ],
+        [
+          "Stroke × 1",
+          "Hypertension × 1",
+          "Diabetes Mellitus × 1",
+          "Asthmatic × 1",
+          "Dyslipidemia × 1",
+          "NPDR Moderate × 1",
+          "PSCC NSG  2 × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "618P",
+            "UCVA With PH": "618"
+          }
+        ]
+      },
+      "op": {
+        "ref": "LE PHACO with AUROFLEX",
+        "rem": "cardiac"
+      },
+      "m": [
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 6
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 5
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "normal"
+        }
+      },
+      "fup": {
+        "adv": "1 month;09/08/2023"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2023-08-09",
+      "c": "F7",
+      "diag": [
+        [
+          "DME × 1"
+        ],
+        [
+          "DME × 1"
+        ],
+        [
+          "NPDR Moderate × 1",
+          "PSCC NSG  2 × 1",
+          "Stroke × 1",
+          "Hypertension × 1",
+          "Diabetes Mellitus × 1",
+          "Asthmatic × 1",
+          "Dyslipidemia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636"
+          },
+          {
+            "UCVA": "618"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "636",
+            "ucva": "636"
+          },
+          {
+            "ax": "160",
+            "va": "69",
+            "ucva": "618"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5",
+            "ax": "120"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "m": [
+        {
+          "name": "NEPAFLAM EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "15"
+        ]
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 9,
+      "d": "2024-02-06",
+      "c": "F8",
+      "diag": [
+        "",
+        "",
+        [
+          "Pseudophakia × 1",
+          "Immature cataract × 1",
+          "Moderate nonproliferative diabetic retinopathy × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "660"
+          },
+          {
+            "UCVA": "618"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          },
+          {
+            "ax": "165",
+            "va": "69P",
+            "ucva": "618"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.25"
+          },
+          {
+            "sph": "=+2.25"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;H/O COVID 19;Hyperlipidemia;Hypertension;Identification Marks;Liver Disease;Lungs Problem;Malignancy-site;Non-Ocular Sx;Other Allergies;Others;Remarks;Renal Disease;Rheumatoid Arthritis;Stroke/Neuro;Thyroid;TB"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light;Pharmacologically Dilated,6mm",
+        "lens": [
+          "Clear;NS 2 , CC ,PSCC",
+          "Clear;PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "DBH+"
+        ],
+        "mf": "Present",
+        "rem": "Mod NPDR"
+      },
+      "m": [
+        {
+          "name": "ALPRAX 0.5 TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Night Only"
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "1",
+          "fre": 8
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "1",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "19",
+          "20"
+        ],
+        "sp": {
+          "r": "HRA - Para foveal hard exudates.Foveal thickness-185M,HRA - ERM, Para foveal hard exudates.Foveal edema  +Foveal thickness-354M",
+          "e": [
+            "185M",
+            "354M"
+          ]
+        }
+      }
+    },
+    {
+      "v": 10,
+      "d": "2024-02-14",
+      "c": "F9",
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "624",
+            "UCVA With PH": "618"
+          },
+          {}
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;H/O COVID 19;Hyperlipidemia;Hypertension;Identification Marks;Liver Disease;Lungs Problem;Malignancy-site;Non-Ocular Sx;Other Allergies;Others;Remarks;Renal Disease;Rheumatoid Arthritis;Stroke/Neuro;TB;Thyroid"
+      },
+      "op": {
+        "ref": "RE CATARACT SX",
+        "rem": "CARDIAC"
+      },
+      "m": [
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "rem": "BUDECORT",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 5
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "NR"
+        }
+      },
+      "fup": {
+        "adv": "25 days;1 month"
+      }
+    },
+    {
+      "v": 11,
+      "d": "2024-03-09",
+      "c": "F10",
+      "diag": [
+        "",
+        "",
+        [
+          "Moderate nonproliferative diabetic retinopathy × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "618"
+        }
+      },
+      "op": {
+        "ref": "moderate npdr, review"
+      },
+      "m": [
+        {
+          "name": "NEPAWEL EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": "18"
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    }
+  ]
+}

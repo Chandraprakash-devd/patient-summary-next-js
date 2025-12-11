@@ -1,0 +1,761 @@
+{
+  "p": {
+    "uid": "0020264606",
+    "mr": "P621501",
+    "v": 11,
+    "f": "2023-06-03",
+    "l": "2024-01-25"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2023-06-03",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "IMC × 1",
+          "Glaucoma Suspect × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "618P",
+            "UCVA": "560"
+          },
+          {
+            "Glasses": "618P",
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-3.5",
+            "ax": "90",
+            "va": "69P",
+            "ucva": "560"
+          },
+          {
+            "sph": "-3.00",
+            "ax": "45",
+            "va": "69P",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "s": {
+        "h": "Diabetes;Hypertension;Cardiac;Asthma;Other Allergies;Non-Ocular Sx;Others;Hyperlipidemia;Drug Allergies;Remarks;H/O COVID 19;H/O COVID VACCINE;Identification Marks;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, 7mm",
+        "lens": "nsiii"
+      },
+      "op": {
+        "ref": "BE IMC cdr asymmetry"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Hazy-Cataract",
+        "di": [
+          "cup disc ratio-0.5, inferior thin rim",
+          "cup disc ratio-0.7, bipolar thinning"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "dull",
+        "rem": "no disc edema"
+      },
+      "m": [
+        {
+          "name": "T-BACT OINT",
+          "eye": "3",
+          "fre": 1,
+          "dur": 3,
+          "med_start": "03/06/2023",
+          "med_end": "05/06/2023"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "12",
+          "14"
+        ]
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2023-06-24",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "POAGS × 1",
+          "Nuclear Sclerosis Grade-II × 1",
+          "Nuclear Sclerosis Grade-III × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "560",
+            "UCVA With PH": "69P"
+          },
+          {
+            "UCVA": "660",
+            "UCVA With PH": "69P"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, 7mm",
+        "lens": "NS2-3"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Hazy-Cataract",
+        "di": [
+          "cup disc ratio-0.5, inferior thin rim",
+          "cup disc ratio-0.7, bipolar thinning"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "dull",
+        "rem": "no disc edema"
+      },
+      "m": [
+        {
+          "name": "BRINZOX DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": "18",
+        "sp": {
+          "r": "done,done,done,done"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2023-06-26",
+      "c": "F2",
+      "op": {
+        "ref": "RE PHACO with PATIENT’S PREF."
+      },
+      "inv": {
+        "iop": "Not Measurable"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-06-29",
+      "c": "F3",
+      "m": [
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 5
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "NPACT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2023-06-30",
+      "c": "F4",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "Nuclear Sclerosis Grade-II × 1",
+          "Nuclear Sclerosis Grade-III × 1"
+        ],
+        [
+          "POAGS × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "618",
+            "UCVA With PH": "69"
+          },
+          {}
+        ]
+      },
+      "m": [
+        {
+          "name": "BRINZOX DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "fup": {
+        "adv": "28/07/2023"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2023-07-11",
+      "c": "F5",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "Nuclear Sclerosis Grade-II × 1"
+        ],
+        [
+          "Primary Open Angle Glaucoma/POAG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69P",
+            "UCVA With PH": "66P"
+          },
+          {
+            "UCVA": "660",
+            "UCVA With PH": "618"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "no signs of endophthalmitis",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth,QUITE",
+          "Normal Depth"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, 7mm",
+        "lens": [
+          "PCIOL",
+          "NS2"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy-Cataract"
+        ],
+        "di": [
+          "cup disc ratio-0.65,IRT",
+          "cup disc ratio-0.75,IRS/IRT"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "dull",
+        "rem": "no disc edema"
+      },
+      "m": [
+        {
+          "name": "LUBREX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "16"
+        ]
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2023-07-29",
+      "c": "F6",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "Nuclear Sclerosis Grade-II × 1"
+        ],
+        [
+          "Primary Open Angle Glaucoma/POAG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69P"
+          },
+          {
+            "UCVA": "636"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66P",
+            "ucva": "69P"
+          },
+          {
+            "sph": "-2.00",
+            "ax": "60",
+            "va": "612",
+            "ucva": "636"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "no signs of endophthalmitis",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth,QUITE",
+          "Normal Depth"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, 7mm",
+        "lens": [
+          "PCIOL",
+          "NS2"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy-Cataract"
+        ],
+        "di": [
+          "cup disc ratio-0.65,Inferior subtle notch",
+          "cup disc ratio-0.75,Bipolar thinning"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "dull"
+      },
+      "m": [
+        {
+          "name": "NPACT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "LUBREX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "BRINZOX DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "11",
+          "13"
+        ]
+      },
+      "fup": {
+        "adv": "2 months"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2023-09-23",
+      "c": "F7",
+      "diag": [
+        "",
+        "",
+        [
+          "POAG × 1",
+          "Immature cataract × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69P",
+            "UCVA With PH": "66P"
+          },
+          {
+            "UCVA": "660",
+            "UCVA With PH": "618P"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth,QUITE",
+          "Normal Depth"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, 7mm",
+        "lens": [
+          "PCIOL",
+          "NS2"
+        ]
+      },
+      "op": {
+        "ref": "LE PHACO with Aspheric - istent",
+        "rem": "IV MANITOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy-Cataract"
+        ],
+        "di": [
+          "cup disc ratio-0.65,Inferior subtle notch",
+          "cup disc ratio-0.75,Bipolar thinning"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "dull"
+      },
+      "inv": {
+        "iop": [
+          "15",
+          "16"
+        ]
+      }
+    },
+    {
+      "v": 9,
+      "d": "2023-09-28",
+      "c": "F8",
+      "diag": [
+        "",
+        "",
+        [
+          "POAG × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "612P",
+            "UCVA With PH": "69P"
+          }
+        ]
+      },
+      "m": [
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 6
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 5
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "NPACT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 10,
+      "d": "2023-12-02",
+      "c": "F9",
+      "diag": [
+        "",
+        "",
+        [
+          "POAG × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "69P"
+        },
+        "dist": [
+          {
+            "ax": "90",
+            "va": "69",
+            "ucva": "69P"
+          },
+          {
+            "ax": "75",
+            "va": "66",
+            "ucva": "69P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, 7mm;7mm;Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.65,Inferior subtle notch",
+          "cup disc ratio-0.7"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "dull"
+      },
+      "m": [
+        {
+          "name": "TIMOBEST EYE DROPS",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "16",
+          "14"
+        ]
+      },
+      "fup": {
+        "adv": "5 months"
+      }
+    },
+    {
+      "v": 11,
+      "d": "2024-01-25",
+      "c": "F10",
+      "diag": [
+        "",
+        "",
+        [
+          "POAG × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "69P",
+            "UCVA With PH": "66"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.65,Inferior subtle notch",
+          "cup disc ratio-0.7"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "dull"
+      },
+      "m": [
+        {
+          "name": "EYEMIST EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "TIMOBEST EYE DROPS",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": "14"
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    }
+  ]
+}

@@ -1,0 +1,857 @@
+{
+  "p": {
+    "uid": "0019382550",
+    "mr": "F122394",
+    "v": 11,
+    "f": "2022-11-30",
+    "l": "2023-08-21"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-11-30",
+      "c": "Initial",
+      "diag": [
+        "",
+        [
+          "CSCR × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636"
+          },
+          {
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "=+1.5",
+            "ax": "75",
+            "va": "612",
+            "ucva": "636"
+          },
+          {
+            "sph": "=+1.75",
+            "ax": "180",
+            "va": "612",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "s": {
+        "h": "Diabetes;Hypertension;Cardiac;Asthma;Other Allergies;Non-Ocular Sx;Others;Hyperlipidemia;Drug Allergies;Remarks;H/O COVID 19;H/O COVID VACCINE;Identification Marks;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "cc"
+      },
+      "op": {
+        "ref": "?CSCR LE"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Present",
+          "CSCR"
+        ],
+        "rem": [
+          "OCT- PED at macula",
+          "OCT- CSCR with PED"
+        ]
+      },
+      "m": [
+        {
+          "name": "ANXIT 0.25 TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Night Only",
+          "dur": 30,
+          "med_start": "30/11/2022",
+          "med_end": "29/12/2022"
+        }
+      ],
+      "inv": {
+        "iop": "20",
+        "sp": {
+          "r": "OCT done. Subfoveal SRF seen s/o CSCR"
+        }
+      },
+      "fup": {
+        "adv": "Whenever Required;1 month"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-12-29",
+      "c": "F1",
+      "diag": [
+        "",
+        [
+          "CSCR × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636",
+            "Glasses": "69P"
+          },
+          {
+            "UCVA": "660",
+            "Glasses": "618"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "=+2.00",
+            "ax": "180",
+            "va": "69",
+            "ucva": "636"
+          },
+          {
+            "sph": "=+2.00",
+            "ax": "180",
+            "va": "612",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5",
+            "ax": "180"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "cc"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Present",
+          "CSCR"
+        ],
+        "rem": [
+          "OCT- PED at macula",
+          "OCT- CSCR with PED"
+        ]
+      },
+      "inv": {
+        "iop": "20",
+        "sp": {
+          "r": "Done,Done,,"
+        }
+      },
+      "fup": {
+        "adv": "Whenever Required"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2023-01-06",
+      "c": "F2",
+      "diag": [
+        "",
+        [
+          "CSCR × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            "No RE procedure"
+          ],
+          null
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636",
+            "Glasses": "69"
+          },
+          {
+            "UCVA": "660",
+            "Glasses": "618P"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;H/O COVID 19;H/O COVID VACCINE;Hyperlipidemia;Hypertension;Identification Marks;Non-Ocular Sx;Other Allergies;Others;Remarks;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "cc"
+      },
+      "op": {
+        "ref": "ffa+icg"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Present",
+          "CSCR"
+        ],
+        "rem": [
+          "OCT- PED at macula",
+          "OCT- CSCR with PED"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "15",
+          "16"
+        ],
+        "sp": {
+          "r": "NSR, Left ventricular hypertrophy (LVH),FFA and ICG Done,FFA and ICG Done"
+        }
+      },
+      "fup": {
+        "adv": "Whenever Required"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-01-20",
+      "c": "F3",
+      "diag": [
+        "",
+        [
+          "CSCR × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636"
+          },
+          {
+            "UCVA": "660"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Pharmacologically Dilated"
+        ],
+        "lens": "cc"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "UNDILATED",
+          "Clear"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Present",
+          "CSCR"
+        ],
+        "rem": [
+          "OCT- PED at macula",
+          "OCT- CSCR with PED"
+        ]
+      },
+      "m": [
+        {
+          "name": "NEPAFLO EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": "21"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2023-02-22",
+      "c": "F4",
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "cc"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "DORZOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "I-SITE PLUS",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "sp": {
+          "r": "DONE,DONE,done,done"
+        }
+      }
+    },
+    {
+      "v": 6,
+      "d": "2023-04-05",
+      "c": "F5",
+      "diag": [
+        "",
+        [
+          "CSCR × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "69P",
+            "UCVA": "636",
+            "UCVA With PH": "612P"
+          },
+          {
+            "Glasses": "618",
+            "UCVA": "660",
+            "UCVA With PH": "612P"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "cc"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Present",
+          "CSCR, s/p  micropulse laser, (no resolution )"
+        ],
+        "rem": [
+          "OCT - normal foveal contour",
+          "OCT - ped flattened, SRF+"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "19",
+          "16"
+        ],
+        "sp": {
+          "r": "Done. Normal foveal contour seen,Done. SF SRF increased;No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2023-05-08",
+      "c": "F6",
+      "diag": [
+        "",
+        [
+          "CSCR × 1",
+          "S/P Focal Laser × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "69P",
+            "UCVA": "660"
+          },
+          {
+            "Glasses": "618",
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "=+2.75;+2.75",
+            "va": "66",
+            "ucva": "660"
+          },
+          {
+            "sph": "=+3.25;+3.25",
+            "va": "69",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5;+2.5",
+            "ax": "180"
+          },
+          {
+            "sph": "=+2.5;+2.5",
+            "ax": "N8"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;H/O COVID 19;H/O COVID VACCINE;Hyperlipidemia;Hypertension;Identification Marks;Non-Ocular Sx;Other Allergies;Others;Remarks;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "early lens changes"
+      },
+      "op": {
+        "ref": "FFA / ICG"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.4 , hnrr , fr+",
+          "CDR 0.4 , hnrr , fr+, dull"
+        ],
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Present",
+          "CSCR, s/p  micropulse laser (20/1/2023)"
+        ],
+        "rem": [
+          "OCT - Dry",
+          "OCT - PED +SRF+"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "18",
+          "15"
+        ],
+        "sp": {
+          "r": "Done,Done,,"
+        }
+      },
+      "fup": {
+        "adv": "Whenever Required"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2023-05-22",
+      "c": "F7",
+      "diag": [
+        "",
+        [
+          "CSCR × 1",
+          "S/P Focal Laser × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            "No RE procedure"
+          ],
+          null
+        ]
+      },
+      "vi": {
+        "vis": {
+          "UCVA": "660",
+          "Glasses": "69"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "early lens changes"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.4 , hnrr , fr+",
+          "CDR 0.4 , hnrr , fr dull"
+        ],
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Present",
+          "CSCR, s/p  micropulse laser (20/1/2023)"
+        ],
+        "rem": [
+          "OCT - Dry",
+          "OCT - PED +SRF+"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "12",
+          "16"
+        ],
+        "sp": {
+          "r": "FFA+ICG DONE,FFA +ICG DONE,"
+        }
+      },
+      "fup": {
+        "adv": "Whenever Required"
+      }
+    },
+    {
+      "v": 9,
+      "d": "2023-05-26",
+      "c": "F8",
+      "diag": [
+        "",
+        [
+          "CSCR × 1",
+          "S/P Focal Laser × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "660"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "early lens changes"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.4 , hnrr , fr+",
+          "CDR 0.4 , hnrr , fr dull"
+        ],
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Present",
+          "CSCR, s/p  micropulse laser (20/1/2023)"
+        ],
+        "rem": [
+          "OCT - Dry",
+          "OCT - PED +SRF+"
+        ]
+      },
+      "m": [
+        {
+          "name": "NEPAFLO EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "ANXIT 0.25 TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Night Only"
+        },
+        {
+          "name": "I-SITE PLUS",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "12",
+          "16"
+        ]
+      },
+      "fup": {
+        "adv": "6 weeks"
+      }
+    },
+    {
+      "v": 10,
+      "d": "2023-07-17",
+      "c": "F9",
+      "diag": [
+        "",
+        [
+          "CSCR × 1",
+          "S/P Focal Laser × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "660",
+            "Glasses": "69P"
+          },
+          {
+            "UCVA": "660",
+            "Glasses": "618P"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "early lens changes"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Present",
+          "CSCR, s/p  micropulse laser (26/5//2023)"
+        ],
+        "rem": [
+          "OCT- PED",
+          "OCT- SRF +"
+        ]
+      },
+      "m": [
+        {
+          "name": "I-SITE AF",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "17",
+          "20"
+        ],
+        "sp": {
+          "r": "Done,Done;No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 11,
+      "d": "2023-08-21",
+      "c": "F10",
+      "diag": [
+        "",
+        [
+          "CSCR × 1",
+          "S/P Focal Laser × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            "No RE procedure"
+          ],
+          null
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "69",
+            "UCVA": "624"
+          },
+          {
+            "Glasses": "612",
+            "UCVA": "636"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "=+2.75;+2.75",
+            "va": "66",
+            "ucva": "624"
+          },
+          {
+            "sph": "=+3.25;+3.25",
+            "va": "69",
+            "ucva": "636"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5;+2.5",
+            "ax": "180"
+          },
+          {
+            "sph": "=+2.5;+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "early lens changes"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Present",
+          "CSCR, s/p  micropulse laser (26/5//2023)"
+        ],
+        "rem": [
+          "OCT- PED",
+          "OCT- SRF +"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "12",
+          "16"
+        ],
+        "sp": {
+          "r": "Done,Done;OCTA Done,OCTA Done"
+        }
+      },
+      "fup": {
+        "adv": "Whenever Required"
+      }
+    }
+  ]
+}

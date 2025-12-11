@@ -1,0 +1,742 @@
+{
+  "p": {
+    "uid": "0005655098",
+    "mr": "P303202",
+    "v": 10,
+    "f": "2023-02-23",
+    "l": "2025-06-12"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2023-02-23",
+      "c": "Initial",
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "LASER PI PATENT",
+          "SURGICAL PI PATENT"
+        ],
+        "cj": [
+          "Normal",
+          "SUP TEMPORAL BLEB"
+        ],
+        "pu": "Normal Size and Reaction to Light",
+        "lens": [
+          "IMC",
+          "PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "",
+          "CDR0.85 INF NOTCH"
+        ]
+      },
+      "inv": {
+        "sp": {
+          "r": ",,"
+        }
+      },
+      "oh": {
+        "desc": "LACOMA PF 2.5ML EYE DROPS"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2023-03-06",
+      "c": "F1",
+      "diag": [
+        [
+          "IMC × 1"
+        ],
+        [
+          "Post Trabeculectomy With IOL × 1",
+          "Post Trabeculectomy × 1"
+        ],
+        [
+          "Pigmentary Glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "560",
+            "UCVA With PH": "69P"
+          },
+          {
+            "UCVA": "66P",
+            "UCVA With PH": "66P"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "LASER PI PATENT",
+          "SURGICAL PI PATENT"
+        ],
+        "cj": [
+          "Normal",
+          "SUP TEMPORAL BLEB"
+        ],
+        "pu": "Normal Size and Reaction to Light",
+        "lens": [
+          "NS II",
+          "PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "",
+          "CDR0.85 INF NOTCH"
+        ],
+        "me": [
+          "Hazy-Cataract",
+          "Clear"
+        ],
+        "di": [
+          "cup disc ratio-0.7, IR less than SR, darker striations",
+          "cup disc ratio-0.8 superior rim thinning , inferior notching"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "LACOMA-PF EYE DROPS",
+          "eye": "1",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "19",
+          "14"
+        ],
+        "sp": {
+          "r": "DONE"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2023-03-13",
+      "c": "F2",
+      "diag": [
+        "",
+        [
+          "PCIOL × 1",
+          "Post Trabeculectomy With IOL × 1",
+          "Post Trabeculectomy × 1"
+        ],
+        [
+          "Pigmentary Glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "66P",
+          "UCVA With PH": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "LASER PI PATENT",
+          "SURGICAL PI PATENT"
+        ],
+        "cj": [
+          "Normal",
+          "SUP TEMPORAL BLEB"
+        ],
+        "pu": "Normal Size and Reaction to Light",
+        "lens": [
+          "NS II",
+          "PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "",
+          "CDR0.85 INF NOTCH"
+        ]
+      },
+      "m": [
+        {
+          "name": "LACOMA-PF EYE DROPS",
+          "eye": "1",
+          "fre": "Night Only"
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "eye": "1",
+          "fre": 6
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "1",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "04/04/2023"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-04-04",
+      "c": "F3",
+      "diag": [
+        "",
+        [
+          "PCIOL × 1",
+          "Post Trabeculectomy With IOL × 1",
+          "Post Trabeculectomy × 1"
+        ],
+        [
+          "Pigmentary Glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA With PH": "66",
+            "UCVA": "66P"
+          },
+          {
+            "UCVA With PH": "66P",
+            "UCVA": "66P"
+          }
+        ],
+        "dist": [
+          {
+            "va": "66P",
+            "ucva": "66P"
+          },
+          {
+            "va": "66P",
+            "ucva": "66P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "LASER PI PATENT",
+          "SURGICAL PI PATENT"
+        ],
+        "cj": [
+          "Normal",
+          "SUP TEMPORAL BLEB"
+        ],
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.7, IR less than SR, darker striations",
+          "cup disc ratio-0.8 superior rim thinning , inferior notching"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "LACOMA-PF EYE DROPS",
+          "eye": "1",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "20",
+          "15"
+        ]
+      },
+      "fup": {
+        "adv": "4 months"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2023-08-04",
+      "c": "F4",
+      "diag": [
+        "",
+        [
+          "PCIOL × 1",
+          "Post Trabeculectomy With IOL × 1",
+          "Post Trabeculectomy × 1"
+        ],
+        [
+          "Pigmentary Glaucoma × 1",
+          "Status Post PI × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "Glasses": "66P",
+          "UCVA": "66P"
+        },
+        "dist": [
+          {
+            "ax": "0",
+            "va": "66P",
+            "ucva": "66P"
+          },
+          {
+            "ax": "0",
+            "va": "66P",
+            "ucva": "66P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5",
+            "ax": "N6"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "Peripheral Iridectomy-Laser-Patent",
+          "SURGICAL PI PATENT"
+        ],
+        "cj": [
+          "Normal",
+          "SUP TEMPORAL BLEB"
+        ],
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "PCIOL",
+          "PCIOL,YAG OPENING"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.7, SMALL DISC",
+          "cup disc ratio-0.8 superior rim thinning , inferior notching"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "LACOMA-PF EYE DROPS",
+          "eye": "1",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "15"
+        ],
+        "sp": {
+          "r": "No Data"
+        }
+      },
+      "fup": {
+        "adv": "5 months"
+      },
+      "oh": {
+        "desc": "LACOMA-PF EYE DROPS"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2024-01-04",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "Pigmentary glaucoma × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "Glasses": "66P",
+            "UCVA": "66P"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "66P",
+            "ucva": "66P"
+          },
+          {
+            "ax": "0",
+            "va": "66P",
+            "ucva": "66P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5",
+            "ax": "N6"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "Peripheral Iridectomy-Laser-Patent",
+          "SURGICAL PI PATENT"
+        ],
+        "cj": [
+          "Normal",
+          "SUP TEMPORAL BLEB"
+        ],
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "PCIOL",
+          "PCIOL,YAG OPENING"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.6 ?inf notch",
+          "CDR 0.9 , sup rim thinning , inf rim thinned out;CDR 0.8 , sup rim thinning , inf rim thinned out"
+        ],
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.7, SMALL DISC",
+          "cup disc ratio-0.8 superior rim thinning , inferior notching"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "18",
+          "16"
+        ],
+        "sp": {
+          "r": "DONE,DONE"
+        }
+      },
+      "fup": {
+        "adv": "5 months"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2024-05-28",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "Pigmentary glaucoma × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "Peripheral Iridectomy-Laser-Patent",
+          "SURGICAL PI PATENT"
+        ],
+        "cj": [
+          "Normal",
+          "SUP TEMPORAL BLEB"
+        ],
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "PCIOL",
+          "PCIOL,YAG OPENING"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.6 ?inf notch",
+          "CDR 0.8 , sup rim thinning , inf rim thinned out"
+        ],
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.7, SMALL DISC",
+          "cup disc ratio-0.8 superior rim thinning , inferior notching"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": "15"
+      },
+      "fup": {
+        "adv": "5 months"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2024-11-12",
+      "c": "F7",
+      "diag": [
+        "",
+        "",
+        [
+          "Pigmentary glaucoma × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "Peripheral Iridectomy-Laser-Patent",
+          "SURGICAL PI PATENT"
+        ],
+        "cj": [
+          "Normal",
+          "SUP TEMPORAL BLEB"
+        ],
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "PCIOL",
+          "PCIOL,YAG OPENING"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.6 ?inf notch",
+          "CDR 0.8 , sup rim thinning , inf rim thinned out"
+        ],
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.7, SMALL DISC",
+          "cup disc ratio-0.8 superior rim thinning , inferior notching"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "20",
+          "16"
+        ],
+        "sp": {
+          "r": "No Data"
+        }
+      }
+    },
+    {
+      "v": 9,
+      "d": "2025-02-12",
+      "c": "F8",
+      "diag": [
+        "",
+        "",
+        [
+          "Pigmentary glaucoma × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "66",
+          "With Spectacles": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "Peripheral Iridectomy-Laser-Patent",
+          "Peripheral Iridectomy-Surgical-Patent ( 2)"
+        ],
+        "cj": [
+          "Normal",
+          "Nasal Bleb flat, Superotemporal bleb- diffused"
+        ],
+        "pu": "Normal Size and Reaction to Light",
+        "lens": [
+          "PCIOL",
+          "PCIOL,YAG OPENING"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.6 ?inf notch",
+          "CDR 0.8 , sup rim thinning , inf rim thinned out"
+        ],
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.7, SMALL DISC",
+          "cup disc ratio-0.8 superior rim thinning , inferior notching"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": "12",
+        "sp": {
+          "r": "Done,Done,Done,Done,Done,Done"
+        }
+      }
+    },
+    {
+      "v": 10,
+      "d": "2025-06-12",
+      "c": "F9",
+      "diag": [
+        "",
+        "",
+        [
+          "Pigmentary glaucoma × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "With Spectacles": "66",
+          "UCVA": "66"
+        }
+      },
+      "s": {
+        "h": "Hypertension;Hyperlipidemia;Remarks;Identification Marks;Drug Allergies;Asthma;Non-Ocular Sx;Other Allergies;RS;Thyroid Status;Cardiac;Diabetes;Others;GIT"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "Peripheral Iridectomy-Laser-Patent",
+          "Peripheral Iridectomy-Surgical-Patent ( 2)"
+        ],
+        "cj": [
+          "Normal",
+          "Nasal Bleb flat, Superotemporal bleb- diffused"
+        ],
+        "pu": "Normal Size and Reaction to Light",
+        "lens": [
+          "PCIOL",
+          "PCIOL,YAG OPENING"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.6",
+          "CDR 0.8 , sup rim thinning , inf rim thinned out"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "13",
+          "12"
+        ]
+      }
+    }
+  ]
+}

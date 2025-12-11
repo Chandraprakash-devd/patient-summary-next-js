@@ -1,0 +1,402 @@
+{
+  "0005655098": {
+    "re": "The right eye has a history of pigmentary glaucoma and pseudophakia with a posterior chamber intraocular lens (PCIOL) and a patent laser peripheral iridectomy (LPI). Vision improved from 5/60 initially to 6/6 with correction at the latest visit. Intraocular pressure (IOP) ranged from 19 mmHg initially to a current value of 13 mmHg. The optic disc showed a cup-to-disc ratio (CDR) of 0.7 with a small disc and inferior rim thinning, stable across visits. The anterior segment remains stable with a normal depth anterior chamber and a patent surgical and laser PI. No macular edema or other posterior segment complications were noted, and the macula remains clear. The patient is on LACOMA-PF eye drops at night for IOP control.",
+    "le": "The left eye has a history of pigmentary glaucoma and pseudophakia with a PCIOL and YAG capsulotomy. Vision has remained stable at 6/6 with correction since the second visit. IOP has been well-controlled, ranging from 14 mmHg to a current value of 12 mmHg. The optic disc shows a CDR of 0.8 with superior rim thinning and inferior rim thinning, consistent across visits. The anterior segment is stable with a normal depth anterior chamber, a patent surgical and laser PI, and a diffuse superotemporal bleb. The macula remains clear with no evidence of edema or other posterior segment complications. The patient is on LACOMA-PF eye drops at night for IOP control.",
+    "be": "No bilateral-specific findings recorded.",
+    "status": "Success",
+    "mr_no": "P303202",
+    "visit_count": 10,
+    "first_visit": "2023-02-23",
+    "last_visit": "2025-06-12"
+  },
+  "0009687282": {
+    "re": "The right eye has a history of primary open-angle glaucoma (POAG) and pseudophakia following phacoemulsification with PCIOL implantation in 05/2022. Vision improved from 6/18 uncorrected to 6/6 corrected by 06/2022 and remains stable at 6/6P currently. IOP has ranged from 14–19 mmHg, with the latest measurement at 19 mmHg. The optic disc shows a stable cup-to-disc ratio of 0.65 with inferior notching. The anterior segment is normal with a clear PCIOL. The patient is on Monosopt eye drops (2x daily) for glaucoma management.",
+    "le": "The left eye has a history of primary open-angle glaucoma (POAG), pseudophakia following phacoemulsification with PCIOL implantation in 08/2022, and recent episcleritis noted nasally. Vision improved from 6/18 uncorrected to 6/9 corrected by 08/2022 and is currently 6/9 uncorrected. IOP has ranged from 15–23 mmHg, with the latest measurement at 19 mmHg. The optic disc shows a stable cup-to-disc ratio of 0.6. The anterior segment is normal with a clear PCIOL, except for nasal episcleritis. The patient is on Monosopt eye drops (2x daily) for glaucoma and Flur eye drops (3x daily) for episcleritis.",
+    "be": "The patient has bilateral primary open-angle glaucoma (POAG) and pseudophakia following sequential phacoemulsification with PCIOL implantation (RE in 05/2022, LE in 08/2022). The optic discs show stable cup-to-disc ratios (RE: 0.65, LE: 0.6) with inferior notching in the RE. The anterior segments are normal, with clear PCIOLs. IOP has been controlled with Monosopt eye drops, with the latest measurement at 19 mmHg bilaterally.",
+    "status": "Success",
+    "mr_no": "P223443",
+    "visit_count": 12,
+    "first_visit": "2022-05-09",
+    "last_visit": "2023-11-15"
+  },
+  "0010904095": {
+    "re": "The right eye initially presented with nuclear sclerosis (Grade II) and immature cataract, with vision at 6/12 uncorrected and 6/6 with glasses. Over the course of follow-ups, nuclear sclerosis progressed to Grade III, and the patient underwent YAG PI for primary angle closure in 09/2024. IOP fluctuated, peaking at 38 mmHg in 10/2024, managed with topical antiglaucoma medications, including Timolol and later LOPRES. Vision improved to 6/6 with spectacles by the latest visit. Current findings show pseudophakia with a patent laser peripheral iridotomy, clear media, normal optic disc (CDR 0.4), and IOP controlled at 14 mmHg.",
+    "le": "The left eye initially had nuclear sclerosis (Grade II) and immature cataract, with vision at 6/36 uncorrected and 6/6 with glasses. The patient underwent MICS with toric IOL implantation in 05/2023, resulting in improved vision to 6/6 uncorrected by 09/2023. Postoperatively, the eye remained stable with clear media, pseudophakia, and no significant complications. IOP has been stable, ranging from 13–19 mmHg, and is currently 15 mmHg. The optic disc remains normal with no glaucomatous changes, and the anterior segment is unremarkable.",
+    "be": "Bilateral findings include pseudophakia with clear media and normal optic discs. The patient has a history of primary angle closure in the right eye, managed with YAG PI and antiglaucoma medications. Both eyes currently demonstrate stable vision at 6/6 with spectacles, normal anterior segments, and controlled IOP (RE: 14 mmHg, LE: 15 mmHg). No evidence of diabetic retinopathy or macular edema is noted.",
+    "status": "Success",
+    "mr_no": "P4448991",
+    "visit_count": 16,
+    "first_visit": "2023-05-02",
+    "last_visit": "2025-04-18"
+  },
+  "0013650399": {
+    "re": "The right eye is pseudophakic with a history of being a glaucoma suspect, characterized by a deep cup and a cup-to-disc ratio (CDR) of 0.7-0.8, stable since 2023. Visual acuity has remained stable from 6/6 with glasses and 6/9 unaided initially to 6/6 with glasses and 6/9 unaided at the latest visit. Intraocular pressure (IOP) has been stable, recorded at 12 mmHg initially and 14 mmHg at the latest visit. The anterior segment remains normal, with a clear posterior chamber intraocular lens (PCIOL). The fundus shows a deep cup with a CDR of 0.7, no macular edema, and normal vessels and retina. The patient is currently using Refresh Tears eye drops bilaterally.",
+    "le": "The left eye is pseudophakic with a history of being a glaucoma suspect, with a deep cup and a CDR of 0.65-0.7, stable since 2023. Visual acuity has been stable, recorded as 6/6 with glasses and 6/6 unaided at the latest visit. IOP has remained stable, recorded at 10 mmHg initially and 14 mmHg at the latest visit. The anterior segment is normal, with a clear PCIOL. The fundus shows a deep cup with a CDR of 0.65-0.7, no macular edema, and normal vessels and retina. The patient is currently using Refresh Tears eye drops bilaterally.",
+    "be": "The patient has bilateral pseudophakia and is a glaucoma suspect with stable deep cups and CDRs of 0.7-0.8 in the right eye and 0.65-0.7 in the left eye. Visual acuity has remained stable bilaterally at 6/6 with glasses. IOP is currently 14 mmHg in both eyes. The anterior segments are normal with clear PCIOLs, and the fundus shows no macular edema, normal vessels, and normal retina in both eyes. The patient is on Refresh Tears eye drops bilaterally.",
+    "status": "Success",
+    "mr_no": "P1953682",
+    "visit_count": 7,
+    "first_visit": "2022-03-02",
+    "last_visit": "2025-04-29"
+  },
+  "0014857333": {
+    "re": "The right eye has a history of PAC with a patent LPI and clear lens. Vision remained stable from 6/6P initially to 6/9 uncorrected and 6/6P corrected at the latest visit. IOP peaked at 27 mmHg during corticosteroid use but decreased to 18 mmHg at the most recent visit following treatment with topical antiglaucoma medication (Latobest, night only). The anterior chamber depth normalized after LPI, and the fundus showed a stable CDR of 0.5 without focal rim loss or neuroretinal thinning. The macula was clear, and no significant complications were noted.",
+    "le": "The left eye also has a history of PAC with a patent LPI and clear lens, now complicated by an immature cataract. Vision remained stable from 6/6P initially to 6/9 uncorrected and 6/6P corrected at the latest visit. IOP peaked at 30 mmHg during corticosteroid use but decreased to 17 mmHg at the most recent visit with topical antiglaucoma therapy (Latobest, night only). The anterior segment was unremarkable except for pharmacological dilation. Fundus findings included a stable CDR of 0.5 without focal rim loss or neuroretinal thinning, though the macula was noted to be hazy due to cataract.",
+    "be": "Bilateral PAC was managed with LPI, resulting in normalized anterior chamber depth and stable IOPs (RE: 18 mmHg, LE: 17 mmHg) at the latest visit. Both eyes showed stable optic discs with a CDR of 0.5 and no focal rim loss or neuroretinal thinning. The maculae were clear initially but became hazy in the left eye due to cataract progression. Vision remained stable at 6/6P corrected bilaterally. No significant complications were noted.",
+    "status": "Success",
+    "mr_no": "P141728",
+    "visit_count": 6,
+    "first_visit": "2022-08-20",
+    "last_visit": "2024-05-11"
+  },
+  "0015256042": {
+    "re": "The right eye has proliferative diabetic retinopathy (PDR) with a history of panretinal photocoagulation (PRP) and secondary glaucoma due to steroid response. Vision declined from 6/24 at baseline (2/2022) to 6/36 (4/2023), with slight improvement to 6/12 by the latest visit (5/2024). Foveal thickness trends are unavailable, but tractional changes and fibrovascular proliferation (FVP) persist, with no retinal detachment noted. Intraocular pressure (IOP) ranged from 18–23 mmHg, with the latest reading at 22 mmHg. The patient is pseudophakic with a posterior chamber intraocular lens (PCIOL) and no neovascularization of the iris (NVI). Current treatment includes Dorsun-T eye drops bilaterally, and PRP scars remain visible.",
+    "le": "The left eye has asteroid hyalosis, chronic tractional diabetic macular edema (DME), and schitic retinal degeneration. Vision has been consistently poor, with no measurable improvement from baseline. Foveal thickness data is unavailable, but chronic tractional DME and schitic degeneration persist. The IOP ranged from 14–25 mmHg, with the latest reading at 18 mmHg. The eye is pseudophakic with a PCIOL, and no NVI was observed. PRP scars are present, and the patient is on Dorsun-T eye drops bilaterally.",
+    "be": "The patient has bilateral PDR with a history of PRP and secondary glaucoma due to steroid response. Both eyes are pseudophakic with PCIOLs, and no neovascularization of the iris (NVI) or angle (NVA) was noted in the latest visit. Current treatment includes Dorsun-T eye drops bilaterally. Persistent tractional changes and PRP scars are noted in both eyes, with no evidence of retinal detachment.",
+    "status": "Success",
+    "mr_no": "P5117837",
+    "visit_count": 6,
+    "first_visit": "2022-02-09",
+    "last_visit": "2024-05-09"
+  },
+  "0016565877": {
+    "re": "The right eye is pseudophakic with a history of posterior capsular opacification (PCO) treated with YAG capsulotomy by 2023. Vision improved from 6/24 uncorrected to 6/9 with correction by 2023 and remained stable at 6/9 with correction as of the latest visit in 06/2025. The cup-to-disc ratio (CDR) increased from 0.4 in 2022 to 0.85 with superior rim thinning and bipolar thinning by 2025, consistent with glaucoma progression. Intraocular pressure (IOP) ranged from 12–20 mmHg, with the latest IOP at 20 mmHg. The macula remained clear, and posterior vitreous detachment (PVD) was noted. Current status includes stable vision, clear macula, and advanced glaucomatous optic neuropathy.",
+    "le": "The left eye is pseudophakic with no history of PCO or YAG capsulotomy. Vision improved from 6/9 uncorrected to 6/6 with correction by 2023 but declined to 6/9 with correction by 2025. The CDR increased from 0.4 in 2022 to 0.75 with superior rim thinning and retinal nerve fiber layer defects (RNFLD) by 2025, consistent with glaucoma progression. IOP ranged from 13–28 mmHg, with the latest IOP at 18 mmHg. The macula showed epiretinal membrane (ERM) and PVD. Current status includes mild vision decline, ERM, and glaucomatous optic neuropathy.",
+    "be": "The patient is pseudophakic bilaterally with a history of diabetes, hyperlipidemia, and hypertension. Both eyes demonstrate progressive glaucomatous optic neuropathy with increasing CDRs (RE: 0.85, LE: 0.75) and structural changes, including superior rim thinning and RNFLD. PVD is present bilaterally, with ERM in the left eye. IOP is currently 20 mmHg in the right eye and 18 mmHg in the left. Vision is stable in the right eye at 6/9 with correction, while the left eye has declined to 6/9 with correction. The macula is clear in the right eye, with ERM in the left.",
+    "status": "Success",
+    "mr_no": "P340820",
+    "visit_count": 17,
+    "first_visit": "2022-03-21",
+    "last_visit": "2025-06-13"
+  },
+  "0016712107": {
+    "re": "The right eye has a history of immature cataract (IMC), primary open-angle glaucoma (POAG), and pseudoexfoliation syndrome (PXF). Vision was 6/18 at baseline, improved to 6/12 with pinhole correction mid-course, and is currently 6/18. The cup-to-disc ratio (CDR) was consistently 0.6 across visits, with superior thinning noted. Intraocular pressure (IOP) ranged from 11–17 mmHg and is currently 14 mmHg. The anterior segment shows a clear lens with normal anterior chamber depth, iris, and pupil. The fundus reveals a large disc with a CDR of 0.6 and superior thinning, with no macular edema or vascular abnormalities.",
+    "le": "The left eye has a history of pseudoexfoliation syndrome (PXF), pseudophakia with a posterior chamber intraocular lens (PCIOL), and glaucoma suspect status. Vision was 6/18 at baseline, improved to 6/6P mid-course, and remains stable at 6/6P currently. The CDR progressed from 0.6 to 0.65–0.7 with superior thinning. IOP ranged from 11–17 mmHg and is currently 14 mmHg. The anterior segment shows a clear PCIOL with normal anterior chamber depth, iris, and pupil. The fundus reveals a large disc with a CDR of 0.65–0.7 and superior thinning, with no macular edema or vascular abnormalities.",
+    "be": "Bilateral findings include a history of glaucoma suspect status and pseudoexfoliation syndrome (PXF). The patient underwent left eye phacoemulsification with PCIOL implantation in March 2022. IOP has been well-controlled bilaterally, with the latest readings at 14 mmHg in both eyes. The anterior segments are normal, with clear lenses bilaterally. Fundus examination shows large optic discs with CDRs of 0.6 (RE) and 0.65–0.7 (LE), with superior thinning noted in both eyes. No macular edema or vascular abnormalities are present.",
+    "status": "Success",
+    "mr_no": "P1691674",
+    "visit_count": 9,
+    "first_visit": "2022-02-24",
+    "last_visit": "2023-10-09"
+  },
+  "0017684556": {
+    "re": "The right eye has a diagnosis of normal-tension glaucoma (NTG) with a history of compound hyperopic astigmatism and presbyopia. Vision improved from 6/60 uncorrected to 6/6 with glasses at the latest visit. Foveal thickness data is unavailable, but the optic disc shows progressive cupping with a cup-to-disc ratio (CDR) increasing from 0.7 initially to 0.8 most recently, with inferior rim thinning (IRT). Intraocular pressure (IOP) ranged from 14 mmHg initially to 20 mmHg mid-course, stabilizing at 14 mmHg on the latest visit with Xalatan (latanoprost) eye drops. The anterior segment remains normal, and the fundus shows tessellated changes with retinal pigment epithelium (RPE) degeneration.",
+    "le": "The left eye is diagnosed with NTG alongside compound hyperopic astigmatism and presbyopia. Vision improved from 6/60 uncorrected to 6/9 with glasses at the latest visit. Foveal thickness data is unavailable, but the optic disc shows progressive cupping with CDR increasing from 0.7 initially to 0.75-0.8 most recently, with IRT. IOP ranged from 15 mmHg initially to 18 mmHg mid-course, stabilizing at 15 mmHg on the latest visit with Xalatan (latanoprost) eye drops. The anterior segment remains normal, and the fundus shows tessellated changes with RPE degeneration.",
+    "be": "The patient has a history of normal-tension glaucoma, compound hyperopic astigmatism, and presbyopia. Vision improved bilaterally with glasses, with the right eye achieving 6/6 and the left eye 6/9 at the latest visit. Both eyes show progressive optic disc cupping, with CDR increasing to 0.8 in the right eye and 0.75-0.8 in the left eye, accompanied by inferior rim thinning. IOP is currently well-controlled at 14 mmHg (RE) and 15 mmHg (LE) with Xalatan (latanoprost) eye drops. The anterior segments are normal, and the fundus shows tessellated changes and RPE degeneration bilaterally.",
+    "status": "Success",
+    "mr_no": "P975577",
+    "visit_count": 7,
+    "first_visit": "2022-01-22",
+    "last_visit": "2024-06-20"
+  },
+  "0018069526": {
+    "re": "The right eye is diagnosed as a glaucoma suspect with a history of posterior subcapsular cataract (PSCC). Visual acuity improved from 6/18 uncorrected and 6/6P with glasses initially to 6/6 uncorrected at the latest visit. Intraocular pressure (IOP) ranged from 12 mmHg initially to a peak of 24 mmHg, and is currently 20 mmHg. The optic disc shows a stable cup-to-disc ratio of 0.6 with a large disc and healthy neuroretinal rim (HNRR) without retinal nerve fiber layer defects (RNFLD). The anterior segment remains normal with minimal PSCC. Current treatment includes Timolol 0.5% eye drops once daily, with no documented complications.",
+    "le": "The left eye is diagnosed as a glaucoma suspect with a history of posterior subcapsular cataract (PSCC). Visual acuity remained stable at 6/18 uncorrected and 6/9 with glasses, with no significant change at the latest visit. IOP ranged from 14 mmHg to a peak of 23 mmHg, and is currently 16 mmHg. The optic disc shows a progressive increase in cup-to-disc ratio from 0.6 initially to 0.7 currently, with a large disc, inferior rim thinning, and no RNFLD. The anterior segment remains normal with minimal PSCC. Current treatment includes Timolol 0.5% eye drops once daily, with no documented complications.",
+    "be": "The patient is a glaucoma suspect bilaterally with a history of PSCC. Visual acuity has been stable, with the right eye improving to 6/6 uncorrected and the left eye remaining at 6/18 uncorrected. IOP has been controlled with Timolol 0.5% eye drops, currently at 20 mmHg in the right eye and 16 mmHg in the left. The optic discs show large cups with a cup-to-disc ratio of 0.6 in the right eye and 0.7 in the left, with no RNFLD. The anterior segments are normal, and the lenses show minimal PSCC bilaterally.",
+    "status": "Success",
+    "mr_no": "P163594",
+    "visit_count": 8,
+    "first_visit": "2022-03-09",
+    "last_visit": "2024-12-21"
+  },
+  "0018672756": {
+    "re": "The right eye has a history of pigmentary glaucoma and post-trabeculectomy status. Vision has fluctuated from 6/24 initially to 6/12 with glasses in the latest visit. IOP decreased from 20 mmHg at baseline to 9 mmHg currently, following trabeculectomy performed before the fifth visit. The anterior segment shows a deep anterior chamber with a patent surgical peripheral iridectomy, diffuse bleb, and central posterior subcapsular cataract (PSCC) with pigments on the anterior lens capsule. Fundus examination reveals a cup-to-disc ratio of 0.9 with optic disc pallor and glaucomatous optic atrophy. The current status shows stable IOP and vision, with a small PED noted adjacent to the fovea.",
+    "le": "The left eye has a history of pigmentary glaucoma and early lens opacity. Vision data is limited, with no recorded improvement from baseline. IOP has fluctuated, peaking at 30 mmHg and currently measuring 20 mmHg. The anterior segment shows lens changes with pigments on the anterior lens capsule and Scheie stripe. Fundus examination reveals glaucomatous optic atrophy with a cup-to-disc ratio of 0.9. The current status indicates stable IOP and no significant changes in fundus findings.",
+    "be": "Bilateral findings include pigmentary glaucoma with near-total cupping and glaucomatous optic atrophy. The patient has been on Lumigan and Misopt eye drops bilaterally since the initial visit, with IOP control achieved in the right eye but persistent elevation in the left. The most recent visit notes early lens opacity in both eyes, with central PSCC in the right eye and Scheie stripe in the left. The fundus shows a cup-to-disc ratio of 0.9 bilaterally with optic disc pallor and glaucomatous changes.",
+    "status": "Success",
+    "mr_no": "P2322079",
+    "visit_count": 10,
+    "first_visit": "2022-07-08",
+    "last_visit": "2023-11-09"
+  },
+  "0018778471": {
+    "re": "The right eye has a history of primary angle-closure glaucoma (PACG) with status post-laser peripheral iridotomy (LPI) and pseudophakia following phacoemulsification with PCIOL implantation. Vision improved from 6/60 initially to 6/9 currently. Intraocular pressure (IOP) decreased from 28 mmHg at baseline to 27 mmHg at the latest visit. Optic disc evaluation showed a stable cup-to-disc ratio (CDR) of 0.65 with superior neuroretinal rim thinning. Fundus findings include PRP scars, few hemorrhages, and epiretinal membrane (ERM) with fibrovascular proliferation (FVP). Currently, the macula is clear, and the patient is on Glucomol eye drops bilaterally for IOP control.",
+    "le": "The left eye has a history of PACG with status post-LPI and pseudophakia following recent phacoemulsification with PCIOL implantation. Vision improved from 6/60 initially to 6/12P currently. IOP decreased from 28 mmHg at baseline to 26 mmHg at the latest visit. Optic disc evaluation showed a stable CDR of 0.6 with superior neuroretinal rim thinning. Fundus findings include PRP scars, few hemorrhages, and ERM with FVP. The macula is currently clear, and the patient is on Glucomol eye drops bilaterally for IOP control.",
+    "be": "The patient has bilateral pseudophakia, primary angle-closure glaucoma with status post-LPI, and proliferative diabetic retinopathy (PDR) status post-panretinal photocoagulation (PRP). Fundus findings include PRP scars, few hemorrhages, and ERM with FVP in both eyes. The macula is currently clear bilaterally, and the patient is on Glucomol eye drops for IOP control.",
+    "status": "Success",
+    "mr_no": "P195824",
+    "visit_count": 17,
+    "first_visit": "2022-07-28",
+    "last_visit": "2024-11-20"
+  },
+  "0019104480": {
+    "re": "The right eye has a diagnosis of primary open-angle glaucoma (POAG) and presbyopia. Vision improved from 6/12 with glasses initially to 6/6 with spectacles currently. IOP decreased from 26 mmHg at baseline to 19 mmHg at the latest visit with ongoing use of Timolol 0.5% eye drops twice daily. The optic disc shows a stable cup-to-disc ratio (CDR) of 0.8 with no new notching or thinning. The anterior segment remains normal with clear media and nuclear sclerosis grade 1 (NS1). The current status shows controlled IOP, stable vision, and no evidence of macular edema or other complications.",
+    "le": "The left eye has a diagnosis of POAG and presbyopia. Vision improved from 6/24 uncorrected to 6/6 with spectacles currently. IOP decreased from 26 mmHg at baseline to 15 mmHg at the latest visit with Timolol 0.5% eye drops twice daily and Careprost LS at night. The optic disc shows a stable CDR of 0.8 with a superior notch and superior retinal nerve fiber layer (RNFL) thinning. The anterior segment remains normal with nuclear sclerosis grade 1 (NS1). The current status shows controlled IOP, stable vision, and no evidence of macular edema or other complications.",
+    "be": "The patient has bilateral primary open-angle glaucoma (POAG) and presbyopia. Vision improved bilaterally from 6/12 and 6/24 initially to 6/6 with spectacles currently. IOP is well-controlled with Timolol 0.5% eye drops twice daily in both eyes and Careprost LS at night in the left eye, with current IOP at 19 mmHg (RE) and 15 mmHg (LE). Optic discs show a stable CDR of 0.8 bilaterally, with superior notching and RNFL thinning in the left eye. The anterior segments are normal with nuclear sclerosis grade 1 (NS1) in both eyes. No macular edema or other complications are noted.",
+    "status": "Success",
+    "mr_no": "P2934082",
+    "visit_count": 8,
+    "first_visit": "2022-10-05",
+    "last_visit": "2025-05-26"
+  },
+  "0019718733": {
+    "re": "The right eye has been consistently normal across all visits, with no significant abnormalities or interventions documented. Vision has remained stable at 6/6 throughout the follow-up period. Intraocular pressure (IOP) was recorded as 20 mmHg at the latest visit on 11/16/2023, with no evidence of glaucoma or other anterior or posterior segment pathology. The anterior segment and fundus findings have been normal across all visits, with no complications or treatments required. The current status of the right eye remains stable with normal vision, IOP, and ocular structures.",
+    "le": "The left eye presented with an open globe injury and traumatic cataract, followed by corneal tear repair and subsequent complications including lens-induced uveitis, aphakia, and secondary increased IOP. Vision declined from counting fingers at 1 meter in February 2023 to 6/60 in March 2023, and further to 4/60 by November 2023. The eye underwent multiple surgical interventions, including corneal tear repair, core vitrectomy, silicone oil injection (SOI), and subsequent silicone oil removal (SOR). IOP fluctuated, peaking at 52 mmHg in September 2023, requiring medical management with antiglaucoma medications and mannitol infusion. The latest IOP was 20 mmHg on 11/16/2023. The anterior segment shows aphakia with a pharmacologically mid-dilated pupil and a deep anterior chamber with an occluded peripheral iridotomy. The fundus reveals a clear media, attached retina, and macula on. The left eye remains aphakic with reduced vision and controlled IOP.",
+    "be": "No bilateral-specific findings recorded.",
+    "status": "Success",
+    "mr_no": "P86507",
+    "visit_count": 20,
+    "first_visit": "2023-02-13",
+    "last_visit": "2023-11-16"
+  },
+  "0020264606": {
+    "re": "The right eye has a history of primary open-angle glaucoma (POAG) and pseudophakia following phacoemulsification with PCIOL implantation in June 2023. Vision improved from 6/18P with glasses at baseline to 6/9P with pinhole correction in the latest visit (01/2024). The cup-to-disc ratio increased from 0.5 with inferior rim thinning initially to 0.65 with an inferior subtle notch currently. IOP ranged from 12 mmHg initially to 14 mmHg at the latest visit. The macula is clear post-cataract surgery, and the anterior segment remains quiet with a well-positioned PCIOL. Current treatment includes Timobest and Eyemist eye drops bilaterally.",
+    "le": "The left eye has a history of POAG and nuclear sclerosis, with phacoemulsification and PCIOL implantation performed in September 2023. Vision declined from 6/9P with glasses at baseline to 6/12P with pinhole correction currently. The cup-to-disc ratio progressed from 0.7 with bipolar thinning initially to 0.7 with an inferior subtle notch at the latest visit. IOP ranged from 14 mmHg initially to 14 mmHg currently. The macula remains hazy due to cataract, and the anterior segment is quiet with a well-positioned PCIOL. Current treatment includes Timobest and Eyemist eye drops bilaterally.",
+    "be": "The patient has a history of primary open-angle glaucoma and bilateral pseudophakia following phacoemulsification with PCIOL implantation (RE in June 2023, LE in September 2023). Both eyes have clear anterior chambers with pharmacologically dilated pupils and normal intraocular pressures of 14 mmHg bilaterally at the latest visit. The macula is clear in the RE and hazy in the LE due to residual cataract. Current treatment includes Timobest and Eyemist eye drops bilaterally.",
+    "status": "Success",
+    "mr_no": "P621501",
+    "visit_count": 11,
+    "first_visit": "2023-06-03",
+    "last_visit": "2024-01-25"
+  },
+  "0020319841": {
+    "re": "The right eye has a history of PAC and high myopia, with a diagnosis of primary angle-closure glaucoma (PACG). Vision has declined from 6/60 with glasses initially to 3/60 uncorrected and 6/36 with spectacles currently. IOP fluctuated from 18 mmHg initially to a peak of 20 mmHg and is currently 20 mmHg. The anterior chamber remains of normal depth with a patent laser peripheral iridectomy (LPI) and clear lens. Fundus examination shows a cup-to-disc ratio (CDR) of 0.4 with pallor, peripapillary atrophy (PPA), and chorioretinal degeneration. The macula is clear with geographic atrophy. The current status indicates stable IOP but progressive vision loss.",
+    "le": "The left eye has a history of PACG, high myopia, and amblyopia, with a recent diagnosis of absolute glaucoma. Vision has been poor throughout, with no light perception (NLP) recorded in the latest visit. IOP has been persistently elevated, peaking at 70 mmHg in the most recent visit despite prior LPI and medical therapy, including Dorzolamide-Timolol and Ripatec. The anterior chamber is of normal depth with a patent LPI, but the pupil is mid-dilated and non-reactive to light, and the lens shows immature cataract (IMC). Fundus examination reveals a CDR of 0.9 with glaucomatous optic atrophy (GOA), PPA, and chorioretinal degeneration. The current status reflects advanced glaucomatous damage with uncontrolled IOP and NLP.",
+    "be": "The patient has a history of PACG, high myopia, and systemic conditions including diabetes, hypertension, and hyperlipidemia. Both eyes underwent laser peripheral iridectomy, which remains patent. Fundus findings include chorioretinal degeneration and geographic atrophy in the macula. The patient has been on multiple topical medications, including Dorzolamide-Timolol and Careprost LS, with limited control of IOP in the left eye. The current status indicates advanced glaucomatous changes in the left eye with absolute glaucoma and NLP, while the right eye retains some functional vision.",
+    "status": "Success",
+    "mr_no": "P3028797",
+    "visit_count": 8,
+    "first_visit": "2023-06-14",
+    "last_visit": "2025-03-28"
+  },
+  "0021016408": {
+    "re": "The right eye has a history of blunt trauma leading to traumatic glaucoma, iris neovascularization, iridodialysis, and subluxation of the lens. Vision declined from 6/60 initially to hand movements (HM) in the latest visit. The patient underwent pars plana lensectomy (PPL), pars plana vitrectomy (PPV), and scleral-fixated intraocular lens (SFIOL) implantation, followed by diode laser cyclophotocoagulation (CPC) for uncontrolled IOP. IOP peaked at 56 mmHg and is currently 35 mmHg. Fundus shows a CDR of 0.95 with glaucomatous optic atrophy, bipolar notching, and pallor. The cornea remains hazy, and the retina is attached with visible periphery. Current status includes absolute glaucoma with no perception of light (NPL) and persistent corneal haze.",
+    "le": "The left eye has no history of trauma and remains unaffected with normal anterior and posterior segment findings. Vision has been stable at 6/9 since the initial visit. IOP has remained within normal limits, currently measuring 15 mmHg. The optic disc shows a stable cup-to-disc ratio of 0.55 with no evidence of glaucomatous changes. The lens is clear with early cataract changes noted in the latest visit. The retina is attached with a normal periphery and no significant pathology. The left eye remains stable with no active issues.",
+    "be": "No bilateral-specific findings recorded.",
+    "status": "Success",
+    "mr_no": "F164650",
+    "visit_count": 14,
+    "first_visit": "2023-11-03",
+    "last_visit": "2024-10-29"
+  },
+  "0021034319": {
+    "re": "The right eye has a history of aphakia following cataract surgery for a mature cataract and traumatic anterior subluxation of the lens, with secondary glaucoma and blunt trauma. Vision declined from hand movements initially to 1/60 post-surgery, and is currently at 2/60. IOP was initially unmeasurable due to corneal haze, peaked at 64 mmHg, and has since stabilized to 18 mmHg at the latest visit. The anterior chamber currently shows normal depth with VH2, and the pupil is normal in size and reaction to light. Fundus examination reveals a normal optic disc, vessels, and macula.",
+    "le": "The left eye has a mature cataract with no history of surgery, and secondary glaucoma is noted. Vision has remained stable at 6/60 since the initial visit. IOP has decreased from 16 mmHg to 14 mmHg currently. The anterior segment shows a pharmacologically dilated pupil with a clear PCIOL and normal anterior chamber depth. The fundus examination reveals a normal optic disc, vessels, and macula, with no evidence of significant pathology.",
+    "be": "No bilateral-specific findings recorded.",
+    "status": "Success",
+    "mr_no": "P89472",
+    "visit_count": 11,
+    "first_visit": "2023-11-08",
+    "last_visit": "2024-04-02"
+  },
+  "0022577896": {
+    "re": "The right eye has a diagnosis of Cogan-Reese syndrome, ICE syndrome, and secondary glaucoma. Vision initially was 6/18, improving to 6/9 with pinhole correction at the latest visit. Intraocular pressure (IOP) was elevated at 28 mmHg initially, peaking at 48 mmHg, and has since reduced to 16 mmHg following RE AADI implantation in November 2024. The anterior chamber remains well-formed with the AADI tube positioned at 11 o’clock, not touching the iris or endothelium. The optic disc shows a stable cup-to-disc ratio of 0.65, with clear media and normal vessels. Currently, the IOP is controlled at 16 mmHg, and the AADI tube remains well-positioned without complications.",
+    "le": "The left eye has a diagnosis of Cogan-Reese syndrome, ICE syndrome, and secondary glaucoma. Vision has remained stable at 6/6 throughout all visits. IOP was initially 14 mmHg, fluctuated slightly, and is currently stable at 14 mmHg. The anterior chamber is of normal depth, with normal iris and conjunctiva findings. The optic disc shows a stable cup-to-disc ratio of 0.5, with clear media and normal vessels. No interventions were performed, and the eye remains stable with no complications.",
+    "be": "Bilateral diagnoses include Cogan-Reese syndrome, ICE syndrome, and secondary glaucoma. The optic discs show stable cup-to-disc ratios of 0.65 in the right eye and 0.5 in the left eye, with clear media and normal vessels. The anterior segments are stable, with the right eye showing a well-positioned AADI tube and the left eye having normal anterior chamber depth. No bilateral-specific procedures or complications were recorded.",
+    "status": "Success",
+    "mr_no": "P5912523",
+    "visit_count": 9,
+    "first_visit": "2024-10-16",
+    "last_visit": "2025-03-29"
+  },
+  "0023111959": {
+    "re": "The right eye has a congenital inferonasal iris coloboma, a fundus coloboma inferiorly, a nuclear sclerosis grade 3 cataract, and a pterygium. Vision remained stable at 6/36 uncorrected across visits. The anterior chamber depth was normal, and the pupil was pharmacologically dilated and irregular. Fundus findings included a hazy view due to cataract, with a coloboma inferiorly and no optic disc abnormalities. IOP decreased from 21 mmHg initially to 19 mmHg at the latest visit. Current status includes stable vision, persistent cataract, and a coloboma with no new complications.",
+    "le": "The left eye has a congenital inferonasal iris coloboma, a fundus coloboma inferiorly, and a clear lens. Vision remained stable at 6/18 uncorrected across visits. The anterior chamber depth was normal, and the pupil was pharmacologically dilated. Fundus findings included a clear view with an optic disc pit and a coloboma inferiorly. IOP decreased from 18 mmHg initially to 16 mmHg at the latest visit. Current status includes stable vision, a clear lens, and no new complications.",
+    "be": "The patient has bilateral congenital iris and fundus colobomas, with an immature cataract in the right eye and a clear lens in the left. Vision has remained stable in both eyes, with uncorrected visual acuity of 6/36 in the right eye and 6/18 in the left. The anterior chambers are of normal depth, and ocular motility is full with orthophoria. No new bilateral complications were noted at the latest visit.",
+    "status": "Success",
+    "mr_no": "P711812",
+    "visit_count": 2,
+    "first_visit": "2025-02-24",
+    "last_visit": "2025-05-15"
+  },
+  "0003332771": {
+    "re": "The right eye has a history of pseudophakia, severe nonproliferative diabetic retinopathy (NPDR), diabetic macular edema (DME), and secondary glaucoma. Vision progressed from 6/18 initially to 6/6 with spectacles at the latest visit. Foveal thickness showed fluctuations, starting at 343 µm, peaking at 577 µm, and resolving to 275 µm in the most recent visit. Treatments included intravitreal Tricort (11/2024) and Avastin (5/2025), with anatomical improvement noted. IOP peaked at 30 mmHg (1/2025) following IVTA, consistent with steroid response, and was managed with topical Brimonidine. Current IOP was not measurable, and no neovascularization of the iris (NVI) was observed.",
+    "le": "The left eye has a history of pseudophakia, severe NPDR, and DME. Vision remained stable at 6/12 initially and improved to 6/6 with spectacles at the latest visit. Foveal thickness increased from 263 µm to 396 µm, peaking at 489 µm before resolving to 383 µm in the most recent visit. Treatments included intravitreal Avastin (6/2025), with partial resolution of DME and subfoveal detachment. IOP remained stable, ranging from 16–20 mmHg across visits, and was not measurable at the latest visit. No NVI was observed, and the optic disc showed a cup-to-disc ratio of 0.65–0.7.",
+    "be": "The patient has bilateral pseudophakia, severe NPDR, and DME. Systemic diabetes and hypertension likely contributed to disease progression. Both eyes underwent pharmacological management, including topical eye drops for IOP control and intravitreal injections for DME. Foveal thickness showed improvement bilaterally, with the right eye resolving to 275 µm and the left eye to 383 µm. No NVI was observed in either eye, and the latest IOP readings were not measurable.",
+    "status": "Success",
+    "mr_no": "P3786009",
+    "visit_count": 14,
+    "first_visit": "2024-01-16",
+    "last_visit": "2025-07-14"
+  },
+  "0011285844": {
+    "re": "The right eye has a history of chronic CNVM associated with pseudophakia and age-related macular degeneration (AMD). Visual acuity improved from 6/12P uncorrected at baseline to 6/6P with glasses in the latest visit. OCT findings showed progressive resolution of subretinal fluid (SRF) and subretinal hemorrhage (SRH) with persistent cystic changes and parafoveal irregular RPE lesions, consistent with regressing CNVM. The treatment course included multiple intravitreal injections of anti-VEGF agents (Avastin, OCEVA, Ranieyes, Razumab-PFS) with anatomical improvement noted on imaging. The most recent injection was Razumab-PFS on 07/18/2025. Current IOP is not recorded, and the anterior segment remains stable with a PCIOL in situ.",
+    "le": "The left eye has chronic CNVM with pseudophakia and AMD. Visual acuity has remained stable at 6/60 uncorrected since baseline. OCT findings indicate a scarred CNVM with chronic cystoid macular edema (CME) and resolving SRF and SRH. No intravitreal injections were performed in the left eye throughout the treatment course. Current IOP is not recorded, and the anterior segment remains stable with a PCIOL in situ.",
+    "be": "Bilateral findings include chronic CNVM with pseudophakia and AMD. Imaging consistently shows parafoveal irregular RPE lesions with resolving SRF and SRH, persistent cystic changes, and hard exudates, indicating regressing CNVM in the right eye and scarred CNVM with chronic CME in the left. The patient has undergone multiple intravitreal anti-VEGF injections in the right eye, with no procedures performed in the left.",
+    "status": "Success",
+    "mr_no": "P4513776",
+    "visit_count": 44,
+    "first_visit": "2022-01-03",
+    "last_visit": "2025-07-18"
+  },
+  "0011400902": {
+    "re": "The right eye is diagnosed as normal. Vision was 6/18 uncorrected at presentation, improving to 6/6 with correction. The anterior segment showed a clear lens with normal anterior chamber depth, iris, conjunctiva, and pupil. The optic disc appeared normal, and the vitreous was clear. The retina was unremarkable with no evidence of pathology. Current IOP is 18 mmHg.",
+    "le": "The left eye has a history of rhegmatogenous retinal detachment (RRD) and is status post pars plana vitrectomy (PPV) with silicone oil insertion (SOI). Vision was 5/60 uncorrected and did not improve with correction. The anterior segment revealed aphakia with a normal anterior chamber, iris, conjunctiva, and pupil. The optic disc showed a myopic appearance, and the retina was attached with silicone oil in situ. Current IOP is elevated at 24 mmHg, and the patient is on Timolol 0.5% eye drops twice daily in the left eye.",
+    "be": "No bilateral-specific findings recorded.",
+    "status": "Success",
+    "mr_no": "P4535280",
+    "visit_count": 1,
+    "first_visit": "2023-04-24",
+    "last_visit": "2023-04-24"
+  },
+  "0012275037": {
+    "re": "The right eye has a history of post-PRK status and was noted to have ametropia in the most recent visits. Vision has remained stable at 6/6 uncorrected from the initial visit in 02/2022 to the latest visit in 09/2024. IOP was recorded as 17 mmHg initially, decreased to 13 mmHg by 03/2023, but was not recorded in the latest visit. The anterior segment has consistently shown normal depth anterior chamber, normal iris, clear lens, and no significant conjunctival findings except for mild congestion in 10/2022. The fundus has remained normal throughout, with no evidence of macular edema or other abnormalities. The current status shows stable uncorrected vision at 6/6, normal anterior segment, and no significant posterior segment findings.",
+    "le": "The left eye shares a history of post-PRK status and was diagnosed with ametropia in recent visits. Vision has been stable at 6/6 uncorrected from the initial visit in 02/2022 to the latest visit in 09/2024. IOP was 15 mmHg initially, decreased to 13 mmHg by 03/2023, and was not recorded in the latest visit. The anterior segment has consistently shown normal depth anterior chamber, normal iris, clear lens, and no significant conjunctival findings except for mild temporal subconjunctival hemorrhage in 09/2024. The fundus has remained normal except for an inferior pigmented lattice noted in 08/2024. The current status shows stable uncorrected vision at 6/6, normal anterior segment, and no significant macular or optic disc abnormalities.",
+    "be": "The patient has a history of post-PRK status bilaterally with stable uncorrected vision at 6/6 from 02/2022 to the latest visit in 09/2024. Anterior segments have consistently shown normal depth anterior chambers, normal irises, and clear lenses. Fundus findings have been normal bilaterally except for an inferior pigmented lattice noted in the left eye in 08/2024. No evidence of macular edema, optic disc abnormalities, or significant posterior segment changes was observed. The current status reflects stable vision and no active pathology in either eye.",
+    "status": "Success",
+    "mr_no": "P1352885",
+    "visit_count": 7,
+    "first_visit": "2022-02-17",
+    "last_visit": "2024-09-23"
+  },
+  "0014944010": {
+    "re": "The right eye has severe nonproliferative diabetic retinopathy (NPDR) with progression to proliferative diabetic retinopathy (PDR) and associated vitreous hemorrhage (VH). Vision remained stable at 6/9 from baseline to the latest visit. Intraocular pressure (IOP) was 18 mmHg initially, decreasing to 14 mmHg at the most recent visit. No procedures or intravitreal injections were performed in the right eye. Fundus findings showed severe NPDR with PDR changes, and post-panretinal photocoagulation (PRP) stabilization was noted. Currently, the macula is clear with no diabetic macular edema (DME), and the lens shows immature cataract (IMC).",
+    "le": "The left eye has severe NPDR with progression to PDR and associated vitreous hemorrhage. Vision declined from 6/12 at baseline to 6/24 at the latest visit. IOP was 15 mmHg initially and is currently 14 mmHg. The patient received PRP in the left eye, with stabilization of PDR noted post-treatment, though skip areas remain inferiorly. Fundus findings include resolving inferior VH and no DME on the latest OCT. The lens shows IMC with posterior subcapsular cataract (PSCC). Current treatment includes NepaWel eye drops and Macugold Plus tablets.",
+    "be": "Severe NPDR progressed to PDR with associated vitreous hemorrhage in both eyes. PRP was performed bilaterally, leading to stabilization of PDR. The macula is currently clear with no DME in either eye, and IOP is stable at 14 mmHg bilaterally. Both eyes exhibit immature cataracts, with PSCC noted in the left eye. Systemic comorbidities include diabetes, hypertension, and hyperlipidemia, which may contribute to disease progression.",
+    "status": "Success",
+    "mr_no": "P146756",
+    "visit_count": 8,
+    "first_visit": "2022-11-12",
+    "last_visit": "2025-04-25"
+  },
+  "0015544396": {
+    "re": "The patient has a history of rhegmatogenous retinal detachment (RRD) and is pseudophakic following vitrectomy and C3F8 gas tamponade. Vision declined from 6/6P initially (05/2023) to 6/12P currently (10/2024). Intraocular pressure (IOP) peaked at 33 mmHg (05/2023) due to secondary glaucoma but improved to 12 mmHg with medical management, including Diamox and Lopres 0.5% drops. Fundus findings showed a cup-to-disc ratio (CDR) of 0.8 with clear media, normal vessels, and stable laser marks. The retina remains attached with no macular edema or subretinal fluid.",
+    "le": "The left eye is pseudophakic with a history of stable laser scars and epiretinal membrane (ERM). Vision improved from 6/9P (07/2023) to 6/12 currently (10/2024). IOP remained stable, ranging from 13–17 mmHg, and is currently 12 mmHg. Fundus examination revealed a CDR of 0.9 with a pale disc, clear media, normal vessels, and stable laser marks. No macular edema or subretinal fluid was noted.",
+    "be": "The patient has a history of pseudophakia, secondary glaucoma, and rhegmatogenous retinal detachment (RRD) with prior vitrectomy and laser treatment. The retina remains attached bilaterally with stable laser scars and no evidence of macular edema or subretinal fluid.",
+    "status": "Success",
+    "mr_no": "P2660346",
+    "visit_count": 10,
+    "first_visit": "2023-05-03",
+    "last_visit": "2024-10-18"
+  },
+  "0016092240": {
+    "re": "The patient has a history of scleral buckle surgery in the right eye. Initial vision was 4/60 uncorrected, with a corrected visual acuity of 4/60. The anterior segment showed a clear lens, normal anterior chamber depth, and normal iris and conjunctiva. Fundus examination revealed a 0.3 CDR, clear macula, and a buckle effect with a demarcation line. Intraocular pressure was 10 mmHg at the most recent visit. The eye remains stable post-surgery with no evidence of active complications.",
+    "le": "The left eye had an uncorrected visual acuity of 6/6 at the most recent visit, with no significant anterior segment abnormalities noted. The fundus examination showed a normal optic disc, clear macula, and normal vessels. Intraocular pressure was 10 mmHg. The left eye is currently stable with no evidence of pathology or complications.",
+    "be": "No bilateral-specific findings recorded.",
+    "status": "Success",
+    "mr_no": "P2700790",
+    "visit_count": 1,
+    "first_visit": "2022-01-24",
+    "last_visit": "2022-01-24"
+  },
+  "0016669482": {
+    "re": "The patient initially presented with acute conjunctivitis in the right eye, characterized by conjunctival congestion and discharge, with normal anterior chamber depth, iris, and lens. Vision and IOP were not documented. Treatment included Tobramycin eye drops and Tocin ointment for 7 days. By the latest visit on 28/01/2022, the conjunctiva, anterior chamber, iris, pupil, and lens were normal, and the fundus examination showed a clear media, normal disc, vessels, and background with macular reflex present. IOP remained unmeasurable, and no further treatment was initiated.",
+    "le": "(Limited data available.) No diagnosis or significant findings were recorded for the left eye across visits. Anterior segment, ocular movements, and fundus findings were normal at the latest visit on 28/01/2022. IOP was not measurable, and no treatments were documented.",
+    "be": "No bilateral-specific findings recorded.",
+    "status": "Success",
+    "mr_no": "P2180687",
+    "visit_count": 2,
+    "first_visit": "2022-01-21",
+    "last_visit": "2022-01-28"
+  },
+  "0017373092": {
+    "re": "The right eye has a history of lattice degeneration with prior barrage laser and early cataract. Vision improved from 6/9 uncorrected at baseline (9/’22) to 6/6 with glasses currently (6/’23). Intraocular pressure (IOP) remained stable, measured at 17 mmHg initially and 19 mmHg most recently. The anterior segment shows normal depth anterior chamber and early lens changes. Fundus examination reveals stable inferior barrage laser scars with a clear macula and normal optic disc. The retina remains attached with no evidence of new pathology.",
+    "le": "The left eye has a history of S/P pars plana vitrectomy (PPV) with silicone oil insertion (SOI), subsequent silicone oil removal (SOR), and posterior chamber intraocular lens (PCIOL) implantation. Vision improved from 6/24P uncorrected at baseline (9/’22) to 6/12 with glasses currently (6/’23). IOP increased from 18 mmHg initially to 20 mmHg most recently. The anterior segment shows a PCIOL with emulsified oil behind the lens. Fundus examination reveals stable laser scars, a clear macula, and a normal optic disc. The retina remains attached, with no evidence of macular edema or new complications.",
+    "be": "No bilateral-specific findings recorded.",
+    "status": "Success",
+    "mr_no": "P2791411",
+    "visit_count": 5,
+    "first_visit": "2022-09-01",
+    "last_visit": "2023-06-16"
+  },
+  "0017659198": {
+    "re": "The right eye has no significant diagnosis recorded across visits. Vision remained stable at 6/6 from the initial visit to the latest. Anterior segment findings, including the lens, were consistently normal. IOP was 15 mmHg initially, increased to 18 mmHg mid-course, and was not measurable at the latest visit. No procedures or treatments were performed on the right eye. The fundus remained normal throughout all visits, with no evidence of macular edema or other abnormalities.",
+    "le": "The left eye was diagnosed with CRVO and associated macular edema during the third visit. Vision was 6/9 initially, with mild improvement to 6/9P at the latest visit. Anterior segment findings, including the lens, were normal across all visits. IOP decreased from 19 mmHg initially to 14 mmHg mid-course but was not measurable at the latest visit. The patient received one intravitreal Avastin injection in the left eye during the final visit, with mild improvement in macular edema noted. Fundus examination revealed tortuous and engorged vessels, retinal splotchy hemorrhages extending to the periphery, and gross macular edema, with mild vitreous haze persisting.",
+    "be": "No bilateral-specific findings recorded.",
+    "status": "Success",
+    "mr_no": "F57675",
+    "visit_count": 4,
+    "first_visit": "2022-01-22",
+    "last_visit": "2022-02-03"
+  },
+  "0017826959": {
+    "re": "The right eye has a history of moderate nonproliferative diabetic retinopathy (NPDR) and diabetic macular edema (DME). Vision remained stable from 6/36 uncorrected at baseline to 6/24 currently. Foveal thickness showed progressive worsening from 185 µm to 354 µm by the latest visit. Intraocular pressure (IOP) was 18 mmHg at the most recent visit. The lens status transitioned from nuclear sclerosis grade II to pseudophakia following cataract surgery. Currently, the fundus shows moderate NPDR with no documented macular edema.",
+    "le": "The left eye has a history of moderate NPDR, DME, and epiretinal membrane (ERM). Vision improved from 6/24 uncorrected at baseline to 6/18 currently. Foveal thickness increased from 242 µm to 354 µm, indicating worsening macular edema. The lens status transitioned from nuclear sclerosis grade III with posterior subcapsular cataract (PSCC) to pseudophakia after cataract surgery. IOP was 18 mmHg at the latest visit. Fundus findings include moderate NPDR with persistent ERM and DME.",
+    "be": "Both eyes have a history of moderate NPDR and DME, with systemic comorbidities including diabetes, hypertension, dyslipidemia, and a history of stroke. Both eyes underwent cataract surgery with intraocular lens implantation, resulting in pseudophakia. Current IOP is 18 mmHg bilaterally.",
+    "status": "Success",
+    "mr_no": "P5406506",
+    "visit_count": 11,
+    "first_visit": "2022-01-13",
+    "last_visit": "2024-03-09"
+  },
+  "0018576839": {
+    "re": "The right eye has a history of pseudophakia with a PCIOL in place. Vision initially measured at 6/18P, improved to 6/12 by mid-course, and remained stable at 6/18 at the latest visit. OCT findings showed progressive loss of foveal thickness, with the most recent measurement at 60 µm, along with IS/OS disruption and hyperpigmentation suggestive of IJT. No intravitreal injections or laser treatments were recorded. IOP was consistently within normal limits across earlier visits but was not measurable at the latest visit. The anterior segment remains stable with a pharmacologically dilated pupil and no evidence of neovascularization.",
+    "le": "The left eye has a history of amblyopia and pseudophakia with a PCIOL. Vision was poor initially at 3/60, improved to 6/36 by mid-course, and stabilized at 6/60 at the latest visit. OCT findings revealed IJT with scarring, IS/OS disruption, and hyperpigmentation, with the latest foveal thickness at 60 µm. No intravitreal injections or laser treatments were documented. IOP was within normal limits earlier but was not measurable at the latest visit. The anterior segment remains stable with a pharmacologically dilated pupil and no neovascularization noted.",
+    "be": "Both eyes are pseudophakic with PCIOLs and show bilateral OCT findings of IJT with scarring, IS/OS disruption, and hyperpigmentation. The latest foveal thickness was 60 µm bilaterally. No bilateral-specific treatments, such as injections or lasers, were recorded. The anterior segments are stable with pharmacologically dilated pupils and no neovascularization.",
+    "status": "Success",
+    "mr_no": "P101348",
+    "visit_count": 6,
+    "first_visit": "2022-06-20",
+    "last_visit": "2023-08-14"
+  },
+  "0018851656": {
+    "re": "The right eye initially presented with a nuclear cataract (NS4) and ARMD, with UCVA of 6/12P improving to 6/9 with pinhole. Post cataract surgery with PCIOL implantation in August 2022, vision improved to 6/6 with glasses by September 2022 and remained stable at 6/6 in the latest visit (June 2023). IOP decreased from 14 mmHg initially to 10 mmHg at the latest visit. The anterior segment showed a normal depth anterior chamber, pharmacologically dilated pupil, and a clear PCIOL lens. Fundus findings included macular drusen and RPE degeneration with no evidence of subretinal fluid (SRF) or other complications. The current status is stable with good visual acuity and controlled IOP.",
+    "le": "The left eye presented with a nuclear cataract (NS2-3), ARMD, and intermediate NPDR, with UCVA of 5/60 initially. Post cataract surgery with PCIOL implantation in August 2022, vision improved to 6/36 with glasses but remained limited at 6/24P in the latest visit (June 2023). IOP was stable, measured at 15 mmHg initially and 12 mmHg at the latest visit. The anterior segment showed a normal depth anterior chamber, pharmacologically dilated pupil, and a clear PCIOL lens. Fundus findings included macular drusen, RPE degeneration, and chronic CSCR changes with no active SRF. The current status reflects stable vision and IOP, with ongoing ARMD and NPDR monitoring.",
+    "be": "Bilateral findings include ARMD with macular drusen and RPE degeneration, with no active subretinal fluid. Both eyes underwent cataract surgery with PCIOL implantation in August 2022, leading to improved vision in the right eye but limited improvement in the left eye due to underlying ARMD and NPDR. IOP is currently well-controlled at 10 mmHg in the right eye and 12 mmHg in the left eye. The patient is on systemic supplements (Optigold) for ARMD management. No evidence of neovascularization or significant complications was noted in the latest visit.",
+    "status": "Success",
+    "mr_no": "P2912860",
+    "visit_count": 15,
+    "first_visit": "2022-08-13",
+    "last_visit": "2023-06-09"
+  },
+  "0019023751": {
+    "re": "The right eye initially presented with a pseudophakic status (PCIOL) and epiretinal membrane (ERM). Vision declined from 6/60 to hand movements (HM) by October 2022, with subsequent improvement to 6/12 by January 2023 following pars plana vitrectomy (PPV) with fluid-air exchange and ILM peeling in October 2022. OCT findings showed progressive changes from cystic macular edema and loss of foveal contour to resolution of macular edema and stabilization of ERM by December 2022. Intraocular pressure (IOP) ranged from 10–20 mmHg across visits, with no current IOP recorded. The latest visit in February 2023 confirmed a stable post-surgical status with persistent ERM and lamellar macular hole (LMH), loss of foveal contour, and cystic changes on OCT.",
+    "le": "The left eye was diagnosed with nuclear sclerosis (NS) grade II and posterior subcapsular cataract (PSCC) initially, with vision improving from 6/12P to 6/6 by January 2023. The anterior segment showed stable findings of NS and PSCC throughout, with no surgical interventions performed. Fundus findings included intermittent haziness and dull foveal reflex, with no significant macular edema or other posterior segment complications. IOP ranged from 16–20 mmHg across visits, with no current IOP recorded. The latest visit in February 2023 confirmed stable vision and no new findings.",
+    "be": "No bilateral-specific findings recorded.",
+    "status": "Success",
+    "mr_no": "P2345291",
+    "visit_count": 8,
+    "first_visit": "2022-09-19",
+    "last_visit": "2023-02-21"
+  },
+  "0019382550": {
+    "re": "The right eye has no specific diagnosis but is associated with systemic conditions including diabetes and hypertension. Vision improved from 6/36 uncorrected at baseline (11/2022) to 6/6 with correction currently (8/2023). Intraocular pressure (IOP) decreased from 20 mmHg initially to 12 mmHg at the latest visit. The anterior segment remains normal with early lens changes noted. The fundus is clear with a normal disc and no significant abnormalities. Current status shows stable vision, normal IOP, and no evidence of macular edema or other complications.",
+    "le": "The left eye is diagnosed with central serous chorioretinopathy (CSCR) and early cataract. Vision improved from 6/60 uncorrected at baseline (11/2022) to 6/9 with correction currently (8/2023). Foveal thickness showed persistent subretinal fluid (SRF) and pigment epithelial detachment (PED) on OCT, despite micropulse laser treatment on 1/20/2023. IOP has remained stable, ranging from 15-20 mmHg, and is currently 16 mmHg. The anterior segment is normal with early lens changes. The fundus shows persistent CSCR with PED and SRF. Current status indicates stable vision and IOP, with unresolved CSCR findings.",
+    "be": "No bilateral-specific findings recorded.",
+    "status": "Success",
+    "mr_no": "F122394",
+    "visit_count": 11,
+    "first_visit": "2022-11-30",
+    "last_visit": "2023-08-21"
+  },
+  "0019551250": {
+    "re": "The right eye has a history of chronic angle-closure glaucoma, aphakia, post-trabeculectomy, post-diode CPC, and absolute glaucoma. Vision declined from 6/60 initially to hand movements (HM) in the most recent visit. Intraocular pressure (IOP) was elevated at 55 mmHg initially, fluctuated with treatment, and is currently 3 mmHg. The patient underwent trabeculectomy with phacoemulsification and intraocular lens implantation in February 2023, followed by diode CPC in March 2024, and intravitreal Avastin injection in May 2024 for neovascularization. Despite these interventions, the optic disc shows advanced glaucomatous damage with a pale disc and a cup-to-disc ratio (CDR) of 0.9. The anterior chamber is irregular with 360-degree peripheral anterior synechiae (PAS), and neovascularization of the iris (NVI) persists. The current status includes HM vision, IOP of 3 mmHg, and a pale disc with advanced glaucomatous changes.",
+    "le": "The left eye has a history of primary angle closure (PAC) and is pseudophakic. Vision has remained stable from 6/9 initially to 6/12 currently. IOP was 19 mmHg at baseline, fluctuated between 14-25 mmHg during follow-ups, and is currently 17 mmHg. The optic disc shows a stable CDR of 0.3-0.4 with no significant progression of glaucomatous damage. The anterior chamber remains of normal depth with a patent laser peripheral iridotomy (LPI) and a clear cornea. No surgical or laser interventions were performed on this eye. The current status includes 6/12 vision, IOP of 17 mmHg, and stable optic disc findings.",
+    "be": "The patient has a history of systemic conditions, including diabetes, hypertension, hyperlipidemia, and asthma, which may contribute to ocular disease progression. Both eyes show signs of chronic angle-closure glaucoma, with the right eye progressing to absolute glaucoma and the left eye maintaining stable PAC.",
+    "status": "Success",
+    "mr_no": "P505744",
+    "visit_count": 35,
+    "first_visit": "2023-01-05",
+    "last_visit": "2025-06-27"
+  },
+  "0020058637": {
+    "re": "The right eye has a history of high myopia, s/p ICL implantation, and subsequent ICL removal with phacoemulsification and PCIOL implantation (5/26/2023). Initial vision was 6/60, improving to 6/24 with pinhole, and has progressively improved to 6/6 with correction as of the latest visit on 10/13/2023. IOP ranged from 13 mmHg to a peak of 21 mmHg during the course but was not recorded at the latest visit. Anterior segment findings include a patent laser peripheral iridectomy, normal anterior chamber depth, and PCIOL in situ. Fundus examination consistently showed a myopic disc with stable inferior and superior pigmented lattice degeneration post-barrage laser. The macula remains clear, and no new lesions were noted.",
+    "le": "The left eye has a history of high myopia and s/p ICL implantation. Initial vision was 6/12P, improving to 6/9P with pinhole, but currently measures 6/60 with glasses as of the latest visit on 10/13/2023. IOP ranged from 12 mmHg to a peak of 18 mmHg but was not recorded at the latest visit. Anterior segment findings include a patent laser peripheral iridectomy, pharmacologically dilated pupil, and ICL in situ with lens changes. Fundus findings consistently revealed a myopic disc with stable inferior and superior pigmented lattice degeneration post-barrage laser. The macula remains clear, and no new lesions were noted.",
+    "be": "The patient has a history of high myopia bilaterally with s/p ICL implantation. Both eyes underwent laser peripheral iridectomy, and the right eye underwent ICL removal with phacoemulsification and PCIOL implantation. Fundus findings in both eyes consistently show myopic discs with stable inferior and superior pigmented lattice degeneration post-barrage laser. The maculae remain clear bilaterally, with no new lesions noted.",
+    "status": "Success",
+    "mr_no": "P1911700",
+    "visit_count": 11,
+    "first_visit": "2023-04-24",
+    "last_visit": "2023-10-13"
+  },
+  "0020163579": {
+    "re": "The right eye has a diagnosis of normal findings throughout all visits. Vision improved from 6/12 uncorrected at baseline (5/2023) to 6/6 with correction at the latest visit (12/2023). Foveal thickness was measured at 189 µm in mid-course (5/2023) and remained stable. No macular edema or subretinal fluid was noted. Intraocular pressure (IOP) was stable, measured at 12 mmHg initially, with a current value of 20 mmHg. The anterior segment remained normal, with a clear lens throughout. The fundus showed no abnormalities, with a normal optic disc and macula.",
+    "le": "The left eye was diagnosed with vitreous hemorrhage, polypoidal choroidal vasculopathy (PCV), and immature cataract, with a history of pars plana vitrectomy (PPV), silicone oil injection (SOI), and subsequent silicone oil removal (SOR). Vision declined from unrecorded at baseline to 5/60 with correction at the latest visit (12/2023). Foveal thickness was 189 µm in mid-course (5/2023) and remained stable. The eye underwent Avastin injection, PPV, fluid-air exchange, internal limiting membrane peeling, and phacoemulsification with intraocular lens implantation in 5/2023, followed by SOR in 11/2023. IOP was elevated postoperatively (20 mmHg in 5/2023) but improved to 14 mmHg at the latest visit. The anterior segment showed dispersed hyphema and subconjunctival silicone oil. The fundus revealed a reattached retina with barrage laser marks, inferior recurrent retinal detachment (ReRD), and multiple breaks inferiorly and nasally.",
+    "be": "No bilateral-specific findings recorded.",
+    "status": "Success",
+    "mr_no": "P5656799",
+    "visit_count": 12,
+    "first_visit": "2023-05-14",
+    "last_visit": "2023-12-04"
+  },
+  "0020408193": {
+    "re": "The right eye has a diagnosis of immature cataract (NS II, NO II) with a history of S/P barrage laser. Vision has declined from 6/18 initially to 6/24 with pinhole improvement to 6/18 in the latest visit. IOP has remained stable, recorded at 14 mmHg in the most recent visit. The anterior segment shows a clear lens with normal depth and pharmacologically dilated pupil. Fundus examination reveals a cup-to-disc ratio of 0.7 with thin neuroretinal rim and no evidence of retinal detachment. The current status includes stable IOP, reduced vision, and a clear lens with no acute complications noted.",
+    "le": "The left eye has a history of therapeutic keratoplasty (TKP) for corneal ulcer, now complicated by corneal graft failure and aphakia. Vision has remained severely impaired, recorded as hand movements (HM) throughout follow-ups. IOP was not measurable in the latest visit. The anterior segment shows a centrally formed anterior chamber with minimal congestion and aphakia. Fundus findings are limited due to graft edema, with no visualization of the optic disc or retina. The current status includes persistent graft failure, aphakia, and severely reduced vision with no measurable IOP.",
+    "be": "No bilateral-specific findings recorded.",
+    "status": "Success",
+    "mr_no": "F862428",
+    "visit_count": 15,
+    "first_visit": "2023-07-01",
+    "last_visit": "2024-10-26"
+  },
+  "0020956509": {
+    "re": "The right eye has a history of immature cataract, pseudophakia, moderate NPDR, and diabetic macular edema (DME). Vision remained stable at 5/60 from the initial visit to the latest, with no significant improvement. OCT findings consistently showed parafoveal hard exudates, cystic changes, and irregular RPE, with resolving macular edema noted in later visits. IOP has been stable, measured at 17 mmHg in the most recent visit. The anterior segment shows a clear PCIOL with normal depth and no neovascularization. The fundus reveals dot-blot hemorrhages, cotton wool spots, and drusen, with moderate NPDR and no significant progression. The current status includes stable vision, controlled IOP, and resolving macular edema.",
+    "le": "The left eye has a history of pseudophakia, moderate NPDR, and DME. Vision improved from 6/36 initially to 6/9 at the latest visit. OCT findings showed parafoveal hard exudates, cystic changes, and irregular RPE, with resolving macular edema noted in later visits. IOP increased to 20 mmHg in the most recent visit. The anterior segment shows a clear PCIOL with normal depth and no neovascularization. The fundus reveals dot-blot hemorrhages, drusen, and dull hard exudates, with moderate NPDR and no significant progression. The current status includes improved vision, elevated IOP, and resolving macular edema.",
+    "be": "The patient has a systemic history of diabetes, hypertension, and hyperlipidemia, contributing to moderate NPDR and DME in both eyes. Both eyes underwent cataract surgery with PCIOL implantation, and the left eye received an intravitreal Avastin injection on 2023-11-08 for DME, with subsequent resolution of macular edema. The fundus consistently shows dot-blot hemorrhages, drusen, and moderate NPDR without progression. No neovascularization was noted in either eye during the latest visit.",
+    "status": "Success",
+    "mr_no": "P5740970",
+    "visit_count": 9,
+    "first_visit": "2023-10-20",
+    "last_visit": "2025-01-30"
+  }
+}

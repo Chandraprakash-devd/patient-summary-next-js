@@ -1,0 +1,493 @@
+{
+  "p": {
+    "uid": "0013650399",
+    "mr": "P1953682",
+    "v": 7,
+    "f": "2022-03-02",
+    "l": "2025-04-29"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-03-02",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "MGD × 1",
+          "PCIOL × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "66",
+            "UCVA": "69P"
+          },
+          {
+            "Glasses": "66",
+            "UCVA": "66P"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "15",
+            "va": "66",
+            "ucva": "69P"
+          },
+          {
+            "ax": "180",
+            "va": "66",
+            "ucva": "66P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5",
+            "ax": "15"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "s": {
+        "h": "GIT;Renal;RS;Diabetes;Hypertension;Cardiac;Asthma;Other Allergies;Non-Ocular Sx;Others;Hyperlipidemia;Drug Allergies;Remarks;H/O COVID 19;H/O COVID VACCINE;Identification Marks;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": "CDR 0.7 , deep cup , SR sloping"
+      },
+      "m": [
+        {
+          "name": "ZAHA EYE OINT",
+          "eye": "3",
+          "fre": 2,
+          "dur": 15,
+          "med_start": "02/03/2022",
+          "med_end": "16/03/2022"
+        },
+        {
+          "name": "LUBREX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 4,
+          "dur": 30,
+          "med_start": "02/03/2022",
+          "med_end": "31/03/2022"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "12",
+          "10"
+        ]
+      },
+      "fup": {
+        "adv": "6 months"
+      },
+      "oh": {
+        "desc": "No;nil agm"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-09-15",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "PCIOL × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69P"
+          },
+          {
+            "UCVA": "66"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "15",
+            "va": "66"
+          },
+          {
+            "ax": "0",
+            "va": "66",
+            "ucva": "66"
+          }
+        ],
+        "nr": [
+          {
+            "ax": "15"
+          },
+          {}
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "pciol"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "cdr 0.75",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "GENTEAL EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": "10"
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2023-11-29",
+      "c": "F2",
+      "diag": [
+        "",
+        "",
+        [
+          "Pseudophakia × 1",
+          "Glaucoma suspect × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69",
+            "Glasses": "66"
+          },
+          {
+            "UCVA": "66P",
+            "Glasses": "66"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "15",
+            "va": "66",
+            "ucva": "69"
+          },
+          {
+            "ax": "150",
+            "va": "66",
+            "ucva": "66P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5",
+            "ax": "15"
+          },
+          {
+            "sph": "+2.5",
+            "ax": "N6"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light;Pharmacologically Dilated",
+        "lens": "Clear;PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.7-0.8,DEEP CUP",
+          "cup disc ratio-0.7-0.8,DEEP CUP,?SR THIN"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "GENTEAL EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "12",
+          "15"
+        ]
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-12-06",
+      "c": "F3",
+      "diag": [
+        "",
+        "",
+        [
+          "Glaucoma suspect × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69P"
+          },
+          {
+            "UCVA": "66P"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.7-0.8,DEEP CUP",
+          "cup disc ratio-0.7-0.8,DEEP CUP,?SR THIN"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "GENTEAL EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": "13",
+        "sp": {
+          "r": "DONE,DONE,COMPLETED,COMPLETED,COMPLETED,COMPLETED"
+        }
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2024-09-21",
+      "c": "F4",
+      "diag": [
+        "",
+        "",
+        [
+          "Glaucoma suspect × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light;Pharmacologically Dilated",
+        "lens": "Clear;PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "ZAHA EYE OINT",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "LUBREX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "13",
+          "12"
+        ]
+      },
+      "fup": {
+        "adv": "1 year"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2025-03-29",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "Glaucoma suspect × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "With Spectacles": "66",
+            "UCVA": "69"
+          },
+          {
+            "With Spectacles": "66",
+            "UCVA": "66"
+          }
+        ]
+      },
+      "s": {
+        "h": "Hyperlipidemia;Drug Allergies;RS;Non-Ocular Sx;Diabetes;Other Allergies;Thyroid Status;Identification Marks;GIT;Others;Remarks;Asthma;Hypertension;Cardiac"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "CDR-0.7 ?S RT",
+          "CDR-0.65-0.7"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "REFRESH TEARS EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "14"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2025-04-29",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "Glaucoma suspect × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "69",
+          "With Spectacles": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "CDR-0.7",
+          "CDR-0.65-0.7"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": "14",
+        "sp": {
+          "r": "COMPLETED,COMPLETED,done,done,COMPLETED,COMPLETED"
+        }
+      }
+    }
+  ]
+}

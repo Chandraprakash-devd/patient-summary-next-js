@@ -1,0 +1,482 @@
+{
+  "p": {
+    "uid": "0019104480",
+    "mr": "P2934082",
+    "v": 8,
+    "f": "2022-10-05",
+    "l": "2025-05-26"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-10-05",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "Presbyopia × 1",
+          "Simple Hyperopic Astigmatism × 1",
+          "Primary Open Angle Glaucoma/POAG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "612",
+            "UCVA": "612"
+          },
+          {
+            "Glasses": "69P",
+            "UCVA": "624"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66"
+          },
+          {
+            "ax": "170",
+            "va": "66P",
+            "ucva": "624"
+          }
+        ],
+        "nr": [
+          {
+            "ax": "90"
+          },
+          {}
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear"
+      },
+      "op": {
+        "ref": "BE IOP High"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": "0.7",
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.8",
+          "cup disc ratio-0.8, superior thinning"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "DIAMOX TAB",
+          "dos": "2 tablet",
+          "eye": "5"
+        },
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2,
+          "dur": 3,
+          "med_start": "05/10/2022",
+          "med_end": "07/10/2022"
+        },
+        {
+          "name": "TIMOLET 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": "26",
+        "sp": {
+          "r": ",,"
+        }
+      },
+      "fup": {
+        "adv": "15 days"
+      },
+      "oh": {
+        "desc": "No;Nil AGM"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-10-25",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "Presbyopia × 1",
+          "Simple Hyperopic Astigmatism × 1",
+          "Primary Open Angle Glaucoma/POAG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69P",
+            "UCVA With PH": "66"
+          },
+          {
+            "UCVA": "618P",
+            "UCVA With PH": "66P"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66"
+          },
+          {
+            "ax": "170",
+            "va": "66P"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "LENS CHANGES"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "SMALL DISC, cup disc ratio-0.8, INF RNFLD",
+          "SMALL DISC, cup disc ratio-0.8, superior thinning, SUP RNFL loss, INF RNFLD"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "TIMOLET 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "20",
+          "18"
+        ],
+        "sp": {
+          "r": "DONE,DONE,DONE,DONE,DONE,DONE"
+        }
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2023-02-04",
+      "c": "F2",
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "LENS CHANGES"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "TIMOLET 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "oh": {
+        "desc": "TIMOLET 5ML EYE DROPS"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2024-09-07",
+      "c": "F3",
+      "diag": [
+        "",
+        "",
+        [
+          "POAG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "618"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear;Lens Changes"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": "0.8 cdr",
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.6",
+          "cup disc ratio-0.8"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "563",
+          "560"
+        ],
+        "sp": {
+          "r": ",,"
+        }
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2024-09-28",
+      "c": "F4",
+      "diag": [
+        "",
+        "",
+        [
+          "POAG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Lens Changes"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": "0.8 cdr",
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.6",
+          "cup disc ratio-0.8, SUP NOTCH"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "TIMOLET 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "CAREPROST LS DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": "20",
+        "sp": {
+          "r": "done,done,done,done,done,done,"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2024-10-26",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "POAG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "612"
+          },
+          {
+            "None": "618"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Lens Changes"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "0.8 cdr",
+          "0.8 cdr;0.8 cdr,superior notch"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "20",
+          "14"
+        ],
+        "sp": {
+          "r": "done,done"
+        }
+      }
+    },
+    {
+      "v": 7,
+      "d": "2025-01-25",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "POAG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Lens Changes;ns1"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "0.8 cdr",
+          "0.8 cdr,superior notch"
+        ],
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.6",
+          "cup disc ratio-0.8, SUP NOTCH"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "22",
+          "14"
+        ],
+        "sp": {
+          "r": "done,done,done,done"
+        }
+      }
+    },
+    {
+      "v": 8,
+      "d": "2025-05-26",
+      "c": "F7",
+      "diag": [
+        "",
+        "",
+        [
+          "POAG × 1",
+          "Presbyopia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "With Spectacles": "66",
+          "UCVA": "618"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "ns1"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "0.8 cdr",
+          "0.8 cdr,superior notch"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "19",
+          "15"
+        ],
+        "sp": {
+          "r": "Done,Done"
+        }
+      }
+    }
+  ]
+}

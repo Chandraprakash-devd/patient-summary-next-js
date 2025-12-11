@@ -1,0 +1,83 @@
+{
+  "p": {
+    "uid": "0016092240",
+    "mr": "P2700790",
+    "v": 1,
+    "f": "2022-01-24",
+    "l": "2022-01-24"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-01-24",
+      "c": "Initial",
+      "diag": [
+        [
+          "S/P SB Surgery × 1"
+        ],
+        "",
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "460"
+          },
+          {
+            "UCVA": "66"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "460",
+            "ucva": "460"
+          },
+          {
+            "ax": "0",
+            "va": "66",
+            "ucva": "66"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear"
+      },
+      "op": {
+        "ref": "R/W"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": "0.3 CDR",
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Buckle effect, SRG, demaracation line",
+          "Normal"
+        ],
+        "mf": [
+          "Dull",
+          "Present"
+        ]
+      },
+      "inv": {
+        "iop": "10"
+      },
+      "fup": {
+        "adv": "1 year"
+      },
+      "oh": {
+        "desc": "No;Nil Agm"
+      }
+    }
+  ]
+}

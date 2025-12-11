@@ -1,0 +1,102 @@
+{
+  "p": {
+    "uid": "0011400902",
+    "mr": "P4535280",
+    "v": 1,
+    "f": "2023-04-24",
+    "l": "2023-04-24"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2023-04-24",
+      "c": "Initial",
+      "diag": [
+        [
+          "Normal × 1"
+        ],
+        [
+          "S/P PPV+SOI × 1",
+          "RRD × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "618"
+          },
+          {
+            "UCVA": "560"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "90",
+            "va": "66",
+            "ucva": "618"
+          },
+          {
+            "ax": "0",
+            "va": "560",
+            "ucva": "560"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": [
+          "Clear",
+          "APHAKIA"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "SOR"
+        ],
+        "di": [
+          "Normal",
+          "Myopic Disc"
+        ],
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "Retina on ., SOF"
+        ],
+        "mf": [
+          "Present",
+          "on"
+        ]
+      },
+      "m": [
+        {
+          "name": "TIMOLET 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "24"
+        ],
+        "sp": {
+          "r": "No Data"
+        }
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    }
+  ]
+}

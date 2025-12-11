@@ -1,0 +1,897 @@
+{
+  "p": {
+    "uid": "0019023751",
+    "mr": "P2345291",
+    "v": 8,
+    "f": "2022-09-19",
+    "l": "2023-02-21"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-09-19",
+      "c": "Initial",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "Nuclear Sclerosis Grade-II × 1",
+          "PSCC × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "660"
+          },
+          {
+            "UCVA": "612P"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-2.00",
+            "ax": "165",
+            "va": "618"
+          },
+          {
+            "sph": "-0.5",
+            "ax": "60",
+            "va": "69",
+            "ucva": "612P"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": [
+          "PCIOL",
+          "NS 2 PSCC"
+        ]
+      },
+      "op": {
+        "ref": "RE ERM - came for opinion"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "hazy",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "hazy"
+        ],
+        "mf": [
+          "ERM",
+          "dull"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "15",
+          "16"
+        ]
+      },
+      "fup": {
+        "adv": "Whenever Required"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-09-20",
+      "c": "F1",
+      "diag": [
+        [
+          "Full Thickness Macular Hole × 1",
+          "ERM × 1"
+        ],
+        "",
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "660"
+          },
+          {
+            "UCVA": "612P"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "op": {
+        "ref": "RE Parsplana Vitrectomy (PPV) + Fluid Air Exchange +  ILMP / ERMP"
+      },
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "Cystic changes at the macula\n Hard Exudates seen\n  S/O Macular Edema,Loss of foveal contour\n Thin membrane on the surface of retina\n  ILM Folds with Cystic changes\n   S/O ERM WITH LMH"
+        }
+      }
+    },
+    {
+      "v": 3,
+      "d": "2022-10-13",
+      "c": "F2",
+      "diag": [
+        [
+          "ERM × 1",
+          "Lamellar Macular Hole × 1"
+        ],
+        [
+          "IMC × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "160",
+            "UCVA With PH": "160"
+          },
+          {
+            "UCVA": "612P"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "PCIOL, PCO-Fibrous",
+          "NS 2 PSCC"
+        ]
+      },
+      "op": {
+        "ref": "RE Parsplana Vitrectomy (PPV) + Fluid Air Exchange +  ILMP / ERMP"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "hazy",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "hazy"
+        ],
+        "mf": [
+          "ERM, +LMH",
+          "dull"
+        ]
+      },
+      "m": [
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 8,
+          "dur": 7,
+          "med_start": "18/11/2022",
+          "med_end": "24/11/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6,
+          "dur": 7,
+          "med_start": "21/10/2022",
+          "med_end": "27/10/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 5,
+          "dur": 7,
+          "med_start": "28/10/2022",
+          "med_end": "03/11/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4,
+          "dur": 7,
+          "med_start": "04/11/2022",
+          "med_end": "10/11/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3,
+          "dur": 7,
+          "med_start": "11/11/2022",
+          "med_end": "17/11/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2,
+          "dur": 7,
+          "med_start": "18/11/2022",
+          "med_end": "24/11/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1,
+          "dur": 7,
+          "med_start": "25/11/2022",
+          "med_end": "01/12/2022"
+        },
+        {
+          "name": "EXOCIN EYE DROPS",
+          "eye": "1",
+          "fre": 6,
+          "dur": 7,
+          "med_start": "15/10/2022",
+          "med_end": "21/10/2022"
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2,
+          "dur": 7,
+          "med_start": "15/10/2022",
+          "med_end": "21/10/2022"
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1,
+          "dur": 5,
+          "med_start": "15/10/2022",
+          "med_end": "19/10/2022"
+        },
+        {
+          "name": "CIPROBID-500MG",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2,
+          "dur": 5,
+          "med_start": "15/10/2022",
+          "med_end": "19/10/2022"
+        },
+        {
+          "name": "DOLO 650MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2,
+          "dur": 5,
+          "med_start": "15/10/2022",
+          "med_end": "19/10/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6,
+          "dur": 7,
+          "med_start": "15/10/2022",
+          "med_end": "21/10/2022"
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2,
+          "dur": 30,
+          "med_start": "15/10/2022",
+          "med_end": "13/11/2022"
+        },
+        {
+          "name": "EXOCIN EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6,
+          "dur": 30,
+          "med_start": "15/10/2022",
+          "med_end": "13/11/2022"
+        },
+        {
+          "name": "DOXY 100 MG CAP",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2,
+          "dur": 5,
+          "med_start": "15/10/2022",
+          "med_end": "19/10/2022"
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1,
+          "dur": 5,
+          "med_start": "15/10/2022",
+          "med_end": "19/10/2022"
+        },
+        {
+          "name": "DOLO 650MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1,
+          "dur": 3,
+          "med_start": "15/10/2022",
+          "med_end": "17/10/2022"
+        },
+        {
+          "name": "CIPROBID-500MG",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2,
+          "dur": 5,
+          "med_start": "15/10/2022",
+          "med_end": "19/10/2022"
+        },
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2,
+          "dur": 3,
+          "med_start": "15/10/2022",
+          "med_end": "17/10/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 8,
+          "dur": 7,
+          "med_start": "15/10/2022",
+          "med_end": "21/10/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6,
+          "dur": 7,
+          "med_start": "22/10/2022",
+          "med_end": "28/10/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 5,
+          "dur": 7,
+          "med_start": "29/10/2022",
+          "med_end": "04/11/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4,
+          "dur": 7,
+          "med_start": "05/11/2022",
+          "med_end": "11/11/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3,
+          "dur": 7,
+          "med_start": "12/11/2022",
+          "med_end": "18/11/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2,
+          "dur": 7,
+          "med_start": "19/11/2022",
+          "med_end": "25/11/2022"
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1,
+          "dur": 7,
+          "med_start": "26/11/2022",
+          "med_end": "02/12/2022"
+        },
+        {
+          "name": "EXOCIN EYE DROPS",
+          "eye": "1",
+          "fre": 6,
+          "dur": 7,
+          "med_start": "15/10/2022",
+          "med_end": "21/10/2022"
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2,
+          "dur": 7,
+          "med_start": "15/10/2022",
+          "med_end": "21/10/2022"
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1,
+          "dur": 5,
+          "med_start": "15/10/2022",
+          "med_end": "19/10/2022"
+        },
+        {
+          "name": "CIPROBID-500MG",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2,
+          "dur": 5,
+          "med_start": "15/10/2022",
+          "med_end": "19/10/2022"
+        },
+        {
+          "name": "DOLO 650MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2,
+          "dur": 5,
+          "med_start": "15/10/2022",
+          "med_end": "19/10/2022"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "10",
+          "18"
+        ]
+      },
+      "fup": {
+        "adv": "24/10/2022;25/10/2022"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2022-10-25",
+      "c": "F3",
+      "diag": [
+        [
+          "ERM × 1",
+          "Lamellar Macular Hole × 1"
+        ],
+        [
+          "IMC × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "HM",
+            "UCVA With PH": "HM"
+          },
+          {
+            "UCVA": "618",
+            "UCVA With PH": "612"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "PCIOL, PCO-Fibrous",
+          "NS 2 PSCC"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "50% GAS FILL",
+          "hazy"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "hazy"
+        ],
+        "mf": [
+          "FR DULL",
+          "dull"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "17",
+          "20"
+        ]
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2022-11-25",
+      "c": "F4",
+      "diag": [
+        [
+          "ERM × 1",
+          "Lamellar Macular Hole × 1"
+        ],
+        [
+          "IMC × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "660"
+          },
+          {
+            "UCVA": "69"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-4.5",
+            "ax": "0",
+            "va": "612P",
+            "ucva": "660"
+          },
+          {
+            "sph": "-0.5",
+            "ax": "60",
+            "va": "66",
+            "ucva": "69"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "S/P PPM PCO OPENING +, IOL INSITU",
+          "NS 2 PSCC"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "25% GAS FILL",
+          "hazy"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "hazy"
+        ],
+        "mf": [
+          "S/P ERMP - STABLE",
+          "dull"
+        ]
+      },
+      "m": [
+        {
+          "name": "NEPAWEL EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3,
+          "dur": 30,
+          "med_start": "25/11/2022",
+          "med_end": "24/12/2022"
+        }
+      ],
+      "inv": {
+        "iop": "20"
+      },
+      "fup": {
+        "adv": "3 weeks"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2022-12-16",
+      "c": "F5",
+      "diag": [
+        [
+          "ERM × 1",
+          "Lamellar Macular Hole × 1"
+        ],
+        [
+          "IMC × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "660"
+          },
+          {
+            "UCVA": "69P"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "S/P PPM PCO OPENING +, IOL INSITU",
+          "NS 2 PSCC"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "hazy"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "hazy"
+        ],
+        "mf": [
+          "S/P ERMP - STABLE",
+          "dull"
+        ]
+      },
+      "m": [
+        {
+          "name": "NEPAWEL EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3,
+          "dur": 30,
+          "med_start": "16/12/2022",
+          "med_end": "15/01/2023"
+        },
+        {
+          "name": "DORZOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3,
+          "dur": 30,
+          "med_start": "16/12/2022",
+          "med_end": "14/01/2023"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "14",
+          "16"
+        ],
+        "sp": {
+          "r": "Loss of foveal contour\n Irregular RPE at the macula\n  S/O RPE Changes,Decreasing the retinal thickness\nCystic changes at the macula\n Hard Exudates seen\n  S/O Macular Edema Decrease"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2023-01-16",
+      "c": "F6",
+      "diag": [
+        [
+          "ERM × 1",
+          "Lamellar Macular Hole × 1",
+          "S/P VR Surgery × 1"
+        ],
+        [
+          "IMC × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "560"
+          },
+          {
+            "UCVA": "69"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-4.5",
+            "ax": "0",
+            "va": "612",
+            "ucva": "560"
+          },
+          {
+            "sph": "-0.5",
+            "ax": "60",
+            "va": "66",
+            "ucva": "69"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "S/P PPM PCO OPENING +, IOL INSITU",
+          "NS 2 PSCC"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "hazy"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "hazy"
+        ],
+        "mf": [
+          "S/P ERMP -ME",
+          "dull"
+        ]
+      },
+      "m": [
+        {
+          "name": "AMPLINAK EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "19",
+          "18"
+        ],
+        "sp": {
+          "r": "completed,completed,"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2023-02-21",
+      "c": "F7",
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "S/P PPM PCO OPENING +, IOL INSITU",
+          "NS 2 PSCC"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "NEPAFLAM-OD DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "sp": {
+          "r": "Loss of foveal contour\n Thin membrane on the surface of retina\n  ILM Folds with Cystic changes\n   S/O ERM WITH LMH,Cystic changes at the macula\n Hard Exudates seen\n  S/O Macular Edema"
+        }
+      }
+    }
+  ]
+}

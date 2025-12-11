@@ -1,0 +1,1396 @@
+{
+  "p": {
+    "uid": "0020408193",
+    "mr": "F862428",
+    "v": 15,
+    "f": "2023-07-01",
+    "l": "2024-10-26"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2023-07-01",
+      "c": "Initial",
+      "diag": [
+        [
+          "IMC × 1"
+        ],
+        [
+          "Central Corneal Ulcer × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "618"
+          },
+          {
+            "UCVA": "HM"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "PL -Present, PR accurate"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Hypopyon-3 mm, Exudates"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Normal",
+          "Congestion-Circum corneal congestion(CCC)"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "not visualised"
+        ],
+        "lens": [
+          "Clear",
+          "not visualised"
+        ]
+      },
+      "op": {
+        "ref": "LE-corneal ulcer with exudates, Bought from camp",
+        "rem": "Kindly opine"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "not visualised"
+        ],
+        "di": [
+          "Normal",
+          "not visualised"
+        ],
+        "ve": [
+          "Normal",
+          "not visualised"
+        ],
+        "br": [
+          "Normal",
+          "not visualised"
+        ],
+        "mf": [
+          "Present",
+          "not visualised"
+        ],
+        "rem": [
+          "PVD",
+          "HAZY DUE TO EXUDATE"
+        ]
+      },
+      "m": [
+        {
+          "name": "TOBA DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "MOXICIP 400MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "LYSER - D TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "AQUALUBE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 6
+        },
+        {
+          "name": "VIGAMOX DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "Lens echoes seen, few low reflective dot echoes.No E/D of RD, CD.RCS-normal, ONH-Normal"
+        }
+      }
+    },
+    {
+      "v": 2,
+      "d": "2023-07-02",
+      "c": "F1",
+      "diag": [
+        [
+          "IMC × 1"
+        ],
+        [
+          "Corneal Ulcer × 1"
+        ],
+        ""
+      ],
+      "as": {
+        "rem": [
+          "",
+          "PL -Present, PR accurate"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Hypopyon-3 mm, Exudates"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Normal",
+          "Congestion-Circum corneal congestion(CCC)"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Round"
+        ],
+        "lens": [
+          "Clear",
+          "IMC"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "NATAMET DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Hourly"
+        },
+        {
+          "name": "MO-FLOREN EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Hourly"
+        }
+      ]
+    },
+    {
+      "v": 3,
+      "d": "2023-07-03",
+      "c": "F2",
+      "diag": [
+        [
+          "IMC × 1"
+        ],
+        [
+          "Corneal Ulcer × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "LP+"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "PL -Present, PR accurate"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Hypopyon-3 mm, Exudates"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Normal",
+          "Congestion-Circum corneal congestion(CCC)"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Round"
+        ],
+        "lens": [
+          "Clear",
+          "IMC"
+        ]
+      },
+      "op": {
+        "ref": "LE-corneal ulcer with exudates, Bought from camp",
+        "rem": "Kindly opine"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "LOPRES 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "17",
+          "23"
+        ]
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-07-10",
+      "c": "F3",
+      "diag": [
+        [
+          "IMC × 1"
+        ],
+        [
+          "Corneal Ulcer × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA With PH": "HM",
+            "UCVA": "HM"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "PL -Present, PR accurate"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Hypopyon-6.5 mm, Exudates;Hypopyon 2 mm;Hypopyon 4mm;Hypopyon 4mm admixed with hyphema"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Normal",
+          "Congestion-Circum corneal congestion(CCC)"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Round"
+        ],
+        "lens": [
+          "Clear",
+          "IMC;details hazy"
+        ]
+      },
+      "op": {
+        "ref": "LE Anterior Chamber Wash"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": [
+          "Orthophoric",
+          "not visualised"
+        ],
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "IOPAR-SR CAP",
+          "dos": "1 tablet",
+          "eye": "5"
+        },
+        {
+          "name": "VOZOLE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Hourly"
+        },
+        {
+          "name": "COMBIFLAM  TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANCORD 40MG TABLET",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "NATAMET DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Hourly Times A Day"
+        },
+        {
+          "name": "MO-FLOREN EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Hourly Times A Day"
+        },
+        {
+          "name": "LOPRES 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "11",
+          "15"
+        ]
+      },
+      "fup": {
+        "adv": "Whenever Required"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2023-07-14",
+      "c": "F4",
+      "op": {
+        "ref": "LE Therapeutic Keratoplasty (TKP)"
+      },
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "Lens echoes present, few low reflective dot echoes in vitreous cavity, ONH, RCS -Normal, No e/o RD, CD.;No Data"
+        }
+      }
+    },
+    {
+      "v": 6,
+      "d": "2023-07-17",
+      "c": "F5",
+      "diag": [
+        [
+          "IMC × 1"
+        ],
+        [
+          "Post TPK × 1"
+        ],
+        ""
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "HM"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "dt high"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "ac moderate depth., blood tinged;Moderate depth., blood tinged aqueous"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Normal",
+          "Congestion-Circum corneal congestion(CCC)"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light;Pharmacologically Dilated",
+          "Round"
+        ],
+        "lens": [
+          "Clear",
+          "details hazy"
+        ]
+      },
+      "op": {
+        "ref": "LE post TPK;LE Therapeutic Keratoplasty (TKP)"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": [
+          "Orthophoric",
+          "not visualised"
+        ],
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "not visualised"
+        ],
+        "di": [
+          "Normal",
+          "not visualised"
+        ],
+        "ve": [
+          "Normal",
+          "not visualised"
+        ],
+        "br": [
+          "Large break along stq arcade with CRA around it",
+          "not visualised"
+        ],
+        "mf": [
+          "Present",
+          "not visualised"
+        ],
+        "rem": [
+          "PVD",
+          "HAZY DUE TO EXUDATE"
+        ]
+      },
+      "m": [
+        {
+          "name": "VOZOLE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 8
+        },
+        {
+          "name": "NATAMET DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Hourly Times A Day"
+        },
+        {
+          "name": "MO-FLOREN EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Hourly Times A Day"
+        },
+        {
+          "name": "LYSER - D TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANCORD 40MG TABLET",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "17",
+          "21"
+        ],
+        "sp": {
+          "r": "Lens echoes present, few low reflective dot echoes in vitreous cavity, ONH, RCS -Normal, No e/o RD, CD.;Lens echoes not seen, few low reflective dot echoes in vitreous cavity, minimal membranous echoes with good aftermovements, ONH, RCS 1.66mm, No e/o RD, CD. PVD+ -Dr Gururaj"
+        }
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2023-07-20",
+      "c": "F6",
+      "diag": [
+        [
+          "IMC × 1",
+          "S/P Barrage Laser × 1"
+        ],
+        [
+          "Post TPK × 1"
+        ],
+        ""
+      ],
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2023-07-27",
+      "c": "F7",
+      "diag": [
+        [
+          "IMC × 1",
+          "S/P Barrage Laser × 1"
+        ],
+        [
+          "Post TPK × 1"
+        ],
+        ""
+      ],
+      "as": {
+        "rem": [
+          "",
+          "BCL removed;BCL removed, seidels negative"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Moderate depth., blood tinged aqueous"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Normal",
+          "Congestion-Circum corneal congestion(CCC)"
+        ],
+        "pu": [
+          "Normal",
+          "Round"
+        ],
+        "lens": [
+          "Clear",
+          "Aphakia"
+        ]
+      },
+      "op": {
+        "ref": "Review"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": [
+          "Orthophoric",
+          "not visualised"
+        ],
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy- Graft Edema"
+        ],
+        "di": [
+          "Normal",
+          "Hazily seen"
+        ],
+        "ve": [
+          "Normal",
+          "not visualised"
+        ],
+        "br": [
+          "Barraged break near STA",
+          "Glow appears normal"
+        ],
+        "mf": [
+          "Present",
+          "not visualised"
+        ],
+        "rem": [
+          "PVD",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "MO-FLOREN EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 6
+        },
+        {
+          "name": "VOZOLE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 8
+        },
+        {
+          "name": "COMBIFLAM  TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "NATAMET DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Hourly Times A Day"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "15",
+          "14"
+        ],
+        "sp": {
+          "r": "Lens echoes absent, moderate low reflective dot and membranous echoes with good aftermovements in vitreous cavity with Shallow CDs present, ONH -Normal, PVD+."
+        }
+      },
+      "fup": {
+        "adv": "1 week;1 month"
+      }
+    },
+    {
+      "v": 9,
+      "d": "2023-08-03",
+      "c": "F8",
+      "diag": [
+        [
+          "IMC × 1",
+          "S/P Barrage Laser × 1"
+        ],
+        [
+          "Post TPK × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "624"
+          },
+          {
+            "UCVA": "HM"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "Seidels negative"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Moderate depth., blood tinged aqueous, exudate at 7"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Normal",
+          "Congestion-Circum corneal congestion(CCC)"
+        ],
+        "pu": [
+          "Normal",
+          "Round"
+        ],
+        "lens": [
+          "Clear",
+          "Aphakia"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": [
+          "Orthophoric",
+          "not visualised"
+        ],
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "VOZOLE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 8
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "NATAMET DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Hourly Times A Day"
+        },
+        {
+          "name": "MO-FLOREN EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "PANTHEGEL  OINT",
+          "eye": "2",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "12",
+          "3"
+        ]
+      },
+      "fup": {
+        "adv": "5 days"
+      }
+    },
+    {
+      "v": 10,
+      "d": "2023-08-17",
+      "c": "F9",
+      "diag": [
+        [
+          "IMC × 1",
+          "S/P Barrage Laser × 1"
+        ],
+        [
+          "Post TPK × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "624"
+          },
+          {
+            "UCVA": "HM"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "Seidels negative;Seidels negative, All loose sutures removed (7);Seidels negative, All loose sutures removed 7,Seidels Test-Negative (after suture removal)"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Moderate depth., blood tinged aqueous, exudate at 7"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Normal",
+          "Congestion-Circum corneal congestion(CCC)"
+        ],
+        "pu": [
+          "Normal",
+          "Round"
+        ],
+        "lens": [
+          "Clear",
+          "Aphakia"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": [
+          "Orthophoric",
+          "not visualised"
+        ],
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "AUROZOLE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 6
+        },
+        {
+          "name": "NATAMET DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 6
+        }
+      ],
+      "inv": {
+        "iop": [
+          "10",
+          "4"
+        ]
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 11,
+      "d": "2023-09-06",
+      "c": "F10",
+      "diag": [
+        "",
+        "",
+        [
+          "Post TPK × 1",
+          "IMC × 1",
+          "S/P Barrage Laser × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "624P",
+            "UCVA With PH": "624"
+          },
+          {}
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "Loose sutures removed under TA"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Moderate depth., Fibrinous membrane present,exudate at 3 oclock;Centrally formed moderate , Fibrinous membrane present, organized exudate at 3 oclock"
+        ],
+        "ir": [
+          "Normal Color and Pattern",
+          "Atrophic patch"
+        ],
+        "cj": [
+          "Normal",
+          "Congestion-Circum corneal congestion(CCC);Congestion-Circum corneal congestion(CCC), mild"
+        ],
+        "pu": [
+          "Normal;Normal Size and Reaction to Light",
+          "Round"
+        ],
+        "lens": [
+          "Clear",
+          "Aphakia"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": [
+          "Orthophoric",
+          "not visualised"
+        ],
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "NATAMET DROPS",
+          "eye": "2",
+          "fre": 6
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "LUBI-FRESH EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": [
+          "10",
+          "13"
+        ]
+      },
+      "fup": {
+        "adv": "10 days"
+      }
+    },
+    {
+      "v": 12,
+      "d": "2023-10-19",
+      "c": "F11",
+      "diag": [
+        "",
+        "",
+        [
+          "Aphakia × 1",
+          "Corneal graft failure × 1",
+          "Immature cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "624P",
+            "UCVA With PH": "618"
+          },
+          {}
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "Margins of epithelial defect freshened under TA"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Centrally formed"
+        ],
+        "ir": [
+          "Normal Color and Pattern",
+          "Atrophic patch"
+        ],
+        "cj": [
+          "Normal",
+          "Minimal congestion"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Round"
+        ],
+        "lens": [
+          "Cataract-Immature cataract",
+          "Aphakia"
+        ]
+      },
+      "op": {
+        "ref": "Review"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": [
+          "Orthophoric",
+          "not visualised"
+        ],
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy- Graft Edema"
+        ],
+        "di": [
+          "Normal",
+          "Hazily seen"
+        ],
+        "ve": [
+          "Normal",
+          "not visualised"
+        ],
+        "br": [
+          "Barraged break near STA",
+          "Glow appears normal"
+        ],
+        "mf": [
+          "Present",
+          "not visualised"
+        ],
+        "rem": [
+          "PVD",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "MAXMOIST EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "OFLACIN DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": [
+          "15",
+          "10"
+        ]
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 13,
+      "d": "2023-11-21",
+      "c": "F12",
+      "diag": [
+        "",
+        "",
+        [
+          "Immature cataract × 1",
+          "Aphakia × 1",
+          "Corneal graft failure × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "624P",
+            "UCVA With PH": "618"
+          },
+          {}
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "Margins of epithelial defect freshened under TA;3 loose sutures removed under TA"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Centrally formed"
+        ],
+        "ir": [
+          "Normal Color and Pattern",
+          "Atrophic patch"
+        ],
+        "cj": [
+          "Normal",
+          "Minimal congestion"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Round"
+        ],
+        "lens": [
+          "Cataract-Immature cataract",
+          "Aphakia"
+        ]
+      },
+      "op": {
+        "ref": "Review"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": [
+          "Orthophoric",
+          "not visualised"
+        ],
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy- Graft Edema"
+        ],
+        "di": [
+          "Normal",
+          "not visualised"
+        ],
+        "ve": [
+          "Normal",
+          "not visualised"
+        ],
+        "br": [
+          "Barraged break near STA",
+          "not visualised"
+        ],
+        "mf": [
+          "Present",
+          "not visualised"
+        ],
+        "rem": [
+          "PVD",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "OFLACIN DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": [
+          "12",
+          "11"
+        ],
+        "sp": {
+          "r": "Lens echoes absent, multiple dot echoes in vitreous cavity with PVD+, ONH-Cupping, RCS -Normal, No e/o RD.CD.Sr.Azhagarasi"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 14,
+      "d": "2024-03-18",
+      "c": "F13",
+      "diag": [
+        "",
+        "",
+        [
+          "Immature cataract × 1",
+          "Aphakia × 1",
+          "Corneal graft failure × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "618"
+          },
+          {}
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Collagen vascular diseases;Diabetes;Drug Allergies;Epilepsy;H/O COVID 19;H/O COVID VACCINE;Hormonal therapy;Hyperlipidemia;Hypertension;Identification Marks;Isotretinoin Therapy;Keloid Tendency;Non-Ocular Sx;Other Allergies;Others;PCOS / Irregular periods;Remarks;Thyroid;TB"
+      },
+      "as": {
+        "rem": [
+          "Good mydriasis",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Centrally formed"
+        ],
+        "ir": [
+          "Normal Color and Pattern",
+          "Atrophic patch"
+        ],
+        "cj": [
+          "Normal",
+          "Minimal congestion"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light;Pharmacologically Dilated,",
+          "Round"
+        ],
+        "lens": [
+          "Cataract-Immature cataract;NSII",
+          "Aphakia"
+        ]
+      },
+      "op": {
+        "ref": "RE disc suspect. Clearance for RE phaco.",
+        "rem": "One eyed."
+      },
+      "om": {
+        "om": "FULL",
+        "cr": [
+          "Orthophoric",
+          "not visualised"
+        ],
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "Hazy- Graft Edema"
+        ],
+        "di": [
+          "CDR 0.6, thin NRR",
+          "not visualised"
+        ],
+        "ve": [
+          "Normal",
+          "not visualised"
+        ],
+        "br": [
+          "Barraged break near STA",
+          "not visualised"
+        ],
+        "mf": [
+          "Present",
+          "not visualised"
+        ]
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "1",
+          "fre": 8
+        },
+        {
+          "name": "ALPRAX 0.5 TAB",
+          "eye": "5",
+          "fre": "Night Only"
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "2",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "9",
+          "8"
+        ],
+        "sp": {
+          "r": "No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      },
+      "oh": {
+        "desc": "No;NIL OCULAR MEDICATION"
+      }
+    },
+    {
+      "v": 15,
+      "d": "2024-10-26",
+      "c": "F14",
+      "diag": [
+        "",
+        "",
+        [
+          "Immature cataract × 1",
+          "Corneal graft failure × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "636"
+          },
+          {
+            "None": "HM"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "Glue BCL applied"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "not visualised"
+        ],
+        "ir": [
+          "Normal Color and Pattern",
+          "not visualised"
+        ],
+        "cj": [
+          "Normal",
+          "Normal;Congestion"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light;Pharmacologically Dilated",
+          "not visualised"
+        ],
+        "lens": [
+          "Clear;NS II, NO II",
+          "not visualised"
+        ]
+      },
+      "op": {
+        "ref": "Review/?corneal perforation"
+      },
+      "om": {
+        "om": [
+          "FULL",
+          "not visualised"
+        ],
+        "cr": [
+          "Orthophoric",
+          "not visualised"
+        ],
+        "gl": [
+          "Normal",
+          "Soft eye ball;Normal;Soft"
+        ]
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          ""
+        ],
+        "di": [
+          "cup disc ratio-0.7",
+          "not visualised"
+        ],
+        "ve": [
+          "Normal",
+          ""
+        ],
+        "br": [
+          "Normal",
+          ""
+        ],
+        "mf": [
+          "Present",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "GATILOX DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": [
+          "14",
+          "Not Measurable"
+        ]
+      }
+    }
+  ]
+}

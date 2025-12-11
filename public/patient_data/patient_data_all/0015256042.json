@@ -1,0 +1,551 @@
+{
+  "p": {
+    "uid": "0015256042",
+    "mr": "P5117837",
+    "v": 6,
+    "f": "2022-02-09",
+    "l": "2024-05-09"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-02-09",
+      "c": "Initial",
+      "diag": [
+        "",
+        [
+          "Asteroid Hyalosis × 1"
+        ],
+        [
+          "PDR × 1",
+          "S/P PRP × 1",
+          "Steroid Responders Glaucoma × 1",
+          "Secondary Glaucoma × 1",
+          "PCIOL × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "624",
+            "Glasses": "624"
+          },
+          {}
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "624",
+            "ucva": "624"
+          },
+          {
+            "ax": "0"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.75"
+          },
+          {
+            "sph": "+2.75"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, quiet",
+          "Normal Depth"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, 4mm",
+        "lens": [
+          "PCIOL, s/p yag cap opening",
+          "PCIOL, pearly pco"
+        ]
+      },
+      "op": {
+        "ref": "magnifiers"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy-Asteroid hyalosis"
+        ],
+        "di": "fibrovascular membrane over disc",
+        "ve": "Normal",
+        "br": [
+          "PRP  scars, posterior FP, minimal disp  SHH",
+          "PRP  scars, posterior FP"
+        ],
+        "mf": [
+          "tractional DME, Resolving focal traction at fovea with evolving IPVD and separating TPHM",
+          "hazy  view ,  Chonic tractional  DME on  OCT, schitic degenerated Macula"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "20",
+          "19"
+        ]
+      },
+      "fup": {
+        "adv": "2 months"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2023-01-20",
+      "c": "F1",
+      "diag": [
+        "",
+        [
+          "Asteroid Hyalosis × 1"
+        ],
+        [
+          "PDR × 1",
+          "S/P PRP × 1",
+          "Steroid Responders Glaucoma × 1",
+          "Secondary Glaucoma × 1",
+          "PCIOL × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "618P"
+          },
+          {}
+        ],
+        "dist": [
+          {
+            "sph": "+1.25",
+            "ax": "0",
+            "va": "612P",
+            "ucva": "618P"
+          },
+          {
+            "ax": "0"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;GIT;Hyperlipidemia;Hypertension;Non-Ocular Sx;Other Allergies;Others;Renal;RS;Remarks;H/O COVID 19;H/O COVID VACCINE;Identification Marks;Thyroid"
+      },
+      "as": {
+        "rem": "NO NVI/NVA"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "PCIOL"
+      },
+      "op": {
+        "ref": "Review - On AGM BE"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy - AH"
+        ],
+        "di": "FP at disc+",
+        "ve": "Normal",
+        "br": "PRP marks + Posterior FP",
+        "mf": [
+          "dull / nasal drag",
+          "Chonic tractional DME on OCT, schitic degenerated Macula"
+        ],
+        "rem": [
+          "Stable",
+          "Poor prognosis"
+        ]
+      },
+      "m": [
+        {
+          "name": "TIMOLET 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "DORSUN EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": "20",
+        "sp": {
+          "r": "HRA- Parafoveal cystic changes with hard exudates, Membrane over the macula and extra macula and disc causing traction.,HRA- Membrane over the macula and extra macula and disc causing traction. Loss of foveal contour S/O Lameallar hole and schisis."
+        }
+      },
+      "fup": {
+        "adv": "2 months"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2023-04-12",
+      "c": "F2",
+      "diag": [
+        "",
+        [
+          "Asteroid Hyalosis × 1"
+        ],
+        [
+          "PDR × 1",
+          "S/P PRP × 1",
+          "Steroid Responders Glaucoma × 1",
+          "Secondary Glaucoma × 1",
+          "PCIOL × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636",
+            "Glasses": "636"
+          },
+          {}
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "636",
+            "ucva": "636"
+          },
+          {
+            "ax": "0"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "as": {
+        "rem": "NO NVI/NVA"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "op": {
+        "ref": "ADVISE AGM;BE PDR for scheduled review"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy - AH"
+        ],
+        "di": "FP at disc+",
+        "ve": "Normal",
+        "br": "PRP marks + Posterior FP",
+        "mf": [
+          "dull / nasal drag, FVP",
+          "Chonic tractional DME on OCT, schitic degenerated Macula"
+        ]
+      },
+      "m": [
+        {
+          "name": "MEGABROM EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "CELIN 500MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "14"
+        ],
+        "sp": {
+          "r": "HRA- Parafoveal cystic changes with hard exudates, Membrane over the macula and extra macula and disc causing traction.,HRA- Membrane over the macula and extra macula and disc causing traction. Loss of foveal contour S/O Lamellar hole and schisis.;FP TAKEN,FP TAKEN"
+        }
+      },
+      "fup": {
+        "adv": "3 months;15 days"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-05-04",
+      "c": "F3",
+      "diag": [
+        [
+          "Vitreous Haemorrhage × 1"
+        ],
+        [
+          "Asteroid Hyalosis × 1",
+          "TRD × 1"
+        ],
+        [
+          "PDR × 1",
+          "S/P PRP × 1",
+          "Steroid Responders Glaucoma × 1",
+          "Secondary Glaucoma × 1",
+          "PCIOL × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636"
+          },
+          {}
+        ]
+      },
+      "as": {
+        "rem": "NO NVI/NVA"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy - AH"
+        ],
+        "di": "FP at disc+",
+        "ve": "FP along ST and IT arcade",
+        "br": "PRP marks + Posterior FP",
+        "mf": [
+          "dull / nasal drag, SHH",
+          "Chonic tractional DME on OCT, schitic degenerated Macula"
+        ]
+      },
+      "m": [
+        {
+          "name": "CELIN 500MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only"
+        }
+      ],
+      "inv": {
+        "iop": "19"
+      },
+      "fup": {
+        "adv": "3 weeks"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2024-03-01",
+      "c": "F4",
+      "diag": [
+        "",
+        "",
+        [
+          "PDR × 1",
+          "Proliferative diabetic retinopathy × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "618",
+            "Glasses": "618"
+          },
+          {}
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "612",
+            "ucva": "618"
+          },
+          {
+            "ax": "0"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "as": {
+        "rem": "No NVI NVA"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Normal Size and Reaction to Light;Normal Size and Sluggish reaction"
+        ],
+        "lens": "Clear;PCIOL"
+      },
+      "op": {
+        "ref": "review"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "fvp",
+          "Normal"
+        ],
+        "ve": [
+          "Normal",
+          "fvp"
+        ],
+        "br": [
+          "fp+, traction is here but no RD, S/P PRP, INF VH",
+          "S/P PRP, TRD, SCHITIC RETINA"
+        ],
+        "mf": [
+          "Present",
+          "LMH"
+        ]
+      },
+      "m": [
+        {
+          "name": "DORSUN -T E/D",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "23",
+          "25"
+        ],
+        "sp": {
+          "r": "HRA- Parafoveal cystic changes with hard exudates, Membrane over the macula and extra macula and disc causing traction.,HRA- Membrane over the macula and extra macula and disc causing traction. Loss of foveal contour S/O Lamellar hole and schisis."
+        }
+      },
+      "fup": {
+        "adv": "3 weeks"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2024-05-09",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "PDR × 1",
+          "Proliferative diabetic retinopathy × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "612"
+          },
+          {}
+        ]
+      },
+      "as": {
+        "rem": "No NVI in dilated state"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "op": {
+        "ref": "review BE PDR"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "asteroid hyalosis"
+        ],
+        "di": "fvp",
+        "ve": [
+          "Normal",
+          "fvp"
+        ],
+        "br": [
+          "fp+, traction is here but no RD, S/P PRP, INF VH",
+          "S/P PRP, TRD"
+        ],
+        "mf": [
+          "DULL,nasal drag",
+          "SCHITIC RETINA"
+        ],
+        "rem": [
+          "PDR S/P PRP",
+          ""
+        ]
+      },
+      "inv": {
+        "iop": [
+          "22",
+          "18"
+        ]
+      },
+      "fup": {
+        "adv": "3 months;2 months"
+      }
+    }
+  ]
+}

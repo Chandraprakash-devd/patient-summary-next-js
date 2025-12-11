@@ -1,0 +1,404 @@
+{
+  "p": {
+    "uid": "0017373092",
+    "mr": "P2791411",
+    "v": 5,
+    "f": "2022-09-01",
+    "l": "2023-06-16"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-09-01",
+      "c": "Initial",
+      "diag": [
+        [
+          "Lattice Degeneration × 1",
+          "S/P Barrage Laser × 1",
+          "Early Cataract × 1"
+        ],
+        [
+          "S/P PPV+SOI × 1",
+          "S/P SOR × 1",
+          "IMC × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69",
+            "Glasses": "66"
+          },
+          {
+            "UCVA": "624P",
+            "Glasses": "618P"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "105",
+            "va": "66"
+          },
+          {
+            "ax": "0",
+            "va": "618P",
+            "ucva": "624P"
+          }
+        ],
+        "nr": [
+          {
+            "ax": "105"
+          },
+          {}
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "early changes",
+          "NS2-3 dense psc"
+        ]
+      },
+      "op": {
+        "ref": "le cat sx....s/p sor last year"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "inf barrage - stable",
+          "360 deg el - stable"
+        ],
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "17",
+          "18"
+        ]
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-09-02",
+      "c": "F1",
+      "vi": {
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "m": [
+        {
+          "name": "DEXA 7.5ML EYE DROPS",
+          "eye": "2",
+          "fre": 6,
+          "dur": 2,
+          "med_start": "03/09/2022",
+          "med_end": "04/09/2022"
+        },
+        {
+          "name": "DEXA 7.5ML EYE DROPS",
+          "eye": "2",
+          "fre": 4,
+          "dur": 5,
+          "med_start": "05/09/2022",
+          "med_end": "09/09/2022"
+        },
+        {
+          "name": "DEXA 7.5ML EYE DROPS",
+          "eye": "2",
+          "fre": 3,
+          "dur": 5,
+          "med_start": "10/09/2022",
+          "med_end": "14/09/2022"
+        },
+        {
+          "name": "DEXA 7.5ML EYE DROPS",
+          "eye": "2",
+          "fre": 2,
+          "dur": 7,
+          "med_start": "15/09/2022",
+          "med_end": "21/09/2022"
+        },
+        {
+          "name": "DEXA 7.5ML EYE DROPS",
+          "eye": "2",
+          "fre": 1,
+          "dur": 7,
+          "med_start": "22/09/2022",
+          "med_end": "28/09/2022"
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "2",
+          "fre": 3,
+          "dur": 7,
+          "med_start": "03/09/2022",
+          "med_end": "09/09/2022"
+        },
+        {
+          "name": "NPACT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3,
+          "dur": 30,
+          "med_start": "03/09/2022",
+          "med_end": "02/10/2022"
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "22 days;3 weeks"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2022-09-03",
+      "c": "F2",
+      "diag": [
+        [
+          "Lattice Degeneration × 1",
+          "S/P Barrage Laser × 1",
+          "Early Cataract × 1"
+        ],
+        [
+          "S/P PPV+SOI × 1",
+          "S/P SOR × 1",
+          "PCIOL × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA With PH": "69"
+          },
+          {
+            "UCVA With PH": "66P",
+            "UCVA": "69"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "fup": {
+        "adv": "23/09/2022"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2022-09-24",
+      "c": "F3",
+      "diag": [
+        [
+          "Lattice Degeneration × 1",
+          "S/P Barrage Laser × 1"
+        ],
+        [
+          "S/P SOR × 1"
+        ],
+        [
+          "PCIOL × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69P",
+            "Glasses": "69"
+          },
+          {
+            "UCVA": "66",
+            "Glasses": "612"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "105",
+            "va": "66"
+          },
+          {
+            "va": "66",
+            "ucva": "66"
+          }
+        ],
+        "nr": [
+          {
+            "ax": "105"
+          },
+          {}
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "early changes",
+          "IOL"
+        ]
+      },
+      "op": {
+        "ref": "IO"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "inf barrage - stable",
+          "360 deg el - stable"
+        ],
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": "20"
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2023-06-16",
+      "c": "F4",
+      "diag": [
+        [
+          "Lattice Degeneration × 1",
+          "S/P Barrage Laser × 1",
+          "Early Cataract × 1"
+        ],
+        [
+          "S/P SOR × 1",
+          "PCIOL × 1"
+        ],
+        ""
+      ],
+      "pr": {
+        "act": [
+          [
+            "No RE procedure"
+          ],
+          null
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69",
+            "Glasses": "66"
+          },
+          {
+            "UCVA": "612",
+            "Glasses": "612"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "105",
+            "va": "66",
+            "ucva": "69"
+          },
+          {
+            "ax": "0",
+            "va": "612",
+            "ucva": "612"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "2.5",
+            "ax": "105"
+          },
+          {
+            "sph": "2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "LC",
+          "PCIOL WITH EMULSIFIED OIL BEHIND IOL"
+        ]
+      },
+      "op": {
+        "ref": "LE- S/P- SOR. YAG CAP- PCO WITH TRAPPED EMULSIFIED OIL BUBBLES."
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "BARRAGE SCARS",
+          "RETINA ON, LASER SCARS++"
+        ],
+        "mf": [
+          "Present",
+          "ON"
+        ],
+        "rem": [
+          "",
+          "S/P- SOR"
+        ]
+      },
+      "m": [
+        {
+          "name": "NEPAFLAM EYE DROPS",
+          "eye": "2",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": [
+          "19",
+          "20"
+        ]
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3316 @@
+{
+  "p": {
+    "uid": "0019551250",
+    "mr": "P505744",
+    "v": 35,
+    "f": "2023-01-05",
+    "l": "2025-06-27"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2023-01-05",
+      "c": "Initial",
+      "diag": [
+        [
+          "Chronic Angle Closure Glaucoma × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "660"
+          },
+          {
+            "UCVA": "69"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "0.5",
+            "ax": "75",
+            "va": "618",
+            "ucva": "660"
+          },
+          {
+            "ax": "0",
+            "va": "69",
+            "ucva": "69"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "1.75"
+          },
+          {
+            "sph": "1.75"
+          }
+        ]
+      },
+      "s": {
+        "h": "Diabetes;Hypertension;Cardiac;Asthma;Other Allergies;Non-Ocular Sx;Others;Hyperlipidemia;Drug Allergies;Remarks;H/O COVID 19;H/O COVID VACCINE;Identification Marks;Thyroid"
+      },
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "Normal Color and Pattern",
+          "LPI - Patent"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "lc"
+      },
+      "op": {
+        "ref": "acute angle closure glaucoma RE"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.8;Bipolar notch",
+          ""
+        ],
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.8, Pale NRR",
+          "cup disc ratio-0.3"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Dull",
+          "Present"
+        ]
+      },
+      "m": [
+        {
+          "name": "LATOCOM-CF DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": "Night Only"
+        },
+        {
+          "name": "BETAFREE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "55",
+          "19"
+        ]
+      },
+      "fup": {
+        "adv": "Tomorrow"
+      },
+      "oh": {
+        "desc": "DORSUN -T 5ML EYE DROPS"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2023-01-06",
+      "c": "F1",
+      "diag": [
+        [
+          "Chronic Angle Closure Glaucoma × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "660",
+            "UCVA With PH": "618"
+          },
+          {
+            "UCVA": "69",
+            "UCVA With PH": "69"
+          }
+        ]
+      },
+      "m": [
+        {
+          "name": "LATOCOM-CF DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": "Night Only"
+        },
+        {
+          "name": "BETAFREE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "32",
+          "20"
+        ]
+      },
+      "fup": {
+        "adv": "3 days"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2023-01-09",
+      "c": "F2",
+      "diag": [
+        [
+          "Chronic Angle Closure Glaucoma × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "660",
+            "UCVA With PH": "618"
+          },
+          {
+            "UCVA": "69",
+            "UCVA With PH": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "LPI - Patent",
+        "cj": "Normal",
+        "pu": [
+          "mid dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "lc"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.8;Bipolar notch",
+          ""
+        ],
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.8, inf notch with rnfld, Pallor+",
+          "cup disc ratio-0.3, nrr ok"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Dull",
+          "Present"
+        ]
+      },
+      "m": [
+        {
+          "name": "LATOCOM-CF DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": "Night Only"
+        },
+        {
+          "name": "BETAFREE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "14",
+          "15"
+        ],
+        "sp": {
+          "r": "done,"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-02-09",
+      "c": "F3",
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "LPI - Patent",
+        "cj": "Normal",
+        "pu": [
+          "mid dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "lc"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.8;Bipolar notch",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTOCID40MGTAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only"
+        }
+      ]
+    },
+    {
+      "v": 5,
+      "d": "2023-02-13",
+      "c": "F4",
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "LPI - Patent",
+        "cj": "Normal",
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "NS 1-2",
+          "lc"
+        ]
+      },
+      "op": {
+        "ref": "RE TRAB+ PHACO with AUROFLEX with IV MANITOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.7, IR notch",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTOCID40MGTAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only"
+        }
+      ],
+      "inv": {
+        "sp": {
+          "r": "done,done,wnl"
+        }
+      }
+    },
+    {
+      "v": 6,
+      "d": "2023-02-21",
+      "c": "F5"
+    },
+    {
+      "v": 7,
+      "d": "2023-02-23",
+      "c": "F6"
+    },
+    {
+      "v": 8,
+      "d": "2023-02-24",
+      "c": "F7",
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, No vitr in AC",
+          "Normal Depth"
+        ],
+        "ir": "LPI - Patent",
+        "cj": [
+          "Well apposed",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "GATE-P 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6
+        },
+        {
+          "name": "GATE-P 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 5
+        },
+        {
+          "name": "GATE-P 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "GATE-P 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "GATE-P 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "GATE-P 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": "Night Only"
+        }
+      ]
+    },
+    {
+      "v": 9,
+      "d": "2023-03-03",
+      "c": "F8",
+      "diag": [
+        [
+          "Chronic Angle Closure Glaucoma × 1",
+          "Aphakia × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "69",
+            "UCVA With PH": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, No vitr in AC",
+          "Normal Depth"
+        ],
+        "ir": "LPI - Patent",
+        "cj": [
+          "Well apposed",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "RIPATEC EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "TIMOBEST EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "40",
+          "20"
+        ]
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 10,
+      "d": "2023-03-10",
+      "c": "F9",
+      "diag": [
+        [
+          "Chronic Angle Closure Glaucoma × 1",
+          "Aphakia × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "HM"
+          },
+          {
+            "UCVA": "69",
+            "UCVA With PH": "66P"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, No vitr in AC",
+          "Normal Depth"
+        ],
+        "ir": "LPI - Patent",
+        "cj": [
+          "Well apposed",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "38",
+          "17"
+        ]
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 11,
+      "d": "2023-03-18",
+      "c": "F10",
+      "diag": [
+        [
+          "Chronic Angle Closure Glaucoma × 1",
+          "Aphakia × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "HM",
+            "UCVA With PH": "HM"
+          },
+          {
+            "UCVA": "66P",
+            "UCVA With PH": "66"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, No vitr in AC",
+          "Normal Depth"
+        ],
+        "ir": "LPI - Patent",
+        "cj": [
+          "Well apposed",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "hazy",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "40",
+          "18"
+        ]
+      },
+      "fup": {
+        "adv": "5 days"
+      }
+    },
+    {
+      "v": 12,
+      "d": "2023-03-23",
+      "c": "F11",
+      "diag": [
+        [
+          "Aphakia × 1",
+          "PACG × 1",
+          "Post Trabeculectomy × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "HM"
+          },
+          {
+            "UCVA": "69",
+            "UCVA With PH": "66"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "LPI - Patent",
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "op": {
+        "ref": "complicated cat sx = aphakia - iop refractory - back to glaucoma"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "hazy",
+          ""
+        ],
+        "me": [
+          "Hazy-corneal edema",
+          "clear"
+        ],
+        "di": [
+          "cdr 0.7-0.8, thinned NRR",
+          "cdr 0.4"
+        ],
+        "ve": [
+          "2nd order",
+          "normal"
+        ],
+        "br": [
+          "hazily visible",
+          "normal"
+        ],
+        "mf": [
+          "not visualised",
+          "on"
+        ]
+      },
+      "m": [
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "BETAFREE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "TIMOBEST EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "54",
+          "24"
+        ],
+        "sp": {
+          "r": "RE;multiple dot vit echoes noted . AXL is 214.42mm. ONH is normal . RCS 1.45mm. NO RD/CD ."
+        }
+      },
+      "fup": {
+        "adv": "4 days"
+      }
+    },
+    {
+      "v": 13,
+      "d": "2023-03-27",
+      "c": "F12",
+      "diag": [
+        [
+          "Aphakia × 1",
+          "PACG × 1",
+          "Post Trabeculectomy × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "HM",
+            "UCVA With PH": "HM"
+          },
+          {
+            "UCVA": "66P",
+            "UCVA With PH": "66"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;H/O COVID 19;H/O COVID VACCINE;Hyperlipidemia;Hypertension;Identification Marks;Non-Ocular Sx;Other Allergies;Others;Remarks;Thyroid"
+      },
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "LPI - Patent",
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "op": {
+        "ref": "Diode Laser CPC"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "hazy",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "GATE-P 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6
+        },
+        {
+          "name": "GATE-P 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 5
+        },
+        {
+          "name": "GATE-P 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "GATE-P 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "GATE-P 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "GATE-P 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "ATROP EYE DROP",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "ATROP EYE DROP",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "DICLO-S",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "BETAFREE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "TIMOBEST EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "35",
+          "22"
+        ],
+        "sp": {
+          "r": "No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 14,
+      "d": "2023-03-28",
+      "c": "F13",
+      "diag": [
+        [
+          "Aphakia × 1",
+          "PACG × 1",
+          "Post Trabeculectomy × 1",
+          "Post Diode CPC × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "HM"
+          },
+          {
+            "UCVA": "66P",
+            "UCVA With PH": "66"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "LPI - Patent",
+        "cj": [
+          "Flat bleb, inf conj burns",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "hazy",
+          ""
+        ]
+      },
+      "inv": {
+        "iop": [
+          "20",
+          "19"
+        ]
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 15,
+      "d": "2023-04-12",
+      "c": "F14",
+      "diag": [
+        [
+          "Aphakia × 1",
+          "PACG × 1",
+          "Post Trabeculectomy × 1",
+          "Post Diode CPC × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "HM"
+          },
+          {
+            "UCVA": "612",
+            "UCVA With PH": "66"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "LPI - Patent",
+        "cj": [
+          "Flat bleb, inf conj burns",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "hazy",
+          ""
+        ],
+        "me": "clear",
+        "di": [
+          "cdr 0.7-0.8, thinned NRR",
+          "cdr 0.4"
+        ],
+        "ve": [
+          "2nd order",
+          "normal"
+        ],
+        "br": [
+          "hazily visible",
+          "normal"
+        ],
+        "mf": [
+          "not visualised",
+          "on"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "10",
+          "14"
+        ]
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 16,
+      "d": "2023-05-05",
+      "c": "F15",
+      "diag": [
+        [
+          "Aphakia × 1",
+          "PACG × 1",
+          "Post Trabeculectomy × 1",
+          "Post Diode CPC × 1",
+          "Neovascular/Rubeotic Glaucoma × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "HM"
+          },
+          {
+            "UCVA": "618"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "10.5",
+            "ax": "90",
+            "va": "560",
+            "ucva": "HM"
+          },
+          {
+            "sph": "1",
+            "ax": "90",
+            "va": "66P",
+            "ucva": "618"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "3"
+          },
+          {
+            "sph": "2"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "360 degree PAS",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular;PAS +",
+          "Normal Depth"
+        ],
+        "ir": [
+          "LPI - Patent, NVI +",
+          "LPI - Patent"
+        ],
+        "cj": [
+          "Flat bleb, inf conj burns",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "op": {
+        "ref": "RE - NVI noted this visit"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.9",
+          "CDR 0.3"
+        ],
+        "me": "clear",
+        "di": [
+          "cdr 0.7-0.8, thinned NRR",
+          "cdr 0.4"
+        ],
+        "ve": [
+          "2nd order, vessels seen",
+          "normal"
+        ],
+        "br": [
+          "hazily visible",
+          "normal"
+        ],
+        "mf": [
+          "FR dull",
+          "on"
+        ]
+      },
+      "m": [
+        {
+          "name": "FML EYE DROPS",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "FML EYE DROPS",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "FML EYE DROPS",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "FML EYE DROPS",
+          "eye": "1",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "21",
+          "17"
+        ]
+      },
+      "fup": {
+        "adv": "10 days;1 week;15 days"
+      }
+    },
+    {
+      "v": 17,
+      "d": "2023-05-15",
+      "c": "F16",
+      "diag": [
+        [
+          "Aphakia × 1",
+          "PACG × 1",
+          "Post Trabeculectomy × 1",
+          "Post Diode CPC × 1",
+          "Neovascular/Rubeotic Glaucoma × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "HM"
+          },
+          {
+            "UCVA": "612",
+            "UCVA With PH": "69"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;H/O COVID 19;H/O COVID VACCINE;Hyperlipidemia;Hypertension;Identification Marks;Non-Ocular Sx;Other Allergies;Others;Remarks;Thyroid"
+      },
+      "as": {
+        "rem": [
+          "360 degree PAS",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular;PAS +",
+          "Normal Depth"
+        ],
+        "ir": [
+          "LPI - Patent,  NVI +",
+          "LPI - Patent"
+        ],
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "op": {
+        "ref": "Review;RE: IntraVit Inj.Avastin"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.9",
+          "CDR 0.3"
+        ],
+        "me": "clear",
+        "di": [
+          "cdr 0.7-0.8, thinned NRR",
+          "cdr 0.4"
+        ],
+        "ve": [
+          "updo 3rd order vessels seen",
+          "normal"
+        ],
+        "br": [
+          "Normal . Pigments in vit cavity inferiorly",
+          "normal"
+        ],
+        "mf": [
+          "FR dull",
+          "on"
+        ],
+        "rem": [
+          "NVI and PAS noted",
+          ""
+        ]
+      },
+      "inv": {
+        "iop": [
+          "22",
+          "23"
+        ]
+      },
+      "fup": {
+        "adv": "1 week;1 month"
+      }
+    },
+    {
+      "v": 18,
+      "d": "2023-05-22",
+      "c": "F17",
+      "diag": [
+        [
+          "Aphakia × 1",
+          "PACG × 1",
+          "Post Trabeculectomy × 1",
+          "Post Diode CPC × 1",
+          "Neovascular/Rubeotic Glaucoma × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "Avastin"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "as": {
+        "rem": [
+          "360 degree PAS",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular;PAS +",
+          "Normal Depth"
+        ],
+        "ir": [
+          "LPI - Patent,  NVI +",
+          "LPI - Patent"
+        ],
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.9",
+          "CDR 0.3"
+        ],
+        "me": "clear",
+        "di": [
+          "cdr 0.7-0.8, thinned NRR",
+          "cdr 0.4"
+        ],
+        "ve": [
+          "updo 3rd order vessels seen",
+          "normal"
+        ],
+        "br": [
+          "Normal . Pigments in vit cavity inferiorly",
+          "normal"
+        ],
+        "mf": [
+          "FR dull",
+          "on"
+        ],
+        "rem": [
+          "NVI and PAS noted",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "DIAMOX TAB",
+          "dos": "2 tablet",
+          "eye": "5"
+        },
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "39",
+          "25"
+        ]
+      },
+      "fup": {
+        "adv": "10 days;15 days"
+      }
+    },
+    {
+      "v": 19,
+      "d": "2023-06-06",
+      "c": "F18",
+      "diag": [
+        [
+          "Aphakia × 1",
+          "PACG × 1",
+          "Post Trabeculectomy × 1",
+          "Post Diode CPC × 1",
+          "Neovascular/Rubeotic Glaucoma × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "HM"
+          },
+          {
+            "UCVA": "612",
+            "UCVA With PH": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "360 degree PAS",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular;PAS +",
+          "Normal Depth"
+        ],
+        "ir": [
+          "LPI - Patent,  NVI +",
+          "LPI - Patent"
+        ],
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "op": {
+        "ref": "review"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.75 nrr thinning",
+          "CDR 0.4"
+        ],
+        "me": "clear",
+        "di": [
+          "cdr 0.7-0.8, thinned NRR",
+          "cdr 0.4"
+        ],
+        "ve": [
+          "updo 3rd order vessels seen",
+          "normal"
+        ],
+        "br": [
+          "Normal . Pigments in vit cavity inferiorly",
+          "normal"
+        ],
+        "mf": [
+          "FR dull",
+          "on"
+        ],
+        "rem": [
+          "NVI and PAS noted",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "DORSUN EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PAN40 TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "20",
+          "19"
+        ]
+      },
+      "fup": {
+        "adv": "1 week;Whenever Required"
+      }
+    },
+    {
+      "v": 20,
+      "d": "2023-07-12",
+      "c": "F19",
+      "diag": [
+        [
+          "Aphakia × 1",
+          "PACG × 1",
+          "Post Trabeculectomy × 1",
+          "Post Diode CPC × 1",
+          "Neovascular/Rubeotic Glaucoma × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "612P",
+            "UCVA With PH": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "360 degree PAS",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular;PAS +",
+          "Normal Depth"
+        ],
+        "ir": [
+          "LPI - Patent,  NVI +",
+          "LPI - Patent"
+        ],
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "op": {
+        "ref": "r/w"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "hazy",
+          "CDR 0.4"
+        ],
+        "me": "clear",
+        "di": [
+          "cdr 0.7-0.8, thinned NRR",
+          "cdr 0.4"
+        ],
+        "ve": [
+          "updo 3rd order vessels seen",
+          "normal"
+        ],
+        "br": [
+          "Normal . Pigments in vit cavity inferiorly",
+          "normal"
+        ],
+        "mf": [
+          "FR dull",
+          "on"
+        ],
+        "rem": [
+          "NVI and PAS noted",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "BIMAT-T EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": "Night Only"
+        },
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "47",
+          "20"
+        ]
+      },
+      "fup": {
+        "adv": "10 days;1 month"
+      }
+    },
+    {
+      "v": 21,
+      "d": "2023-07-22",
+      "c": "F20",
+      "diag": [
+        [
+          "Aphakia × 1",
+          "PACG × 1",
+          "Post Trabeculectomy × 1",
+          "Post Diode CPC × 1",
+          "Neovascular/Rubeotic Glaucoma × 1"
+        ],
+        [
+          "Status Post PI × 1",
+          "PAC × 1"
+        ],
+        [
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "260"
+          },
+          {
+            "UCVA": "612",
+            "UCVA With PH": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "360 degree PAS;360 degree PAS, pl+ pr accurate",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular;PAS +",
+          "Normal Depth"
+        ],
+        "ir": [
+          "LPI - Patent,  NVI +",
+          "LPI - Patent"
+        ],
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "hazy, disc pallor+;hazy, cdr 0.8 pale rims",
+          "CDR 0.4"
+        ]
+      },
+      "m": [
+        {
+          "name": "LUBREX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": [
+          "14",
+          "20"
+        ]
+      },
+      "fup": {
+        "adv": "2 months;15 days"
+      }
+    },
+    {
+      "v": 22,
+      "d": "2023-09-22",
+      "c": "F21",
+      "diag": [
+        "",
+        "",
+        [
+          "Aphakia × 1",
+          "Secondary glaucoma × 1",
+          "APAC × 1",
+          "PAC × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "160"
+          },
+          {
+            "UCVA": "69P"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "10",
+            "ax": "0",
+            "va": "636",
+            "ucva": "160"
+          },
+          {
+            "ax": "0",
+            "va": "69P",
+            "ucva": "69P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "3"
+          },
+          {
+            "sph": "1.75"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular;PAS +",
+          "Normal Depth"
+        ],
+        "ir": "LPI - Patent",
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "hazy, cdr 0.8 pale rims",
+          "CDR 0.4"
+        ],
+        "me": "clear",
+        "di": [
+          "cdr 0.7-0.8, thinned NRR",
+          "cdr 0.4"
+        ],
+        "ve": [
+          "updo second order vessels seen",
+          "normal"
+        ],
+        "br": [
+          "Normal . Pigments in vit cavity inferiorly",
+          "normal"
+        ],
+        "mf": [
+          "FR dull",
+          "on"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "4",
+          "21"
+        ]
+      },
+      "fup": {
+        "adv": "2 months"
+      }
+    },
+    {
+      "v": 23,
+      "d": "2023-11-06",
+      "c": "F22",
+      "diag": [
+        "",
+        "",
+        [
+          "APAC × 1",
+          "Aphakia × 1",
+          "Secondary glaucoma × 1",
+          "PAC × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "160"
+          },
+          {
+            "UCVA": "69P"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "10",
+            "ax": "0",
+            "va": "636P",
+            "ucva": "160"
+          },
+          {
+            "ax": "0",
+            "va": "69P",
+            "ucva": "69P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "3"
+          },
+          {
+            "sph": "1.75"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular;PAS +",
+          "Normal Depth"
+        ],
+        "ir": "LPI - Patent",
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "hazy, cdr 0.8 pale rims",
+          "CDR 0.4"
+        ]
+      },
+      "m": [
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTAKIND 40 MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only"
+        },
+        {
+          "name": "IOTIM 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "27",
+          "14"
+        ]
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 24,
+      "d": "2023-11-20",
+      "c": "F23",
+      "diag": [
+        "",
+        "",
+        [
+          "APAC × 1",
+          "Aphakia × 1",
+          "Secondary glaucoma × 1",
+          "PAC × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "260"
+          },
+          {
+            "UCVA": "69P"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "10",
+            "ax": "0",
+            "va": "636P",
+            "ucva": "260"
+          },
+          {
+            "ax": "0",
+            "va": "69P",
+            "ucva": "69P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "3"
+          },
+          {
+            "sph": "1.75"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular;PAS +",
+          "Normal Depth"
+        ],
+        "ir": "LPI - Patent",
+        "cj": [
+          "Flat bleb;Flat bleb, mild CCC +",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "hazy, cdr 0.70;1 pale rims",
+          "CDR 0.4"
+        ]
+      },
+      "m": [
+        {
+          "name": "SYNCA LS EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "27",
+          "20"
+        ]
+      },
+      "fup": {
+        "adv": "5 days"
+      }
+    },
+    {
+      "v": 25,
+      "d": "2024-01-23",
+      "c": "F24",
+      "diag": [
+        "",
+        "",
+        [
+          "APAC × 1",
+          "Aphakia × 1",
+          "Secondary glaucoma × 1",
+          "PAC × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "69P"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "16",
+            "ax": "180"
+          },
+          {
+            "ax": "0",
+            "va": "69P",
+            "ucva": "69P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "3"
+          },
+          {
+            "sph": "2"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "consensual - present"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular;PAS +",
+          "Normal Depth"
+        ],
+        "ir": "LPI - Patent",
+        "cj": [
+          "Flat bleb, mild CCC +",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "lc"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "hazy, cdr 0.70;1 pale rims",
+          "CDR 0.4"
+        ]
+      },
+      "m": [
+        {
+          "name": "DIAMOX ER -500 MG  TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "LACOMA-T EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "37",
+          "18"
+        ]
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 26,
+      "d": "2024-02-14",
+      "c": "F25",
+      "diag": [
+        "",
+        "",
+        [
+          "APAC × 1",
+          "Aphakia × 1",
+          "Secondary glaucoma × 1",
+          "PAC × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "HM",
+            "UCVA With PH": "HM"
+          },
+          {
+            "UCVA": "69P",
+            "UCVA With PH": "69"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;H/O COVID 19;H/O COVID VACCINE;Hyperlipidemia;Hypertension;Identification Marks;Non-Ocular Sx;Other Allergies;Others;Remarks;Thyroid;GIT;Renal;RS;TB"
+      },
+      "as": {
+        "rem": [
+          "",
+          "consensual - brisk"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular;PAS +",
+          "Normal Depth"
+        ],
+        "ir": "LPI - Patent",
+        "cj": [
+          "Flat bleb, mild CCC +;Flat bleb, mild CCC +, follicles ?",
+          "Normal"
+        ],
+        "pu": [
+          "mid dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "IMSC"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "hazy, cdr 0.80;1 pale disc;pale disc",
+          "CDR 0.4"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "12",
+          "16"
+        ]
+      },
+      "fup": {
+        "adv": "1 month"
+      },
+      "oh": {
+        "desc": "brimonidine"
+      }
+    },
+    {
+      "v": 27,
+      "d": "2024-03-26",
+      "c": "F26",
+      "diag": [
+        "",
+        "",
+        [
+          "APAC × 1",
+          "Aphakia × 1",
+          "Secondary glaucoma × 1",
+          "PAC × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "HM"
+          },
+          {
+            "None": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "pl pr accurate",
+          "consensual +"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular;PAS +",
+          "Normal Depth"
+        ],
+        "ir": [
+          "LPI - Patent;not visualised;LPI -not visualised",
+          "LPI - Patent"
+        ],
+        "cj": [
+          "Flat bleb, mild CCC +",
+          "Normal"
+        ],
+        "pu": [
+          "dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "IMSC"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "pale disc,hazy view;cdr 0.6",
+          "CDR 0.4;cd 0.3, hnrr"
+        ]
+      },
+      "m": [
+        {
+          "name": "NETAPRIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": "Night Only"
+        },
+        {
+          "name": "DIAMOX ER -500 MG  TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only"
+        },
+        {
+          "name": "PANTAKIND 40 MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Morning Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "39",
+          "20"
+        ]
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 28,
+      "d": "2024-04-02",
+      "c": "F27",
+      "diag": [
+        "",
+        "",
+        [
+          "APAC × 1",
+          "Aphakia × 1",
+          "Secondary glaucoma × 1",
+          "PAC × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "HM"
+          },
+          {
+            "None": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "pl pr accurate",
+          "consensual +"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular;PAS +",
+          "Normal Depth"
+        ],
+        "ir": [
+          "LPI -not visualised",
+          "LPI - Patent"
+        ],
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "dilated, PS +",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "IMSC"
+        ]
+      },
+      "op": {
+        "ref": "6/9"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "cdr 0.55;1, pallor;cdr 0.60",
+          "cd 0.3, hnrr"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "6",
+          "19"
+        ]
+      },
+      "fup": {
+        "adv": "2 months"
+      }
+    },
+    {
+      "v": 29,
+      "d": "2024-05-24",
+      "c": "F28",
+      "diag": [
+        "",
+        "",
+        [
+          "APAC × 1",
+          "Aphakia × 1",
+          "Secondary glaucoma × 1",
+          "PAC × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "HM"
+          },
+          {
+            "None": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "pl pr accurate",
+          "consensual +"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular;PAS +",
+          "Normal Depth"
+        ],
+        "ir": [
+          "LPI -not visualised",
+          "LPI - Patent"
+        ],
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "dilated, PS +",
+          "Normal Size and Reaction to Light;Pharmacologically Dilated"
+        ],
+        "lens": [
+          "Aphakia",
+          "IMSC;nsg1"
+        ]
+      },
+      "op": {
+        "ref": "review"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "cdr 0.60;1, pallor",
+          "cd 0.3, hnrr"
+        ],
+        "me": "Clear",
+        "di": [
+          "cdr 0.6 pale rims",
+          "Normal"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "LUBREX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": [
+          "4",
+          "19"
+        ]
+      },
+      "fup": {
+        "adv": "15 days;1 month"
+      }
+    },
+    {
+      "v": 30,
+      "d": "2024-06-27",
+      "c": "F29",
+      "diag": [
+        "",
+        "",
+        [
+          "Hypotony of eye × 1",
+          "PAC × 2"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "HM"
+          },
+          {
+            "None": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "pl pr accurate",
+          "consensual +"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular  s/p  Scat. PAS +",
+          "Normal Depth"
+        ],
+        "ir": [
+          "not visualised",
+          "LPI - Patent"
+        ],
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "Midilated, PS +,thin Vit. strand @ sup. PAS",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "Aphakia",
+          "nsg1"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": [
+          "Normal;Pre Phthisical eye,?",
+          "Normal"
+        ]
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "pallor >cdr",
+          "cdr 0.3 , min.T.pallor"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Dull",
+          "Present"
+        ],
+        "rem": [
+          "Vitreal pigments+",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "LOTEPRED DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "LOTEPRED DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "LOTEPRED DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "LOTEPRED DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "LUBREX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "21",
+          "19"
+        ]
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 31,
+      "d": "2024-08-13",
+      "c": "F30",
+      "diag": [
+        "",
+        "",
+        [
+          "PAC × 2",
+          "Ocular hypertension × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "HM"
+          },
+          {
+            "None": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "pl pr accurate",
+          "consensual +;consensual  sluggish"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Irregular  s/p  Scat. PAS +;Irregular",
+          "Normal Depth"
+        ],
+        "ir": [
+          "normal hazy",
+          "LPI - Patent"
+        ],
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "hazy ...., dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "nsg1"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": [
+          "Pre Phthisical eye,?;Normal",
+          "Normal"
+        ]
+      },
+      "m": [
+        {
+          "name": "ALBRIM-T EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "AUROPROST-RT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": "Night Only"
+        },
+        {
+          "name": "DORSUN EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "45",
+          "17"
+        ]
+      },
+      "fup": {
+        "adv": "6 days"
+      }
+    },
+    {
+      "v": 32,
+      "d": "2024-09-18",
+      "c": "F31",
+      "diag": [
+        "",
+        "",
+        [
+          "PAC × 2",
+          "Ocular hypertension × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "None": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "PL +, PR inaccurate inferiorly;PL +, PR inaccurate inferiorly, rest all quadrants accurate",
+          "consensual  absent;consensual  very sluggish"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Shallow Temporally",
+          "Normal Depth"
+        ],
+        "ir": [
+          "PAS Temporally, sup, inf",
+          "LPI - Patent, at 12 ocp"
+        ],
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "Dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "Aphakia",
+          "nsg1;NS 2"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Pale disc, 0.9 cdr, pigments in vitreous , fr dull , rpe changes +;Pale disc,  pigments in vitreous , fr dull , rpe changes +",
+          "Hazy, cdr 0.3"
+        ],
+        "me": [
+          "Hazy-Corneal Edema",
+          "Clear"
+        ],
+        "di": [
+          "pallor >cdr",
+          "cdr 0.3 , hnrr"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Dull",
+          "Present"
+        ],
+        "rem": [
+          "pigments in vitreous",
+          ""
+        ]
+      },
+      "inv": {
+        "iop": [
+          "16",
+          "18"
+        ]
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 33,
+      "d": "2024-12-10",
+      "c": "F32",
+      "diag": [
+        "",
+        "",
+        [
+          "PAC × 2",
+          "Ocular hypertension × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "None": "612"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "PL +, PR inaccurate inferiorly, rest all quadrants accurate",
+          "consensual  very sluggish"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Shallow Temporally",
+          "Normal Depth"
+        ],
+        "ir": [
+          "PAS Temporally, sup, inf",
+          "LPI - Patent, at 12 ocp"
+        ],
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "Dilated",
+          "Normal Size and Reaction to Light;Pharmacologically Dilated"
+        ],
+        "lens": [
+          "Aphakia",
+          "NS 2"
+        ]
+      },
+      "op": {
+        "ref": "re - post trab / post diode cpc - on MMT - IOP stable - for secondary iol"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Pale disc,  pigments in vitreous , fr dull , rpe changes +",
+          "Hazy, cdr 0.3"
+        ],
+        "me": [
+          "Hazy-Corneal Edema",
+          "Clear"
+        ],
+        "di": [
+          "Pale disc, ? cdr 0.9 ( CDR not clearly delineated)   pallor >cdr",
+          "cdr 0.3 , Min temporal pallor"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Dull",
+          "Present"
+        ],
+        "rem": [
+          "pigments in vitreous",
+          ""
+        ]
+      },
+      "inv": {
+        "iop": [
+          "10",
+          "16"
+        ],
+        "sp": {
+          "r": "No Data;Done,Done"
+        }
+      }
+    },
+    {
+      "v": 34,
+      "d": "2025-03-05",
+      "c": "F33",
+      "diag": [
+        "",
+        "",
+        [
+          "PAC × 2",
+          "Ocular hypertension × 1",
+          "Absolute glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "HM",
+            "UCVA With PH": "HM"
+          },
+          {
+            "UCVA": "618",
+            "UCVA With PH": "612"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "pR inaccurate",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "Shallow Temporally",
+          "Normal Depth"
+        ],
+        "ir": [
+          "PAS Temporally, sup, inf",
+          "LPI - Patent, at 12 ocp"
+        ],
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "Dilated",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "Aphakia",
+          "NS 2"
+        ]
+      },
+      "op": {
+        "ref": "r.w"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Pale disc,  pigments in vitreous , fr dull , rpe changes +",
+          "Hazy, cdr 0.3"
+        ],
+        "me": [
+          "Hazy-Corneal Edema",
+          "Clear"
+        ],
+        "di": [
+          "Pale disc, ? cdr 0.9 ( CDR not clearly delineated)   pallor >cdr",
+          "cdr 0.3 , Min temporal pallor"
+        ],
+        "ve": "Normal",
+        "br": [
+          "Retina on",
+          "Normal"
+        ],
+        "mf": [
+          "Dull",
+          "Present"
+        ],
+        "rem": [
+          "pigments in vitreous",
+          ""
+        ]
+      },
+      "inv": {
+        "iop": [
+          "28",
+          "19"
+        ]
+      }
+    },
+    {
+      "v": 35,
+      "d": "2025-06-27",
+      "c": "F34",
+      "diag": [
+        "",
+        "",
+        [
+          "Absolute glaucoma × 1",
+          "PAC × 2",
+          "Ocular hypertension × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "612"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "pR inaccurate",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "Shallow Temporally",
+          "Normal Depth"
+        ],
+        "ir": [
+          "PAS Temporally, sup, inf",
+          "LPI - Patent, at 12 ocp"
+        ],
+        "cj": [
+          "Flat bleb",
+          "Normal"
+        ],
+        "pu": [
+          "Dilated",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "Aphakia",
+          "NS 2"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Pale disc,  pigments in vitreous , fr dull , rpe changes +",
+          "Hazy, cdr 0.3"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "3",
+          "17"
+        ]
+      }
+    }
+  ]
+}

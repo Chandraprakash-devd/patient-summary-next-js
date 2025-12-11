@@ -1,0 +1,1202 @@
+{
+  "p": {
+    "uid": "0018778471",
+    "mr": "P195824",
+    "v": 17,
+    "f": "2022-07-28",
+    "l": "2024-11-20"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-07-28",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "IMC × 1",
+          "PACG × 1",
+          "Status Post PI × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "660"
+        },
+        "dist": [
+          {
+            "sph": "-1.5",
+            "ax": "75",
+            "va": "618",
+            "ucva": "660"
+          },
+          {
+            "sph": "-2.5",
+            "ax": "75",
+            "va": "612P",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "s": {
+        "h": "Diabetes;Hypertension;Cardiac;Asthma;Other Allergies;Non-Ocular Sx;Others;Hyperlipidemia;Drug Allergies;Remarks;H/O COVID 19;H/O COVID VACCINE;Identification Marks;Thyroid"
+      },
+      "at": {
+        "ac": "VHG2",
+        "ir": [
+          "Peripheral Iridectomy-Laser-lamellar at 3 o clock, patent at 10 o clock",
+          "multiple pi attempts , patent at 3 o clock"
+        ],
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "ns 2, cc"
+      },
+      "op": {
+        "ref": "BE primary angle closure glaucoma;s/p LPI"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Hazy-Cataract",
+        "di": [
+          "c:d 0.65, large disc, sr sloping",
+          "c;d 0.65, sr notch"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "dull"
+      },
+      "m": [
+        {
+          "name": "GLUCOMOL DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": "28",
+        "sp": {
+          "r": ","
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-08-29",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "IMC × 1",
+          "PACG × 1",
+          "Status Post PI × 1",
+          "PDR × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": {
+          "UCVA": "660",
+          "UCVA With PH": "612P"
+        }
+      },
+      "at": {
+        "ac": "VHG2",
+        "ir": [
+          "Peripheral Iridectomy-Laser-lamellar at 3 o clock, patent at 10 o clock",
+          "multiple pi attempts , patent at 3 o clock"
+        ],
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "ns 2, cc"
+      },
+      "op": {
+        "ref": "RE ? PSEUDOMEMBRANE ? ERM, CLEARANCE FOR IOL SX",
+        "rem": "BACK TO GLAUCOMA"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract, PVD",
+          "Hazy-Cataract"
+        ],
+        "di": [
+          "CDR = 0.65, large disc, SR sloping",
+          "CDR = 0.65, SR notch"
+        ],
+        "ve": "PERIPHERAL PERI VASCULAR EXUDATES",
+        "br": [
+          "RETINA ON, PERIPHERAL HEMORRHAGES, NVE, DRUSEN, PERIPHERAL WWOP AREAS",
+          "RETINA ON, HEMORRHAGES, DRUSEN, FLAT FVP SUPERIORLY"
+        ],
+        "mf": [
+          "DULL, ERM",
+          "DULL, ma"
+        ],
+        "rem": "PDR"
+      },
+      "inv": {
+        "iop": "23",
+        "sp": {
+          "r": "Borderline Superior RNFL thinning,Superior RNFL thinning, Borderline inferior  RNFL thinning,Low test reliability,Low test reliability,DONE,DONE"
+        }
+      }
+    },
+    {
+      "v": 3,
+      "d": "2022-09-08",
+      "c": "F2",
+      "diag": [
+        "",
+        "",
+        [
+          "IMC × 1",
+          "PACG × 1",
+          "Status Post PI × 1",
+          "PDR × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "660",
+          "UCVA With PH": "612P"
+        },
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "at": {
+        "ac": "VHG2",
+        "ir": [
+          "Peripheral Iridectomy-Laser-lamellar at 3 o clock, patent at 10 o clock",
+          "multiple pi attempts , patent at 3 o clock"
+        ],
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "ns 2, cc"
+      },
+      "op": {
+        "ref": "Review",
+        "rem": "Back To Retina laser"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract, PVD",
+          "Hazy-Cataract"
+        ],
+        "di": "CDR 0.65, HNRR",
+        "ve": "PERIPHERAL PERI VASCULAR EXUDATES",
+        "br": [
+          "RETINA ON, PERIPHERAL HEMORRHAGES, NVE, DRUSEN, PERIPHERAL WWOP AREAS",
+          "RETINA ON, HEMORRHAGES, DRUSEN, FLAT FVP SUPERIORLY"
+        ],
+        "mf": [
+          "DULL, ERM",
+          "DULL, ma"
+        ],
+        "rem": "PDR"
+      },
+      "m": [
+        {
+          "name": "MEGABROM EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2,
+          "dur": 15,
+          "med_start": "08/09/2022",
+          "med_end": "22/09/2022"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "20",
+          "25"
+        ]
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2022-09-16",
+      "c": "F3",
+      "vi": {
+        "vis": {
+          "UCVA": "660",
+          "UCVA With PH": "618"
+        },
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      }
+    },
+    {
+      "v": 5,
+      "d": "2022-09-23",
+      "c": "F4",
+      "vi": {
+        "vis": {
+          "UCVA": "660",
+          "UCVA With PH": "618"
+        },
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "at": {
+        "ac": "VHG2",
+        "ir": [
+          "Peripheral Iridectomy-Laser-lamellar at 3 o clock, patent at 10 o clock",
+          "multiple pi attempts , patent at 3 o clock"
+        ],
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "ns 2, cc"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "MEGABROM EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2,
+          "dur": 15,
+          "med_start": "23/09/2022",
+          "med_end": "07/10/2022"
+        }
+      ],
+      "inv": {
+        "iop": "22"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2022-10-26",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "IMC × 1",
+          "PACG × 1",
+          "Status Post PI × 1",
+          "PDR × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "560"
+        },
+        "dist": [
+          {
+            "sph": "-2.00",
+            "ax": "75",
+            "va": "618"
+          },
+          {
+            "sph": "-2.5",
+            "ax": "75",
+            "va": "612P",
+            "ucva": "560"
+          }
+        ]
+      },
+      "at": {
+        "ac": "VHG2",
+        "ir": [
+          "Peripheral Iridectomy-Laser-lamellar at 3 o clock, patent at 10 o clock",
+          "multiple pi attempts , patent at 3 o clock"
+        ],
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "ns 2, cc"
+      },
+      "op": {
+        "ref": "RE IOL SX;RE PHACO with AUROFLEX",
+        "rem": "IV MANITOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract, PVD",
+          "Hazy-Cataract"
+        ],
+        "di": [
+          "CDR 0.65, superior sloping",
+          "CDR 0.65, HNRR"
+        ],
+        "ve": "PERIPHERAL PERI VASCULAR EXUDATES",
+        "br": [
+          "RETINA ON, PERIPHERAL HEMORRHAGES, NVE, DRUSEN, PERIPHERAL WWOP AREAS, PRP MARKS",
+          "RETINA ON, PERIPHERAL HEMORRHAGES, NVE, DRUSEN, PERIPHERAL WWOP AREAS, PRP MARKS, FP STQ"
+        ],
+        "mf": [
+          "DULL, ERM",
+          "DULL, ma"
+        ],
+        "rem": "PDR"
+      },
+      "m": [
+        {
+          "name": "GLUCOMOL DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "20",
+          "19"
+        ]
+      }
+    },
+    {
+      "v": 7,
+      "d": "2022-11-03",
+      "c": "F6",
+      "vi": {
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      }
+    },
+    {
+      "v": 8,
+      "d": "2022-11-07",
+      "c": "F7",
+      "vi": {
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      }
+    },
+    {
+      "v": 9,
+      "d": "2022-11-17",
+      "c": "F8",
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69",
+            "UCVA With PH": "66P"
+          },
+          {}
+        ],
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "m": [
+        {
+          "name": "DEXA 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6,
+          "dur": 7,
+          "med_start": "18/11/2022",
+          "med_end": "24/11/2022"
+        },
+        {
+          "name": "DEXA 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 5,
+          "dur": 7,
+          "med_start": "25/11/2022",
+          "med_end": "01/12/2022"
+        },
+        {
+          "name": "DEXA 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4,
+          "dur": 7,
+          "med_start": "02/12/2022",
+          "med_end": "08/12/2022"
+        },
+        {
+          "name": "DEXA 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3,
+          "dur": 7,
+          "med_start": "09/12/2022",
+          "med_end": "15/12/2022"
+        },
+        {
+          "name": "DEXA 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2,
+          "dur": 7,
+          "med_start": "16/12/2022",
+          "med_end": "22/12/2022"
+        },
+        {
+          "name": "DEXA 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1,
+          "dur": 7,
+          "med_start": "23/12/2022",
+          "med_end": "29/12/2022"
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3,
+          "dur": 15,
+          "med_start": "18/11/2022",
+          "med_end": "02/12/2022"
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "18/11/2022"
+      }
+    },
+    {
+      "v": 10,
+      "d": "2022-12-14",
+      "c": "F9",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "IMC × 1"
+        ],
+        [
+          "S/P PRP × 1",
+          "PDR × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69"
+          },
+          {
+            "UCVA": "560"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "69",
+            "ucva": "69"
+          },
+          {
+            "sph": "-2.5",
+            "ax": "75",
+            "va": "612P",
+            "ucva": "560"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;H/O COVID 19;H/O COVID VACCINE;Hyperlipidemia;Hypertension;Identification Marks;Non-Ocular Sx;Other Allergies;Others;Remarks;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, -7mm",
+        "lens": [
+          "PCIOL",
+          "ns 2 pscc"
+        ]
+      },
+      "op": {
+        "ref": "be - s/p prp;REVIEW"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy- cataract"
+        ],
+        "di": [
+          "cup disc ratio-0.65 superior slope",
+          "cup disc ratio-0.6"
+        ],
+        "ve": "NVE",
+        "br": [
+          "Taut Hyaloid, FVP, HES, HGS PRP SCARS",
+          "HGS, HES, FVP"
+        ],
+        "mf": [
+          "ERM",
+          "RPE alteration, drusenoid ped"
+        ],
+        "rem": "PDR s/p prp"
+      },
+      "m": [
+        {
+          "name": "NEPAFLAM-OD DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1,
+          "dur": 30,
+          "med_start": "14/12/2022",
+          "med_end": "12/01/2023"
+        },
+        {
+          "name": "GLUCOMOL DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "BIDIN-LS EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "15"
+        ],
+        "sp": {
+          "r": "Done,Done"
+        }
+      },
+      "fup": {
+        "adv": "2 months"
+      }
+    },
+    {
+      "v": 11,
+      "d": "2023-05-24",
+      "c": "F10",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "IMC × 1"
+        ],
+        [
+          "S/P PRP × 1",
+          "PDR × 1",
+          "Status Post PI × 1",
+          "PACG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69P"
+          },
+          {
+            "UCVA": "560"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "69P",
+            "ucva": "69P"
+          },
+          {
+            "sph": "-2.5",
+            "ax": "75",
+            "va": "612P",
+            "ucva": "560"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "as": {
+        "rem": "NO NVI"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, -7mm",
+        "lens": [
+          "PCIOL",
+          "ns 2 pscc"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy- cataract"
+        ],
+        "di": [
+          "cup disc ratio-0.65 superior slope",
+          "cup disc ratio-0.6"
+        ],
+        "ve": "NVE",
+        "br": [
+          "Taut Hyaloid, FVP, HES, HGS PRP SCARS",
+          "HGS, HES, FVP"
+        ],
+        "mf": [
+          "ERM",
+          "RPE alteration, drusenoid ped"
+        ],
+        "rem": "PDR s/p prp"
+      },
+      "m": [
+        {
+          "name": "GLUCOMOL DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "19",
+          "27"
+        ]
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 12,
+      "d": "2023-06-08",
+      "c": "F11",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "IMC × 1"
+        ],
+        [
+          "S/P PRP × 1",
+          "PDR × 1",
+          "Status Post PI × 1",
+          "PACG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "612",
+            "UCVA With PH": "69P"
+          },
+          {
+            "UCVA": "560",
+            "UCVA With PH": "612P"
+          }
+        ]
+      },
+      "as": {
+        "rem": "NO NVI"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, -7mm",
+        "lens": [
+          "PCIOL",
+          "ns 2 pscc"
+        ]
+      },
+      "op": {
+        "ref": "BE PDR, S/P PRP, AWAITING LE CAT SX;le cat sx clearance given, plan iol sx"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy- cataract"
+        ],
+        "di": [
+          "cup disc ratio-0.65 superior slope",
+          "cup disc ratio-0.6"
+        ],
+        "ve": "NVE",
+        "br": [
+          "Taut Hyaloid, FVP, HES, HGS PRP SCARS",
+          "HGS, HES, FVP"
+        ],
+        "mf": [
+          "ERM",
+          "RPE alteration, drusenoid ped"
+        ],
+        "rem": "PDR s/p prp"
+      },
+      "m": [
+        {
+          "name": "GLUCOMOL DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "14",
+          "18"
+        ],
+        "sp": {
+          "r": ",done,done"
+        }
+      },
+      "fup": {
+        "adv": "1 month;3 months"
+      }
+    },
+    {
+      "v": 13,
+      "d": "2023-07-06",
+      "c": "F12",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "IMC × 1"
+        ],
+        [
+          "S/P PRP × 1",
+          "PDR × 1",
+          "Status Post PI × 1",
+          "PACG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "612",
+            "UCVA With PH": "69P"
+          },
+          {
+            "UCVA": "560",
+            "UCVA With PH": "612P"
+          }
+        ]
+      },
+      "as": {
+        "rem": "NO NVI"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, -7mm",
+        "lens": [
+          "PCIOL",
+          "ns 2 pscc"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy- cataract"
+        ],
+        "di": [
+          "cup disc ratio-0.65 superior slope",
+          "cup disc ratio-0.6"
+        ],
+        "ve": "NVE",
+        "br": [
+          "Taut Hyaloid, FVP, HES, HGS PRP SCARS",
+          "HGS, HES, FVP"
+        ],
+        "mf": [
+          "ERM",
+          "RPE alteration, drusenoid ped"
+        ],
+        "rem": "PDR s/p prp"
+      },
+      "m": [
+        {
+          "name": "GLUCOMOL DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "22"
+        ]
+      }
+    },
+    {
+      "v": 14,
+      "d": "2023-07-18",
+      "c": "F13",
+      "op": {
+        "ref": "PHACO \t-\tACRYLIC\t-\tLE",
+        "rem": "IV MANITOL"
+      },
+      "inv": {
+        "iop": "Not Measurable"
+      }
+    },
+    {
+      "v": 15,
+      "d": "2023-07-27",
+      "c": "F14",
+      "diag": [
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "PCIOL × 1"
+        ],
+        [
+          "S/P PRP × 1",
+          "PDR × 1",
+          "Status Post PI × 1",
+          "PACG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "69P",
+            "UCVA With PH": "66P"
+          }
+        ]
+      },
+      "m": [
+        {
+          "name": "GLUCOMOL DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 6
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 5
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "DEXA 7.5 ML",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        }
+      ],
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 16,
+      "d": "2023-08-31",
+      "c": "F15",
+      "diag": [
+        "",
+        "",
+        [
+          "PDR × 1",
+          "Status Post PI × 1",
+          "PCIOL × 1",
+          "PACG × 1",
+          "S/P PRP × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "618"
+          },
+          {
+            "UCVA": "612P"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "165",
+            "va": "69",
+            "ucva": "618"
+          },
+          {
+            "ax": "180",
+            "va": "69",
+            "ucva": "612P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear;Pseudophakia-PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.65 superior slope",
+          "cup disc ratio-0.6"
+        ],
+        "ve": "NVE",
+        "br": [
+          "Taut Hyaloid, FVP, HES, HGS PRP SCARS",
+          "HGS, HES, FVP"
+        ],
+        "mf": [
+          "ERM",
+          "RPE alteration, drusenoid ped"
+        ],
+        "rem": "PDR s/p prp"
+      },
+      "m": [
+        {
+          "name": "AMPLINAK EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "12",
+          "15"
+        ]
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 17,
+      "d": "2024-11-20",
+      "c": "F16",
+      "diag": [
+        "",
+        "",
+        [
+          "Pseudophakia × 1",
+          "PDR × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "Normal Color and Pattern;LPI patent@ 10 o clock and 3 o clock position",
+          "Normal Color and Pattern;LPI patent@  3 o clock position"
+        ],
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear;Pseudophakia-PCIOL"
+      },
+      "op": {
+        "ref": "REFERRED HERE AS BE PDR;high iop ou",
+        "rem": "?pacg ou"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.5:1",
+          "CDR 0.6:1"
+        ],
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.65, SUPERIOR NRR THINNING",
+          "cup disc ratio-0.6"
+        ],
+        "ve": "Normal",
+        "br": "prp scars,few haemorrhages",
+        "mf": [
+          "erm+",
+          "fvp+"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "27",
+          "26"
+        ],
+        "sp": {
+          "r": "No Data"
+        }
+      }
+    }
+  ]
+}

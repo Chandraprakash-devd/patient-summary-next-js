@@ -1,0 +1,695 @@
+{
+  "p": {
+    "uid": "0020319841",
+    "mr": "P3028797",
+    "v": 8,
+    "f": "2023-06-14",
+    "l": "2025-03-28"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2023-06-14",
+      "c": "Initial",
+      "diag": [
+        [
+          "PACS × 1"
+        ],
+        [
+          "PACG × 1"
+        ],
+        [
+          "High Myopia × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "560",
+            "UCVA": "260"
+          },
+          {
+            "Glasses": "160",
+            "UCVA": "160"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-8.00",
+            "ax": "90",
+            "va": "660",
+            "ucva": "260"
+          },
+          {
+            "ax": "0",
+            "va": "160",
+            "ucva": "160"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "s": {
+        "h": "GIT;Renal;RS;Diabetes;Hypertension;Cardiac;Asthma;Other Allergies;Non-Ocular Sx;Others;Hyperlipidemia;Drug Allergies;Remarks;H/O COVID 19;H/O COVID VACCINE;Identification Marks;Thyroid"
+      },
+      "as": {
+        "rem": "Horizontal nystagmus"
+      },
+      "at": {
+        "ac": "vh 2",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "RAPD-II"
+        ],
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "",
+          "0.8, Pale disc"
+        ]
+      },
+      "m": [
+        {
+          "name": "DIAMOX TAB",
+          "dos": "2 tablet",
+          "eye": "5"
+        },
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "DORZOX-T EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "34"
+        ]
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2023-06-22",
+      "c": "F1",
+      "diag": [
+        [
+          "PACS × 1"
+        ],
+        [
+          "PACG × 1"
+        ],
+        [
+          "High Myopia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "260",
+            "UCVA With PH": "660"
+          },
+          {
+            "UCVA": "160",
+            "UCVA With PH": "160"
+          }
+        ]
+      },
+      "at": {
+        "ac": "vh 2",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "RAPD-II"
+        ],
+        "lens": "Clear"
+      },
+      "op": {
+        "ref": "BE diffuse punctate epithelial erosion",
+        "rem": "kindly give clearance for BE YAG PI"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "",
+          "0.8, Pale disc"
+        ]
+      },
+      "m": [
+        {
+          "name": "SOFT DROPS",
+          "eye": "3",
+          "fre": 3
+        },
+        {
+          "name": "LOTEPRED DROPS",
+          "eye": "3",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "36"
+        ]
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2023-06-29",
+      "c": "F2",
+      "diag": [
+        [
+          "PACS × 1"
+        ],
+        [
+          "PACG × 1"
+        ],
+        [
+          "High Myopia × 1",
+          "Status Post PI × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "260",
+            "UCVA With PH": "660",
+            "Glasses": "660"
+          },
+          {
+            "UCVA": "160",
+            "UCVA With PH": "160",
+            "Glasses": "160"
+          }
+        ]
+      },
+      "at": {
+        "ac": "vh 2",
+        "ir": "LASER PI patent",
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "RAPD-II"
+        ],
+        "lens": "Clear"
+      },
+      "op": {
+        "ref": "HTNR;Visual rehabilitation"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.5/PPA+",
+          "CDR 0.8/NRR PALE"
+        ],
+        "me": [
+          "Clear",
+          "Hazy"
+        ],
+        "di": [
+          "cup disc ratio-0.5, Color-Pale, PPA",
+          "cup disc ratio-0.9, Color-Pale, PPA"
+        ],
+        "ve": "Normal",
+        "br": "few dot hmgs, peripheral pigmented scars+",
+        "mf": "circular atrophic patch ?GA ?CACD"
+      },
+      "m": [
+        {
+          "name": "CAREPROST LS DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": "Night Only"
+        },
+        {
+          "name": "DORZOX-T EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "20",
+          "38"
+        ]
+      },
+      "fup": {
+        "adv": "6 weeks"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-08-02",
+      "c": "F3",
+      "diag": [
+        [
+          "PAC × 1"
+        ],
+        [
+          "PACG × 1"
+        ],
+        [
+          "High Myopia × 1",
+          "Status Post PI × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "660",
+            "UCVA": "260"
+          },
+          {
+            "Glasses": "160",
+            "UCVA": "160"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-7.5",
+            "ax": "0",
+            "va": "660",
+            "ucva": "260"
+          },
+          {
+            "ax": "0",
+            "va": "160",
+            "ucva": "160"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "vh 2",
+        "ir": "LASER PI patent",
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light;Pharmacologically Dilated",
+          "RAPD-II;Pharmacologically Dilated"
+        ],
+        "lens": "Clear;Lens Changes"
+      },
+      "op": {
+        "ref": "clearance for le trab, high myope"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.5/PPA+, macular scar",
+          "CDR 0.8/NRR PALE, macular scar"
+        ],
+        "me": [
+          "Clear",
+          "Hazy"
+        ],
+        "di": [
+          "cup disc ratio-0.5, Color-Pale, PPA",
+          "cup disc ratio-0.9, Color-Pale, PPA"
+        ],
+        "ve": "Normal",
+        "br": "few dot hmgs, peripheral pigmented scars+",
+        "mf": "circular atrophic patch - GA/ macular dystrophy",
+        "rem": [
+          "Moderate NPDR",
+          "Moderate NPDR, PVD"
+        ]
+      },
+      "m": [
+        {
+          "name": "CAREPROST LS DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": "Night Only"
+        },
+        {
+          "name": "DORZOX-T EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "20",
+          "44"
+        ],
+        "sp": {
+          "r": "Hra done,Hra done"
+        }
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2023-11-02",
+      "c": "F4",
+      "diag": [
+        "",
+        "",
+        [
+          "PAC × 1",
+          "High myopia × 1",
+          "Primary Angle-Closure Glaucoma × 1",
+          "Amblyopia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "360",
+            "Glasses": "660"
+          },
+          {
+            "UCVA": "160",
+            "Glasses": "160"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-7.5",
+            "va": "660",
+            "ucva": "360"
+          },
+          {
+            "sph": "-7.00",
+            "va": "160",
+            "ucva": "160"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "vh 2",
+        "ir": "LASER PI patent",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated;Normal Size and Reaction to Light",
+        "lens": "Lens Changes"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.5/PPA+, macular scar",
+          "CDR 0.8/NRR PALE, macular scar"
+        ],
+        "me": [
+          "Clear",
+          "Hazy"
+        ],
+        "di": [
+          "cup disc ratio-0.5, Color-Pale, PPA",
+          "cup disc ratio-0.9, Color-Pale, PPA"
+        ],
+        "ve": "Normal",
+        "br": "few dot hmgs, peripheral pigmented scars+",
+        "mf": "circular atrophic patch - GA/ macular dystrophy",
+        "rem": [
+          "Moderate NPDR",
+          "Moderate NPDR, PVD"
+        ]
+      },
+      "m": [
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "30"
+        ]
+      },
+      "fup": {
+        "adv": "4 months"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2024-03-04",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "PAC × 1",
+          "Amblyopia × 1",
+          "Primary Angle-Closure Glaucoma × 1",
+          "High myopia × 1"
+        ]
+      ],
+      "at": {
+        "ac": "vh 2",
+        "ir": "Peripheral Iridectomy-Laser-Patent",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Lens Changes"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.5/PPA+, macular scar",
+          "CDR 0.8/NRR PALE, macular scar"
+        ],
+        "me": [
+          "Clear",
+          "Hazy"
+        ],
+        "di": [
+          "cup disc ratio-0.5, Color-Pale, PPA",
+          "cup disc ratio-0.9, Color-Pale, PPA"
+        ],
+        "ve": "Normal",
+        "br": "few dot hmgs, peripheral pigmented scars+",
+        "mf": "circular atrophic patch - GA/ macular dystrophy",
+        "rem": [
+          "Moderate NPDR",
+          "Moderate NPDR, PVD"
+        ]
+      },
+      "m": [
+        {
+          "name": "RIPATEC 5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "14",
+          "36"
+        ]
+      },
+      "fup": {
+        "adv": "4 months"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2024-11-27",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "PAC × 1",
+          "Amblyopia × 1",
+          "Primary Angle-Closure Glaucoma × 1",
+          "High myopia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "360"
+          },
+          {
+            "None": "160"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern;Peripheral Iridectomy-Laser-Patent",
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Normal Size and Reaction to Light;sluggish"
+        ],
+        "lens": "Clear;IMC"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.5",
+          "cup disc ratio-0.9"
+        ],
+        "ve": "Normal",
+        "br": "Chorioretinal degeneration",
+        "mf": "Absent-CNVM"
+      },
+      "m": [
+        {
+          "name": "DORZOX-T EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "16",
+          "50"
+        ]
+      }
+    },
+    {
+      "v": 8,
+      "d": "2025-03-28",
+      "c": "F7",
+      "diag": [
+        "",
+        "",
+        [
+          "PAC × 1",
+          "Amblyopia × 1",
+          "Primary Angle-Closure Glaucoma × 1",
+          "High myopia × 1",
+          "Absolute glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "With Spectacles": "636",
+            "UCVA": "360"
+          },
+          {
+            "With Spectacles": "NLP",
+            "UCVA": "NLP"
+          }
+        ]
+      },
+      "s": {
+        "h": "Non-Ocular Sx;Hypertension;Remarks;Diabetes;Asthma;Thyroid Status;Others;Hyperlipidemia;GIT;RS;Drug Allergies;Other Allergies;Cardiac;Identification Marks"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Peripheral Iridectomy-Laser-Patent",
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "MID DILATED,NRTL"
+        ],
+        "lens": "IMC"
+      },
+      "op": {
+        "ref": "rw"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.4, pallor",
+          "GOA, ppa"
+        ],
+        "ve": "Normal",
+        "br": "Chorioretinal degeneration",
+        "mf": "geographic atrophy"
+      },
+      "inv": {
+        "iop": [
+          "20",
+          "70"
+        ],
+        "sp": {
+          "r": "DONE,DONE,DONE"
+        }
+      }
+    }
+  ]
+}

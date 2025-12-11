@@ -1,0 +1,500 @@
+{
+  "p": {
+    "uid": "0017684556",
+    "mr": "P975577",
+    "v": 7,
+    "f": "2022-01-22",
+    "l": "2024-06-20"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-01-22",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "Presbyopia × 1",
+          "Compound Hyperopic Astigmatism × 1",
+          "NTG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "660",
+          "Glasses": "69P"
+        }
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;H/O COVID 19;H/O COVID VACCINE;Hyperlipidemia;Hypertension;Identification Marks;Non-Ocular Sx;Other Allergies;Others;Remarks;Thyroid;GIT;Renal;RS"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "CC"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "CDR 0.7, IRR slope",
+          "CDR 0.7, IRR thinning"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE degeneration",
+          "Present"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "14",
+          "15"
+        ]
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-07-23",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "NTG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "Glasses": "69P",
+          "UCVA": "660"
+        },
+        "dist": [
+          {
+            "sph": "+2.5",
+            "ax": "165",
+            "va": "69",
+            "ucva": "660"
+          },
+          {
+            "sph": "+2.5",
+            "ax": "180",
+            "va": "69",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5",
+            "ax": "N8"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "LC"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cdr 0.7",
+          "cdr 0.75, IRT"
+        ],
+        "ve": "Normal",
+        "br": "Tesselated",
+        "mf": "RPE degeneration"
+      },
+      "inv": {
+        "iop": [
+          "17",
+          "16"
+        ]
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2022-12-23",
+      "c": "F2",
+      "diag": [
+        "",
+        "",
+        [
+          "NTG × 1",
+          "Compound Hyperopic Astigmatism × 1",
+          "Presbyopia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "69P",
+            "UCVA": "560"
+          },
+          {
+            "Glasses": "612",
+            "UCVA": "560"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "+3.25",
+            "ax": "180",
+            "va": "66",
+            "ucva": "560"
+          },
+          {
+            "sph": "+3.00",
+            "ax": "180",
+            "va": "66P",
+            "ucva": "560"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.25"
+          },
+          {
+            "sph": "+2.25",
+            "ax": "N10"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "LC"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cdr 0.7",
+          "cdr 0.75, IRT"
+        ],
+        "ve": "Normal",
+        "br": "Tesselated",
+        "mf": "RPE degeneration"
+      },
+      "inv": {
+        "iop": [
+          "20",
+          "18"
+        ]
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-06-28",
+      "c": "F3",
+      "diag": [
+        "",
+        "",
+        [
+          "Primary Open Angle Glaucoma/POAG × 1",
+          "NTG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "66",
+            "UCVA": "660"
+          },
+          {
+            "Glasses": "66P",
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "+3.25",
+            "ax": "180",
+            "va": "66",
+            "ucva": "660"
+          },
+          {
+            "sph": "+3.00",
+            "ax": "180",
+            "va": "66P",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.25",
+            "ax": "180"
+          },
+          {
+            "sph": "+2.25",
+            "ax": "N6"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "EC"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cdr 0.7",
+          "cdr 0.7, IRT"
+        ],
+        "ve": "Normal",
+        "br": "Tesselated",
+        "mf": "RPE degeneration"
+      },
+      "inv": {
+        "iop": [
+          "18",
+          "16"
+        ]
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2024-01-13",
+      "c": "F4",
+      "diag": [
+        "",
+        "",
+        [
+          "Normal tension glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "+3.25",
+            "ax": "180",
+            "va": "66P",
+            "ucva": "660"
+          },
+          {
+            "sph": "+3.00",
+            "ax": "180",
+            "va": "69",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.25",
+            "ax": "180"
+          },
+          {
+            "sph": "+2.25",
+            "ax": "N6"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light;Pharmacologically Dilated",
+        "lens": "Clear;ec"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Tesselated",
+          "Normal"
+        ],
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "XALATAN EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": "16"
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2024-04-10",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "Normal tension glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "660"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "ec"
+      },
+      "op": {
+        "ref": "6/6;6/60;6/9"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "cup disc ratio-0.8, irt",
+        "ve": "Normal",
+        "br": "Tesselated",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "XALATAN EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "13.7",
+          "12.2"
+        ]
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2024-06-20",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "Normal tension glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "66"
+          },
+          {
+            "None": "69"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light;Pharmacologically Dilated",
+        "lens": "Clear;ec"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.8, irt",
+          "cup disc ratio-0.75, irt"
+        ],
+        "ve": "Normal",
+        "br": "Tesselated",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "XALATAN EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "14",
+          "15"
+        ],
+        "sp": {
+          "r": "OCT Disc done,OCT Disc done"
+        }
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    }
+  ]
+}

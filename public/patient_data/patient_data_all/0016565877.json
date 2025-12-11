@@ -1,0 +1,1243 @@
+{
+  "p": {
+    "uid": "0016565877",
+    "mr": "P340820",
+    "v": 17,
+    "f": "2022-03-21",
+    "l": "2025-06-13"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-03-21",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "PCIOL × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "624"
+          },
+          {
+            "UCVA": "69"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-0.5",
+            "ax": "120",
+            "va": "69P",
+            "ucva": "624"
+          },
+          {
+            "ax": "20",
+            "va": "66",
+            "ucva": "69"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5",
+            "ax": "120"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, quiet",
+          "Normal Depth"
+        ],
+        "ir": [
+          "MST",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL , pigments on IOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "cup disc ratio-0.4",
+        "ve": "Normal",
+        "br": "tesselated",
+        "mf": "Dull"
+      },
+      "m": [
+        {
+          "name": "TEARDROP 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3,
+          "dur": 30,
+          "med_start": "21/03/2022",
+          "med_end": "19/04/2022"
+        }
+      ],
+      "inv": {
+        "iop": "20"
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-04-22",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "PCIOL × 1",
+          "Acute Conjunctivitis × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "624"
+          },
+          {
+            "UCVA": "69P"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-0.5",
+            "ax": "120",
+            "va": "69P",
+            "ucva": "624"
+          },
+          {
+            "ax": "0",
+            "va": "69P",
+            "ucva": "69P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5",
+            "ax": "120"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, quiet",
+          "Normal Depth"
+        ],
+        "ir": [
+          "MST",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Congestion-Diffuse, Discharge-Mucoid",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL , pigments on IOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "ZIVIMOX EYE DDROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 4,
+          "dur": 15,
+          "med_start": "22/04/2022",
+          "med_end": "06/05/2022"
+        },
+        {
+          "name": "MAXMOIST EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 4,
+          "dur": 30,
+          "med_start": "22/04/2022",
+          "med_end": "21/05/2022"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "15",
+          "19"
+        ]
+      },
+      "fup": {
+        "adv": "1 month"
+      },
+      "oh": {
+        "desc": "NCT"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2022-09-13",
+      "c": "F2",
+      "diag": [
+        "",
+        "",
+        [
+          "PCIOL × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "624",
+            "Glasses": "69P"
+          },
+          {
+            "UCVA": "69P",
+            "Glasses": "69P"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-0.5",
+            "ax": "120",
+            "va": "69P"
+          },
+          {
+            "ax": "0",
+            "va": "69P",
+            "ucva": "69P"
+          }
+        ],
+        "nr": [
+          {
+            "ax": "120"
+          },
+          {}
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, quiet",
+          "Normal Depth"
+        ],
+        "ir": [
+          "MST",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "PCIOL, Pigments on IOL, Early PCO",
+          "PCIOL, Pigments on IOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "cup disc ratio-0.4",
+        "ve": "Normal",
+        "br": "tesselated",
+        "mf": "Dull"
+      },
+      "m": [
+        {
+          "name": "AQUALUBE 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3,
+          "dur": 30,
+          "med_start": "13/09/2022",
+          "med_end": "12/10/2022"
+        }
+      ],
+      "inv": {
+        "iop": "17"
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-01-26",
+      "c": "F3",
+      "diag": [
+        [
+          "PCO × 1"
+        ],
+        "",
+        [
+          "PCIOL × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "69P",
+            "UCVA": "636"
+          },
+          {
+            "Glasses": "69P",
+            "UCVA": "69P"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-1.00",
+            "ax": "120",
+            "va": "69P",
+            "ucva": "636"
+          },
+          {
+            "ax": "0",
+            "va": "69P",
+            "ucva": "69P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5",
+            "ax": "120"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "MST",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "PCIOL, Pigments on IOL, Early PCO",
+          "PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "hazy",
+          "Clear"
+        ],
+        "di": [
+          "cdr 0.6",
+          "Normal"
+        ],
+        "ve": [
+          "normal",
+          "Normal"
+        ],
+        "br": "tesselated",
+        "mf": [
+          "not visualised",
+          "Present"
+        ]
+      },
+      "m": [
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "18"
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2023-02-14",
+      "c": "F4",
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": [
+          "pciol yag cap opening",
+          "pciol"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2023-05-01",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "PCIOL × 1",
+          "Disc Suspect × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "624P",
+            "Glasses": "66P"
+          },
+          {
+            "UCVA": "612",
+            "Glasses": "66P"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-1.00",
+            "ax": "120",
+            "va": "66P",
+            "ucva": "624P"
+          },
+          {
+            "sph": "-0.5",
+            "ax": "30",
+            "va": "66P",
+            "ucva": "612"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5",
+            "ax": "120"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, vitreous blob in AC nasally , not touching endothelium",
+          "Normal Depth"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Pharmacologically Dilated, irregular, MST",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "PCIOL, YAG opening +",
+          "PCIOL"
+        ]
+      },
+      "op": {
+        "ref": "BE - Disc suspect, for opinion & management"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.7, SR loss",
+          "cup disc ratio-0.6"
+        ],
+        "ve": "Normal",
+        "br": [
+          "Tesselated",
+          "PVD, Tesselated"
+        ],
+        "mf": [
+          "Present",
+          "ERM"
+        ]
+      },
+      "m": [
+        {
+          "name": "AQUALUBE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": "16"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2023-05-19",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "PCIOL × 1",
+          "Disc Suspect × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "624P",
+            "UCVA With PH": "66P"
+          },
+          {
+            "UCVA": "612",
+            "UCVA With PH": "66P"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, vitreous blob in AC nasally , not touching endothelium",
+          "Normal Depth"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Pharmacologically Dilated, irregular, MST",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "PCIOL, YAG opening +",
+          "PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.7, SR LOOKS THIN",
+          "cup disc ratio-0.6"
+        ],
+        "ve": "Normal",
+        "br": [
+          "Tesselated",
+          "PVD, Tesselated"
+        ],
+        "mf": [
+          "Present",
+          "ERM"
+        ],
+        "rem": "visible retina on"
+      },
+      "fup": {
+        "adv": "6 months;4 months"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2023-10-18",
+      "c": "F7",
+      "diag": [
+        "",
+        "",
+        [
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "624",
+            "Glasses": "66P"
+          },
+          {
+            "UCVA": "69P",
+            "Glasses": "66P"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-1.00",
+            "ax": "120",
+            "va": "66P",
+            "ucva": "624"
+          },
+          {
+            "sph": "-0.5",
+            "ax": "30",
+            "va": "66P",
+            "ucva": "69P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5",
+            "ax": "120"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Pharmacologically Dilated, irregular, MST",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "PCIOL, YAG opening +",
+          "PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.7, SR LOOKS THIN",
+          "cup disc ratio-0.6"
+        ],
+        "ve": "Normal",
+        "br": [
+          "Tesselated",
+          "PVD, Tesselated"
+        ],
+        "mf": [
+          "Present",
+          "ERM"
+        ],
+        "rem": "visible retina on"
+      },
+      "m": [
+        {
+          "name": "MEGABROM EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "12",
+          "15"
+        ]
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    },
+    {
+      "v": 9,
+      "d": "2024-01-16",
+      "c": "F8",
+      "diag": [
+        "",
+        "",
+        [
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "Glasses": "66P",
+            "UCVA": "612"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "-1.00",
+            "ax": "120",
+            "va": "66P",
+            "ucva": "624"
+          },
+          {
+            "sph": "-0.5",
+            "ax": "30",
+            "va": "66P",
+            "ucva": "612"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5",
+            "ax": "120"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light;IRREGULAR MST. VITREOUS IN PUPILLARY AREA",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "Clear;PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.7, SR LOOKS THIN",
+          "cup disc ratio-0.6"
+        ],
+        "ve": "Normal",
+        "br": [
+          "Tesselated",
+          "PVD, Tesselated"
+        ],
+        "mf": [
+          "Present",
+          "ERM"
+        ],
+        "rem": "visible retina on"
+      },
+      "m": [
+        {
+          "name": "DORSUN -T E/D",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "17",
+          "28"
+        ]
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 10,
+      "d": "2024-01-31",
+      "c": "F9",
+      "diag": [
+        "",
+        "",
+        [
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "612",
+            "Glasses": "66P"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "IRREGULAR MST. VITREOUS IN PUPILLARY AREA",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "PCIOL"
+      },
+      "op": {
+        "ref": "BE FUNDUS"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.7, SR LOOKS THIN",
+          "cup disc ratio-0.6"
+        ],
+        "ve": "Normal",
+        "br": [
+          "Tesselated",
+          "PVD, Tesselated"
+        ],
+        "mf": [
+          "Present",
+          "ERM"
+        ],
+        "rem": "visible retina on"
+      },
+      "inv": {
+        "iop": "17"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 11,
+      "d": "2024-03-01",
+      "c": "F10",
+      "diag": [
+        "",
+        "",
+        [
+          "Pseudophakia × 1",
+          "ERM × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "624",
+            "Glasses": "66"
+          },
+          {
+            "UCVA": "612",
+            "Glasses": "66"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "IRREGULAR MST. VITREOUS IN PUPILLARY AREA",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "PVD",
+        "di": [
+          "cup disc ratio-0.7, SR LOOKS THIN",
+          "cup disc ratio-0.6"
+        ],
+        "ve": "Normal",
+        "br": "Tesselated",
+        "mf": [
+          "Present",
+          "THIN ERM"
+        ]
+      },
+      "fup": {
+        "adv": "4 months"
+      }
+    },
+    {
+      "v": 12,
+      "d": "2024-05-27",
+      "c": "F11",
+      "diag": [
+        "",
+        "",
+        [
+          "ERM × 1",
+          "Pseudophakia × 1",
+          "Glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "IRREGULAR MST. VITREOUS IN PUPILLARY AREA;IRREGULAR MST. VITREOUS IN PUPILLARY AREA, NO ENDOTHGELIAL TOUCH",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "PCIOL"
+      },
+      "op": {
+        "ref": "BE DISC SUSPECT"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "PVD",
+        "di": [
+          "DR0.8 BIPOLAR THINNING SUP NEAR NOTCH",
+          "cup disc ratio-0.7"
+        ],
+        "ve": "Normal",
+        "br": "Tesselated",
+        "mf": [
+          "Present",
+          "THIN ERM"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "15",
+          "16"
+        ]
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    },
+    {
+      "v": 13,
+      "d": "2024-05-28",
+      "c": "F12",
+      "diag": [
+        "",
+        "",
+        [
+          "ERM × 1",
+          "Glaucoma × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "66"
+          },
+          {
+            "None": "612"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "IRREGULAR MST",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "PVD",
+        "di": [
+          "CR0.8 BIPOLAR THINNING SUP NEAR NOTCH",
+          "cup disc ratio-0.7, SUP RIM THIN WITH RNFLD"
+        ],
+        "ve": "Normal",
+        "br": "Tesselated",
+        "mf": [
+          "DULL",
+          "THIN ERM"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "12",
+          "13"
+        ]
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 14,
+      "d": "2024-08-15",
+      "c": "F13",
+      "diag": [
+        "",
+        "",
+        [
+          "ERM × 1",
+          "Glaucoma × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "69"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "IRREGULAR MST",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "PVD",
+        "di": [
+          "CR0.8 BIPOLAR THINNING SUP NEAR NOTCH",
+          "cup disc ratio-0.7, SUP RIM THIN WITH RNFLD"
+        ],
+        "ve": "Normal",
+        "br": "Tesselated",
+        "mf": [
+          "DULL",
+          "THIN ERM"
+        ]
+      },
+      "inv": {
+        "iop": "19"
+      },
+      "fup": {
+        "adv": "4 months"
+      }
+    },
+    {
+      "v": 15,
+      "d": "2025-01-30",
+      "c": "F14",
+      "diag": [
+        "",
+        "",
+        [
+          "Glaucoma × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "69"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "Normal Color and Pattern;mst",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light;irregular",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "Clear;pciol"
+      },
+      "op": {
+        "ref": "review",
+        "rem": "Requesting for your Opinion"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.85, bipolar thinning",
+          "cup disc ratio-0.75, superior rim thinning"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Present",
+          "RPE degeneration"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "16",
+          "20"
+        ],
+        "sp": {
+          "r": "disc oct done,disc oct done"
+        }
+      }
+    },
+    {
+      "v": 16,
+      "d": "2025-02-28",
+      "c": "F15",
+      "diag": [
+        "",
+        "",
+        [
+          "Glaucoma × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "With Spectacles": "69",
+            "UCVA": "636"
+          },
+          {
+            "With Spectacles": "69",
+            "UCVA": "612"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "mst",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "irregular",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "pciol"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "cdr-0.8 sup notch",
+          "cdr-0.75"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "13",
+          "17"
+        ]
+      }
+    },
+    {
+      "v": 17,
+      "d": "2025-06-13",
+      "c": "F16",
+      "diag": [
+        "",
+        "",
+        [
+          "Glaucoma × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "560",
+            "With Spectacles": "69"
+          },
+          {
+            "UCVA": "69",
+            "With Spectacles": "66"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Hyperlipidemia;Remarks;Diabetes;Drug Allergies;Hypertension;Others;Non-Ocular Sx;Cardiac;Thyroid Status;Other Allergies;Identification Marks"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "mst",
+          "Normal Color and Pattern"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "irregular",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "cdr-0.8 sup notch",
+          "cdr-0.75"
+        ],
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.85, bipolar thinning",
+          "cup disc ratio-0.75, superior rim thinning"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Present",
+          "RPE degeneration"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "20",
+          "18"
+        ]
+      }
+    }
+  ]
+}

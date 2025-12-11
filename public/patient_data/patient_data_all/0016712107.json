@@ -1,0 +1,733 @@
+{
+  "p": {
+    "uid": "0016712107",
+    "mr": "P1691674",
+    "v": 9,
+    "f": "2022-02-24",
+    "l": "2023-10-09"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-02-24",
+      "c": "Initial",
+      "diag": [
+        "",
+        [
+          "PXF × 1"
+        ],
+        [
+          "Primary Open Angle Glaucoma/POAG × 1",
+          "IMC × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "618",
+          "Glasses": "618"
+        },
+        "dist": [
+          {
+            "ax": "75",
+            "va": "612",
+            "ucva": "618"
+          },
+          {
+            "ax": "0",
+            "va": "618",
+            "ucva": "618"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5",
+            "ax": "150"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;GIT;Hyperlipidemia;Hypertension;Non-Ocular Sx;Other Allergies;Others;Remarks;Renal;RS;H/O COVID 19;H/O COVID VACCINE;Identification Marks;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "NS 2",
+          "NS 2-3, PSCC++,  PXF ++"
+        ]
+      },
+      "op": {
+        "ref": "LE PHACO with AUROFLEX",
+        "rem": "TORIC"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Hazy-Cataract",
+        "di": [
+          "cup disc ratio-0.6, Superior BCLV > inf BCLV",
+          "cup disc ratio-0.6, large disc"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Dull"
+      },
+      "m": [
+        {
+          "name": "BRINOLAR DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "2",
+          "fre": 8,
+          "dur": 1,
+          "med_start": "24/02/2022",
+          "med_end": "24/02/2022"
+        },
+        {
+          "name": "ALPRAX 0.5 TAB",
+          "eye": "5",
+          "fre": "Night Only",
+          "dur": 1,
+          "med_start": "24/02/2022",
+          "med_end": "24/02/2022"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "17",
+          "15"
+        ],
+        "sp": {
+          "r": "1 clock hour ST thinning,1 clock hour ST and 1 clock hour nasal thinning. Larger disc,Large disc with CDR 0.65,CDR 0.55-0.6, bipolar BCLV"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      },
+      "oh": {
+        "desc": "IOBET 5ML EYE DROPS"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-03-08",
+      "c": "F1",
+      "diag": [
+        "",
+        [
+          "PXF × 1"
+        ],
+        [
+          "Primary Open Angle Glaucoma/POAG × 1",
+          "IMC × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "618",
+            "UCVA With PH": "612",
+            "Glasses": "618"
+          },
+          {
+            "UCVA": "618",
+            "UCVA With PH": "618",
+            "Glasses": "618"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Pharmacologically Dilated",
+          "Pharmacologically Dilated, 6mm"
+        ],
+        "lens": [
+          "NS 2",
+          "NS 2-3, PSCC++,  PXF ++"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Hazy-Cataract",
+        "di": [
+          "cup disc ratio-0.6, Superior BCLV > inf BCLV",
+          "cup disc ratio-0.6, large disc"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Dull"
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "2",
+          "fre": 8,
+          "dur": 1,
+          "med_start": "24/02/2022",
+          "med_end": "24/02/2022"
+        },
+        {
+          "name": "ALPRAX 0.5 TAB",
+          "eye": "5",
+          "fre": "Night Only",
+          "dur": 1,
+          "med_start": "24/02/2022",
+          "med_end": "24/02/2022"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "11",
+          "17"
+        ]
+      },
+      "fup": {
+        "adv": "Whenever Required"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2022-03-12",
+      "c": "F2",
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4,
+          "dur": 10,
+          "med_start": "13/03/2022",
+          "med_end": "22/03/2022"
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 8,
+          "dur": 2,
+          "med_start": "13/03/2022",
+          "med_end": "14/03/2022"
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 6,
+          "dur": 7,
+          "med_start": "15/03/2022",
+          "med_end": "21/03/2022"
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 5,
+          "dur": 7,
+          "med_start": "22/03/2022",
+          "med_end": "28/03/2022"
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4,
+          "dur": 7,
+          "med_start": "29/03/2022",
+          "med_end": "04/04/2022"
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3,
+          "dur": 7,
+          "med_start": "05/04/2022",
+          "med_end": "11/04/2022"
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2,
+          "dur": 7,
+          "med_start": "12/04/2022",
+          "med_end": "18/04/2022"
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 1,
+          "dur": 7,
+          "med_start": "19/04/2022",
+          "med_end": "25/04/2022"
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2022-03-13",
+      "c": "F3",
+      "diag": [
+        [
+          "IMC × 1"
+        ],
+        [
+          "PXF × 1",
+          "PCIOL × 1"
+        ],
+        [
+          "Primary Open Angle Glaucoma/POAG × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "612P",
+            "UCVA With PH": "66P"
+          }
+        ]
+      },
+      "m": [
+        {
+          "name": "BRINOLAR DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4,
+          "dur": 10,
+          "med_start": "13/03/2022",
+          "med_end": "23/03/2022"
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 8,
+          "dur": 2,
+          "med_start": "13/03/2022",
+          "med_end": "15/03/2022"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "16",
+          "15"
+        ]
+      },
+      "fup": {
+        "adv": "1 month"
+      },
+      "oh": {
+        "desc": "Not used AGM for 2 days"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2022-04-12",
+      "c": "F4",
+      "diag": [
+        [
+          "IMC × 1"
+        ],
+        [
+          "PXF × 1",
+          "PCIOL × 1"
+        ],
+        [
+          "Glaucoma Suspect × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636"
+          },
+          {
+            "UCVA": "66P"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "75",
+            "va": "612P",
+            "ucva": "636"
+          },
+          {
+            "ax": "0",
+            "va": "66P",
+            "ucva": "66P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Pharmacologically Dilated",
+          "Pharmacologically Dilated, 6mm"
+        ],
+        "lens": [
+          "NS 2, NO 2",
+          "PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "Clear"
+        ],
+        "di": [
+          "cup disc ratio-0.6, Superior thinning",
+          "cup disc ratio-0.65-0.7, superior thinning"
+        ],
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "Drusen"
+        ],
+        "mf": "Dull"
+      },
+      "m": [
+        {
+          "name": "NEPABLU EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3,
+          "dur": 30,
+          "med_start": "12/04/2022",
+          "med_end": "11/05/2022"
+        }
+      ],
+      "inv": {
+        "iop": "13",
+        "sp": {
+          "r": "..,.,.,."
+        }
+      },
+      "fup": {
+        "adv": "2 months"
+      },
+      "oh": {
+        "desc": "No;BRINOLAR 5ML EYE DROPS;DEXA 5ML EYE DROPS;Stopped AGM 2 days ago"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2023-06-13",
+      "c": "F5",
+      "diag": [
+        [
+          "IMC × 1",
+          "Filamentary Keratitis × 1"
+        ],
+        [
+          "PXF × 1",
+          "PCIOL × 1"
+        ],
+        [
+          "Glaucoma Suspect × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636"
+          },
+          {
+            "UCVA": "66P"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "90",
+            "va": "612P",
+            "ucva": "636"
+          },
+          {
+            "ax": "0",
+            "va": "66P",
+            "ucva": "66P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "corneal filaments removal",
+          ""
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Congestion",
+          "Normal"
+        ],
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "MOSI EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2023-06-19",
+      "c": "F6",
+      "diag": [
+        [
+          "IMC × 1"
+        ],
+        [
+          "PXF × 1",
+          "PCIOL × 1"
+        ],
+        [
+          "Glaucoma Suspect × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636"
+          },
+          {
+            "UCVA": "66P"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "LUBI-FRESH EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2023-06-30",
+      "c": "F7",
+      "diag": [
+        [
+          "IMC × 1"
+        ],
+        [
+          "PXF × 1",
+          "PCIOL × 1"
+        ],
+        [
+          "Glaucoma Suspect × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "636",
+            "UCVA With PH": "612P"
+          },
+          {
+            "UCVA": "66P",
+            "UCVA With PH": "66P"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "Good Mydriasis",
+          ""
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": [
+          "NS 2, CC",
+          "PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "cup disc ratio-0.6",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "EYEMIST EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "17.9",
+          "11.3"
+        ]
+      },
+      "fup": {
+        "adv": "6 months"
+      },
+      "oh": {
+        "desc": "AURO-CMC EYE DROPS"
+      }
+    },
+    {
+      "v": 9,
+      "d": "2023-10-09",
+      "c": "F8",
+      "diag": [
+        "",
+        "",
+        [
+          "Immature cataract × 1",
+          "Pseudophakia × 1",
+          "Glaucoma suspect × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "618"
+          },
+          {
+            "UCVA": "66P"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "618",
+            "ucva": "618"
+          },
+          {
+            "ax": "0",
+            "va": "66P",
+            "ucva": "66P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.5"
+          },
+          {
+            "sph": "+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": [
+          "Clear;IMC",
+          "Clear;PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": "CDR 0.6"
+      },
+      "inv": {
+        "iop": "14"
+      }
+    }
+  ]
+}

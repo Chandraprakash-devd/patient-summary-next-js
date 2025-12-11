@@ -1,0 +1,3366 @@
+{
+  "p": {
+    "uid": "0011285844",
+    "mr": "P4513776",
+    "v": 44,
+    "f": "2022-01-03",
+    "l": "2025-07-18"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-01-03",
+      "c": "Initial",
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "612P"
+          },
+          {
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "165",
+            "va": "69",
+            "ucva": "612P"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE changes at macula, chronic cnvm, few drusen",
+          "RPE changes at macula, Chronic CNVM with cystic changes"
+        ],
+        "rem": "chronic CNVM post IVB"
+      },
+      "m": [
+        {
+          "name": "NEPCINAC DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3,
+          "dur": 60,
+          "med_start": "03/01/2022",
+          "med_end": "04/03/2022"
+        },
+        {
+          "name": "FIT-EYE TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1,
+          "dur": 60,
+          "med_start": "03/01/2022",
+          "med_end": "04/03/2022"
+        }
+      ],
+      "inv": {
+        "iop": "13"
+      },
+      "fup": {
+        "adv": "2 months"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-03-07",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "612P",
+            "UCVA": "624"
+          },
+          {
+            "Glasses": "660",
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "165",
+            "va": "612P",
+            "ucva": "624"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+3.00",
+            "ax": "165"
+          },
+          {
+            "sph": "=+3.00"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE changes at macula, chronic cnvm, few drusen",
+          "RPE changes at macula, Chronic CNVM with cystic changes"
+        ],
+        "rem": "chronic CNVM post IVB"
+      },
+      "m": [
+        {
+          "name": "FIT-EYE TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1,
+          "dur": 60,
+          "med_start": "07/03/2022",
+          "med_end": "05/05/2022"
+        },
+        {
+          "name": "NEPCINAC DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3,
+          "dur": 60,
+          "med_start": "07/03/2022",
+          "med_end": "05/05/2022"
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "HRA-Sub and Parafoveal irregular RPE lesions with Shallow SRF and PED`S with Increasing cystic changes with hard exudates S/O CNVM,HRA- Para foveal hyper Reflective irregular RPE with  Increasing  SRF and SRH with PED's with Increasing cystic changes .S/O Active  CNVM,"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2022-03-08",
+      "c": "F2",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "Avastin"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE changes at macula, chronic cnvm, few drusen",
+          "RPE changes at macula, Chronic CNVM with cystic changes"
+        ],
+        "rem": "chronic CNVM post IVB"
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "1",
+          "fre": 4,
+          "dur": 7,
+          "med_start": "09/03/2022",
+          "med_end": "15/03/2022"
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2022-04-13",
+      "c": "F3",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69"
+          },
+          {
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "69",
+            "ucva": "69"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+3.00"
+          },
+          {
+            "sph": "=+3.00"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE changes at macula, chronic cnvm, few drusen",
+          "RPE changes at macula, Chronic CNVM with cystic changes"
+        ],
+        "rem": [
+          "post IV",
+          "chronic CNVM post IVB"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "13",
+          "14"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Resolving SRF and SRH with PED's with Increasing cystic changes .S/O Regressing CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Shallow SRF and PED`S with Increasing cystic changes with hard exudates S/O CNVM"
+        }
+      },
+      "oh": {
+        "desc": "NCT"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2022-04-14",
+      "c": "F4",
+      "pr": {
+        "act": [
+          [
+            [
+              "Avastin"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE changes at macula, chronic cnvm, few drusen",
+          "RPE changes at macula, Chronic CNVM with cystic changes"
+        ],
+        "rem": [
+          "post IV",
+          "chronic CNVM post IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "OFLACIN DROPS",
+          "eye": "1",
+          "fre": 4,
+          "dur": 7,
+          "med_start": "15/04/2022",
+          "med_end": "21/04/2022"
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2022-05-23",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1",
+          "Wet ARMD × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69"
+          },
+          {
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "69",
+            "ucva": "69"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+3.00",
+            "ax": "180"
+          },
+          {
+            "sph": "=+3.00"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "RPE changes at macula, Chronic CNVM with cystic changes",
+        "rem": [
+          "post IVB",
+          "chronic CNVM post IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "XINEP DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3,
+          "dur": 30,
+          "med_start": "23/05/2022",
+          "med_end": "21/06/2022"
+        },
+        {
+          "name": "REFFRON TABLETS",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1,
+          "dur": 30,
+          "med_start": "23/05/2022",
+          "med_end": "21/06/2022"
+        }
+      ],
+      "inv": {
+        "iop": "16",
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Resolving SRF and SRH with PED's with  cystic changes .S/O Regressing CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Shallow SRF and PED`S with Increasing cystic changes with hard exudates S/O CNVM,"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2022-08-09",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1",
+          "Wet ARMD × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69P",
+            "Glasses": "66P"
+          },
+          {
+            "UCVA": "660",
+            "Glasses": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66P",
+            "ucva": "69P"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+3.00",
+            "ax": "180"
+          },
+          {
+            "sph": "=+3.00"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "RPE changes at macula, Chronic CNVM with cystic changes",
+        "rem": [
+          "post IVB",
+          "chronic CNVM post IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "REFFRON TABLETS",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1,
+          "dur": 60,
+          "med_start": "09/08/2022",
+          "med_end": "07/10/2022"
+        },
+        {
+          "name": "XINEP DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3,
+          "dur": 60,
+          "med_start": "09/08/2022",
+          "med_end": "07/10/2022"
+        }
+      ],
+      "inv": {
+        "iop": "14",
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Resolved SRF and SRH with PED's with cystic changes .S/O Regressing CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving  SRF and PED`S with Increasing cystic changes with hard exudates S/O Regressing CNVM,"
+        }
+      },
+      "fup": {
+        "adv": "2 months"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2022-11-01",
+      "c": "F7",
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69P"
+          },
+          {
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66P",
+            "ucva": "69P"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+3.00"
+          },
+          {
+            "sph": "=+3.00"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "RPE changes at macula, Chronic CNVM with cystic changes",
+        "rem": [
+          "post IVB",
+          "chronic CNVM post IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "XINEP DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3,
+          "dur": 60,
+          "med_start": "01/11/2022",
+          "med_end": "30/12/2022"
+        },
+        {
+          "name": "REFFRON TABLETS",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1,
+          "dur": 60,
+          "med_start": "01/11/2022",
+          "med_end": "30/12/2022"
+        }
+      ],
+      "inv": {
+        "iop": "15",
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Resolved SRF and SRH with PED's with cystic changes .S/O Regressing CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Increasing SRF and PED`S with Increasing cystic changes with hard exudates S/O CNVM,"
+        }
+      },
+      "fup": {
+        "adv": "2 months;1 month"
+      }
+    },
+    {
+      "v": 9,
+      "d": "2022-12-02",
+      "c": "F8",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1",
+          "Wet ARMD × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69"
+          },
+          {
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66P",
+            "ucva": "69"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE changes at macula, Chronic CNVM with cystic changes, INCREASING SRF",
+          "RPE changes at macula, Chronic CNVM with cystic changes, SRH, SRF+"
+        ],
+        "rem": [
+          "post IVB",
+          "chronic CNVM post IVB"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "13",
+          "15"
+        ],
+        "sp": {
+          "r": "HRA-Sub and Parafoveal irregular RPE lesions with Increasing SRF and PED`S with Increasing cystic changes with hard exudates S/O CNVM.,HRA- Para foveal hyper Reflective irregular RPE with Increasing SRF and SRH with PED's with cystic changes .S/O CNVM"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 10,
+      "d": "2022-12-05",
+      "c": "F9",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1",
+          "Wet ARMD × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "Avastin"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE changes at macula, Chronic CNVM with cystic changes, INCREASING SRF",
+          "RPE changes at macula, Chronic CNVM with cystic changes, SRH, SRF+"
+        ],
+        "rem": [
+          "post IVB",
+          "chronic CNVM post IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "OFLACIN DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4,
+          "dur": 7,
+          "med_start": "06/12/2022",
+          "med_end": "12/12/2022"
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 11,
+      "d": "2022-12-12",
+      "c": "F10",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1",
+          "Wet ARMD × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            "No RE procedure"
+          ],
+          [
+            [
+              "Avastin"
+            ]
+          ]
+        ]
+      },
+      "vi": {
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE changes at macula, Chronic CNVM with cystic changes, INCREASING SRF",
+          "RPE changes at macula, Chronic CNVM with cystic changes, SRH, SRF+"
+        ],
+        "rem": [
+          "post IVB",
+          "chronic CNVM post IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "OFLACIN DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4,
+          "dur": 7,
+          "med_start": "13/12/2022",
+          "med_end": "19/12/2022"
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 12,
+      "d": "2023-01-17",
+      "c": "F11",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1",
+          "Wet ARMD × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "612",
+            "UCVA": "69P"
+          },
+          {
+            "Glasses": "660",
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66P",
+            "ucva": "69P"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE changes at macula, Chronic CNVM with cystic changes, INCREASING SRF",
+          "RPE changes at macula, Chronic CNVM with cystic changes, SRH, SRF+"
+        ],
+        "rem": [
+          "post IVB",
+          "chronic CNVM post IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "VITAKIND-I CAPSULE",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "LUBIMOIST",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "NEPASTAR -OD 3ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Afternoon Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "17",
+          "16"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Increasing SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Persisting cystic changes with hard exudates S/O CNVM."
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 13,
+      "d": "2023-01-18",
+      "c": "F12",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1",
+          "Wet ARMD × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "Avastin"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE changes at macula, Chronic CNVM with cystic changes, INCREASING SRF",
+          "RPE changes at macula, Chronic CNVM with cystic changes, SRH, SRF+"
+        ],
+        "rem": [
+          "post IVB",
+          "chronic CNVM post IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 14,
+      "d": "2023-02-22",
+      "c": "F13",
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "inv": {
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Resolving SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Persisting cystic changes with hard exudates S/O CNVM."
+        }
+      }
+    },
+    {
+      "v": 15,
+      "d": "2023-03-02",
+      "c": "F14",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "Avastin"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE changes at macula, Chronic CNVM with cystic changes, Resolving SRF, PEDs",
+          "RPE changes at macula, Chronic CNVM with cystic changes, SRH, SRF+"
+        ],
+        "rem": "chronic CNVM post IVB"
+      },
+      "m": [
+        {
+          "name": "OFLACIN DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 16,
+      "d": "2023-04-07",
+      "c": "F15",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "69",
+            "UCVA": "69P"
+          },
+          {
+            "Glasses": "660",
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66P",
+            "ucva": "69P"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+3.00"
+          },
+          {
+            "sph": "=+3.00"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE changes at macula, Chronic CNVM with cystic changes, Increasing SRF, PEDs",
+          "RPE changes at macula, Chronic CNVM with cystic changes, SRH, SRF+"
+        ],
+        "rem": "chronic CNVM post IVB"
+      },
+      "inv": {
+        "iop": [
+          "13",
+          "12"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Increasing SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Persisting cystic changes with hard exudates S/O CNVM."
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 17,
+      "d": "2023-04-08",
+      "c": "F16",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "OCEVA"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE changes at macula, Chronic CNVM with cystic changes, Increasing SRF, PEDs",
+          "RPE changes at macula, Chronic CNVM with cystic changes, SRH, SRF+"
+        ],
+        "rem": "chronic CNVM post IVB"
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 18,
+      "d": "2023-05-08",
+      "c": "F17",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69P"
+          },
+          {
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66P",
+            "ucva": "69P"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5",
+            "ax": "180"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE changes at macula, Chronic CNVM with cystic changes, resolving SRF, PEDs",
+          "RPE changes at macula, Chronic CNVM with cystic changes, SRH, SRF+"
+        ],
+        "rem": "chronic CNVM post IVB"
+      },
+      "inv": {
+        "iop": [
+          "14",
+          "20"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with persisting  SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Persisting cystic changes with hard exudates S/O CNVM."
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 19,
+      "d": "2023-05-17",
+      "c": "F18",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "Avastin"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Pharmacologically Dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "RPE changes at macula, Chronic CNVM with cystic changes, resolving SRF, PEDs",
+          "RPE changes at macula, Chronic CNVM with cystic changes, SRH, SRF+"
+        ],
+        "rem": "chronic CNVM post IVB"
+      },
+      "m": [
+        {
+          "name": "OFLACIN DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 20,
+      "d": "2023-07-03",
+      "c": "F19",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69P"
+          },
+          {
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66P",
+            "ucva": "69P"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "parafoveal predominantly scarred CNVM (resolving subfoveal SRF. chronic parafoveal IRF on OCT)",
+          "scarred CNVM (chronic IRF)"
+        ],
+        "rem": [
+          "chronic CNVM post multiple IVB",
+          "scarred CNVM post IVB"
+        ]
+      },
+      "inv": {
+        "iop": "16",
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with persisting SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Persisting cystic changes with hard exudates S/O CNVM."
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 21,
+      "d": "2023-07-10",
+      "c": "F20",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "PCIOL × 1",
+          "S/P Intravitreal Injection × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "Avastin"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "parafoveal predominantly scarred CNVM (resolving subfoveal SRF. chronic parafoveal IRF on OCT)",
+          "scarred CNVM (chronic IRF)"
+        ],
+        "rem": [
+          "chronic CNVM post multiple IVB",
+          "scarred CNVM post IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 22,
+      "d": "2023-08-10",
+      "c": "F21",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "612",
+            "Glasses": "612"
+          },
+          {
+            "UCVA": "660",
+            "Glasses": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66P",
+            "ucva": "612"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "parafoveal predominantly scarred CNVM (resolving subfoveal SRF. chronic parafoveal IRF on OCT)",
+          "scarred CNVM (chronic IRF)"
+        ],
+        "rem": [
+          "chronic CNVM post multiple IVB",
+          "scarred CNVM post IVB"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "16",
+          "1"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Increasing SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Persisting cystic changes with hard exudates S/O CNVM."
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 23,
+      "d": "2023-08-11",
+      "c": "F22",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "Ranieyes"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "parafoveal predominantly scarred CNVM (resolving subfoveal SRF. chronic parafoveal IRF on OCT)",
+          "scarred CNVM (chronic IRF)"
+        ],
+        "rem": [
+          "chronic CNVM post multiple IVB",
+          "scarred CNVM post IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 24,
+      "d": "2023-09-11",
+      "c": "F23",
+      "diag": [
+        "",
+        "",
+        [
+          "S/P Intravitreal Injection × 1",
+          "CNVM × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69P"
+          },
+          {
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66P",
+            "ucva": "69P"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+3.00"
+          },
+          {
+            "sph": "=+3.00"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "parafoveal predominantly scarred CNVM (resolving subfoveal SRF. chronic parafoveal IRF on OCT)",
+          "scarred CNVM (chronic IRF)"
+        ],
+        "rem": [
+          "chronic CNVM post multiple IVB",
+          "scarred CNVM post IVB"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "12",
+          "14"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with persisting  SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Persisting cystic changes with hard exudates S/O CNVM."
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 25,
+      "d": "2023-09-20",
+      "c": "F24",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1",
+          "S/P Intravitreal Injection × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "OCEVA"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "parafoveal predominantly scarred CNVM (resolving subfoveal SRF. chronic parafoveal IRF on OCT)",
+          "scarred CNVM (chronic IRF)"
+        ],
+        "rem": [
+          "chronic CNVM post multiple IVB",
+          "scarred CNVM post IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "OFLACIN DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 26,
+      "d": "2023-10-23",
+      "c": "F25",
+      "diag": [
+        "",
+        "",
+        [
+          "Age related macular degeneration × 1",
+          "CNVM × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "69P",
+            "UCVA": "69P"
+          },
+          {
+            "Glasses": "660",
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "66P",
+            "ucva": "69P"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+3.00"
+          },
+          {
+            "sph": "=+3.00"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Predominantly scarred parafoveal CNVM,SRF INCREASING",
+          "Scarred CNVM,CHRONIC CME"
+        ],
+        "rem": "Post multiple IVB"
+      },
+      "m": [
+        {
+          "name": "BROMVUE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "EYESURGE TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "16",
+          "15"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Increasing SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Increasing cystic changes with hard exudates S/O CNVM."
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 27,
+      "d": "2023-10-24",
+      "c": "F26",
+      "diag": [
+        "",
+        "",
+        [
+          "Age related macular degeneration × 1",
+          "CNVM × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "Avastin"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Predominantly scarred parafoveal CNVM,SRF INCREASING",
+          "Scarred CNVM,CHRONIC CME"
+        ],
+        "rem": "Post multiple IVB"
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 28,
+      "d": "2023-11-24",
+      "c": "F27",
+      "diag": [
+        "",
+        "",
+        [
+          "Age related macular degeneration × 1",
+          "CNVM × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "69P",
+            "UCVA": "612"
+          },
+          {
+            "Glasses": "660",
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "15",
+            "va": "69",
+            "ucva": "612"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+3.00"
+          },
+          {
+            "sph": "=+3.00"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Partly scarred parafoveal CNVM",
+          "Scarred CNVM,CHRONIC CME"
+        ],
+        "rem": [
+          "Post multiple IVB and Ranibizumab biosimilars",
+          "Post multiple IVB"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "17",
+          "14"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Increasing SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Increasing cystic changes with hard exudates S/O CNVM."
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 29,
+      "d": "2023-12-04",
+      "c": "F28",
+      "pr": {
+        "act": [
+          [
+            [
+              "Pagenax"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Partly scarred parafoveal CNVM",
+          "Scarred CNVM,CHRONIC CME"
+        ],
+        "rem": [
+          "Post multiple IVB and Ranibizumab biosimilars",
+          "Post multiple IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "OFLACIN DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 30,
+      "d": "2024-01-04",
+      "c": "F29",
+      "diag": [
+        "",
+        "",
+        [
+          "CNVM × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "Glasses": "660",
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "15",
+            "va": "69",
+            "ucva": "612"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+3.00"
+          },
+          {
+            "sph": "=+3.00"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "scarred parafoveal CNVM",
+          "Scarred CNVM,CHRONIC CME"
+        ],
+        "rem": [
+          "Post multiple IVB and Ranibizumab biosimilars",
+          "Post multiple IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "I-SITE AF",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "NEPALACT Z DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "16",
+          "13"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Resolving SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Increasing cystic changes with hard exudates S/O CNVM.;No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 31,
+      "d": "2024-02-06",
+      "c": "F30",
+      "diag": [
+        "",
+        "",
+        [
+          "Age related macular degeneration × 1",
+          "CNVM × 1",
+          "CME × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "Glasses": "612P",
+            "UCVA": "612P"
+          },
+          {
+            "Glasses": "660",
+            "UCVA": "660"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "69",
+            "ucva": "612P"
+          },
+          {
+            "ax": "0",
+            "va": "660",
+            "ucva": "660"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+3.00"
+          },
+          {
+            "sph": "=+3.00"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "CNVM,CME INCREASING",
+          "Scarred CNVM,CHRONIC CME"
+        ],
+        "rem": [
+          "Post multiple IVB and Ranibizumab biosimilars",
+          "Post multiple IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "I-SITE AF",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "13",
+          "14"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Resolving SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Increasing cystic changes with hard exudates S/O CNVM."
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 32,
+      "d": "2024-02-22",
+      "c": "F31",
+      "diag": [
+        "",
+        "",
+        [
+          "Age related macular degeneration × 1",
+          "CME × 1",
+          "CNVM × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "Avastin"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;Hyperlipidemia;Hypertension;Non-Ocular Sx;Other Allergies;Others;Renal Disease;Liver Disease;Stroke/Neuro;Lungs Problem;Malignancy-site;Rheumatoid Arthritis;TB;Remarks;Identification Marks;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "op": {
+        "ref": "INTRA VITREAL INJECTION",
+        "rem": "DM,HTN"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "CNVM,CME INCREASING",
+          "Scarred CNVM,CHRONIC CME"
+        ],
+        "rem": [
+          "Post multiple IVB and Ranibizumab biosimilars",
+          "Post multiple IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "VPC+, LVH, T CHANGES+;No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      },
+      "oh": {
+        "desc": "Fit for INTRA VITREAL INJECTION Physician: Dr. Arunprakaash, Feb 22 2024 9:06 AM,MDU"
+      }
+    },
+    {
+      "v": 33,
+      "d": "2024-03-22",
+      "c": "F32",
+      "diag": [
+        "",
+        "",
+        [
+          "Age related macular degeneration × 1",
+          "CME × 1",
+          "CNVM × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "None": "612"
+          },
+          {
+            "None": "660"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "CNVM,CME INCREASING",
+          "Scarred CNVM,CHRONIC CME"
+        ],
+        "rem": [
+          "Post multiple IVB and Ranibizumab biosimilars",
+          "Post multiple IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "I-SITE AF",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "14",
+          "15"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Increasing SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Resolving cystic changes with hard exudates S/O CNVM."
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 34,
+      "d": "2024-04-01",
+      "c": "F33",
+      "diag": [
+        "",
+        "",
+        [
+          "Age related macular degeneration × 1",
+          "CME × 1",
+          "CNVM × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "Avastin"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "CNVM,CME INCREASING",
+          "Scarred CNVM,CHRONIC CME"
+        ],
+        "rem": [
+          "Post multiple IVB and Ranibizumab biosimilars",
+          "Post multiple IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "OFLACIN DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      },
+      "oh": {
+        "desc": "Fit for INTRA VITREAL INJECTION Physician: Dr. Arunprakaash, Feb 22 2024 9:06 AM,MDU"
+      }
+    },
+    {
+      "v": 35,
+      "d": "2024-05-02",
+      "c": "F34",
+      "diag": [
+        "",
+        "",
+        [
+          "Age related macular degeneration × 1",
+          "CME × 1",
+          "CNVM × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "612"
+          },
+          {
+            "None": "660"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "CNVM,CME DECREASING",
+          "Scarred CNVM,CHRONIC CME"
+        ],
+        "rem": [
+          "Post multiple IVB and Ranibizumab biosimilars",
+          "Post multiple IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "I-SITE AF",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "Nepalact -od eye drops",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "10",
+          "12"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Resolved SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Resolving cystic changes with hard exudates S/O CNVM.;No Data"
+        }
+      },
+      "fup": {
+        "adv": "2 months"
+      }
+    },
+    {
+      "v": 36,
+      "d": "2024-07-02",
+      "c": "F35",
+      "diag": [
+        "",
+        "",
+        [
+          "Age related macular degeneration × 1",
+          "CME × 1",
+          "CNVM × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "612"
+          },
+          {
+            "None": "660"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "CNVM,CME DECREASING",
+          "Scarred CNVM,CHRONIC CME"
+        ],
+        "rem": [
+          "Post multiple IVB and Ranibizumab biosimilars",
+          "Post multiple IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "Nepalact -od eye drops",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": "Night Only"
+        },
+        {
+          "name": "I-SITE AF",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "13",
+          "14"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Resolved SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Resolving cystic changes with hard exudates S/O CNVM.;FP,FP;No Data"
+        }
+      },
+      "fup": {
+        "adv": "2 months"
+      }
+    },
+    {
+      "v": 37,
+      "d": "2024-09-07",
+      "c": "F36",
+      "diag": [
+        "",
+        "",
+        [
+          "Age related macular degeneration × 1",
+          "CME × 1",
+          "CNVM × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "69"
+          },
+          {
+            "None": "660"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "CNVM, PED along ITA, IRF",
+          "Scarred CNVM,CHRONIC CME"
+        ],
+        "rem": [
+          "Post multiple IVB and Ranibizumab biosimilars",
+          "Post multiple IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "MACUMER TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Resolved SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Resolving cystic changes with hard exudates S/O CNVM.,FP,FP,"
+        }
+      },
+      "fup": {
+        "adv": "2 months"
+      }
+    },
+    {
+      "v": 38,
+      "d": "2024-11-08",
+      "c": "F37",
+      "diag": [
+        "",
+        "",
+        [
+          "Age related macular degeneration × 1",
+          "CME × 1",
+          "CNVM × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "69"
+          },
+          {
+            "None": "660"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "CNVM, PED along ITA, IRF",
+          "Scarred CNVM,CHRONIC CME"
+        ],
+        "rem": [
+          "Post multiple IVB and Ranibizumab biosimilars",
+          "Post multiple IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "EYEMIST EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "NEPASTAR-OD EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": "Afternoon Only"
+        },
+        {
+          "name": "I-SITE AF",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Afternoon Only"
+        }
+      ],
+      "inv": {
+        "iop": "13",
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Resolved SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Resolving cystic changes with hard exudates S/O CNVM."
+        }
+      }
+    },
+    {
+      "v": 39,
+      "d": "2025-01-20",
+      "c": "F38",
+      "diag": [
+        "",
+        "",
+        [
+          "Age related macular degeneration × 1",
+          "CME × 1",
+          "CNVM × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "69"
+          },
+          {
+            "None": "660"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Scarred CNVM,CHRONIC CME",
+          "Scarred CNVM"
+        ],
+        "rem": [
+          "Post multiple IVB and Ranibizumab biosimilars",
+          "Post multiple IVB"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "10",
+          "12"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Resolved SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Resolving cystic changes with hard exudates S/O CNVM.,FP,FP"
+        }
+      }
+    },
+    {
+      "v": 40,
+      "d": "2025-03-20",
+      "c": "F39",
+      "diag": [
+        "",
+        "",
+        [
+          "Age related macular degeneration × 1",
+          "CME × 1",
+          "CNVM × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "With Spectacles": "69",
+            "UCVA": "69"
+          },
+          {
+            "With Spectacles": "660",
+            "UCVA": "660"
+          }
+        ]
+      },
+      "s": {
+        "h": "Thyroid Status;Remarks;Asthma;Epilepsy/Seizures;Hypertension;Diabetes;History of Malignancy;Non-Ocular Sx;Non Healing Ulcers in hand / Foot;TB;Hyperlipidemia;Cardiac;Drug Allergies;Rheumatoid Arthritis;Other Allergies;Liver Disease;Lungs Problem;Others;Renal Disease;Stroke/Neuro"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "op": {
+        "ref": "Razumab Intravitreal Injection"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Scarred CNVM,CHRONIC CME",
+        "rem": [
+          "Post multiple IVB and Ranibizumab biosimilars",
+          "Post multiple IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "NEPASTAR-OD EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Night Only"
+        },
+        {
+          "name": "EYEMIST EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "I-SITE AF",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Afternoon Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "12",
+          "13"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Increasing SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Resolving cystic changes with hard exudates S/O CNVM.,FP,FP,MULTIPLE VPC+;LVH WITH STRAIN - H/O ?MI - NO RECORDS"
+        }
+      }
+    },
+    {
+      "v": 41,
+      "d": "2025-03-31",
+      "c": "F40",
+      "diag": [
+        "",
+        "",
+        [
+          "Age related macular degeneration × 1",
+          "CME × 1",
+          "CNVM × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            [
+              "RAZUMAB-PFS"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "s": {
+        "h": "Rheumatoid Arthritis;Remarks;History of Malignancy;Cardiac;Diabetes;Lungs Problem;Others;Hyperlipidemia;Asthma;Thyroid Status;Hypertension;Liver Disease;TB;Renal Disease;Non-Ocular Sx;Stroke/Neuro;Other Allergies;Non Healing Ulcers in hand / Foot;Drug Allergies;Epilepsy/Seizures"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Scarred CNVM,CHRONIC CME",
+        "rem": [
+          "Post multiple IVB and Ranibizumab biosimilars",
+          "Post multiple IVB"
+        ]
+      },
+      "m": [
+        {
+          "name": "OFLACIN DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      }
+    },
+    {
+      "v": 42,
+      "d": "2025-05-16",
+      "c": "F41",
+      "diag": [
+        "",
+        "",
+        [
+          "Age related macular degeneration × 1",
+          "CME × 1",
+          "CNVM × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69",
+            "UCVA With PH": "69"
+          },
+          {
+            "UCVA": "660",
+            "UCVA With PH": "660"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "PVD",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Drusen,PED",
+          "Normal"
+        ],
+        "mf": [
+          "CNVM,CHRONIC CME-Resolving SRF+",
+          "Scarred CNVM"
+        ],
+        "rem": [
+          "CNVM-S/P Multiple IVI",
+          "Post multiple IVB"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "13",
+          "12"
+        ],
+        "sp": {
+          "r": "FP [EIDON] DONE,FP [EIDON] DONE,HRA- Para foveal hyper Reflective irregular RPE with Resolving SRF and SRH with PED's with cystic changes .S/O CNVM,HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Resolving cystic changes with hard exudates S/O CNVM."
+        }
+      }
+    },
+    {
+      "v": 43,
+      "d": "2025-07-07",
+      "c": "F42",
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "HRA- Para foveal hyper Reflective irregular RPE with Persisting SRF and SRH with PED's with cystic changes .S/O CNVM;HRA-Sub and Parafoveal irregular RPE lesions with Resolving SRF and PED`S with Resolving cystic changes with hard exudates S/O CNVM."
+        }
+      }
+    },
+    {
+      "v": 44,
+      "d": "2025-07-18",
+      "c": "F43",
+      "pr": {
+        "act": [
+          [
+            [
+              "RAZUMAB-PFS"
+            ]
+          ],
+          [
+            "No LE procedure"
+          ]
+        ]
+      }
+    }
+  ]
+}

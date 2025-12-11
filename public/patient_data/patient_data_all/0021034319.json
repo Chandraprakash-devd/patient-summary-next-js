@@ -1,0 +1,1133 @@
+{
+  "p": {
+    "uid": "0021034319",
+    "mr": "P89472",
+    "v": 11,
+    "f": "2023-11-08",
+    "l": "2024-04-02"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2023-11-08",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "Phacomorphic glaucoma × 1",
+          "Mature Cataract × 1",
+          "Phacolytic glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "HM"
+          },
+          {}
+        ]
+      },
+      "s": {
+        "h": "Diabetes;Hypertension;Cardiac;Asthma;Other Allergies;Non-Ocular Sx;Others;Hyperlipidemia;Drug Allergies;Remarks;Identification Marks;Thyroid"
+      },
+      "as": {
+        "rem": [
+          "pt poor co op",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth;hazy",
+          "Normal Depth"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Normal;Congestion-Circum corneal congestion(CCC)",
+          "Normal"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light;dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "Clear;Cataract-Mature Cataract"
+      },
+      "op": {
+        "ref": "be mat cat, ? REphacolytic glaucoma"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "TIMOLET 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2023-11-08",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "Immature cataract × 1",
+          "Traumatic subluxation of lens × 1",
+          "Mature Cataract × 2",
+          "Secondary glaucoma × 1",
+          "Aphakia × 1",
+          "Blunt injury of eye × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "160",
+            "UCVA With PH": "160"
+          },
+          {}
+        ]
+      },
+      "as": {
+        "rem": [
+          "pt poor CO-OP, PT  GIVES  H/O  TRAUMA  WITH  STICK  1 WEEK  AGO;ORBITAL MARGINS CLINICALLY INTACT pt poor CO-OP, PT  GIVES  H/O  TRAUMA  WITH  STICK  1 WEEK  AGO;ORBITAL MARGINS CLINICALLY INTACT pt poor CO-OP, PT  GIVES  H/O  TRAUMA  WITH  STICK  1 WEEK  AGO, ROPLAS NEGATIVE;Tn DIGITALLY NORMAL ORBITAL MARGINS CLINICALLY INTACT pt poor CO-OP, PT  GIVES  H/O  TRAUMA  WITH  STICK  1 WEEK  AGO, ROPLAS NEGATIVE",
+          "ORBITAL MARGINS CLINICALLY INTACT"
+        ]
+      },
+      "at": {
+        "ac": [
+          "SHALLOW , VH1;SHALLOW , VH1,IN PERIPHERY, VH2 IN CENTER;variable;WF, CELLS1+, NO VITREOUS IN AC",
+          "Normal Depth"
+        ],
+        "ir": [
+          "Normal Color and Pattern;PI 5-6CLOCK",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "Congestion-Circum corneal congestion(CCC);Congestion-Circum corneal congestion(CCC),NO E/O FB;Normal;WOUND WA, 5 SUTURES",
+          "Normal"
+        ],
+        "pu": [
+          "dilated;MID DILATED AND  FIXED;6-7MM",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "? INTUMESCANT LENS --  ? ANTERIOR  SUBLUXATION OF  LENS;NS 2-3 ,  ANTERIOR  SUBLUXATION OF  LENS;NS 2-3 ,  ANTERIOR  SUBLUXATION OF  LENS nasally , ? with vitreous blob nasally;APHAKIA",
+          "Cataract-Mature Cataract"
+        ]
+      },
+      "op": {
+        "ref": "RES/P BLUNT TRAUMA, RE ANTERIORLY SUBLUXATED LENS, RE SICS DONE 09.11;RE cataract surgery;RE Treatment Glaucoma  MO OPINION;RE postop aphakia;RE Treatment Glaucoma;post op day1",
+        "rem": "RE APHAKIA, RE IO, RE NIO INDENDATION PLEASE;Dr Arathy mam"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "HAZY   CDR - 0.5-0.6;PT UNCOOPERATIVE",
+          "NO VIEW"
+        ],
+        "me": [
+          "Hazy - dry cornea",
+          "UNDILATED"
+        ],
+        "di": [
+          "CDR-0,5",
+          "not visualised"
+        ],
+        "ve": [
+          "Normal",
+          "not visualised"
+        ],
+        "br": [
+          "Normal",
+          "not visualised"
+        ],
+        "mf": "not visualised"
+      },
+      "m": [
+        {
+          "name": "MANNITOL 20% -100ML",
+          "dos": "99 ml",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "EXOCIN EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 8
+        },
+        {
+          "name": "ANXIT 0.25 TAB",
+          "eye": "5",
+          "fre": "Night Only"
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "eye": "1",
+          "fre": 8
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "eye": "1",
+          "fre": 6
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "rem": "ORAL  GLYCERIN 30 ML",
+          "eye": "1",
+          "fre": 5
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "1",
+          "fre": 6
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "IOTIM 0.5% DROPS",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "BIDIN-LS EYE DROPS",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "LUBI-FRESH EYE DROPS",
+          "eye": "1",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": [
+          "64",
+          "9"
+        ],
+        "sp": {
+          "r": "Mild Vit Dot Echoes And No e/o Rd or Cd,Mild Vit  Dot Echoes And No e/o Rd or Cd"
+        }
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2023-11-17",
+      "c": "F2",
+      "diag": [
+        "",
+        "",
+        [
+          "Aphakia × 1",
+          "Blunt injury of eye × 1",
+          "Immature cataract × 1",
+          "Secondary glaucoma × 1",
+          "Traumatic subluxation of lens × 1",
+          "Mature Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "360",
+            "UCVA With PH": "360"
+          },
+          {}
+        ]
+      },
+      "as": {
+        "rem": [
+          "Tn DIGITALLY NORMAL ORBITAL MARGINS CLINICALLY INTACT pt poor CO-OP, PT  GIVES  H/O  TRAUMA  WITH  STICK  1 WEEK  AGO, ROPLAS NEGATIVE",
+          "ORBITAL MARGINS CLINICALLY INTACT"
+        ]
+      },
+      "at": {
+        "ac": [
+          "WF, CELLS1+, NO VITREOUS IN AC;WF, CELLS1+,  VITREOUS BLOB SEEN IN PUPILLARY MARGIN  INFERIORLY",
+          "Normal Depth"
+        ],
+        "ir": [
+          "PI 5-6CLOCK",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "WOUND WA, 5 SUTURES",
+          "Normal"
+        ],
+        "pu": [
+          "6-7MM",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "APHAKIA",
+          "Cataract-Mature Cataract"
+        ]
+      },
+      "op": {
+        "ref": "RE Treatment Glaucoma"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "PT UNCOOPERATIVE",
+          ""
+        ],
+        "me": [
+          "Hazy - dry cornea",
+          "UNDILATED"
+        ],
+        "di": [
+          "CDR-0.6",
+          "not visualised"
+        ],
+        "ve": [
+          "Normal",
+          "not visualised"
+        ],
+        "br": [
+          "Normal",
+          "not visualised"
+        ],
+        "mf": "not visualised"
+      },
+      "inv": {
+        "iop": [
+          "27",
+          "16"
+        ]
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-11-24",
+      "c": "F3",
+      "diag": [
+        "",
+        "",
+        [
+          "Aphakia × 1",
+          "Blunt injury of eye × 1",
+          "Immature cataract × 1",
+          "Secondary glaucoma × 1",
+          "Traumatic subluxation of lens × 1",
+          "Mature Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "360",
+            "UCVA With PH": "360"
+          },
+          {}
+        ]
+      },
+      "as": {
+        "rem": [
+          "Tn DIGITALLY NORMAL ORBITAL MARGINS CLINICALLY INTACT pt poor CO-OP, PT  GIVES  H/O  TRAUMA  WITH  STICK  1 WEEK  AGO, ROPLAS NEGATIVE",
+          "ORBITAL MARGINS CLINICALLY INTACT"
+        ]
+      },
+      "at": {
+        "ac": [
+          "WF, CELLS1+,  VITREOUS BLOB SEEN IN PUPILLARY MARGIN  INFERIORLY",
+          "Normal Depth"
+        ],
+        "ir": [
+          "PI 5-6CLOCK",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "WOUND WA, 5 SUTURES",
+          "Normal"
+        ],
+        "pu": [
+          "6-7MM",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "APHAKIA",
+          "Cataract-Mature Cataract"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "PT UNCOOPERATIVE",
+          ""
+        ],
+        "me": [
+          "Hazy - dry cornea",
+          "UNDILATED"
+        ],
+        "di": [
+          "CDR-0.6",
+          "not visualised"
+        ],
+        "ve": [
+          "Normal",
+          "not visualised"
+        ],
+        "br": [
+          "Normal",
+          "not visualised"
+        ],
+        "mf": "not visualised"
+      },
+      "m": [
+        {
+          "name": "BIDIN-T EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "RIPATEC 5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1/2 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "32",
+          "18"
+        ]
+      },
+      "fup": {
+        "adv": "10 days"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2023-12-04",
+      "c": "F4",
+      "diag": [
+        "",
+        "",
+        [
+          "Aphakia × 1",
+          "Blunt injury of eye × 1",
+          "Immature cataract × 1",
+          "Secondary glaucoma × 1",
+          "Traumatic subluxation of lens × 1",
+          "Mature Cataract × 1",
+          "Acute conjunctivitis × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "360",
+            "UCVA With PH": "360"
+          },
+          {
+            "UCVA": "160",
+            "UCVA With PH": "160"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "Tn DIGITALLY NORMAL ORBITAL MARGINS CLINICALLY INTACT pt poor CO-OP, PT  GIVES  H/O  TRAUMA  WITH  STICK  1 WEEK  AGO, ROPLAS NEGATIVE",
+          "ORBITAL MARGINS CLINICALLY INTACT"
+        ]
+      },
+      "at": {
+        "ac": [
+          "WF, CELLS1+,  VITREOUS BLOB SEEN IN PUPILLARY MARGIN  INFERIORLY",
+          "Normal Depth"
+        ],
+        "ir": [
+          "PI 5-6CLOCK",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "WOUND WA, 5 SUTURES;WOUND WA, 5 SUTURES, DIFFUSE CONGESTION, DISCHARGE+",
+          "Normal;DIFFUSE CONGESTION, DISCHARGE+"
+        ],
+        "pu": [
+          "6-7MM",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "APHAKIA",
+          "Cataract-Mature Cataract"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "PT UNCOOPERATIVE",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "DEXOREN-S EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 4
+        },
+        {
+          "name": "DEXOREN-S EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        },
+        {
+          "name": "DEXOREN-S EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "DEXOREN-S EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 1
+        },
+        {
+          "name": "ZOXAN EYE OINT",
+          "eye": "3",
+          "fre": "Night Only"
+        }
+      ],
+      "fup": {
+        "adv": "10 days"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2023-12-14",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "Aphakia × 1",
+          "Blunt injury of eye × 1",
+          "Immature cataract × 1",
+          "Secondary glaucoma × 1",
+          "Traumatic subluxation of lens × 1",
+          "Mature Cataract × 1",
+          "Acute conjunctivitis × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "260"
+          },
+          {
+            "UCVA": "160"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "pl + / pr accurate;pl + / pr accurate,/ s/p traumatic and ant subluxated  catarct",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "vitreous in puppilary margin temporally",
+          "Normal Depth"
+        ],
+        "ir": [
+          "spi +",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "ccc/ main tunnel suture;ccc/ main tunnel suture, diffuse congestion",
+          "DIFFUSE CONGESTION, DISCHARGE+"
+        ],
+        "pu": [
+          "6 mm dil / fixed",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "APHAKIA",
+          "mature catarct"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "cdr 0.,7 vit condensations +/ hazy view",
+          ""
+        ],
+        "me": [
+          "Haze",
+          "no view - cataract"
+        ],
+        "di": [
+          "? CDR -0.65 mile temporal pallor",
+          "not visualised"
+        ],
+        "ve": [
+          "Normal",
+          "not visualised"
+        ],
+        "br": [
+          "Normal",
+          "not visualised"
+        ],
+        "mf": "not visualised"
+      },
+      "m": [
+        {
+          "name": "DORSUN -T E/D",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "RIPATEC 5ML EYE DROPS",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "AZITHRAL E/O",
+          "eye": "3",
+          "fre": 2
+        },
+        {
+          "name": "LUBI-FRESH EYE DROPS",
+          "eye": "3",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": [
+          "20",
+          "8"
+        ]
+      },
+      "fup": {
+        "adv": "Tomorrow"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2024-01-18",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "Aphakia × 1",
+          "Blunt injury of eye × 1",
+          "Immature cataract × 1",
+          "Secondary glaucoma × 1",
+          "Traumatic subluxation of lens × 1",
+          "Mature Cataract × 1",
+          "Acute conjunctivitis × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "160"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "pl + / pr accurate,/ s/p traumatic and ant subluxated  catarct",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "vitreous in puppilary margin temporally",
+          "Normal Depth"
+        ],
+        "ir": [
+          "spi +",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "ccc/ main tunnel suture, diffuse congestion;ccc/ main tunnel suture, diffuse congestion, DISCHARGE",
+          "DIFFUSE CONGESTION, DISCHARGE+;APPEARS  NORMAL;MILD  CONGESTION"
+        ],
+        "pu": [
+          "6 mm dil / fixed",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "APHAKIA",
+          "mature catarct"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "cdr 0.,7 vit condensations +/ hazy view",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "KETOGATE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "ZOXAN EYE OINT",
+          "eye": "1",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": "15",
+        "sp": {
+          "r": "No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2024-01-25",
+      "c": "F7",
+      "diag": [
+        "",
+        "",
+        [
+          "Aphakia × 1",
+          "Blunt injury of eye × 1",
+          "Secondary glaucoma × 1",
+          "Traumatic subluxation of lens × 1",
+          "Mature Cataract × 1",
+          "Acute conjunctivitis × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "160",
+            "UCVA With PH": "160"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "pl + / pr accurate,/ s/p traumatic and ant subluxated  catarct",
+          ""
+        ]
+      },
+      "at": {
+        "ac": [
+          "vitreous in puppilary margin temporally",
+          "Normal Depth"
+        ],
+        "ir": [
+          "spi +",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "ccc/ main tunnel suture, diffuse congestion, DISCHARGE",
+          "MILD  CONGESTION"
+        ],
+        "pu": [
+          "6 mm dil / fixed",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": [
+          "APHAKIA",
+          "mature catarct"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "cdr 0.,7 vit condensations +/ hazy view",
+          ""
+        ],
+        "me": [
+          "Haze",
+          "no view - cataract"
+        ],
+        "di": [
+          "? CDR -0.65 mile temporal pallor",
+          "not visualised"
+        ],
+        "ve": [
+          "Normal",
+          "not visualised"
+        ],
+        "br": [
+          "Normal",
+          "not visualised"
+        ],
+        "mf": "not visualised"
+      },
+      "inv": {
+        "iop": [
+          "14",
+          "13"
+        ]
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 9,
+      "d": "2024-02-26",
+      "c": "F8",
+      "diag": [
+        "",
+        "",
+        [
+          "Aphakia × 1",
+          "Blunt injury of eye × 1",
+          "Secondary glaucoma × 1",
+          "Mature Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "260",
+            "UCVA With PH": "260"
+          },
+          {
+            "UCVA": "160",
+            "UCVA With PH": "160"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "roplas -ve",
+          "roplas -ve;roplas -ve, PL +  PR  ACCURATE"
+        ]
+      },
+      "at": {
+        "ac": [
+          "vitreous in puppilary margin temporally",
+          "Normal Depth"
+        ],
+        "ir": [
+          "spi +",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "ccc/ main tunnel suture",
+          "normal"
+        ],
+        "pu": [
+          "6 mm dil / fixed",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "APHAKIA",
+          "mature catarct"
+        ]
+      },
+      "op": {
+        "ref": "LE SICS with PMMA"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "cdr 0.,7 vit condensations +/ hazy view",
+          ""
+        ],
+        "me": [
+          "Haze",
+          "no view - cataract"
+        ],
+        "di": [
+          "CDR -0.65, IR   SLOPE/ ? THIN  temporal pallor",
+          "not visualised"
+        ],
+        "ve": [
+          "Normal",
+          "not visualised"
+        ],
+        "br": [
+          "Normal",
+          "not visualised"
+        ],
+        "mf": "not visualised",
+        "rem": [
+          "vitreous condensation++pvd+",
+          ""
+        ]
+      },
+      "m": [
+        {
+          "name": "EXOCIN EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 8
+        },
+        {
+          "name": "ANXIT 0.25 TAB",
+          "eye": "5",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "16",
+          "14"
+        ],
+        "sp": {
+          "r": "No Data"
+        }
+      }
+    },
+    {
+      "v": 10,
+      "d": "2024-02-27",
+      "c": "F9",
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "560",
+            "UCVA With PH": "560"
+          }
+        ]
+      },
+      "m": [
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 8
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 6
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 5
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "DEXA 5ML DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 11,
+      "d": "2024-04-02",
+      "c": "F10",
+      "diag": [
+        "",
+        "",
+        [
+          "Aphakia × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "260"
+          },
+          {
+            "None": "636"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth;VH 2",
+          "Normal Depth"
+        ],
+        "ir": [
+          "Normal Color and Pattern;Peripheral Iridectomy-Laser-Patent",
+          "Normal Color and Pattern"
+        ],
+        "cj": [
+          "Normal;TUNNEL SUTURE",
+          "Normal"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light;Shape-Irregular;Shape-Irregular,Pharmacologically Dilated",
+          "Normal Size and Reaction to Light;Pharmacologically Dilated"
+        ],
+        "lens": [
+          "Clear;Aphakia",
+          "Clear;PCIOL"
+        ]
+      },
+      "op": {
+        "ref": "6/36"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "Clear"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "Present",
+          "DULL"
+        ]
+      },
+      "m": [
+        {
+          "name": "FLUR EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "14"
+        ]
+      },
+      "fup": {
+        "adv": "Whenever Required"
+      }
+    }
+  ]
+}

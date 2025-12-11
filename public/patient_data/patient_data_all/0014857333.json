@@ -1,0 +1,435 @@
+{
+  "p": {
+    "uid": "0014857333",
+    "mr": "P141728",
+    "v": 6,
+    "f": "2022-08-20",
+    "l": "2024-05-11"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-08-20",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "PACS × 1",
+          "Early Cataract × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": {
+          "UCVA": "66P",
+          "Glasses": "66"
+        },
+        "dist": [
+          {
+            "ax": "170",
+            "va": "66",
+            "ucva": "66P"
+          },
+          {
+            "sph": "+0.25",
+            "ax": "30",
+            "va": "66",
+            "ucva": "66P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.75",
+            "ax": "170"
+          },
+          {
+            "sph": "+2.75",
+            "ax": "N6"
+          }
+        ]
+      },
+      "at": {
+        "ac": "mod Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "LC"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR0.4, HNRR",
+          "CDR0.5"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "20",
+          "24"
+        ]
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-09-02",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "PACS × 1",
+          "Early Cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "Glasses": "66",
+          "UCVA": "69"
+        },
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Moderate Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "LC"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": "0.45CDR, HNRR"
+      },
+      "m": [
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 4,
+          "dur": 3,
+          "med_start": "02/09/2022",
+          "med_end": "04/09/2022"
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3,
+          "dur": 3,
+          "med_start": "05/09/2022",
+          "med_end": "07/09/2022"
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2,
+          "dur": 3,
+          "med_start": "08/09/2022",
+          "med_end": "10/09/2022"
+        },
+        {
+          "name": "GATILOX DM-10ML",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 1,
+          "dur": 3,
+          "med_start": "11/09/2022",
+          "med_end": "13/09/2022"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "27",
+          "28"
+        ]
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2022-09-09",
+      "c": "F2",
+      "diag": [
+        "",
+        "",
+        [
+          "PACS × 1",
+          "Early Cataract × 1",
+          "Status Post PI × 1",
+          "Corticosteroid-Induced Ocular Hypertension × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "UCVA": "69",
+          "Glasses": "66"
+        },
+        "dist": [
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          },
+          {
+            "sph": "No Data",
+            "ax": "No Data"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "LPI patent",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "CDR 0.5, hnrr, no nfld",
+          "cdr 0.5 , IR slope , no nfld"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "27",
+          "30"
+        ],
+        "sp": {
+          "r": "OCT DONE,OCT DONE"
+        }
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-12-16",
+      "c": "F3",
+      "diag": [
+        "",
+        "",
+        [
+          "PAC × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "Glasses": "66P",
+          "UCVA": "69"
+        },
+        "dist": [
+          {
+            "ax": "170",
+            "va": "66P",
+            "ucva": "69"
+          },
+          {
+            "sph": "+0.25",
+            "ax": "30",
+            "va": "66P",
+            "ucva": "69"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "+2.75",
+            "ax": "170"
+          },
+          {
+            "sph": "+2.75",
+            "ax": "N6"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;Hyperlipidemia;Hypertension;Non-Ocular Sx;Other Allergies;Others;GIT;Renal;RS;Remarks;Identification Marks;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern;Patent LPI",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light;Pharmacologically Dilated",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "Normal",
+          "CD 0.5 HNRR"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "AUROBRIME EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "24",
+          "26"
+        ]
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2024-04-12",
+      "c": "F4",
+      "diag": [
+        "",
+        "",
+        [
+          "PAC × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "66"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Patent LPI",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "Clear"
+      },
+      "op": {
+        "ref": "6/6;6/9"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "Normal",
+          "cdr 0.5 no focal rim loss"
+        ],
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "m": [
+        {
+          "name": "LATOBEST EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": "23",
+        "sp": {
+          "r": "No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2024-05-11",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "PAC × 1",
+          "Immature cataract × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "69"
+        }
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Patent LPI",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Hazy-Cataract",
+        "di": "cdr 0.5 hnrr",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": [
+          "18",
+          "17"
+        ],
+        "sp": {
+          "r": "DONE,DONE"
+        }
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    }
+  ]
+}

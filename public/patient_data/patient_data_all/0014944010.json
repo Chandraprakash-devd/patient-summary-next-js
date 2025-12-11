@@ -1,0 +1,535 @@
+{
+  "p": {
+    "uid": "0014944010",
+    "mr": "P146756",
+    "v": 8,
+    "f": "2022-11-12",
+    "l": "2025-04-25"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-11-12",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "NPDR Severe × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          null,
+          [
+            "No LE procedure"
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69P"
+          },
+          {
+            "UCVA": "612P"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "180",
+            "va": "69",
+            "ucva": "69P"
+          },
+          {
+            "ax": "60",
+            "va": "69P",
+            "ucva": "612P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "2.5"
+          },
+          {
+            "sph": "2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated, No NVI",
+        "lens": "Lens Changes"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Severe NPDR",
+        "mf": [
+          "Mild DME",
+          "Dull"
+        ],
+        "rem": [
+          "OCT- Parafoveal edema, Macula dry",
+          "OCT- Macula dry"
+        ]
+      },
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "Done,Done"
+        }
+      },
+      "fup": {
+        "adv": "Whenever Required"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2024-04-13",
+      "c": "F1",
+      "diag": [
+        "",
+        "",
+        [
+          "Severe nonproliferative diabetic retinopathy × 1",
+          "Vitreous haemorrhage × 1",
+          "PDR × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            "No RE procedure"
+          ],
+          null
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "None": "69"
+          },
+          {
+            "None": "618"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light;Pharmacologically Dilated",
+        "lens": "Clear;imc;IMC;IMC, PSCC"
+      },
+      "op": {
+        "ref": "6/12;6/18"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": [
+          "dull",
+          "Present"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "18",
+          "15"
+        ],
+        "sp": {
+          "r": "HRA: Parafoveal edema with HE's,HRA: Parafoveal edema"
+        }
+      },
+      "fup": {
+        "adv": "Whenever Required"
+      }
+    },
+    {
+      "v": 3,
+      "d": "2024-04-17",
+      "c": "F2",
+      "diag": [
+        "",
+        "",
+        [
+          "Severe nonproliferative diabetic retinopathy × 1",
+          "PDR × 1",
+          "Vitreous haemorrhage × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "69"
+          },
+          {
+            "None": "618"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "IMC, PSCC"
+      },
+      "op": {
+        "ref": "6/12;6/18"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "inferior VH"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Severe NPDR",
+          "PDR, PRH inferiorly"
+        ],
+        "mf": "dull"
+      },
+      "m": [
+        {
+          "name": "NEPAWEL EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        }
+      ],
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2024-04-24",
+      "c": "F3",
+      "diag": [
+        "",
+        "",
+        [
+          "Severe nonproliferative diabetic retinopathy × 1",
+          "PDR × 1",
+          "Vitreous haemorrhage × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "66"
+          },
+          {
+            "None": "612"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "IMC, PSCC"
+      },
+      "op": {
+        "ref": "6/12;6/18"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "inferior VH"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Severe NPDR",
+          "PDR, PRH inferiorly"
+        ],
+        "mf": "dull"
+      },
+      "inv": {
+        "iop": [
+          "17",
+          "11"
+        ]
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2024-06-05",
+      "c": "F4",
+      "diag": [
+        "",
+        "",
+        [
+          "Severe nonproliferative diabetic retinopathy × 1",
+          "PDR × 1",
+          "Vitreous haemorrhage × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "69"
+          },
+          {
+            "None": "624"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "IMC, PSCC"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "inferior VH"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Severe NPDR",
+          "PDR, s/p PRP, stabilising"
+        ],
+        "mf": "dull",
+        "rem": [
+          "OCT- Parafoveal edema",
+          "OCT- Fovea dry"
+        ]
+      },
+      "m": [
+        {
+          "name": "NEPAWEL EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "15",
+          "13"
+        ],
+        "sp": {
+          "r": "done,Done"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2024-07-20",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "Severe nonproliferative diabetic retinopathy × 1",
+          "PDR × 1",
+          "Vitreous haemorrhage × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "69"
+          },
+          {
+            "None": "624"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "IMC, PSCC;early imc"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "inferior VH resolving"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Severe NPDR",
+          "PDR, s/p PRP, stabilising, inferior Skip areas"
+        ],
+        "mf": "dull"
+      },
+      "m": [
+        {
+          "name": "MACUGOLD PLUS TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Night Only"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "16",
+          "17"
+        ]
+      },
+      "fup": {
+        "adv": "2 months"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2025-02-22",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "Severe nonproliferative diabetic retinopathy × 1",
+          "PDR × 1",
+          "Vitreous haemorrhage × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69"
+          },
+          {
+            "UCVA": "618"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "IMC"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Severe NPDR",
+          "PDR S/P PRP"
+        ],
+        "mf": "Dull"
+      },
+      "inv": {
+        "iop": [
+          "15",
+          "14"
+        ]
+      }
+    },
+    {
+      "v": 8,
+      "d": "2025-04-25",
+      "c": "F7",
+      "diag": [
+        "",
+        "",
+        [
+          "Severe nonproliferative diabetic retinopathy × 1",
+          "PDR × 1",
+          "Vitreous haemorrhage × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "69",
+            "UCVA With PH": "69"
+          },
+          {
+            "UCVA": "618",
+            "UCVA With PH": "618"
+          }
+        ]
+      },
+      "s": {
+        "h": "Others;Drug Allergies;Cardiac;Hypertension;Hyperlipidemia;Asthma;Non-Ocular Sx;Diabetes;Other Allergies"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "IMC"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Severe NPDR",
+          "PDR S/P PRP"
+        ],
+        "mf": "Dull",
+        "rem": "OCT - no DME"
+      },
+      "inv": {
+        "iop": "14"
+      }
+    }
+  ]
+}

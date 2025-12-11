@@ -1,0 +1,96 @@
+{
+  "p": {
+    "uid": "0016669482",
+    "mr": "P2180687",
+    "v": 2,
+    "f": "2022-01-21",
+    "l": "2022-01-28"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-01-21",
+      "c": "Initial",
+      "diag": [
+        [
+          "Acute Conjunctivitis × 1"
+        ],
+        "",
+        ""
+      ],
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "CONGESTION, DISCHARGE",
+          "Normal"
+        ],
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "m": [
+        {
+          "name": "TOBA DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4,
+          "dur": 7,
+          "med_start": "21/01/2022",
+          "med_end": "27/01/2022"
+        },
+        {
+          "name": "TOCIN OINT",
+          "eye": "1",
+          "fre": 2,
+          "dur": 7,
+          "med_start": "21/01/2022",
+          "med_end": "27/01/2022"
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 week"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-01-28",
+      "c": "F1",
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear"
+      },
+      "op": {
+        "ref": "ROP SCREENING"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Normal",
+        "mf": "Present"
+      },
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "6 months"
+      }
+    }
+  ]
+}

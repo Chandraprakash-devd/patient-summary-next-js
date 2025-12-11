@@ -1,0 +1,258 @@
+{
+  "p": {
+    "uid": "0017659198",
+    "mr": "F57675",
+    "v": 4,
+    "f": "2022-01-22",
+    "l": "2022-02-03"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2022-01-22",
+      "c": "Initial",
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66P"
+          },
+          {
+            "UCVA": "69"
+          }
+        ],
+        "dist": [
+          {
+            "sph": "0.5",
+            "ax": "0",
+            "va": "66",
+            "ucva": "66P"
+          },
+          {
+            "ax": "0",
+            "va": "69",
+            "ucva": "69"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "2.25"
+          },
+          {
+            "sph": "2.25"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Lens Changes"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "inv": {
+        "iop": [
+          "15",
+          "19"
+        ]
+      }
+    },
+    {
+      "v": 2,
+      "d": "2022-01-24",
+      "c": "F1",
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66",
+            "UCVA With PH": "66"
+          },
+          {
+            "UCVA": "69",
+            "UCVA With PH": "69"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;H/O COVID 19;H/O COVID VACCINE;Hyperlipidemia;Hypertension;Identification Marks;Non-Ocular Sx;Other Allergies;Others;Remarks;Thyroid;Renal;Stroke"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Lens Changes"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "inv": {
+        "iop": [
+          "18",
+          "14"
+        ]
+      }
+    },
+    {
+      "v": 3,
+      "d": "2022-01-26",
+      "c": "F2",
+      "diag": [
+        "",
+        [
+          "CRVO × 1",
+          "Macular Edema × 1"
+        ],
+        ""
+      ],
+      "pr": {
+        "act": [
+          [
+            "No RE procedure"
+          ],
+          null
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66",
+            "UCVA With PH": "66"
+          },
+          {
+            "UCVA": "69",
+            "UCVA With PH": "69"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Lens Changes"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "MILD HAZE"
+        ],
+        "di": [
+          "Normal",
+          "OEDEMA"
+        ],
+        "ve": [
+          "Normal",
+          "TORTUOUS AND ENGORGED VESSELS"
+        ],
+        "br": [
+          "Normal",
+          "RETINAL SPLOTCHY HAEMORRHAGES UPTO THE PERIPHERY"
+        ],
+        "mf": [
+          "Present",
+          "GROSS OEDEMA"
+        ],
+        "rem": [
+          "",
+          "s/p 1 avastin"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "13",
+          "11"
+        ]
+      }
+    },
+    {
+      "v": 4,
+      "d": "2022-02-03",
+      "c": "F3",
+      "diag": [
+        "",
+        [
+          "CRVO × 1",
+          "Macular Edema × 1"
+        ],
+        ""
+      ],
+      "pr": {
+        "act": [
+          [
+            "No RE procedure"
+          ],
+          [
+            [
+              "Avastin"
+            ]
+          ]
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66",
+            "UCVA With PH": "66"
+          },
+          {
+            "UCVA": "69P",
+            "UCVA With PH": "69P"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Lens Changes"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "MILD HAZE"
+        ],
+        "di": [
+          "Normal",
+          "OEDEMA"
+        ],
+        "ve": [
+          "Normal",
+          "TORTUOUS AND ENGORGED VESSELS"
+        ],
+        "br": [
+          "Normal",
+          "RETINAL SPLOTCHY HAEMORRHAGES UPTO THE PERIPHERY"
+        ],
+        "mf": [
+          "Present",
+          "GROSS OEDEMA"
+        ],
+        "rem": [
+          "",
+          "s/p 1 avastin"
+        ]
+      },
+      "inv": {
+        "iop": "Not Measurable"
+      }
+    }
+  ]
+}

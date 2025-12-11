@@ -1,0 +1,806 @@
+{
+  "p": {
+    "uid": "0020956509",
+    "mr": "P5740970",
+    "v": 9,
+    "f": "2023-10-20",
+    "l": "2025-01-30"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2023-10-20",
+      "c": "Initial",
+      "diag": [
+        "",
+        "",
+        [
+          "Immature cataract × 1",
+          "Pseudophakia × 1",
+          "Moderate nonproliferative diabetic retinopathy × 1",
+          "Diabetic macular edema × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            "No RE procedure"
+          ],
+          null
+        ]
+      },
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "560"
+          },
+          {
+            "UCVA": "636"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "560",
+            "ucva": "560"
+          },
+          {
+            "ax": "90",
+            "va": "618",
+            "ucva": "636"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "s": {
+        "h": "Renal;Stroke;Diabetes;Hypertension;Cardiac;Asthma;Other Allergies;Non-Ocular Sx;Others;Hyperlipidemia;Drug Allergies;Remarks;Identification Marks;Thyroid"
+      },
+      "as": {
+        "rem": "No NVI"
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Normal Depth;occasional cells+"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": [
+          "Clear;CC,ns2;NS 3, pscc",
+          "Clear;PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": [
+          "Orthophoric;Exotropia-45 degrees",
+          "Orthophoric"
+        ],
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "Clear"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "dot blot hmgs, cws, drusen",
+          "dot blot hmgs, drusen"
+        ],
+        "mf": [
+          "dull, hard exudates",
+          "drusen, ME"
+        ],
+        "rem": [
+          "moderate NPDR",
+          ""
+        ]
+      },
+      "inv": {
+        "iop": "17",
+        "sp": {
+          "r": "HRA- Para foveal hard exudates with cystic changes and irregular RPE.,HRA- Macular Oedema with hard exudates, Suband Para foveal irregular RPE."
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2023-11-06",
+      "c": "F1"
+    },
+    {
+      "v": 3,
+      "d": "2023-11-08",
+      "c": "F2",
+      "diag": [
+        "",
+        "",
+        [
+          "NPDR × 1",
+          "Diabetic macular edema × 1"
+        ]
+      ],
+      "pr": {
+        "act": [
+          [
+            "No RE procedure"
+          ],
+          [
+            [
+              "Avastin"
+            ]
+          ]
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "No NVI in dilated pupil"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "occasional cells+;Quiet"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "NS 3, pscc",
+          "PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": [
+          "Exotropia-45 degrees",
+          "Orthophoric"
+        ],
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "Clear"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "dot blot hmgs, cws, drusen",
+          "dot blot hmgs, drusen"
+        ],
+        "mf": [
+          "dull, hard exudates",
+          "drusen, ME"
+        ],
+        "rem": "moderate NPDR"
+      },
+      "m": [
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": "Not Measurable"
+      },
+      "fup": {
+        "adv": "1 month"
+      },
+      "oh": {
+        "desc": "HE IS FIT TO UNDERGO WITH INTRA VITREAL INJECTION(DR.M CHANDRASEKARAN REG NO:26388)04/11/2023"
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-12-07",
+      "c": "F3",
+      "diag": [
+        "",
+        "",
+        [
+          "Moderate nonproliferative diabetic retinopathy × 1",
+          "Diabetic macular edema × 1",
+          "Immature cataract × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "560"
+          },
+          {
+            "UCVA": "618"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "560",
+            "ucva": "560"
+          },
+          {
+            "ax": "0",
+            "va": "618",
+            "ucva": "618"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "No NVI in dilated pupil"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Quiet"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "NS 3, pscc",
+          "PCIOL"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": [
+          "Exotropia-45 degrees",
+          "Orthophoric"
+        ],
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "Clear"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "dot blot hmgs, cws, drusen",
+          "dot blot hmgs, drusen"
+        ],
+        "mf": [
+          "dull, hard exudates",
+          "drusen, ME"
+        ],
+        "rem": "moderate NPDR"
+      },
+      "m": [
+        {
+          "name": "NEXT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        },
+        {
+          "name": "CARAMIN  TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "15",
+          "12"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hard exudates with cystic changes and irregular RPE.,HRA-Resolving  Macular Oedema with hard exudates, Suband Para foveal irregular RPE.,"
+        }
+      },
+      "fup": {
+        "adv": "2 months"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2024-02-07",
+      "c": "F4",
+      "diag": [
+        "",
+        "",
+        [
+          "Immature cataract × 1",
+          "Pseudophakia × 1",
+          "Diabetic macular edema × 1",
+          "Moderate nonproliferative diabetic retinopathy × 1",
+          "Exotropia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "560"
+          },
+          {
+            "UCVA": "636"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "560",
+            "ucva": "560"
+          },
+          {
+            "ax": "90",
+            "va": "69",
+            "ucva": "636"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "No NVI in dilated pupil"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Quiet"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "NS 3, pscc",
+          "PCIOL"
+        ]
+      },
+      "op": {
+        "ref": "RE cat surgery - Squint clinic opinion to r/o possibility of diplopia post surgery"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": [
+          "Exotropia-45 degrees",
+          "Orthophoric"
+        ],
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "Clear"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "dot blot hmgs, cws, drusen",
+          "dot blot hmgs, drusen"
+        ],
+        "mf": [
+          "dull, hard exudates",
+          "drusen, ME"
+        ],
+        "rem": "moderate NPDR"
+      },
+      "m": [
+        {
+          "name": "MICRONAC PF - EYE DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "12",
+          "13"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hard exudates with cystic changes and irregular RPE.,HRA-Resolving Macular Oedema with hard exudates, Suband Para foveal irregular RPE.;No Data"
+        }
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2024-03-06",
+      "c": "F5",
+      "diag": [
+        "",
+        "",
+        [
+          "Exotropia × 1",
+          "Immature cataract × 1",
+          "Pseudophakia × 1",
+          "Diabetic macular edema × 1",
+          "Moderate nonproliferative diabetic retinopathy × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "612"
+          },
+          {
+            "None": "636"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;Hyperlipidemia;Hypertension;Identification Marks;Non-Ocular Sx;Other Allergies;Others;Remarks;Renal;Stroke;Thyroid;Renal Disease;Liver Disease;Stroke/Neuro;Lungs Problem;Malignancy-site;Rheumatoid Arthritis;TB"
+      },
+      "as": {
+        "rem": [
+          "",
+          "No NVI in dilated pupil"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Quiet"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light;Pharmacologically Dilated,7mm",
+          "Pharmacologically Dilated;Pharmacologically Dilated,7mm"
+        ],
+        "lens": [
+          "NS 3, pscc;NS 3, pscc,CC",
+          "PCIOL"
+        ]
+      },
+      "op": {
+        "ref": "RE CAT SURGERY;RE - recent onset exotropia with slow saccades"
+      },
+      "om": {
+        "om": [
+          "FULL;EOM full , slow saccade",
+          "FULL"
+        ],
+        "cr": [
+          "Exotropia-45 degrees;Exotropia-45 degrees, able to fix , LE dominant;Exotropia-30 degrees, able to fix , LE dominant",
+          "Orthophoric"
+        ],
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Hazy-Cataract",
+          "Clear"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "dot blot hmgs, cws, drusen",
+          "dot blot hmgs, drusen"
+        ],
+        "mf": [
+          "dull, hard exudates",
+          "drusen, LMH"
+        ],
+        "rem": "moderate NPDR"
+      },
+      "m": [
+        {
+          "name": "ALPRAX 0.5 TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Night Only"
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "1",
+          "fre": 8
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 6
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 5
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "Dexa 7.5ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "17",
+          "14"
+        ],
+        "sp": {
+          "r": "HRA- Para foveal hard exudates with cystic changes and irregular RPE.,HRA-Resolving Macular Oedema with hard exudates, Suband Para foveal irregular RPE.;No Data;normal"
+        }
+      },
+      "fup": {
+        "adv": "1 month;24 days;01/04/2024"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2024-04-01",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "Pseudophakia × 2",
+          "Exotropia × 1",
+          "Diabetic macular edema × 1",
+          "Moderate nonproliferative diabetic retinopathy × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "612"
+          },
+          {
+            "None": "69"
+          }
+        ]
+      },
+      "as": {
+        "rem": [
+          "",
+          "No NVI in dilated pupil"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Quiet"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated,7mm",
+        "lens": [
+          "pciol",
+          "PCIOL"
+        ]
+      },
+      "op": {
+        "ref": "REVIEW POD 26 DAYS RE MOD NPDR WITH MACULAR EDEMA"
+      },
+      "om": {
+        "om": [
+          "EOM full , slow saccade",
+          "FULL"
+        ],
+        "cr": [
+          "Exotropia-30 degrees, able to fix , LE dominant",
+          "Orthophoric"
+        ],
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "dot blot hmgs, cws, drusen",
+          "dot blot hmgs, drusen"
+        ],
+        "mf": [
+          "dull, hard exudates",
+          "drusen, LMH"
+        ],
+        "rem": "moderate NPDR"
+      },
+      "m": [
+        {
+          "name": "NEPACENT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "1",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "iop": [
+          "17",
+          "12"
+        ],
+        "sp": {
+          "r": "HRA- Macular edema with Para foveal hard exudates with cystic changes and irregular RPE.,HRA-Resolving Macular Oedema with hard exudates, Suband Para foveal irregular RPE."
+        }
+      },
+      "fup": {
+        "adv": "3 months;1 month"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2024-06-08",
+      "c": "F7",
+      "diag": [
+        "",
+        "",
+        [
+          "Exotropia × 1",
+          "Moderate nonproliferative diabetic retinopathy × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "624"
+        }
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Quiet"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated,7mm",
+        "lens": [
+          "pciol;PCIOL",
+          "PCIOL"
+        ]
+      },
+      "om": {
+        "om": [
+          "EOM full , slow saccade",
+          "FULL"
+        ],
+        "cr": [
+          "Exotropia-30 degrees, able to fix , LE dominant",
+          "Orthophoric"
+        ],
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "dot blot hmgs, cws, drusen",
+          "dot blot hmgs, drusen"
+        ],
+        "mf": "drusen, LMH",
+        "rem": "moderate NPDR"
+      },
+      "inv": {
+        "iop": [
+          "12",
+          "15"
+        ],
+        "sp": {
+          "r": "HRA- Macular edema with Para foveal hard exudates with cystic changes and irregular RPE.,HRA-Resolving Macular Oedema with hard exudates, Suband Para foveal irregular RPE."
+        }
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 9,
+      "d": "2025-01-30",
+      "c": "F8",
+      "diag": [
+        "",
+        "",
+        [
+          "Exotropia × 1",
+          "Moderate nonproliferative diabetic retinopathy × 1",
+          "Pseudophakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "None": "624"
+        }
+      },
+      "as": {
+        "rem": [
+          "Slowly Takes up Fixation,No NVI/NVA",
+          "No NVI/NVA"
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear;PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": [
+          "Orthophoric;Exotropia-30 degrees-45 degrees",
+          "Orthophoric;Alt Exo - Dominant Eye"
+        ],
+        "gl": "Normal"
+      },
+      "inv": {
+        "iop": [
+          "17",
+          "20"
+        ]
+      }
+    }
+  ]
+}

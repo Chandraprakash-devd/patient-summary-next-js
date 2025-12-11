@@ -1,0 +1,1619 @@
+{
+  "p": {
+    "uid": "0019718733",
+    "mr": "P86507",
+    "v": 20,
+    "f": "2023-02-13",
+    "l": "2023-11-16"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2023-02-13",
+      "c": "Initial",
+      "as": {
+        "rem": [
+          "",
+          "Seidels Test-Positive, ?"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "cells1+"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Normal",
+          "Congestion-Circum corneal congestion(CCC)"
+        ],
+        "pu": "Normal Size and Reaction to Light",
+        "lens": [
+          "Clear",
+          "? traumatic cataract"
+        ]
+      },
+      "op": {
+        "ref": "CORNEAL TEAR WITH CELLS"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      }
+    },
+    {
+      "v": 2,
+      "d": "2023-02-13",
+      "c": "F1",
+      "as": {
+        "rem": [
+          "",
+          "DT normal"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth;Normal Depth, Quiet",
+          "streak hypopyon, cells+ . flare+, formed but shallow;formed, Cells-1+, Air bubble +;formed, 10% Air bubble+"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Normal",
+          "CCC"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "sluggish;irregular, inferior PS+"
+        ],
+        "lens": [
+          "Clear",
+          "Traumatic cataract, NO ABSCESS SEEN"
+        ]
+      },
+      "op": {
+        "ref": "s/p corneal tear repair POD 1"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Normal",
+          "hazy"
+        ]
+      },
+      "m": [
+        {
+          "name": "DEXOREN-S EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "VIGAMOX DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 6
+        },
+        {
+          "name": "ZOXAN 500MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "P-NAC  TABS",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "sp": {
+          "r": ",no radio opaque foreign body seen,,,LE - AXL 23.55mm, RCS complex thickness 1.94mm. No e/o CD or RD."
+        }
+      }
+    },
+    {
+      "v": 3,
+      "d": "2023-02-23",
+      "c": "F2",
+      "as": {
+        "rem": [
+          "",
+          "DT normal"
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, Quiet",
+          "Normal Depth"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Normal",
+          "mild cc"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "irregular, inferior PS+"
+        ],
+        "lens": [
+          "Clear",
+          "Traumatic cataract, NO ABSCESS SEEN"
+        ]
+      },
+      "op": {
+        "ref": "LE s/p corneal tear repair, for Bscan and review"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Normal",
+          "hazy"
+        ]
+      },
+      "m": [
+        {
+          "name": "DEXOREN-S EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "DEXOREN-S EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 1
+        },
+        {
+          "name": "VIGAMOX DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "DEXOREN-S EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "DEXOREN-S EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        }
+      ],
+      "inv": {
+        "sp": {
+          "r": "le axl 25.43 mm, rcs complex 1.46mm, mild vit dot echoes, no e/o rd /cd."
+        }
+      }
+    },
+    {
+      "v": 4,
+      "d": "2023-02-28",
+      "c": "F3",
+      "as": {
+        "rem": [
+          "",
+          "DT normal"
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth, Quiet",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "irregular, inferior PS+"
+        ],
+        "lens": [
+          "Clear",
+          "Traumatic cataract, NO ABSCESS SEEN"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "Normal",
+          "hazy"
+        ]
+      }
+    },
+    {
+      "v": 5,
+      "d": "2023-03-10",
+      "c": "F4",
+      "diag": [
+        [
+          "Normal × 1"
+        ],
+        [
+          "Open Globe Injury × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66"
+          },
+          {
+            "UCVA": "260"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, Quiet",
+          "Normal Depth, cells 4+, 0.5mm hypopyon"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Normal",
+          "Mild congestion"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "irregular, inferior PS+"
+        ],
+        "lens": [
+          "Clear",
+          "Traumatic cataract"
+        ]
+      },
+      "op": {
+        "ref": "LE +  Vitreous Tap+COREVITRECTOMY+IVITAB"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy-Cataract"
+        ],
+        "di": [
+          "Normal",
+          "Disc hazily seen"
+        ],
+        "ve": [
+          "Normal",
+          "not visualised"
+        ],
+        "br": [
+          "Normal",
+          "No clear details"
+        ],
+        "mf": [
+          "Present",
+          "not visualised"
+        ],
+        "rem": [
+          "quiet",
+          "s/p OGI repair, no clear view, mid dilated pupil"
+        ]
+      },
+      "m": [
+        {
+          "name": "VIGAMOX DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Hourly"
+        },
+        {
+          "name": "AMINOGEN DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Hourly"
+        },
+        {
+          "name": "ATROP EYE DROP",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "19",
+          "14"
+        ],
+        "sp": {
+          "r": "LE: Inferior Vit exudates. AXL: 23.94mm & ON normal .RCS complexis 1.81mm. Noe /o RD or CD._x000D_\nS/o: LE: Vitritis."
+        }
+      },
+      "fup": {
+        "adv": "Tomorrow"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2023-03-13",
+      "c": "F5",
+      "diag": [
+        [
+          "Normal × 1"
+        ],
+        [
+          "Open Globe Injury × 1"
+        ],
+        ""
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66"
+          },
+          {
+            "UCVA": "160"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, Quiet",
+          "Normal Depth, cells 4+, 1.5mm hypopyon"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": [
+          "Normal",
+          "Mild congestion"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "irregular, inferior PS+"
+        ],
+        "lens": [
+          "Clear",
+          "Traumatic cataract"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "Hazy-Cataract"
+        ],
+        "di": [
+          "Normal",
+          "No view"
+        ],
+        "ve": [
+          "Normal",
+          "not visualised"
+        ],
+        "br": [
+          "Normal",
+          "No clear details"
+        ],
+        "mf": [
+          "Present",
+          "not visualised"
+        ],
+        "rem": [
+          "quiet",
+          "s/p OGI repair, exudates in vit cavity ?lens matter"
+        ]
+      },
+      "inv": {
+        "iop": "Not Measurable",
+        "sp": {
+          "r": "LE: Inferior Vit exudates. AXL: 24.07mm & ON normal. RCS complex is 1.73mm. no e/o RD or CD._x000D_\ns/o: LE: Vitritis."
+        }
+      },
+      "fup": {
+        "adv": "3 days"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2023-03-14",
+      "c": "F6",
+      "diag": [
+        "",
+        "",
+        [
+          "Hypertension × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66"
+          },
+          {
+            "UCVA": "160"
+          }
+        ]
+      },
+      "s": {
+        "h": "Asthma;Cardiac;Diabetes;Drug Allergies;H/O COVID 19;H/O COVID VACCINE;Hyperlipidemia;Hypertension;Identification Marks;Non-Ocular Sx;Other Allergies;Others;Remarks;Thyroid"
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, Quiet",
+          "Normal Depth, cells 2+, SO in AC, FM over pupillary area, hazy"
+        ],
+        "ir": [
+          "Normal Color and Pattern",
+          "not visualised"
+        ],
+        "cj": [
+          "Normal",
+          "SCH+ CCC+"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "not visualised"
+        ],
+        "lens": [
+          "Clear",
+          "not visualised"
+        ]
+      },
+      "op": {
+        "ref": "LE Core Vitrectomy"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "",
+          "no view - SOFG"
+        ]
+      },
+      "m": [
+        {
+          "name": "ATROPINE 10ML EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "TIMOLET 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "ALPRAX 0.5 TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Night Only"
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "2",
+          "fre": 8
+        },
+        {
+          "name": "PRED FORTE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 1
+        },
+        {
+          "name": "AMINOGEN DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Hourly"
+        },
+        {
+          "name": "VIGAMOX DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": "Hourly"
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "11"
+        ],
+        "sp": {
+          "r": "normal;No Data;LE - Silicone oil filled globe . Retina on all over. No e/o RD."
+        }
+      },
+      "fup": {
+        "adv": "5 days"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2023-03-23",
+      "c": "F7",
+      "diag": [
+        "",
+        [
+          "Lens Induced Uveitis × 1",
+          "S/P PPV+SOI × 1"
+        ],
+        [
+          "Hypertension × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66"
+          },
+          {
+            "UCVA": "636"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth, Quiet",
+        "ir": [
+          "Normal Color and Pattern",
+          "Iris bombe"
+        ],
+        "cj": [
+          "Normal",
+          "CCC+"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "Clear",
+          "Aphakia"
+        ]
+      },
+      "op": {
+        "ref": "B-SCAN;LE Core Vitrectomy"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "SOFG"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "ON"
+        ],
+        "mf": [
+          "Present",
+          "ON"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "17",
+          "11"
+        ]
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 9,
+      "d": "2023-04-04",
+      "c": "F8",
+      "diag": [
+        "",
+        [
+          "Lens Induced Uveitis × 1",
+          "S/P PPV+SOI × 1",
+          "Aphakia × 1",
+          "S/P Corneal Tear Suturing × 1"
+        ],
+        [
+          "Hypertension × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66"
+          },
+          {
+            "UCVA": "636P"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "66",
+            "ucva": "66"
+          },
+          {
+            "ax": "0",
+            "va": "636P",
+            "ucva": "636P"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth, Quiet",
+        "ir": [
+          "Normal Color and Pattern",
+          "Deep;PI occluded"
+        ],
+        "cj": [
+          "Normal",
+          "CCC+"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "Clear",
+          "Aphakia"
+        ]
+      },
+      "op": {
+        "ref": "Review"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "SOFG"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "Retina ON"
+        ],
+        "mf": [
+          "Present",
+          "ON"
+        ],
+        "rem": [
+          "",
+          "s/p Corevit + PPL + SOI"
+        ]
+      },
+      "m": [
+        {
+          "name": "TIMOLET 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "19",
+          "14"
+        ]
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 10,
+      "d": "2023-04-18",
+      "c": "F9",
+      "diag": [
+        "",
+        [
+          "Lens Induced Uveitis × 1",
+          "S/P PPV+SOI × 1",
+          "Aphakia × 1",
+          "S/P Corneal Tear Suturing × 1"
+        ],
+        [
+          "Hypertension × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66"
+          },
+          {
+            "UCVA": "660"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth, Quiet",
+        "ir": [
+          "Normal Color and Pattern",
+          "Deep;PI occluded"
+        ],
+        "cj": [
+          "Normal",
+          "CCC+"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "Clear",
+          "Aphakia"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "SOFG"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "Retina ON"
+        ],
+        "mf": [
+          "Present",
+          "ON"
+        ],
+        "rem": [
+          "",
+          "s/p Corevit + PPL + SOI"
+        ]
+      },
+      "m": [
+        {
+          "name": "VIGAMOX DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 6
+        },
+        {
+          "name": "AMINOGEN DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "9"
+        ]
+      },
+      "fup": {
+        "adv": "3 weeks"
+      }
+    },
+    {
+      "v": 11,
+      "d": "2023-05-12",
+      "c": "F10",
+      "diag": [
+        "",
+        [
+          "Lens Induced Uveitis × 1",
+          "S/P PPV+SOI × 1",
+          "Aphakia × 1",
+          "S/P Corneal Tear Suturing × 1"
+        ],
+        [
+          "Hypertension × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66"
+          },
+          {
+            "UCVA": "560"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth, Quiet",
+        "ir": [
+          "Normal Color and Pattern",
+          "Deep;PI occluded"
+        ],
+        "cj": [
+          "Normal",
+          "CCC+"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "Clear",
+          "Aphakia"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "SOFG"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "Retina ON"
+        ],
+        "mf": [
+          "Present",
+          "ON"
+        ],
+        "rem": [
+          "",
+          "s/p Corevit + PPL + SOI"
+        ]
+      },
+      "m": [
+        {
+          "name": "VIGAMOX DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        }
+      ],
+      "inv": {
+        "iop": [
+          "20",
+          "18"
+        ]
+      },
+      "fup": {
+        "adv": "3 weeks"
+      }
+    },
+    {
+      "v": 12,
+      "d": "2023-06-01",
+      "c": "F11",
+      "diag": [
+        "",
+        [
+          "Lens Induced Uveitis × 1",
+          "S/P PPV+SOI × 1",
+          "Aphakia × 1",
+          "S/P Corneal Tear Suturing × 1"
+        ],
+        [
+          "Hypertension × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66"
+          },
+          {
+            "UCVA": "660"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth, Quiet",
+        "ir": [
+          "Normal Color and Pattern",
+          "Deep;PI occluded"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "Clear",
+          "Aphakia"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "SOFG"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "Retina ON"
+        ],
+        "mf": [
+          "Present",
+          "ON"
+        ],
+        "rem": [
+          "",
+          "s/p Corevit + PPL + SOI"
+        ]
+      },
+      "m": [
+        {
+          "name": "VIGAMOX DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 1
+        },
+        {
+          "name": "AMINOGEN DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "AMINOGEN DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "AMINOGEN DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "AMINOGEN DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 1
+        },
+        {
+          "name": "VIGAMOX DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "VIGAMOX DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "VIGAMOX DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "20",
+          "19"
+        ]
+      },
+      "fup": {
+        "adv": "3 weeks"
+      }
+    },
+    {
+      "v": 13,
+      "d": "2023-06-24",
+      "c": "F12",
+      "diag": [
+        "",
+        [
+          "Lens Induced Uveitis × 1",
+          "S/P PPV+SOI × 1",
+          "Aphakia × 1",
+          "S/P Corneal Tear Suturing × 1",
+          "Secondary Increased IOP × 1"
+        ],
+        [
+          "Hypertension × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA With PH": "66",
+            "UCVA": "66"
+          },
+          {
+            "UCVA With PH": "560",
+            "UCVA": "560"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, Quiet",
+          "Normal Depth, Quiet, small SO bubble in AC"
+        ],
+        "ir": [
+          "Normal Color and Pattern",
+          "Deep;PI occluded"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "Normal Size and Reaction to Light",
+          "Pharmacologically Dilated"
+        ],
+        "lens": [
+          "Clear",
+          "Aphakia"
+        ]
+      },
+      "op": {
+        "ref": "LE- high IOP not on AGM",
+        "rem": "K/C/O LE-OGI S/P CORNEAL TEAR REPAIR,, S/P CORE VIT+PPL+FAE+SOI+IV VCV-back to retina please"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "SOFG"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "Retina ON"
+        ],
+        "mf": [
+          "Present",
+          "ON"
+        ],
+        "rem": [
+          "",
+          "s/p Corevit + PPL + SOI"
+        ]
+      },
+      "m": [
+        {
+          "name": "LOPRES 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "ALPRAX 0.5 TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Night Only"
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "2",
+          "fre": 8
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "DOLO 650MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "18",
+          "32"
+        ]
+      }
+    },
+    {
+      "v": 14,
+      "d": "2023-08-01",
+      "c": "F13",
+      "op": {
+        "ref": "LE Scleral Fixation Of IOL +  SILICON OIL REMOVAL (SOR)"
+      }
+    },
+    {
+      "v": 15,
+      "d": "2023-09-22",
+      "c": "F14"
+    },
+    {
+      "v": 16,
+      "d": "2023-09-23",
+      "c": "F15",
+      "diag": [
+        "",
+        "",
+        [
+          "Aphakia × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66"
+          },
+          {
+            "UCVA": "660"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, Quiet;Normal Depth",
+          "Normal Depth, Quiet;Normal Depth, AC filled with SO"
+        ],
+        "ir": [
+          "Normal Color and Pattern",
+          "Deep;PI occluded"
+        ],
+        "cj": [
+          "Normal",
+          "CCC+"
+        ],
+        "pu": [
+          "Normal Size and Reaction to Light;Pharmacologically Dilated",
+          "Dilated , fixed"
+        ],
+        "lens": [
+          "Clear",
+          "Aphakia"
+        ]
+      },
+      "op": {
+        "ref": "SILICON OIL REMOVAL (SOR);LE sec glaucoma - Patient only on Lopres.;IV Mannitol infuion",
+        "rem": "very high IOP;Back to retina"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "SOF"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "Retina ON"
+        ],
+        "mf": [
+          "Present",
+          "ON"
+        ],
+        "rem": [
+          "",
+          "s/p Corevit + PPL + SOI"
+        ]
+      },
+      "m": [
+        {
+          "name": "MISOPT EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "ALPRAX 0.5 TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": "Night Only"
+        },
+        {
+          "name": "BIDIN-LS EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "DOLO 650MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "MANNITOL 20% -100ML",
+          "dos": "99 ml",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "AUROFLOX EYE DROPS",
+          "eye": "2",
+          "fre": 8
+        },
+        {
+          "name": "IOPAR-SR CAP",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "PANTOCID 40MG TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "inv": {
+        "iop": [
+          "20",
+          "52"
+        ],
+        "sp": {
+          "r": "No Data;NR"
+        }
+      },
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 17,
+      "d": "2023-09-25",
+      "c": "F16",
+      "op": {
+        "ref": "LE SILICON OIL REMOVAL (SOR)"
+      },
+      "inv": {
+        "iop": "Not Measurable"
+      }
+    },
+    {
+      "v": 18,
+      "d": "2023-09-26",
+      "c": "F17",
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66",
+            "UCVA With PH": "66"
+          },
+          {
+            "UCVA": "660",
+            "UCVA With PH": "624P"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth",
+          "Normal Depth, AC filled with SO"
+        ],
+        "ir": [
+          "Normal Color and Pattern",
+          "Deep;PI occluded"
+        ],
+        "cj": [
+          "Normal",
+          "CCC+"
+        ],
+        "pu": [
+          "Pharmacologically Dilated",
+          "Dilated , fixed"
+        ],
+        "lens": [
+          "Clear",
+          "Aphakia"
+        ]
+      },
+      "op": {
+        "ref": "LE SILICON OIL REMOVAL (SOR)"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Clear",
+          "SOF"
+        ],
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "Retina ON"
+        ],
+        "mf": [
+          "Present",
+          "ON"
+        ],
+        "rem": [
+          "",
+          "s/p Corevit + PPL + SOI"
+        ]
+      },
+      "m": [
+        {
+          "name": "ZIVIMOX - D EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 24
+        },
+        {
+          "name": "ZIVIMOX - D EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 5
+        },
+        {
+          "name": "ZIVIMOX - D EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 4
+        },
+        {
+          "name": "ZIVIMOX - D EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 3
+        },
+        {
+          "name": "ZIVIMOX - D EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        },
+        {
+          "name": "ZIVIMOX - D EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 1
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "dos": "1 drop",
+          "eye": "2",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "20",
+          "11"
+        ],
+        "sp": {
+          "r": "HRA-Normal retinal Layers.,Retina attached well.;LE: 360` Choroidal effusion & mild dot Vit echoes. AXL: 24.21m & ON normal. RCS complex is 2.08mm. Noe /o RD or CD.",
+          "e": [
+            "",
+            "360"
+          ]
+        }
+      },
+      "fup": {
+        "adv": "15 days;05/10/2023"
+      },
+      "oh": {
+        "desc": "Fit for LE SILICON OIL REMOVAL (SOR)Physician:Dr. Arunprakaash, Sep 25 2023 1:22 PM,MDU Pre-operative instructions:Plain block/ Topical"
+      }
+    },
+    {
+      "v": 19,
+      "d": "2023-10-05",
+      "c": "F18",
+      "diag": [
+        "",
+        "",
+        [
+          "Aphakia × 1",
+          "Normal × 1",
+          "Rupture of globe × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66"
+          },
+          {
+            "UCVA": "624"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "Normal Color and Pattern",
+          "Deep;PI occluded"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "Pharmacologically Dilated",
+          "Dilated , fixed"
+        ],
+        "lens": [
+          "Clear",
+          "Aphakia"
+        ]
+      },
+      "op": {
+        "ref": "LE SILICON OIL REMOVAL (SOR)"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "Retina ON"
+        ],
+        "mf": [
+          "Present",
+          "ON"
+        ],
+        "rem": [
+          "",
+          "s/p Corevit + PPL + SOI"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "20",
+          "11"
+        ]
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    },
+    {
+      "v": 20,
+      "d": "2023-11-16",
+      "c": "F19",
+      "diag": [
+        "",
+        "",
+        [
+          "Normal × 1",
+          "Aphakia × 1",
+          "Rupture of globe × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "66"
+          },
+          {
+            "UCVA": "460"
+          }
+        ],
+        "dist": [
+          {
+            "va": "66",
+            "ucva": "66"
+          },
+          {
+            "sph": "+5.00;+10.00",
+            "va": "660;69P",
+            "ucva": "460"
+          }
+        ],
+        "nr": [
+          {},
+          {
+            "sph": "+3.00"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": [
+          "Normal Color and Pattern",
+          "Deep, PI occluded"
+        ],
+        "cj": "Normal",
+        "pu": [
+          "Pharmacologically Dilated",
+          "Dilated , fixed;Pharmacologically mid-dilated"
+        ],
+        "lens": [
+          "Clear",
+          "Aphakia"
+        ]
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Normal",
+          "Retina on"
+        ],
+        "mf": [
+          "Present",
+          "Macula on"
+        ],
+        "rem": [
+          "",
+          "s/p Corevit + PPL + SOI, s/p SOR"
+        ]
+      },
+      "inv": {
+        "iop": "20"
+      },
+      "fup": {
+        "adv": "1 month"
+      }
+    }
+  ]
+}

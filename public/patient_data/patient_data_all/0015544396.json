@@ -1,0 +1,692 @@
+{
+  "p": {
+    "uid": "0015544396",
+    "mr": "P2660346",
+    "v": 10,
+    "f": "2023-05-03",
+    "l": "2024-10-18"
+  },
+  "visits": [
+    {
+      "v": 1,
+      "d": "2023-05-03",
+      "c": "Initial",
+      "diag": [
+        [
+          "RRD × 1"
+        ],
+        "",
+        [
+          "S/P VR Surgery × 1"
+        ]
+      ],
+      "vi": {
+        "vis": {
+          "Glasses": "66P",
+          "UCVA": "66P"
+        },
+        "dist": [
+          {
+            "ax": "0",
+            "va": "66P",
+            "ucva": "66P"
+          },
+          {
+            "ax": "0",
+            "va": "66P",
+            "ucva": "66P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.25"
+          },
+          {
+            "sph": "=+2.25"
+          }
+        ]
+      },
+      "s": {
+        "h": "Renal;Stroke;Diabetes;Hypertension;Cardiac;Asthma;Other Allergies;Non-Ocular Sx;Others;Hyperlipidemia;Drug Allergies;Remarks;H/O COVID 19;H/O COVID VACCINE;Identification Marks;Thyroid"
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Sup Bullous RRD - break not seen, Old laser marks inf",
+          "Retina ON, Barrage laser marks -360"
+        ],
+        "mf": [
+          "?Mac Off - covered by bullous retina",
+          "Present"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "12",
+          "13"
+        ]
+      }
+    },
+    {
+      "v": 2,
+      "d": "2023-05-04",
+      "c": "F1",
+      "diag": [
+        [
+          "RRD × 1"
+        ],
+        "",
+        [
+          "S/P VR Surgery × 1"
+        ]
+      ],
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Pharmacologically Dilated",
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": [
+          "Sup Bullous RRD - break not seen, Old laser marks inf",
+          "Retina ON, Barrage laser marks -360"
+        ],
+        "mf": [
+          "?Mac Off - covered by bullous retina",
+          "Present"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "14",
+          "13"
+        ]
+      }
+    },
+    {
+      "v": 3,
+      "d": "2023-05-05",
+      "c": "F2"
+    },
+    {
+      "v": 4,
+      "d": "2023-05-06",
+      "c": "F3",
+      "vi": {
+        "vis": [
+          {},
+          {
+            "UCVA": "66P"
+          }
+        ]
+      },
+      "m": [
+        {
+          "name": "PREDIRA",
+          "eye": "1",
+          "fre": 6
+        },
+        {
+          "name": "PREDIRA",
+          "eye": "1",
+          "fre": 5
+        },
+        {
+          "name": "PREDIRA",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "PREDIRA",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "PREDIRA",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "PREDIRA",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "eye": "1",
+          "fre": 3
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "eye": "1",
+          "fre": 2
+        },
+        {
+          "name": "HOMIDE EYE DROPS",
+          "eye": "1",
+          "fre": 1
+        },
+        {
+          "name": "ZIVIMOX EYE DDROPS",
+          "eye": "1",
+          "fre": 4
+        },
+        {
+          "name": "DOLO 650MG TAB",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "CIPROBID-500MG",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "MELO 20MG CAPSULE",
+          "eye": "5",
+          "fre": 1
+        },
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 1
+        }
+      ],
+      "fup": {
+        "adv": "15 days"
+      }
+    },
+    {
+      "v": 5,
+      "d": "2023-05-20",
+      "c": "F4",
+      "diag": [
+        [
+          "RRD × 1"
+        ],
+        "",
+        [
+          "S/P VR Surgery × 1",
+          "Secondary Glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "160",
+            "UCVA With PH": "160"
+          },
+          {
+            "UCVA": "66P",
+            "UCVA With PH": "66P"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Pharmacologically Dilated, (homide induced)",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "PCIOL"
+      },
+      "op": {
+        "ref": "RE S/P C3F8, RRD SX. GAS FILLED GLOBE. HIGH IOP.",
+        "rem": "kindly opine. back to retina."
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.6, gas in situ",
+          "CDR 0.9, pale disc"
+        ],
+        "me": [
+          "Gas filled 90%",
+          "Not dilated"
+        ],
+        "di": [
+          "Normal",
+          "cup disc ratio-0.8"
+        ],
+        "ve": [
+          "Normal",
+          "not visualised"
+        ],
+        "br": [
+          "Old laser scars, laser scar at ocp, EL 360 degree",
+          "not visualised"
+        ],
+        "mf": [
+          "Appear On",
+          "not visualised"
+        ]
+      },
+      "m": [
+        {
+          "name": "DIAMOX TAB",
+          "dos": "1 tablet",
+          "eye": "5",
+          "fre": 2
+        },
+        {
+          "name": "LOPRES 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "33",
+          "14"
+        ]
+      },
+      "fup": {
+        "adv": "1 month;15 days"
+      }
+    },
+    {
+      "v": 6,
+      "d": "2023-06-07",
+      "c": "F5",
+      "diag": [
+        [
+          "RRD × 1"
+        ],
+        "",
+        [
+          "S/P VR Surgery × 1",
+          "Secondary Glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA With PH": "160",
+            "UCVA": "160"
+          },
+          {
+            "UCVA With PH": "66P",
+            "UCVA": "66P"
+          }
+        ]
+      },
+      "as": {
+        "rem": "s/p VR surgery"
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, /quiet",
+          "Normal Depth"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Pharmacologically Dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "PCIOL"
+      },
+      "op": {
+        "ref": "for review"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CDR 0.6, gas in situ",
+          "CDR 0.8/nrr pale"
+        ],
+        "me": [
+          "Gas filled 90%",
+          "Not dilated"
+        ],
+        "di": [
+          "cup disc ratio-0.8",
+          "cup disc ratio-0.9"
+        ],
+        "ve": "Normal",
+        "br": [
+          "Old laser scars, laser scar at ocp, EL 360 degree",
+          "laser scar stable"
+        ],
+        "mf": [
+          "Appear On",
+          "erm"
+        ]
+      },
+      "inv": {
+        "iop": [
+          "16",
+          "14"
+        ]
+      },
+      "fup": {
+        "adv": "2 months"
+      }
+    },
+    {
+      "v": 7,
+      "d": "2023-07-15",
+      "c": "F6",
+      "diag": [
+        [
+          "RRD × 1"
+        ],
+        "",
+        [
+          "S/P VR Surgery × 1",
+          "Secondary Glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "612P"
+          },
+          {
+            "UCVA": "69P"
+          }
+        ],
+        "dist": [
+          {
+            "ax": "0",
+            "va": "612P",
+            "ucva": "612P"
+          },
+          {
+            "ax": "90",
+            "va": "66P",
+            "ucva": "69P"
+          }
+        ],
+        "nr": [
+          {
+            "sph": "=+2.5"
+          },
+          {
+            "sph": "=+2.5"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, /quiet",
+          "Normal Depth"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Pharmacologically Dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "PCIOL"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": [
+          "Gas filled 10%",
+          "Not dilated"
+        ],
+        "di": [
+          "cup disc ratio-0.8",
+          "cup disc ratio-0.9"
+        ],
+        "ve": "Normal",
+        "br": [
+          "Old laser scars superotemporally, snq laser one row of scars+, break flat",
+          "laser scar stable"
+        ],
+        "mf": "erm",
+        "rem": "s/p vr sx"
+      },
+      "inv": {
+        "iop": [
+          "12",
+          "17"
+        ]
+      },
+      "fup": {
+        "adv": "2 weeks"
+      }
+    },
+    {
+      "v": 8,
+      "d": "2023-08-12",
+      "c": "F7",
+      "diag": [
+        [
+          "RRD × 1"
+        ],
+        "",
+        [
+          "S/P VR Surgery × 1",
+          "Secondary Glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "UCVA": "612P",
+            "UCVA With PH": "612P",
+            "Glasses": "612P"
+          },
+          {
+            "UCVA": "69P",
+            "UCVA With PH": "66P",
+            "Glasses": "66P"
+          }
+        ]
+      },
+      "at": {
+        "ac": [
+          "Normal Depth, /quiet",
+          "Normal Depth"
+        ],
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": [
+          "Pharmacologically Dilated",
+          "Normal Size and Reaction to Light"
+        ],
+        "lens": "PCIOL"
+      },
+      "op": {
+        "ref": "for followup"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.8",
+          "cup disc ratio-0.9"
+        ],
+        "ve": "Normal",
+        "br": [
+          "Old laser scars superotemporally, snq laser one row of scars+, break flat",
+          "laser scar stable"
+        ],
+        "mf": "erm",
+        "rem": "s/p vr sx"
+      },
+      "m": [
+        {
+          "name": "LOPRES 0.5% DROPS",
+          "dos": "1 drop",
+          "eye": "3",
+          "fre": 2
+        }
+      ],
+      "inv": {
+        "iop": [
+          "14",
+          "16"
+        ]
+      },
+      "fup": {
+        "adv": "3 months"
+      }
+    },
+    {
+      "v": 9,
+      "d": "2024-05-27",
+      "c": "F8",
+      "diag": [
+        "",
+        "",
+        [
+          "Pseudophakia × 1",
+          "Secondary glaucoma × 1",
+          "Rhegmatogenous retinal detachment × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "612"
+          },
+          {
+            "None": "69"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "Clear;IOL"
+      },
+      "op": {
+        "ref": "for review"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "me": "Clear",
+        "di": "Normal",
+        "ve": "Normal",
+        "br": "Laser marks",
+        "mf": [
+          "Present",
+          "Dull"
+        ]
+      },
+      "inv": {
+        "iop": "15",
+        "sp": {
+          "r": "No Data"
+        }
+      },
+      "fup": {
+        "adv": "4 months"
+      }
+    },
+    {
+      "v": 10,
+      "d": "2024-10-18",
+      "c": "F9",
+      "diag": [
+        "",
+        "",
+        [
+          "Pseudophakia × 1",
+          "Rhegmatogenous retinal detachment × 1",
+          "Secondary glaucoma × 1"
+        ]
+      ],
+      "vi": {
+        "vis": [
+          {
+            "None": "69"
+          },
+          {
+            "None": "612"
+          }
+        ]
+      },
+      "at": {
+        "ac": "Normal Depth",
+        "ir": "Normal Color and Pattern",
+        "cj": "Normal",
+        "pu": "Normal Size and Reaction to Light",
+        "lens": "IOL"
+      },
+      "op": {
+        "ref": "review"
+      },
+      "om": {
+        "om": "FULL",
+        "cr": "Orthophoric",
+        "gl": "Normal"
+      },
+      "fu": {
+        "uf": [
+          "CD 0.8",
+          "CD 0.9"
+        ],
+        "me": "Clear",
+        "di": [
+          "cup disc ratio-0.8",
+          "cup disc ratio-0.9"
+        ],
+        "ve": "Normal",
+        "br": "Laser marks",
+        "mf": "Dull"
+      },
+      "inv": {
+        "iop": "12",
+        "sp": {
+          "r": "done,done"
+        }
+      },
+      "fup": {
+        "adv": "5 months"
+      }
+    }
+  ]
+}
