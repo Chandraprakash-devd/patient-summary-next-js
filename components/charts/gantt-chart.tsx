@@ -1,17 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import {
-	BarChart,
-	Bar,
-	XAxis,
-	YAxis,
-	CartesianGrid,
-	Tooltip,
-	ResponsiveContainer,
-	Cell,
-	LabelList,
-} from "recharts";
+import { useEffect, useState, useRef } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { GanttData } from "@/types/patient";
 import { useTheme } from "next-themes";
@@ -35,7 +24,12 @@ interface ProcessedGanttItem {
 	startOffset: number;
 	duration: number;
 	displayDuration: number;
-	label: string;
+	groupIndex?: number;
+	totalInGroup?: number;
+	x: number;
+	y: number;
+	width: number;
+	height: number;
 }
 
 export function GanttChart({
@@ -46,6 +40,13 @@ export function GanttChart({
 }: GanttChartProps) {
 	const { theme } = useTheme();
 	const [mounted, setMounted] = useState(false);
+	const [tooltip, setTooltip] = useState<{
+		visible: boolean;
+		x: number;
+		y: number;
+		item: ProcessedGanttItem | null;
+	}>({ visible: false, x: 0, y: 0, item: null });
+	const svgRef = useRef<SVGSVGElement>(null);
 
 	useEffect(() => {
 		setMounted(true);
@@ -58,7 +59,7 @@ export function GanttChart({
 					<CardTitle>{title}</CardTitle>
 				</CardHeader>
 				<CardContent>
-					<div className="h-[300px] flex items-center justify-center">
+					<div className="min-h-[200px] flex items-center justify-center">
 						<p className="text-muted-foreground">Loading chart...</p>
 					</div>
 				</CardContent>
@@ -73,7 +74,7 @@ export function GanttChart({
 					<CardTitle>{title}</CardTitle>
 				</CardHeader>
 				<CardContent>
-					<div className="h-[300px] flex items-center justify-center">
+					<div className="min-h-[200px] flex items-center justify-center">
 						<p className="text-muted-foreground">No data available</p>
 					</div>
 				</CardContent>
@@ -84,10 +85,8 @@ export function GanttChart({
 	const isDark = theme === "dark";
 	const barColor = isDark ? barColorDark : barColorLight;
 
-	// Assign tracks to avoid overlaps
-	const assignTracksToOverlappingItems = (
-		data: GanttData[]
-	): ProcessedGanttItem[] => {
+	// Process data and calculate positions
+	const processData = (): ProcessedGanttItem[] => {
 		const items: ProcessedGanttItem[] = data
 			.map((item) => ({
 				task: item.task,
@@ -100,7 +99,12 @@ export function GanttChart({
 				startOffset: 0,
 				duration: 0,
 				displayDuration: 0,
-				label: "",
+				groupIndex: 0,
+				totalInGroup: 1,
+				x: 0,
+				y: 0,
+				width: 0,
+				height: 0,
 			}))
 			.sort((a, b) => {
 				if (a.startTime !== b.startTime) {
@@ -109,172 +113,300 @@ export function GanttChart({
 				return a.endTime - b.endTime;
 			});
 
-		const trackEndTimes: number[] = [];
-
+		// First, group items by identical timeframes (exact same start and end times)
+		const timeframeGroups = new Map<string, ProcessedGanttItem[]>();
 		items.forEach((item) => {
-			let assignedTrack = -1;
-
-			for (let i = 0; i < trackEndTimes.length; i++) {
-				if (trackEndTimes[i] <= item.startTime) {
-					assignedTrack = i;
-					break;
-				}
+			const timeframeKey = `${item.startTime}-${item.endTime}`;
+			if (!timeframeGroups.has(timeframeKey)) {
+				timeframeGroups.set(timeframeKey, []);
 			}
-
-			if (assignedTrack === -1) {
-				assignedTrack = trackEndTimes.length;
-				trackEndTimes.push(item.endTime);
-			} else {
-				trackEndTimes[assignedTrack] = item.endTime;
-			}
-
-			item.track = assignedTrack;
+			timeframeGroups.get(timeframeKey)!.push(item);
 		});
 
-		return items;
+		// Assign tracks: each unique timeframe gets its own track, overlapping items share the same track
+		const processedItems: ProcessedGanttItem[] = [];
+		let currentTrack = 0;
+
+		timeframeGroups.forEach((group) => {
+			if (group.length === 1) {
+				// Single item - gets its own track
+				const item = group[0];
+				item.track = currentTrack;
+				item.groupIndex = 0;
+				item.totalInGroup = 1;
+				processedItems.push(item);
+				currentTrack++;
+			} else {
+				// Multiple items with identical timeframe - they overlap on the same track
+				group.forEach((item, index) => {
+					item.track = currentTrack;
+					item.groupIndex = index;
+					item.totalInGroup = group.length;
+					processedItems.push(item);
+				});
+				currentTrack++;
+			}
+		});
+
+		return processedItems;
 	};
 
-	const processedData = assignTracksToOverlappingItems(data);
+	const processedData = processData();
 
-	// Find the earliest date
+	// Chart dimensions and calculations
+	const chartWidth = 1200; // Increased width
+	const margin = { top: 40, right: 40, bottom: 60, left: 40 };
+	const plotWidth = chartWidth - margin.left - margin.right;
+
+	// Calculate track positions first to determine height
+	const uniqueTracks = [
+		...new Set(processedData.map((item) => item.track)),
+	].sort((a, b) => a - b);
+	const trackHeight = 50; // Fixed track height for better readability
+	const plotHeight = uniqueTracks.length * trackHeight;
+	const chartHeight = plotHeight + margin.top + margin.bottom;
+
+	// Find date range
 	const minDate = new Date(Math.min(...processedData.map((d) => d.startTime)));
+	const maxDate = new Date(Math.max(...processedData.map((d) => d.endTime)));
+	const totalDays = differenceInDays(maxDate, minDate) || 1;
 
-	const minDurationDays = 30;
+	// Track height is already calculated above
 
-	// Calculate offsets and durations
+	// Calculate item positions
 	processedData.forEach((item) => {
 		const startOffset = differenceInDays(new Date(item.start), minDate);
-		const actualDuration = differenceInDays(
-			new Date(item.end),
-			new Date(item.start)
+		const duration = Math.max(
+			differenceInDays(new Date(item.end), new Date(item.start)),
+			1
 		);
-		const displayDuration = Math.max(actualDuration, minDurationDays);
 
 		item.startOffset = startOffset;
-		item.duration = actualDuration;
-		item.displayDuration = displayDuration;
-		item.label = `Track ${item.track}`;
+		item.duration = duration;
+		item.displayDuration = duration;
+
+		// Calculate SVG positions
+		const baseX = margin.left + (startOffset / totalDays) * plotWidth;
+		let baseWidth = Math.max((duration / totalDays) * plotWidth, 80); // Minimum width of 80px
+
+		const trackIndex = uniqueTracks.indexOf(item.track);
+		const baseY = margin.top + trackIndex * trackHeight;
+
+		// For items in the same group, offset them horizontally (overlapping)
+		if (
+			item.totalInGroup &&
+			item.totalInGroup > 1 &&
+			item.groupIndex !== undefined
+		) {
+			// Calculate horizontal offset for overlapping effect with more spacing
+			const overlapOffset = (baseWidth * 0.4) / (item.totalInGroup - 1); // 40% overlap for better separation
+			item.x = baseX + item.groupIndex * overlapOffset;
+			item.width = baseWidth;
+
+			// Vary height slightly for overlapped items to create visual distinction
+			const heightVariation = item.groupIndex * 2; // 2px variation per item
+			item.y = baseY + trackHeight * 0.15 + heightVariation;
+			item.height = trackHeight * 0.7 - heightVariation;
+		} else {
+			// Single item - no offset needed
+			item.x = baseX;
+			item.width = baseWidth;
+			item.y = baseY + trackHeight * 0.15;
+			item.height = trackHeight * 0.7;
+		}
 	});
 
-	// Custom tooltip
-	const CustomTooltip = ({ active, payload }: any) => {
-		if (!active || !payload || payload.length === 0) return null;
-
-		const data = payload[0].payload;
-
-		return (
-			<div className="bg-background border rounded-lg shadow-lg p-3 text-sm max-w-xs">
-				<p className="font-semibold mb-2">{data.task}</p>
-				<p className="text-muted-foreground">
-					Start: {format(parseISO(data.start), "dd MMM yyyy")}
-				</p>
-				<p className="text-muted-foreground">
-					End: {format(parseISO(data.end), "dd MMM yyyy")}
-				</p>
-				{data.dosage && (
-					<p className="text-muted-foreground mt-1">Dosage: {data.dosage}</p>
-				)}
-				<p className="text-muted-foreground mt-1">
-					Duration: {data.duration} day{data.duration !== 1 ? "s" : ""}
-				</p>
-			</div>
-		);
+	// Event handlers
+	const handleMouseEnter = (
+		event: React.MouseEvent,
+		item: ProcessedGanttItem
+	) => {
+		const rect = svgRef.current?.getBoundingClientRect();
+		if (rect) {
+			setTooltip({
+				visible: true,
+				x: event.clientX - rect.left,
+				y: event.clientY - rect.top,
+				item,
+			});
+		}
 	};
 
-	// Custom label renderer
-	const renderCustomLabel = (props: any) => {
-		const { x, y, width, height, index } = props;
-		const item = processedData[index];
+	const handleMouseLeave = () => {
+		setTooltip({ visible: false, x: 0, y: 0, item: null });
+	};
 
-		// Only show label if bar is wide enough
-		if (width < 40) {
-			return (
-				<text
-					x={x + width / 2}
-					y={y + height / 2}
-					fill="currentColor"
-					textAnchor="middle"
-					dominantBaseline="middle"
-					fontSize="11"
-				>
-					...
-				</text>
+	// Generate time axis ticks
+	const generateTimeTicks = () => {
+		const ticks = [];
+		const tickCount = 6;
+		for (let i = 0; i <= tickCount; i++) {
+			const ratio = i / tickCount;
+			const x = margin.left + ratio * plotWidth;
+			const date = new Date(
+				minDate.getTime() + ratio * (maxDate.getTime() - minDate.getTime())
 			);
+			ticks.push({ x, date, label: format(date, "dd/MM/yy") });
 		}
-
-		let label = item.task;
-		const maxChars = Math.floor(width / 7); // Approximate characters that fit
-
-		if (label.length > maxChars) {
-			label = label.substring(0, maxChars - 3) + "...";
-		}
-
-		return (
-			<text
-				x={x + width / 2}
-				y={y + height / 2}
-				fill="currentColor"
-				textAnchor="middle"
-				dominantBaseline="middle"
-				fontSize="11"
-			>
-				{label}
-			</text>
-		);
+		return ticks;
 	};
 
-	// Calculate chart height based on number of tracks
-	const barHeight = 30;
-	const padding = 150;
-	const chartHeight = Math.max(300, processedData.length * barHeight + padding);
+	const timeTicks = generateTimeTicks();
 
 	return (
 		<Card>
 			<CardHeader>
 				<CardTitle>{title}</CardTitle>
 			</CardHeader>
-			<CardContent>
-				<ResponsiveContainer width="100%" height={chartHeight}>
-					<BarChart
-						data={processedData}
-						layout="vertical"
-						margin={{ top: 30, right: 10, left: 10, bottom: 20 }}
-						barCategoryGap="15%"
+			<CardContent className="p-4">
+				<div className="relative w-full max-w-4xl overflow-x-auto und rounded-lg">
+					<svg
+						ref={svgRef}
+						width={chartWidth}
+						height={chartHeight}
+						className="border rounded min-w-full"
+						viewBox={`0 0 ${chartWidth} ${chartHeight}`}
+						preserveAspectRatio="xMidYMid meet"
 					>
-						<CartesianGrid strokeDasharray="5 5" opacity={0.3} />
-						<XAxis
-							type="number"
-							tickFormatter={(value) => {
-								const date = new Date(minDate);
-								date.setDate(date.getDate() + value);
-								return format(date, "dd/MM/yyyy");
-							}}
-							style={{ fontSize: "11px" }}
+						{/* Grid lines */}
+						<defs>
+							<pattern
+								id="grid"
+								width="40"
+								height="20"
+								patternUnits="userSpaceOnUse"
+							>
+								<path
+									d="M 40 0 L 0 0 0 20"
+									fill="none"
+									stroke="currentColor"
+									strokeWidth="0.5"
+									opacity="0.1"
+								/>
+							</pattern>
+						</defs>
+						<rect
+							x={margin.left}
+							y={margin.top}
+							width={plotWidth}
+							height={plotHeight}
+							fill="url(#grid)"
 						/>
-						<YAxis type="category" dataKey="label" hide />
-						<Tooltip content={<CustomTooltip />} cursor={false} />
-						{/* Invisible offset bar for positioning */}
-						<Bar
-							dataKey="startOffset"
-							fill="transparent"
-							stackId="stack"
-							isAnimationActive={false}
-						/>
-						{/* Visible duration bar */}
-						<Bar
-							dataKey="displayDuration"
-							fill={barColor}
-							radius={6}
-							stackId="stack"
-							barSize={16}
-						>
-							{processedData.map((_, index) => (
-								<Cell key={`cell-${index}`} fill={barColor} />
+
+						{/* Time axis */}
+						<g>
+							{timeTicks.map((tick, index) => (
+								<g key={index}>
+									<line
+										x1={tick.x}
+										y1={margin.top}
+										x2={tick.x}
+										y2={chartHeight - margin.bottom}
+										stroke="currentColor"
+										strokeWidth="0.5"
+										opacity="0.3"
+									/>
+									<text
+										x={tick.x}
+										y={chartHeight - margin.bottom + 15}
+										textAnchor="middle"
+										fontSize="11"
+										fill="currentColor"
+										opacity="0.7"
+									>
+										{tick.label}
+									</text>
+								</g>
 							))}
-							<LabelList content={renderCustomLabel} />
-						</Bar>
-					</BarChart>
-				</ResponsiveContainer>
+						</g>
+
+						{/* Gantt bars */}
+						<g>
+							{processedData.map((item, index) => {
+								// Enhanced visual differentiation for overlapping items
+								const isOverlapped = item.totalInGroup && item.totalInGroup > 1;
+								const groupIndex = item.groupIndex || 0;
+
+								// Same color for all items
+								const itemColor = barColor;
+
+								// Opacity and stroke for better distinction
+								const opacity = isOverlapped ? 0.9 : 1;
+								const strokeWidth = isOverlapped ? 1.5 : 0;
+								const strokeColor = isOverlapped ? "white" : "none";
+
+								return (
+									<g key={index}>
+										<rect
+											x={item.x}
+											y={item.y}
+											width={item.width}
+											height={item.height}
+											fill={itemColor}
+											fillOpacity={opacity}
+											rx="6"
+											ry="6"
+											stroke={strokeColor}
+											strokeWidth={strokeWidth}
+											style={{ cursor: "pointer" }}
+											onMouseEnter={(e) => handleMouseEnter(e, item)}
+											onMouseLeave={handleMouseLeave}
+										/>
+										{/* Label - only show on first item of overlapped group to reduce confusion */}
+										{item.width > 60 && (!isOverlapped || groupIndex === 0) && (
+											<text
+												x={item.x + item.width / 2}
+												y={item.y + item.height / 2}
+												textAnchor="middle"
+												dominantBaseline="middle"
+												fontSize="11"
+												fill={isDark ? "white" : "black"}
+												fontWeight="600"
+											>
+												{isOverlapped && (item.totalInGroup || 0) > 1
+													? `${item.totalInGroup || 0} items`
+													: item.task.length > Math.floor(item.width / 8)
+													? item.task.substring(
+															0,
+															Math.floor(item.width / 8) - 3
+													  ) + "..."
+													: item.task}
+											</text>
+										)}
+									</g>
+								);
+							})}
+						</g>
+					</svg>
+
+					{/* Custom Tooltip */}
+					{tooltip.visible && tooltip.item && (
+						<div
+							className="absolute bg-background border rounded-lg shadow-lg p-3 text-sm max-w-xs z-10 pointer-events-none"
+							style={{
+								left: tooltip.x + 10,
+								top: tooltip.y - 10,
+							}}
+						>
+							<p className="font-semibold mb-2">{tooltip.item.task}</p>
+							<p className="text-muted-foreground">
+								Start: {format(parseISO(tooltip.item.start), "dd MMM yyyy")}
+							</p>
+							<p className="text-muted-foreground">
+								End: {format(parseISO(tooltip.item.end), "dd MMM yyyy")}
+							</p>
+							{tooltip.item.dosage && (
+								<p className="text-muted-foreground mt-1">
+									Dosage: {tooltip.item.dosage}
+								</p>
+							)}
+							<p className="text-muted-foreground mt-1">
+								Duration: {tooltip.item.duration} day
+								{tooltip.item.duration !== 1 ? "s" : ""}
+							</p>
+						</div>
+					)}
+				</div>
 			</CardContent>
 		</Card>
 	);
