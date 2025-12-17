@@ -13,6 +13,7 @@ import {
 	CartesianGrid,
 	Tooltip,
 	ResponsiveContainer,
+	ReferenceLine,
 } from "recharts";
 
 interface GanttChartProps {
@@ -311,21 +312,32 @@ export function GanttChart({
 	// Calculate dynamic height based on number of items
 	// Each item needs space for the bar plus spacing (we use y = index * 2)
 	// Better scaling for large datasets
-	const baseHeight = 90; // Increased base for better spacing
-	const itemHeight = 38; // Slightly reduced per item for efficiency
-	const dynamicHeight = Math.max(baseHeight + trackCount * itemHeight, 280);
+	const baseHeight = 50; // Further reduced base height
+	const itemHeight = 28; // Further reduced per item height
+	const dynamicHeight = Math.max(baseHeight + trackCount * itemHeight, 180);
 
 	return (
 		<Card>
-			<CardHeader className="pb-2">
-				<CardTitle>{title}</CardTitle>
+			<CardHeader className="pb-0 pt-2">
+				<CardTitle className="text-base">{title}</CardTitle>
 			</CardHeader>
-			<CardContent className="p-2 pt-0">
-				<div className="w-full" style={{ height: `${dynamicHeight}px` }}>
+			<CardContent className="p-0 pb-1">
+				<div
+					className="w-full relative"
+					style={{ height: `${dynamicHeight}px` }}
+				>
+					{/* Fixed Y-axis line */}
+					<div
+						className="absolute left-[59.5px] w-px bg-current opacity-60 z-10"
+						style={{
+							top: "2px",
+							height: `${dynamicHeight - 50}px`,
+						}}
+					/>
 					<ResponsiveContainer width="100%" height="100%">
 						<ScatterChart
 							data={processedData}
-							margin={{ top: 15, right: 120, bottom: 50, left: 20 }}
+							margin={{ top: 2, right: 60, bottom: 20, left: 60 }}
 						>
 							<CartesianGrid strokeDasharray="3 3" opacity={0.2} />
 							<XAxis

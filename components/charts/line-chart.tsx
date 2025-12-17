@@ -14,7 +14,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { ChartData, MetricConfig, ProcedureData } from "@/types/patient";
 import { useTheme } from "next-themes";
 import { format, parseISO } from "date-fns";
-import { Syringe, Zap, Cookie } from "lucide-react";
+import { Syringe, Zap, Cookie, Scissors, Flashlight } from "lucide-react";
 
 interface PositionedProcedure extends ProcedureData {
 	position: number;
@@ -335,7 +335,14 @@ export function LineChart({
 					{showProcedures && positionedProcedures.length > 0 && (
 						<div className="procedures-overlay absolute top-0 left-[60px] right-5 h-[30px] z-10">
 							{positionedProcedures.map((procedure, idx) => {
-								const Icon = procedure.type === "injection" ? Syringe : Cookie;
+								const Icon =
+									procedure.type === "injection"
+										? Syringe
+										: procedure.type === "laser"
+										? Cookie
+										: procedure.type === "surgery"
+										? Cookie
+										: Flashlight;
 								return (
 									<div
 										key={idx}

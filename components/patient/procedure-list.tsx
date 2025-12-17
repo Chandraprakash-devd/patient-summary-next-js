@@ -3,7 +3,7 @@
 import { ProcedureItem } from "@/types/patient";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Syringe, Zap, Cookie } from "lucide-react";
+import { Syringe, Zap, Cookie, Scissors, Flashlight } from "lucide-react";
 import { getSvgForProcedure } from "@/lib/utils/data-processing";
 
 interface ProcedureListProps {
@@ -35,7 +35,14 @@ export function ProcedureList({
 				<tbody>
 					{procedures.map((procedure, index) => {
 						const { svg, color } = getSvgForProcedure(procedure.item);
-						const Icon = svg === "injection" ? Syringe : Cookie;
+						const Icon =
+							svg === "injection"
+								? Syringe
+								: svg === "laser"
+								? Cookie
+								: svg === "surgery"
+								? Cookie
+								: Flashlight;
 
 						return (
 							<tr key={index}>
@@ -65,7 +72,14 @@ export function ProcedureList({
 				<div className="space-y-2">
 					{procedures.map((procedure, index) => {
 						const { svg, color } = getSvgForProcedure(procedure.item);
-						const Icon = svg === "injection" ? Syringe : Cookie;
+						const Icon =
+							svg === "injection"
+								? Syringe
+								: svg === "laser"
+								? Zap
+								: svg === "surgery"
+								? Scissors
+								: Cookie;
 
 						return (
 							<div

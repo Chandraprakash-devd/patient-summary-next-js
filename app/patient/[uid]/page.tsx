@@ -283,7 +283,7 @@ export default function PatientDetailPage() {
 				</div>
 
 				{/* Right Section - Charts with scroll */}
-				<div className="flex-1 overflow-y-auto overflow-x-hidden pr-2 space-y-5">
+				<div className="flex-1 overflow-y-auto overflow-x-hidden pr-2 space-y-2">
 					{/* Line Chart */}
 					<div className="border rounded p-1.5">
 						<LineChart
@@ -298,7 +298,7 @@ export default function PatientDetailPage() {
 
 					{/* Diagnosis Timeline */}
 					{toggles.showDiagnosis && computedData.diagnosisData.length > 0 && (
-						<div className="border rounded p-1.5">
+						<div className="border rounded p-0.5">
 							<GanttChart
 								data={computedData.diagnosisData}
 								title="Diagnoses"
@@ -311,7 +311,7 @@ export default function PatientDetailPage() {
 					{/* Medications Timeline */}
 					{toggles.showMedication &&
 						computedData.medicationsData.length > 0 && (
-							<div className="border rounded p-1.5">
+							<div className="border rounded p-0.5">
 								<GanttChart
 									data={computedData.medicationsData}
 									title="Medications"
@@ -323,7 +323,7 @@ export default function PatientDetailPage() {
 
 					{/* Lens Observations */}
 					{toggles.showLens && computedData.lensData.length > 0 && (
-						<div className="border rounded p-1.5">
+						<div className="border rounded p-0.5">
 							<GanttChart data={computedData.lensData} title="Lens" />
 						</div>
 					)}
@@ -331,7 +331,7 @@ export default function PatientDetailPage() {
 					{/* Background Retina */}
 					{toggles.showBackgroundRetina &&
 						computedData.backgroundRetinaData.length > 0 && (
-							<div className="border rounded p-1.5">
+							<div className="border rounded p-0.5">
 								<GanttChart
 									data={computedData.backgroundRetinaData}
 									title="Background Retina"
@@ -342,7 +342,7 @@ export default function PatientDetailPage() {
 					{/* Macula Foveal Reflex */}
 					{toggles.showMaculaFovealReflex &&
 						computedData.maculaFovealReflexData.length > 0 && (
-							<div className="border rounded p-1.5">
+							<div className="border rounded p-0.5">
 								<GanttChart
 									data={computedData.maculaFovealReflexData}
 									title="Macula Foveal Reflex"
@@ -353,7 +353,7 @@ export default function PatientDetailPage() {
 					{/* Conjunctiva */}
 					{toggles.showConjunctiva &&
 						computedData.conjunctivaData.length > 0 && (
-							<div className="border rounded p-1.5">
+							<div className="border rounded p-0.5">
 								<GanttChart
 									data={computedData.conjunctivaData}
 									title="Conjunctiva"
@@ -363,7 +363,7 @@ export default function PatientDetailPage() {
 
 					{/* Media */}
 					{toggles.showMedia && computedData.mediaData.length > 0 && (
-						<div className="border rounded p-1.5">
+						<div className="border rounded p-0.5">
 							<GanttChart data={computedData.mediaData} title="Media" />
 						</div>
 					)}
@@ -371,7 +371,7 @@ export default function PatientDetailPage() {
 					{/* Anterior Chamber */}
 					{toggles.showAnteriorChamber &&
 						computedData.anteriorChamberData.length > 0 && (
-							<div className="border rounded p-1.5">
+							<div className="border rounded p-0.5">
 								<GanttChart
 									data={computedData.anteriorChamberData}
 									title="Anterior Chamber"
@@ -381,28 +381,28 @@ export default function PatientDetailPage() {
 
 					{/* Iris */}
 					{toggles.showIris && computedData.irisData.length > 0 && (
-						<div className="border rounded p-1.5">
+						<div className="border rounded p-0.5">
 							<GanttChart data={computedData.irisData} title="Iris" />
 						</div>
 					)}
 
 					{/* Disc */}
 					{toggles.showDisc && computedData.discData.length > 0 && (
-						<div className="border rounded p-1.5">
+						<div className="border rounded p-0.5">
 							<GanttChart data={computedData.discData} title="Disc" />
 						</div>
 					)}
 
 					{/* Pupil */}
 					{toggles.showPupil && computedData.pupilData.length > 0 && (
-						<div className="border rounded p-1.5">
+						<div className="border rounded p-0.5">
 							<GanttChart data={computedData.pupilData} title="Pupil" />
 						</div>
 					)}
 
 					{/* Vessels */}
 					{toggles.showVessels && computedData.vesselsData.length > 0 && (
-						<div className="border rounded p-1.5">
+						<div className="border rounded p-0.5">
 							<GanttChart data={computedData.vesselsData} title="Vessels" />
 						</div>
 					)}
@@ -410,7 +410,7 @@ export default function PatientDetailPage() {
 					{/* Undilated Fundus */}
 					{toggles.showUndilatedFundus &&
 						computedData.undilatedFundusData.length > 0 && (
-							<div className="border rounded p-1.5">
+							<div className="border rounded p-0.5">
 								<GanttChart
 									data={computedData.undilatedFundusData}
 									title="Undilated Fundus"
