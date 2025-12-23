@@ -4,7 +4,7 @@ import { query } from "@/lib/db";
 // GET /api/users - Get all users
 export async function GET() {
 	try {
-		const result = await query("SELECT * FROM users ORDER BY created_at DESC");
+		const result = await query("SELECT * FROM users");
 		return NextResponse.json({
 			success: true,
 			data: result.rows,
