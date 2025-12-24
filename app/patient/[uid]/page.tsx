@@ -2,10 +2,13 @@
 
 import { useParams, useSearchParams } from "next/navigation";
 import { useEffect, useState, useMemo } from "react";
-import { loadPatientByUID } from "@/lib/services/patient-data.service";
-import { PatientData, MetricConfig } from "@/types/patient";
+import { loadPatientWithClinicalSummary } from "@/lib/services/patient-data.service";
+import {
+	PatientData,
+	MetricConfig,
+	PatientClinicalSummary,
+} from "@/types/patient";
 import { ThemeToggle } from "@/components/theme-toggle";
-import { PatientSummary } from "@/components/patient/patient-summary";
 import { DiseaseList } from "@/components/patient/disease-list";
 import { ProcedureList } from "@/components/patient/procedure-list";
 import { LineChart } from "@/components/charts/line-chart";
@@ -17,7 +20,6 @@ import {
 	getGanttData,
 	getMedicationsGanttData,
 	getLineChartData,
-	generatePatientSummary,
 	resetProcedureColors,
 } from "@/lib/utils/data-processing";
 import Link from "next/link";
@@ -28,6 +30,8 @@ export default function PatientDetailPage() {
 	const searchParams = useSearchParams();
 	const uid = params.uid as string;
 	const [patientData, setPatientData] = useState<PatientData | null>(null);
+	const [clinicalSummary, setClinicalSummary] =
+		useState<PatientClinicalSummary | null>(null);
 	const [loading, setLoading] = useState(true);
 	const [selectedEye, setSelectedEye] = useState<"RE" | "LE" | "BE">("RE");
 
@@ -56,8 +60,11 @@ export default function PatientDetailPage() {
 		const loadData = async () => {
 			setLoading(true);
 			resetProcedureColors();
-			const data = await loadPatientByUID(uid);
-			setPatientData(data);
+			const result = await loadPatientWithClinicalSummary(uid);
+			if (result) {
+				setPatientData(result.patientData);
+				setClinicalSummary(result.clinicalSummary);
+			}
 			setLoading(false);
 		};
 
@@ -117,13 +124,49 @@ export default function PatientDetailPage() {
 				: selectedEye === "LE"
 				? "Left Eye"
 				: "Both Eyes";
-		const summary = generatePatientSummary(
-			patientData,
-			eyeName,
-			diagnosisData,
-			procedures,
-			diseases
-		);
+
+		// Get all clinical summaries formatted together with bold labels
+		const getAllClinicalSummaries = () => {
+			if (!clinicalSummary) return <span>No clinical summary available.</span>;
+
+			const summaryElements = [];
+
+			// Add Bilateral summary first
+			if (clinicalSummary.beSummary) {
+				summaryElements.push(
+					<div key="bilateral" className="mb-4">
+						<span className="font-bold">Bilateral:</span>{" "}
+						{clinicalSummary.beSummary}
+					</div>
+				);
+			}
+
+			// Add RE summary
+			if (clinicalSummary.reSummary) {
+				summaryElements.push(
+					<div key="re" className="mb-4">
+						<span className="font-bold">RE:</span> {clinicalSummary.reSummary}
+					</div>
+				);
+			}
+
+			// Add LE summary
+			if (clinicalSummary.leSummary) {
+				summaryElements.push(
+					<div key="le" className="mb-4">
+						<span className="font-bold">LE:</span> {clinicalSummary.leSummary}
+					</div>
+				);
+			}
+
+			return summaryElements.length > 0 ? (
+				<div>{summaryElements}</div>
+			) : (
+				<span>No clinical summary available.</span>
+			);
+		};
+
+		const summary = getAllClinicalSummaries();
 
 		return {
 			diseases,
@@ -144,7 +187,7 @@ export default function PatientDetailPage() {
 			lineChartData,
 			summary,
 		};
-	}, [patientData, eyeIndex, selectedEye]);
+	}, [patientData, eyeIndex, clinicalSummary]);
 
 	const handleToggleChange = (key: string, value: boolean) => {
 		setToggles((prev) => ({ ...prev, [key]: value }));

@@ -6,6 +6,24 @@ export interface PatientSummary {
 	be: string;
 }
 
+export interface PatientClinicalSummary {
+	uid: string;
+	visitCount: number;
+	firstVisit: string;
+	lastVisit: string;
+	mrNo: string;
+	reSummary: string;
+	leSummary: string;
+	beSummary: string;
+	clinicalNote: string;
+	createdAt: string;
+}
+
+export interface PatientWithClinicalSummary {
+	patientData: PatientData;
+	clinicalSummary: PatientClinicalSummary | null;
+}
+
 export interface PatientInfo {
 	uid: string;
 	mr: string;
