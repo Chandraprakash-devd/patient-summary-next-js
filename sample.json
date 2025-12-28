@@ -1,0 +1,3476 @@
+{
+    "p": {
+        "f": "2024-01-03",
+        "l": "2024-12-18",
+        "v": 33,
+        "mr": "F145692",
+        "uid": "0020314341"
+    },
+    "visits": [
+        {
+            "c": "Initial",
+            "d": "2024-01-03",
+            "m": [
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 8,
+                    "name": "AUROFLOX EYE DROPS",
+                    "start": "2024-01-03"
+                },
+                {
+                    "dos": "1 tablet",
+                    "eye": "5",
+                    "fre": "Night Only",
+                    "name": "ALPRAX 0.5 TAB",
+                    "start": "2024-01-03"
+                }
+            ],
+            "t": "11:40:22",
+            "v": 1,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Depth-Shallow"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "Normal Color and Pattern",
+                        "Normal Color and Pattern"
+                    ],
+                    "pu": [
+                        "Pharmacologically Dilated",
+                        "Normal Size and Reaction to Light"
+                    ],
+                    "lens": [
+                        "NS 1 DENSE PSCC",
+                        "HARD BROWN CATARACT"
+                    ]
+                },
+                "rem": [
+                    "",
+                    "PL PR +"
+                ]
+            },
+            "fu": {
+                "br": [
+                    "not visualised",
+                    "not visualised"
+                ],
+                "di": [
+                    "Normal",
+                    "not visualised"
+                ],
+                "me": [
+                    "Hazy-Cataract",
+                    "Hazy-Cataract"
+                ],
+                "mf": [
+                    "not visualised",
+                    "not visualised"
+                ],
+                "ve": [
+                    "not visualised",
+                    "not visualised"
+                ],
+                "rem": [
+                    "",
+                    "undilated"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "LE SICS with PMMA"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {},
+                    {
+                        "UCVA": "1/2/60",
+                        "UCVA With PH": "1/2/60"
+                    }
+                ]
+            },
+            "inv": {
+                "sp": {
+                    "r": "NSR"
+                },
+                "iop": [
+                    "18",
+                    "17"
+                ]
+            },
+            "comp": [
+                [
+                    "1 year",
+                    "Defective Vision"
+                ]
+            ],
+            "diag": [
+                [],
+                [],
+                [
+                    "Immature cataract",
+                    "Brown cataract"
+                ]
+            ]
+        },
+        {
+            "c": "F1",
+            "d": "2024-01-04",
+            "t": "07:47:46",
+            "v": 2,
+            "op": {
+                "ref": "LE SICS with PMMA"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "c": "F2",
+            "d": "2024-01-08",
+            "t": "14:22:46",
+            "v": 3,
+            "op": {
+                "ref": "LE SICS with PMMA"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "c": "F3",
+            "d": "2024-01-09",
+            "t": "08:51:41",
+            "v": 4,
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "c": "F4",
+            "d": "2024-01-10",
+            "m": [
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 6,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-01-10"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 5,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-01-10"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 4,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-01-10"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 3,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-01-10"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 2,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-01-10"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 1,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-01-10"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 3,
+                    "name": "AUROFLOX EYE DROPS",
+                    "start": "2024-01-10"
+                }
+            ],
+            "t": "15:08:54",
+            "v": 5,
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {},
+                    {
+                        "UCVA": "612",
+                        "UCVA With PH": "69"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "20",
+                    "21"
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                [
+                    "Immature cataract",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F5",
+            "d": "2024-01-29",
+            "m": [
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 3,
+                    "name": "ELNEP",
+                    "start": "2024-01-29"
+                }
+            ],
+            "t": "12:12:41",
+            "v": 6,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Depth-Shallow;Normal Depth, occ cells"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "Normal Color and Pattern",
+                        "Normal Color and Pattern"
+                    ],
+                    "pu": [
+                        "Pharmacologically Dilated",
+                        "Normal Size and Reaction to Light"
+                    ],
+                    "lens": [
+                        "NS 1 DENSE PSCC",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "br": [
+                    "not visualised",
+                    "dot hghes"
+                ],
+                "di": [
+                    "Normal",
+                    "Normal"
+                ],
+                "me": [
+                    "Hazy-Cataract",
+                    "Clear"
+                ],
+                "mf": [
+                    "not visualised",
+                    "Present"
+                ],
+                "ve": [
+                    "not visualised",
+                    "Normal"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {},
+                    {
+                        "UCVA": "69"
+                    }
+                ],
+                "dist": [
+                    {
+                        "va": "660",
+                        "ucva": "560"
+                    },
+                    {
+                        "va": "66",
+                        "ucva": "69"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "19",
+                    "15"
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                [
+                    "Immature cataract",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F6",
+            "d": "2024-03-19",
+            "m": [
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 4,
+                    "name": "PRED FORTE EYE DROPS",
+                    "start": "2024-03-19"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 3,
+                    "name": "PRED FORTE EYE DROPS",
+                    "start": "2024-03-19"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 2,
+                    "name": "PRED FORTE EYE DROPS",
+                    "start": "2024-03-19"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 1,
+                    "name": "PRED FORTE EYE DROPS",
+                    "start": "2024-03-19"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 6,
+                    "name": "MOXICIP EYE DROPS",
+                    "start": "2024-03-19"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 2,
+                    "name": "HOMIDE EYE DROPS",
+                    "start": "2024-03-19"
+                }
+            ],
+            "t": "11:34:16",
+            "v": 7,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth, cells++,flare+"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "ccc"
+                    ],
+                    "ir": [
+                        "Normal Color and Pattern",
+                        "Normal Color and Pattern"
+                    ],
+                    "pu": [
+                        "Pharmacologically Dilated",
+                        "Pharmacologically Dilated"
+                    ],
+                    "lens": [
+                        "NS 1 DENSE PSCC",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "br": [
+                    "not visualised",
+                    "Dot blot hges seen, ?Mixed retinopathy"
+                ],
+                "di": [
+                    "Normal",
+                    "Normal"
+                ],
+                "me": [
+                    "Hazy-Cataract",
+                    "Vitreous appears quiet"
+                ],
+                "mf": [
+                    "not visualised",
+                    "perifoveal hge+exudates+"
+                ],
+                "ve": [
+                    "not visualised",
+                    "Normal"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "le pod 2 months-?vitritis/;Post op inflammation LE"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "560"
+                    },
+                    {
+                        "None": "612"
+                    }
+                ]
+            },
+            "inv": {
+                "sp": {
+                    "r": "LE  IOL reverbaration noted . few dot vit echoes with membranous echoes . AXL &ONH NOrmal. NO RD/CD."
+                },
+                "iop": [
+                    "20",
+                    "17"
+                ]
+            },
+            "comp": [
+                [
+                    "2 days",
+                    "Pain;Watering;Redness"
+                ]
+            ],
+            "diag": [
+                [],
+                [],
+                [
+                    "Immature cataract",
+                    "Pseudophakia",
+                    "Iritis",
+                    "Moderate nonproliferative diabetic retinopathy",
+                    "Hypertensive retinopathy"
+                ]
+            ]
+        },
+        {
+            "c": "F7",
+            "d": "2024-04-09",
+            "m": [
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 3,
+                    "name": "NEPACHECK EYE DROPS",
+                    "start": "2024-04-09"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 4,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-04-09"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 3,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-04-09"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 2,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-04-09"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 1,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-04-09"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 2,
+                    "name": "HOMIDE EYE DROPS",
+                    "start": "2024-04-09"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 2,
+                    "name": "TIMOBEST EYE DROPS",
+                    "start": "2024-04-09"
+                }
+            ],
+            "t": "15:26:19",
+            "v": 8,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth, occ cells+"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "ccc"
+                    ],
+                    "ir": [
+                        "NVI",
+                        "NVI"
+                    ],
+                    "pu": [
+                        "Normal Size and Reaction to Light;Pharmacologically Dilated",
+                        "srtl;Pharmacologically Dilated"
+                    ],
+                    "lens": [
+                        "imc;NS III, PSCC",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "br": [
+                    "Cataract haze, Few dot blot hges seen, ?Mixed retinopathy",
+                    "Dot blot hges seen, ?Mixed retinopathy"
+                ],
+                "di": [
+                    "Normal",
+                    "Normal"
+                ],
+                "me": [
+                    "Hazy-Cataract",
+                    "Vitreous appears quiet"
+                ],
+                "mf": [
+                    "not visualised",
+                    "RPE alterations, Few Hges"
+                ],
+                "uf": [
+                    "CD 0.4",
+                    "CD 0.4"
+                ],
+                "ve": [
+                    "not visualised",
+                    "few sheathing of vessels +"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "RE dense ctarct with NVG.. pt needs urgent RE IVI f/b ctarct surgery f/b PRP;BE NVI, kindly opine;BE NVG;BE-PRP LASER",
+                "rem": "kindly opine"
+            },
+            "pr": {
+                "Las": [
+                    [
+                        {
+                            "eye": "RE",
+                            "laser_type": "Accessible PRP",
+                            "procedure_type": "Retina Laser"
+                        },
+                        {
+                            "eye": "RE",
+                            "laser_type": "Accessible PRP",
+                            "procedure_type": "Retina Laser"
+                        }
+                    ],
+                    [
+                        {
+                            "eye": "LE",
+                            "laser_type": "PRP",
+                            "procedure_type": "Retina Laser"
+                        }
+                    ],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "560"
+                    },
+                    {
+                        "None": "612"
+                    }
+                ]
+            },
+            "inv": {
+                "sp": {
+                    "r": "No Data"
+                },
+                "iop": [
+                    "18",
+                    "18"
+                ]
+            },
+            "comp": [
+                [
+                    "3 days",
+                    "Pain;Redness"
+                ]
+            ],
+            "diag": [
+                [],
+                [],
+                [
+                    "Immature cataract",
+                    "Iritis",
+                    "Pseudophakia",
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR"
+                ]
+            ]
+        },
+        {
+            "c": "F8",
+            "d": "2024-04-10",
+            "t": "07:38:14",
+            "v": 9,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth, occ cells+"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "ccc"
+                    ],
+                    "ir": [
+                        "NVI",
+                        "NVI"
+                    ],
+                    "pu": [
+                        "Pharmacologically Dilated",
+                        "Pharmacologically Dilated"
+                    ],
+                    "lens": [
+                        "NS III, PSCC",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "br": [
+                    "Cataract haze, Few dot blot hges seen, ?Mixed retinopathy",
+                    "Dot blot hges seen, ?Mixed retinopathy"
+                ],
+                "di": [
+                    "Normal",
+                    "Normal"
+                ],
+                "me": [
+                    "Hazy-Cataract",
+                    "Vitreous appears quiet"
+                ],
+                "mf": [
+                    "not visualised",
+                    "RPE alterations, Few Hges"
+                ],
+                "uf": [
+                    "CD 0.4",
+                    "CD 0.4"
+                ],
+                "ve": [
+                    "not visualised",
+                    "few sheathing of vessels +"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "LE Avastin"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "560"
+                    },
+                    {
+                        "None": "612"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "24",
+                    "28"
+                ]
+            },
+            "comp": [
+                [
+                    "LE AVASTIN"
+                ]
+            ],
+            "diag": [
+                [],
+                [],
+                [
+                    "Immature cataract",
+                    "Iritis",
+                    "Pseudophakia",
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR"
+                ]
+            ]
+        },
+        {
+            "c": "F9",
+            "d": "2024-04-12",
+            "t": "08:49:02",
+            "v": 10,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth, occ cells+"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "ccc"
+                    ],
+                    "ir": [
+                        "NVI",
+                        "NVI, REGRESSING"
+                    ],
+                    "pu": [
+                        "Pharmacologically Dilated",
+                        "Pharmacologically Dilated"
+                    ],
+                    "lens": [
+                        "NS III, PSCC",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "br": [
+                    "Cataract haze, Few dot blot hges seen, ?Mixed retinopathy,S/P PRP",
+                    "Dot blot hges seen, ?Mixed retinopathy"
+                ],
+                "di": [
+                    "Normal",
+                    "Normal"
+                ],
+                "me": [
+                    "Hazy-Cataract",
+                    "Vitreous appears quiet"
+                ],
+                "mf": [
+                    "not visualised",
+                    "RPE alterations, Few Hges"
+                ],
+                "uf": [
+                    "CD 0.4",
+                    "CD 0.4"
+                ],
+                "ve": [
+                    "not visualised",
+                    "few sheathing of vessels +"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "6/12;6/9"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "560"
+                    },
+                    {
+                        "None": "69"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "18",
+                    "24"
+                ]
+            },
+            "comp": [
+                [
+                    "RE AVASTIN+LE PRP2"
+                ]
+            ],
+            "diag": [
+                [],
+                [],
+                [
+                    "Immature cataract",
+                    "Iritis",
+                    "Pseudophakia",
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR"
+                ]
+            ]
+        },
+        {
+            "c": "F10",
+            "d": "2024-04-17",
+            "m": [
+                {
+                    "dos": "1 drop",
+                    "eye": "1",
+                    "fre": 8,
+                    "name": "AUROFLOX EYE DROPS",
+                    "start": "2024-04-17"
+                },
+                {
+                    "dos": "1 tablet",
+                    "eye": "5",
+                    "fre": "Night Only",
+                    "name": "ALPRAX 0.5 TAB",
+                    "start": "2024-04-17"
+                }
+            ],
+            "t": "10:31:42",
+            "v": 11,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "NVI, REGRESSING",
+                        "NVI, REGRESSING"
+                    ],
+                    "pu": [
+                        "Normal Size and Reaction to Light",
+                        "NRL"
+                    ],
+                    "lens": [
+                        "NS III, PSCC",
+                        "PCIOL"
+                    ]
+                },
+                "rem": [
+                    "no NVA",
+                    "synechial angle closure"
+                ]
+            },
+            "fu": {
+                "br": [
+                    "Cataract haze, Few dot blot hges seen, ?Mixed retinopathy",
+                    "Dot blot hges seen, ?Mixed retinopathy"
+                ],
+                "di": [
+                    "Normal",
+                    "Normal"
+                ],
+                "me": [
+                    "Hazy-Cataract",
+                    "Vitreous appears quiet"
+                ],
+                "mf": [
+                    "not visualised",
+                    "RPE alterations, Few Hges"
+                ],
+                "ve": [
+                    "not visualised",
+                    "few sheathing of vessels +"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "ou nvg.. OD PRP unable to perform due to hazy media.. urgent  ctarct surgery to be planned under GVP and POD 1 retina review;review",
+                "rem": "pls opine"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "560"
+                    },
+                    {
+                        "None": "69"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "18",
+                    "20"
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                [
+                    "Immature cataract",
+                    "Pseudophakia",
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR"
+                ]
+            ]
+        },
+        {
+            "c": "F11",
+            "d": "2024-04-18",
+            "t": "07:59:01",
+            "v": 12,
+            "op": {
+                "ref": "RE SICS PMMA"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "c": "F12",
+            "d": "2024-04-19",
+            "t": "07:19:55",
+            "v": 13,
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "c": "F13",
+            "d": "2024-04-20",
+            "m": [
+                {
+                    "dos": "1 drop",
+                    "eye": "1",
+                    "fre": 6,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-04-20"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "1",
+                    "fre": 5,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-04-20"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "1",
+                    "fre": 4,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-04-20"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "1",
+                    "fre": 3,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-04-20"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "1",
+                    "fre": 2,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-04-20"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "1",
+                    "fre": 1,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-04-20"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "1",
+                    "fre": 3,
+                    "name": "AUROFLOX EYE DROPS",
+                    "start": "2024-04-20"
+                }
+            ],
+            "t": "14:27:10",
+            "v": 14,
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "69"
+                    },
+                    {}
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                [
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F14",
+            "d": "2024-05-02",
+            "m": [
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 2,
+                    "name": "BRIO-B 5ML",
+                    "start": "2024-05-02"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 2,
+                    "name": "RIPATEC EYE DROPS",
+                    "start": "2024-05-02"
+                }
+            ],
+            "t": "11:24:15",
+            "v": 15,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "NVI, REGRESSING;no nvi",
+                        "NVI, REGRESSING;no nvi"
+                    ],
+                    "pu": [
+                        "Normal Size and Reaction to Light",
+                        "NRL"
+                    ],
+                    "lens": [
+                        "NS III, PSCC",
+                        "PCIOL"
+                    ]
+                },
+                "rem": [
+                    "no NVA",
+                    "synechial angle closure"
+                ]
+            },
+            "fu": {
+                "br": [
+                    "PDR",
+                    "PDR s/p PRP Stable"
+                ],
+                "di": [
+                    "Normal",
+                    "Normal"
+                ],
+                "me": [
+                    "Hazy-Cataract",
+                    "Vitreous appears quiet"
+                ],
+                "mf": [
+                    "DME",
+                    "RPE alterations, Few Hges"
+                ],
+                "uf": [
+                    "cdr 0.4",
+                    "cdr 0.4"
+                ],
+                "ve": [
+                    "not visualised",
+                    "few sheathing of vessels +"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "review"
+            },
+            "pr": {
+                "Las": [
+                    [
+                        {
+                            "eye": "RE",
+                            "laser_type": "PRP",
+                            "procedure_type": "Retina Laser"
+                        }
+                    ],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "69"
+                    },
+                    {
+                        "None": "612"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "13",
+                    "27"
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "Pseudophakia",
+                    "PDR"
+                ]
+            ]
+        },
+        {
+            "c": "F15",
+            "d": "2024-05-04",
+            "m": [
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 3,
+                    "name": "NEPACHECK EYE DROPS",
+                    "start": "2024-05-04"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": "Night Only",
+                    "name": "AUROPROST-RT EYE DROPS",
+                    "start": "2024-05-04"
+                }
+            ],
+            "t": "09:42:39",
+            "v": 16,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "no nvi",
+                        "no nvi"
+                    ],
+                    "pu": [
+                        "Normal Size and Reaction to Light;Pharmacologically Dilated",
+                        "NRL;Normal Size and Reaction to Light"
+                    ],
+                    "lens": [
+                        "NS III, PSCC;PCIOL",
+                        "PCIOL"
+                    ]
+                },
+                "rem": [
+                    "no NVA",
+                    "synechial angle closure"
+                ]
+            },
+            "fu": {
+                "uf": [
+                    "cdr 0.4",
+                    "cdr 0.4;cdr 0.5"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "review"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "69"
+                    },
+                    {
+                        "None": "69"
+                    }
+                ]
+            },
+            "inv": {
+                "sp": {
+                    "r": "No Data"
+                },
+                "iop": [
+                    "18",
+                    "17"
+                ]
+            },
+            "comp": [
+                [
+                    "PRP1 RE"
+                ]
+            ],
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F16",
+            "d": "2024-05-07",
+            "t": "10:44:57",
+            "v": 17,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "no nvi",
+                        "no nvi"
+                    ],
+                    "pu": [
+                        "Pharmacologically Dilated",
+                        "Normal Size and Reaction to Light"
+                    ],
+                    "lens": [
+                        "PCIOL",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "br": [
+                    "PDR",
+                    "PDR s/p PRP Stable"
+                ],
+                "di": [
+                    "NVD",
+                    "Normal"
+                ],
+                "me": [
+                    "CLEAR",
+                    "Vitreous appears quiet"
+                ],
+                "mf": [
+                    "DME",
+                    "RPE alterations, Few Hges"
+                ],
+                "uf": [
+                    "cdr 0.4",
+                    "cdr 0.4"
+                ],
+                "ve": [
+                    "not visualised",
+                    "few sheathing of vessels +"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "review"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "comp": [
+                [
+                    "RE PRP2"
+                ]
+            ],
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F17",
+            "d": "2024-05-11",
+            "t": "10:36:48",
+            "v": 18,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "no nvi",
+                        "no nvi"
+                    ],
+                    "pu": [
+                        "Pharmacologically Dilated",
+                        "Normal Size and Reaction to Light"
+                    ],
+                    "lens": [
+                        "PCIOL",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "br": [
+                    "PDR, S/P PRP 2 sitting done  stablizing",
+                    "PDR s/p PRP Stable"
+                ],
+                "di": [
+                    "NVD",
+                    "Normal"
+                ],
+                "me": [
+                    "CLEAR",
+                    "Vitreous appears quiet"
+                ],
+                "mf": [
+                    "dull",
+                    "RPE alterations, Few Hges"
+                ],
+                "uf": [
+                    "cdr 0.4",
+                    "cdr 0.4"
+                ],
+                "ve": [
+                    "NVE",
+                    "few sheathing of vessels +"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "69"
+                    },
+                    {
+                        "None": "69"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "16",
+                    "17"
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F18",
+            "d": "2024-05-20",
+            "t": "11:30:14",
+            "v": 19,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "no nvi",
+                        "no nvi"
+                    ],
+                    "pu": [
+                        "Pharmacologically Dilated;Normal Size and Reaction to Light",
+                        "Normal Size and Reaction to Light"
+                    ],
+                    "lens": [
+                        "PCIOL",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "uf": [
+                    "cdr 0.4",
+                    "cdr 0.4"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "66"
+                    },
+                    {
+                        "None": "66"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "17",
+                    "17"
+                ]
+            },
+            "comp": [
+                [
+                    "LMA morning"
+                ]
+            ],
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F19",
+            "d": "2024-06-11",
+            "t": "11:55:07",
+            "v": 20,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "no nvi;no nvi,regressed",
+                        "no nvi"
+                    ],
+                    "pu": [
+                        "Pharmacologically Dilated",
+                        "Pharmacologically Dilated"
+                    ],
+                    "lens": [
+                        "PCIOL",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "br": [
+                    "PDR, S/P PRP 2 sitting done  stablizing,skip areas",
+                    "PDR s/p PRP Stable"
+                ],
+                "di": [
+                    "NVD",
+                    "Normal"
+                ],
+                "me": [
+                    "CLEAR",
+                    "CLEAR"
+                ],
+                "mf": [
+                    "RPE alterations, Few Hges",
+                    "RPE alterations, Few Hges"
+                ],
+                "uf": [
+                    "cdr 0.4",
+                    "cdr 0.4"
+                ],
+                "ve": [
+                    "NVE",
+                    "few sheathing of vessels +"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "69"
+                    },
+                    {
+                        "None": "612"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "15",
+                    "16"
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F20",
+            "d": "2024-06-22",
+            "t": "11:53:24",
+            "v": 21,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "no nvi,regressed",
+                        "no nvi"
+                    ],
+                    "pu": [
+                        "Pharmacologically Dilated",
+                        "Pharmacologically Dilated"
+                    ],
+                    "lens": [
+                        "PCIOL",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "br": [
+                    "PDR, S/P PRP 2 sitting done  stablizing,skip areas",
+                    "PDR s/p PRP Stable"
+                ],
+                "di": [
+                    "NVD",
+                    "Normal"
+                ],
+                "me": [
+                    "CLEAR",
+                    "CLEAR"
+                ],
+                "mf": [
+                    "RPE alterations, Few Hges",
+                    "RPE alterations, Few Hges"
+                ],
+                "uf": [
+                    "cdr 0.4",
+                    "cdr 0.4"
+                ],
+                "ve": [
+                    "NVE",
+                    "few sheathing of vessels +"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "69"
+                    },
+                    {
+                        "None": "612"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "13",
+                    "16"
+                ]
+            },
+            "comp": [
+                [
+                    "PT has come for GP"
+                ]
+            ],
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F21",
+            "d": "2024-07-24",
+            "m": [
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 2,
+                    "name": "BRIO-B 5ML",
+                    "start": "2024-07-24"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 2,
+                    "name": "RIPATEC EYE DROPS",
+                    "start": "2024-07-24"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 4,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-07-24"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 3,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-07-24"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 2,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-07-24"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 1,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-07-24"
+                }
+            ],
+            "t": "11:40:03",
+            "v": 22,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth;Normal Depth, flare ++",
+                        "Normal Depth;Normal Depth, flare ++"
+                    ],
+                    "cj": [
+                        "Normal;CCC +",
+                        "Normal;CCC +"
+                    ],
+                    "ir": [
+                        "NVI+- florid;florid NVI +",
+                        "regressing NVI;NVI +"
+                    ],
+                    "pu": [
+                        "Pharmacologically Dilated;NRTL",
+                        "Pharmacologically Dilated;NRTL"
+                    ],
+                    "lens": [
+                        "PCIOL",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "br": [
+                    "PDR, S/P PRP  sitting done  stablizing,skip areas",
+                    "PDR s/p PRP Stable"
+                ],
+                "di": [
+                    "NVD",
+                    "Normal"
+                ],
+                "me": [
+                    "CLEAR",
+                    "CLEAR"
+                ],
+                "mf": [
+                    "RPE alterations, Few Hges",
+                    "RPE alterations, Few Hges"
+                ],
+                "uf": [
+                    "cdr 0.4;NVD +",
+                    "cdr 0.4;cdr 0.5"
+                ],
+                "ve": [
+                    "NVE",
+                    "few sheathing of vessels +"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "BE NVG..florid nvi / nva+... LE on MMT ... will need trab/tube;REW",
+                "rem": "opinion for urgent antivegf with ac paracentesis"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "69"
+                    },
+                    {
+                        "None": "69"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "43",
+                    "41"
+                ]
+            },
+            "comp": [
+                [
+                    "LMA today"
+                ]
+            ],
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F22",
+            "d": "2024-07-25",
+            "t": "08:40:03",
+            "v": 23,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth, flare ++",
+                        "Normal Depth, flare ++"
+                    ],
+                    "cj": [
+                        "CCC +",
+                        "CCC +"
+                    ],
+                    "ir": [
+                        "florid NVI +",
+                        "NVI +"
+                    ],
+                    "pu": [
+                        "NRTL",
+                        "NRTL"
+                    ],
+                    "lens": [
+                        "PCIOL",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "uf": [
+                    "NVD +",
+                    "cdr 0.5"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "RE: IntraVit Inj.Avastin \tLE: IntraVit Inj.Avastin",
+                "rem": "TODAY"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "69"
+                    },
+                    {
+                        "None": "69"
+                    }
+                ]
+            },
+            "inv": {
+                "sp": {
+                    "r": "No Data;nsr"
+                },
+                "iop": [
+                    "30",
+                    "31"
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F23",
+            "d": "2024-07-31",
+            "t": "09:16:52",
+            "v": 24,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth, flare ++",
+                        "Normal Depth, flare ++"
+                    ],
+                    "cj": [
+                        "CCC +",
+                        "CCC +"
+                    ],
+                    "ir": [
+                        "florid NVI +",
+                        "NVI +"
+                    ],
+                    "pu": [
+                        "NRTL",
+                        "NRTL"
+                    ],
+                    "lens": [
+                        "PCIOL",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "br": [
+                    "PDR, S/P PRP  sitting done  stablizing,skip areas",
+                    "PDR s/p PRP Stable"
+                ],
+                "di": [
+                    "NVD",
+                    "Normal"
+                ],
+                "me": [
+                    "CLEAR",
+                    "CLEAR"
+                ],
+                "mf": [
+                    "RPE alterations, Few Hges",
+                    "RPE alterations, Few Hges"
+                ],
+                "uf": [
+                    "NVD +",
+                    "cdr 0.5"
+                ],
+                "ve": [
+                    "NVE",
+                    "few sheathing of vessels +"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "28",
+                    "30"
+                ]
+            },
+            "comp": [
+                [
+                    "3 months",
+                    "Defective distance vision",
+                    "pateint has come for L.E avastin inj"
+                ]
+            ],
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F24",
+            "d": "2024-08-03",
+            "t": "07:50:42",
+            "v": 25,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth, flare ++",
+                        "Normal Depth, flare ++"
+                    ],
+                    "cj": [
+                        "CCC +",
+                        "CCC +,SCH temporally"
+                    ],
+                    "ir": [
+                        "florid NVI +",
+                        "nvi+"
+                    ],
+                    "pu": [
+                        "Normal Size and Reaction to Light",
+                        "nrtl"
+                    ],
+                    "lens": [
+                        "PCIOL",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "br": [
+                    "PDR, S/P PRP  sitting done  stablizing,skip areas",
+                    "PDR s/p PRP Stable"
+                ],
+                "di": [
+                    "NVD",
+                    "Normal"
+                ],
+                "me": [
+                    "CLEAR",
+                    "undilated"
+                ],
+                "mf": [
+                    "RPE alterations, Few Hges",
+                    "RPE alterations, Few Hges"
+                ],
+                "uf": [
+                    "NVD +",
+                    "cdr 0.5"
+                ],
+                "ve": [
+                    "NVE",
+                    "few sheathing of vessels +"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "RE: IntraVit Inj.Avastin LE: IntraVit Inj.Avastin",
+                "rem": "Today Injection  patient"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "612"
+                    },
+                    {
+                        "None": "624"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "36",
+                    "40"
+                ]
+            },
+            "comp": [
+                [
+                    "RE AVASTIN+PARACENTESIS"
+                ]
+            ],
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F25",
+            "d": "2024-08-10",
+            "m": [
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 3,
+                    "name": "ATROP EYE DROP",
+                    "start": "2024-08-10"
+                }
+            ],
+            "t": "10:17:11",
+            "v": 26,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth, flare +",
+                        "Normal Depth, flare +"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "regressing NVI",
+                        "regressing NVI"
+                    ],
+                    "pu": [
+                        "Normal Size and Reaction to Light",
+                        "nrtl"
+                    ],
+                    "lens": [
+                        "PCIOL",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "br": [
+                    "PDR s/p PRP-appears stable, no NVE",
+                    "PDR s/p PRP-appears stable, no NVE"
+                ],
+                "di": [
+                    "CDR 0.5, rim pallor",
+                    "CDR 0.5, rim pallor"
+                ],
+                "me": [
+                    "CLEAR",
+                    "Hazy-Corneal Edema"
+                ],
+                "mf": [
+                    "RPE alterations, Few Hges",
+                    "RPE alterations, Few Hges"
+                ],
+                "uf": [
+                    "NVD +;cdr 0.5",
+                    "cdr 0.5"
+                ],
+                "ve": [
+                    "few sheathing of vessels +, few blot hge",
+                    "few sheathing of vessels +"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "for LE AADI surgery;BE PDR s/p PRP, BE NVG, regressing NVI, glaucoma review;LE AADI - clearance",
+                "rem": "kindly opine"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "612"
+                    },
+                    {
+                        "None": "618"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "25",
+                    "23"
+                ]
+            },
+            "comp": [
+                [
+                    "RE Avastin x 1 week back , LE avastin x 10 days back"
+                ]
+            ],
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F26",
+            "d": "2024-08-17",
+            "s": {
+                "h": "Asthma;Cardiac;Diabetes;Drug Allergies;H/O COVID 19;H/O COVID VACCINE;Hyperlipidemia;Hypertension;Identification Marks;Liver Disease;Lungs Problem;Malignancy-site;Non-Ocular Sx;Other Allergies;Others;Remarks;Renal Disease;Rheumatoid Arthritis;Stroke/Neuro;TB;Thyroid"
+            },
+            "t": "09:47:50",
+            "v": 27,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth, flare +;Normal Depth",
+                        "Normal Depth, flare +;Normal Depth"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "regressing NVI",
+                        "regressing NVI"
+                    ],
+                    "pu": [
+                        "Pharmacologically Dilated",
+                        "Pharmacologically Dilated"
+                    ],
+                    "lens": [
+                        "PCIOL",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "br": [
+                    "PDR s/p PRP-appears stable, no NVE",
+                    "PDR s/p PRP-appears stable, no NVE"
+                ],
+                "di": [
+                    "CDR 0.5, rim pallor",
+                    "CDR 0.5, rim pallor"
+                ],
+                "me": [
+                    "Clear",
+                    "Hazy-Corneal Edema"
+                ],
+                "mf": [
+                    "RPE alterations, Few Hges",
+                    "RPE alterations, Few Hges"
+                ],
+                "uf": [
+                    "cdr 0.5",
+                    "cdr 0.5"
+                ],
+                "ve": [
+                    "few sheathing of vessels +, few blot hge",
+                    "few sheathing of vessels +, few blot hge"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "LE - AADI Implantation with IVMANITOL"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "624"
+                    },
+                    {
+                        "None": "636"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "29",
+                    "29"
+                ]
+            },
+            "comp": [
+                [
+                    "pt is on BE AGM LMA today morning"
+                ]
+            ],
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F27",
+            "d": "2024-08-22",
+            "t": "09:58:32",
+            "v": 28,
+            "op": {
+                "ref": "LE AADI Implantation+iv manitol",
+                "rem": "review with blood report"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "c": "F28",
+            "d": "2024-09-24",
+            "m": [
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 4,
+                    "name": "PRED FORTE EYE DROPS",
+                    "start": "2024-09-24"
+                }
+            ],
+            "t": "10:37:21",
+            "v": 29,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "regressing NVI;NVI +;Midiated,NVI +",
+                        "regressing NVI;NVI +;Midiated,NVI +"
+                    ],
+                    "pu": [
+                        "Normal Size and Reaction to Light;Pharmacologically Dilated;Pharmacologically Dilated ( ATROPINE)",
+                        "Normal Size and Reaction to Light;Pharmacologically Dilated;Pharmacologically Dilated ( ATROPINE)"
+                    ],
+                    "lens": [
+                        "PCIOL",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "uf": [
+                    "cdr 0.5;cdr 0.5, PDR S/P PRP;Pallor + ? large shalow cdr, PDR S/P PRP",
+                    "cdr 0.5;cdr 0.5, PDR S/P PRP;Pallor + shalow cdr 0.5, PDR S/P PRP"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "pt was advised le glc sx 1 month back.. raised pr today.. KIDNLY OPINNE;RV WITH REPORTS FOR LE GLC SX CLEARANCE.. kindly opine;LE - AADI Implantation with IV MANITOL",
+                "rem": "on agm, lma tody morning."
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "624"
+                    },
+                    {
+                        "None": "636"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "30",
+                    "38"
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F29",
+            "d": "2024-12-03",
+            "t": "10:39:11",
+            "v": 30,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "Midiated,NVI +",
+                        "Mid diated,NVI +"
+                    ],
+                    "pu": [
+                        "Pharmacologically Dilated",
+                        "Pharmacologically Dilated"
+                    ],
+                    "lens": [
+                        "PCIOL",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "uf": [
+                    "Pallor + ? large shalow cdr, PDR S/P PRP",
+                    "Pallor +cdr 0.5, PDR S/P PRP"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "LE - AADI Implantation"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "69"
+                    },
+                    {
+                        "None": "624"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "21",
+                    "21"
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F30",
+            "d": "2024-12-14",
+            "t": "11:18:29",
+            "v": 31,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "Midiated,NVI +;NVI +",
+                        "Mid diated,NVI +;NVI +"
+                    ],
+                    "pu": [
+                        "DILATED;MID DILATED",
+                        "DILATED;MID DILATED"
+                    ],
+                    "lens": [
+                        "PCIOL",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "br": [
+                    "PDR s/p PRP-appears stable, no NVE",
+                    "PDR s/p PRP-appears stable, no NVE"
+                ],
+                "di": [
+                    "CDR 0.85, rim pallor",
+                    "CDR 0.85, rim pallor"
+                ],
+                "me": [
+                    "Clear",
+                    "Clear"
+                ],
+                "mf": [
+                    "RPE alterations, Few Hges",
+                    "RPE alterations, Few Hges"
+                ],
+                "uf": [
+                    "Pallor + ? large shalow cdr, PDR S/P PRP",
+                    "Pallor +cdr 0.5, PDR S/P PRP"
+                ],
+                "ve": [
+                    "few sheathing of vessels +, few blot hge",
+                    "few sheathing of vessels +, few blot hge"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "op": {
+                "ref": "DIODE CYCLO PHOTO COAGULATION - LE"
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "69"
+                    },
+                    {
+                        "None": "624"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "21",
+                    "30"
+                ]
+            },
+            "comp": [
+                [
+                    "BE NVG , PLANNED FOR LE AADI- ON BE AGM - LMA TODAY MORNING"
+                ]
+            ],
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR",
+                    "Pseudophakia"
+                ]
+            ]
+        },
+        {
+            "c": "F31",
+            "d": "2024-12-17",
+            "m": [
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 1,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-12-17"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 5,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-12-17"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 4,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-12-17"
+                },
+                {
+                    "dos": "1 tablet",
+                    "eye": "5",
+                    "fre": 3,
+                    "name": "DOLO 650MG TAB",
+                    "start": "2024-12-17"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 3,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-12-17"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 6,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-12-17"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 2,
+                    "name": "DEXA 7.5 ML",
+                    "start": "2024-12-17"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "2",
+                    "fre": 3,
+                    "name": "AUROFLOX EYE DROPS",
+                    "start": "2024-12-17"
+                }
+            ],
+            "t": "09:32:39",
+            "v": 32,
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                []
+            ]
+        },
+        {
+            "c": "F32",
+            "d": "2024-12-18",
+            "m": [
+                {
+                    "dos": "1 drop",
+                    "eye": "1",
+                    "fre": 2,
+                    "name": "BRIO-B 5ML",
+                    "start": "2024-12-18"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "3",
+                    "fre": 2,
+                    "name": "TIMOBEST EYE DROPS",
+                    "start": "2024-12-18"
+                },
+                {
+                    "dos": "1 drop",
+                    "eye": "1",
+                    "fre": 2,
+                    "name": "RIPATEC EYE DROPS",
+                    "start": "2024-12-18"
+                }
+            ],
+            "t": "10:26:07",
+            "v": 33,
+            "as": {
+                "at": {
+                    "ac": [
+                        "Normal Depth",
+                        "Normal Depth"
+                    ],
+                    "cj": [
+                        "Normal",
+                        "Normal"
+                    ],
+                    "ir": [
+                        "NVI +",
+                        "NVI +"
+                    ],
+                    "pu": [
+                        "MID DILATED",
+                        "MID DILATED"
+                    ],
+                    "lens": [
+                        "PCIOL",
+                        "PCIOL"
+                    ]
+                }
+            },
+            "fu": {
+                "uf": [
+                    "Pallor + ? large shalow cdr, PDR S/P PRP",
+                    "Pallor +cdr 0.5, PDR S/P PRP"
+                ]
+            },
+            "om": {
+                "cr": [
+                    "Orthophoric",
+                    "Orthophoric"
+                ],
+                "gl": [
+                    "Normal",
+                    "Normal"
+                ],
+                "om": [
+                    "FULL",
+                    "FULL"
+                ]
+            },
+            "pr": {
+                "Las": [
+                    [],
+                    [],
+                    []
+                ],
+                "inj": [
+                    [],
+                    [],
+                    []
+                ],
+                "surg": [
+                    [],
+                    [],
+                    []
+                ]
+            },
+            "vi": {
+                "vis": [
+                    {
+                        "None": "612"
+                    },
+                    {
+                        "None": "636"
+                    }
+                ]
+            },
+            "inv": {
+                "iop": [
+                    "21",
+                    "21"
+                ]
+            },
+            "diag": [
+                [],
+                [],
+                [
+                    "Hypertensive retinopathy",
+                    "Neovascular glaucoma",
+                    "PDR"
+                ]
+            ]
+        }
+    ]
+}

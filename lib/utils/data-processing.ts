@@ -257,18 +257,290 @@ function classifyProcedureType(procedureName: string): string {
 }
 
 /**
- * Extract procedures from pr.act (actual procedures)
+ * Check if procedure data uses the new format (Las/inj/surg)
+ */
+function isNewProcedureFormat(pr: any): boolean {
+	const hasNewFormat =
+		pr &&
+		(pr.Las !== undefined || pr.inj !== undefined || pr.surg !== undefined);
+
+	// Only log if there's actual data or if it's the new format
+	if (hasNewFormat) {
+		const hasData =
+			(pr.Las && pr.Las.some((arr: any[]) => arr.length > 0)) ||
+			(pr.inj && pr.inj.some((arr: any[]) => arr.length > 0)) ||
+			(pr.surg && pr.surg.some((arr: any[]) => arr.length > 0));
+
+		if (hasData) {
+			console.log("🔍 Found new format with data:", {
+				pr,
+				hasLas: pr?.Las !== undefined,
+				hasInj: pr?.inj !== undefined,
+				hasSurg: pr?.surg !== undefined,
+				isNewFormat: hasNewFormat,
+			});
+		}
+	}
+
+	return hasNewFormat;
+}
+
+/**
+ * Extract procedures from new format (Las/inj/surg)
+ * @param eyeIndex 0 for RE, 1 for LE, 2 for BE
+ */
+function getProceduresFromNewFormat(
+	patientData: PatientData,
+	eyeIndex: number
+): ProcedureItem[] {
+	console.log("📋 Processing new format procedures for eyeIndex:", eyeIndex);
+	const procCount = new Map<string, number>();
+
+	// First, let's see if we can find the visit with procedures (2024-04-09 in sample)
+	const visitsWithProcedures = (patientData.visits || []).filter((visit) => {
+		if (!visit.pr || !isNewProcedureFormat(visit.pr)) return false;
+		const pr = visit.pr as any;
+		return (
+			(pr.Las && pr.Las.some((arr: any[]) => arr.length > 0)) ||
+			(pr.inj && pr.inj.some((arr: any[]) => arr.length > 0)) ||
+			(pr.surg && pr.surg.some((arr: any[]) => arr.length > 0))
+		);
+	});
+
+	console.log(
+		"📋 Found visits with procedures:",
+		visitsWithProcedures.map((v) => v.d)
+	);
+
+	(patientData.visits || []).forEach((visit, visitIndex) => {
+		console.log(`📅 Visit ${visitIndex} (${visit.d}):`, visit.pr);
+
+		if (visit.pr && isNewProcedureFormat(visit.pr)) {
+			const pr = visit.pr as any;
+
+			// Process Lasers
+			if (pr.Las && Array.isArray(pr.Las)) {
+				console.log("🔥 Processing Lasers:", pr.Las);
+				const laserProcs = pr.Las[eyeIndex];
+				console.log(`🔥 Laser procs for eye ${eyeIndex}:`, laserProcs);
+
+				if (Array.isArray(laserProcs) && laserProcs.length > 0) {
+					// laserProcs is directly an array of procedure objects, not nested arrays
+					laserProcs.forEach((proc: any, procIndex: number) => {
+						console.log(`🔥 Laser proc ${procIndex}:`, proc);
+						if (proc && proc.procedure_type) {
+							const name = proc.laser_type
+								? `${proc.procedure_type} - ${proc.laser_type}`
+								: proc.procedure_type;
+							console.log("🔥 Adding laser procedure:", name);
+							procCount.set(name, (procCount.get(name) || 0) + 1);
+						}
+					});
+				}
+			}
+
+			// Process Injections
+			if (pr.inj && Array.isArray(pr.inj)) {
+				console.log("💉 Processing Injections:", pr.inj);
+				const injProcs = pr.inj[eyeIndex];
+				console.log(`💉 Injection procs for eye ${eyeIndex}:`, injProcs);
+
+				if (Array.isArray(injProcs) && injProcs.length > 0) {
+					// injProcs is directly an array of procedure objects, not nested arrays
+					injProcs.forEach((proc: any, procIndex: number) => {
+						console.log(`💉 Injection proc ${procIndex}:`, proc);
+						if (proc && proc.procedure_type) {
+							console.log(
+								"💉 Adding injection procedure:",
+								proc.procedure_type
+							);
+							procCount.set(
+								proc.procedure_type,
+								(procCount.get(proc.procedure_type) || 0) + 1
+							);
+						}
+					});
+				}
+			}
+
+			// Process Surgeries
+			if (pr.surg && Array.isArray(pr.surg)) {
+				console.log("🔪 Processing Surgeries:", pr.surg);
+				const surgProcs = pr.surg[eyeIndex];
+				console.log(`🔪 Surgery procs for eye ${eyeIndex}:`, surgProcs);
+
+				if (Array.isArray(surgProcs) && surgProcs.length > 0) {
+					// surgProcs is directly an array of procedure objects, not nested arrays
+					surgProcs.forEach((proc: any, procIndex: number) => {
+						console.log(`🔪 Surgery proc ${procIndex}:`, proc);
+						if (proc && proc.procedure_type) {
+							console.log("🔪 Adding surgery procedure:", proc.procedure_type);
+							procCount.set(
+								proc.procedure_type,
+								(procCount.get(proc.procedure_type) || 0) + 1
+							);
+						}
+					});
+				}
+			}
+		}
+	});
+
+	const result = Array.from(procCount.entries()).map(([name, count]) => {
+		// Determine type based on which category it came from
+		let type = "Procedure";
+
+		// Check if this procedure came from Las, inj, or surg by looking at the name patterns
+		if (
+			name.includes("Laser") ||
+			name.includes("PRP") ||
+			name.includes("Photocoagulation")
+		) {
+			type = "Laser";
+		} else if (
+			name.includes("Injection") ||
+			name.includes("Anti-VEGF") ||
+			name.includes("Steroid")
+		) {
+			type = "Injection";
+		} else if (
+			name.includes("Surgery") ||
+			name.includes("Vitrectomy") ||
+			name.includes("Membrane")
+		) {
+			type = "Surgery";
+		}
+
+		return { type, item: `${name}${count > 1 ? ` (${count}x)` : ""}` };
+	});
+
+	console.log("📋 Final processed procedures from new format:", result);
+	console.log("📋 Procedure count map:", Array.from(procCount.entries()));
+	return result;
+}
+
+/**
+ * Extract procedures from new format for line chart
+ * @param eyeIndex 0 for RE, 1 for LE, 2 for BE
+ */
+function getProceduresFromNewFormatForChart(
+	patientData: PatientData,
+	eyeIndex: number
+): ProcedureData[] {
+	console.log(
+		"📊 getProceduresFromNewFormatForChart called with eyeIndex:",
+		eyeIndex
+	);
+	const procedures: ProcedureData[] = [];
+
+	(patientData.visits || []).forEach((visit, visitIndex) => {
+		const date = visit.d;
+		console.log(`📊 Chart processing visit ${visitIndex} (${date}):`, visit.pr);
+
+		if (!date || !visit.pr || !isNewProcedureFormat(visit.pr)) return;
+
+		const pr = visit.pr as any;
+
+		// Process Lasers
+		if (pr.Las && Array.isArray(pr.Las)) {
+			console.log("📊🔥 Chart processing Lasers:", pr.Las);
+			const laserProcs = pr.Las[eyeIndex];
+			if (Array.isArray(laserProcs) && laserProcs.length > 0) {
+				// laserProcs is directly an array of procedure objects, not nested arrays
+				laserProcs.forEach((proc: any) => {
+					if (proc && proc.procedure_type) {
+						const name = proc.laser_type
+							? `${proc.procedure_type} - ${proc.laser_type}`
+							: proc.procedure_type;
+						const color = getProcedureColor(name);
+						console.log("📊🔥 Adding laser to chart:", {
+							date,
+							name,
+							color,
+						});
+						procedures.push({ date, type: "laser", name, color });
+					}
+				});
+			}
+		}
+
+		// Process Injections
+		if (pr.inj && Array.isArray(pr.inj)) {
+			const injProcs = pr.inj[eyeIndex];
+			if (Array.isArray(injProcs) && injProcs.length > 0) {
+				// injProcs is directly an array of procedure objects, not nested arrays
+				injProcs.forEach((proc: any) => {
+					if (proc && proc.procedure_type) {
+						const color = getProcedureColor(proc.procedure_type);
+						procedures.push({
+							date,
+							type: "injection",
+							name: proc.procedure_type,
+							color,
+						});
+					}
+				});
+			}
+		}
+
+		// Process Surgeries
+		if (pr.surg && Array.isArray(pr.surg)) {
+			const surgProcs = pr.surg[eyeIndex];
+			if (Array.isArray(surgProcs) && surgProcs.length > 0) {
+				// surgProcs is directly an array of procedure objects, not nested arrays
+				surgProcs.forEach((proc: any) => {
+					if (proc && proc.procedure_type) {
+						const color = getProcedureColor(proc.procedure_type);
+						procedures.push({
+							date,
+							type: "surgery",
+							name: proc.procedure_type,
+							color,
+						});
+					}
+				});
+			}
+		}
+	});
+
+	console.log("📊 Final chart procedures from new format:", procedures);
+	return procedures;
+}
+/**
+ * Extract procedures from pr.act (actual procedures) or new format (Las/inj/surg)
  * @param eyeIndex 0 for RE, 1 for LE, 2 for BE
  */
 export function getProcedures(
 	patientData: PatientData,
 	eyeIndex: number
 ): ProcedureItem[] {
+	console.log("🚀 getProcedures called with eyeIndex:", eyeIndex);
+	console.log("🚀 Patient data visits count:", patientData.visits?.length || 0);
+	console.log("🚀 Patient UID:", patientData.p?.uid);
+
+	// Log all visit dates to see what we're processing
+	const visitDates = (patientData.visits || []).map((v) => v.d);
+	console.log("🚀 Visit dates:", visitDates);
+
+	// Check if any visit uses the new format
+	const hasNewFormat = (patientData.visits || []).some(
+		(visit) => visit.pr && isNewProcedureFormat(visit.pr)
+	);
+
+	console.log("🚀 Has new format:", hasNewFormat);
+
+	if (hasNewFormat) {
+		console.log("🚀 Using new format processing");
+		return getProceduresFromNewFormat(patientData, eyeIndex);
+	}
+
+	console.log("🚀 Using old format processing");
+	// Fallback to old format processing
 	const procCount = new Map<string, number>();
 
 	(patientData.visits || []).forEach((visit) => {
-		if (visit.pr && visit.pr.act) {
-			const actProcs = visit.pr.act;
+		if (visit.pr && (visit.pr as any).act) {
+			const actProcs = (visit.pr as any).act;
 
 			if (Array.isArray(actProcs)) {
 				let proceduresToCheck: string[] = [];
@@ -323,7 +595,45 @@ export function getSvgForProcedure(procedureItem: string): {
 	color: string;
 } {
 	const name = procedureItem.replace(/\s*\(\d+x\)$/, "");
-	const type = classifyProcedureType(name);
+
+	// For new format, determine type based on procedure name patterns
+	let type: string;
+
+	// Check for laser procedures
+	if (
+		name.includes("Laser") ||
+		name.includes("PRP") ||
+		name.includes("Photocoagulation") ||
+		name.includes("Retina Laser") ||
+		name.includes("Accessible PRP")
+	) {
+		type = "Laser";
+	}
+	// Check for injection procedures
+	else if (
+		name.includes("Injection") ||
+		name.includes("Anti-VEGF") ||
+		name.includes("Steroid") ||
+		name.includes("Intravitreal") ||
+		name.includes("Bevacizumab") ||
+		name.includes("Ranibizumab")
+	) {
+		type = "Injection";
+	}
+	// Check for surgical procedures
+	else if (
+		name.includes("Surgery") ||
+		name.includes("Vitrectomy") ||
+		name.includes("Membrane") ||
+		name.includes("Retinal Detachment") ||
+		name.includes("Scleral Buckle")
+	) {
+		type = "Surgery";
+	}
+	// Fallback to classification function for old format
+	else {
+		type = classifyProcedureType(name);
+	}
 
 	let svg: string;
 	switch (type) {
@@ -639,27 +949,42 @@ export function getLineChartData(
 		const date = visit.d;
 		if (!date) return;
 
-		// Extract Procedures
-		if (visit.pr && visit.pr.act) {
-			const actProcs = visit.pr.act;
-			if (Array.isArray(actProcs) && actProcs[eyeIndex]) {
-				const eyeProcs = actProcs[eyeIndex];
-				if (Array.isArray(eyeProcs)) {
-					const flattened = flattenProcedureArray(eyeProcs);
-					flattened.forEach((proc) => {
-						if (
-							proc &&
-							typeof proc === "string" &&
-							proc.trim() &&
-							!isProcedurePlaceholder(proc)
-						) {
-							const name = proc.trim();
-							const procedureType = classifyProcedureType(name);
-							const type = procedureType.toLowerCase();
-							const color = getProcedureColor(name);
-							procedures.push({ date, type, name, color } as ProcedureData);
-						}
-					});
+		// Extract Procedures - handle both old and new formats
+		if (visit.pr) {
+			console.log("📈 LineChart processing visit procedures:", visit.pr);
+
+			if (isNewProcedureFormat(visit.pr)) {
+				console.log("📈 Using new format for line chart");
+				// Use new format extraction
+				const newFormatProcs = getProceduresFromNewFormatForChart(
+					{ p: patientData.p, visits: [visit] },
+					eyeIndex
+				);
+				console.log("📈 New format procs for line chart:", newFormatProcs);
+				procedures.push(...newFormatProcs);
+			} else if ((visit.pr as any).act) {
+				console.log("📈 Using old format for line chart");
+				// Use old format extraction
+				const actProcs = (visit.pr as any).act;
+				if (Array.isArray(actProcs) && actProcs[eyeIndex]) {
+					const eyeProcs = actProcs[eyeIndex];
+					if (Array.isArray(eyeProcs)) {
+						const flattened = flattenProcedureArray(eyeProcs);
+						flattened.forEach((proc) => {
+							if (
+								proc &&
+								typeof proc === "string" &&
+								proc.trim() &&
+								!isProcedurePlaceholder(proc)
+							) {
+								const name = proc.trim();
+								const procedureType = classifyProcedureType(name);
+								const type = procedureType.toLowerCase();
+								const color = getProcedureColor(name);
+								procedures.push({ date, type, name, color } as ProcedureData);
+							}
+						});
+					}
 				}
 			}
 		}
@@ -730,6 +1055,14 @@ export function getLineChartData(
 				cmtData.push({ x: date, y: cmtValue });
 			}
 		}
+	});
+
+	console.log("📈 Final getLineChartData result:", {
+		proceduresCount: procedures.length,
+		procedures: procedures,
+		visualAcuityDataCount: visualAcuityData.length,
+		iopDataCount: iopData.length,
+		cmtDataCount: cmtData.length,
 	});
 
 	return {

@@ -88,6 +88,19 @@ export interface Procedure {
 	act?: (string[] | null)[]; // actual procedures [RE, LE]
 }
 
+// New procedure structure with pre-split categories
+export interface NewProcedureStructure {
+	Las?: (ProcedureDetail[][] | null)[]; // Lasers [RE, LE, BE]
+	inj?: (ProcedureDetail[][] | null)[]; // Injections [RE, LE, BE]
+	surg?: (ProcedureDetail[][] | null)[]; // Surgeries [RE, LE, BE]
+}
+
+export interface ProcedureDetail {
+	eye: string; // "RE", "LE", "BE"
+	laser_type?: string;
+	procedure_type: string;
+}
+
 export interface Investigation {
 	iop?: string | string[]; // intraocular pressure
 	sp?: {
@@ -119,7 +132,7 @@ export interface Visit {
 	om?: OcularMotility;
 	fu?: Fundus;
 	m?: Medication[];
-	pr?: Procedure;
+	pr?: Procedure | NewProcedureStructure; // Support both old and new formats
 	inv?: Investigation;
 	fup?: FollowUp;
 	s?: SystemicHistory;
