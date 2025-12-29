@@ -13,7 +13,6 @@ import {
 	CartesianGrid,
 	Tooltip,
 	ResponsiveContainer,
-	ReferenceLine,
 } from "recharts";
 
 interface GanttChartProps {
@@ -39,7 +38,7 @@ interface ProcessedGanttItem {
 
 // Custom shape component for Gantt bars with horizontal overlap for identical dates
 const GanttBar = (props: any) => {
-	const { cx, cy, payload, xAxisMap } = props;
+	const { cx, cy, payload, xAxisMap, barColor } = props;
 
 	if (!payload || cx === undefined || cy === undefined) return null;
 
@@ -84,8 +83,8 @@ const GanttBar = (props: any) => {
 	const x = cx + horizontalOffset;
 	const y = cy - barHeight / 2;
 
-	// Simple visual differentiation for overlapped bars - same color with subtle border
-	const fillColor = "#f4a462"; // Same color for all bars
+	// Simple visual differentiation for overlapped bars - use theme-appropriate color
+	const fillColor = barColor || "#f4a462"; // Use passed color or fallback
 	const strokeColor = hasOverlapGroup ? "#ffffff" : "none";
 	const strokeWidth = hasOverlapGroup ? 1.5 : 0;
 
@@ -302,6 +301,9 @@ export function GanttChart({
 	);
 	const trackCount = processedData.length;
 
+	// Determine bar color based on theme
+	const barColor = theme === "dark" ? barColorDark : barColorLight;
+
 	// Calculate the maximum duration to ensure adequate padding
 	const maxDuration = Math.max(...processedData.map((d) => d.duration));
 
@@ -358,7 +360,10 @@ export function GanttChart({
 								hide={true}
 							/>
 							<Tooltip content={<CustomTooltip />} />
-							<Scatter data={processedData} shape={<GanttBar />} />
+							<Scatter
+								data={processedData}
+								shape={<GanttBar barColor={barColor} />}
+							/>
 						</ScatterChart>
 					</ResponsiveContainer>
 				</div>

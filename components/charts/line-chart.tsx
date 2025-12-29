@@ -112,9 +112,6 @@ export function LineChart({
 	if (!mounted) {
 		return (
 			<Card className="overflow-visible">
-				<CardHeader>
-					<CardTitle>Clinical Metrics Over Time</CardTitle>
-				</CardHeader>
 				<CardContent>
 					<div className="h-[400px] flex items-center justify-center">
 						<p className="text-muted-foreground">Loading chart...</p>
@@ -131,11 +128,19 @@ export function LineChart({
 	const iopMin = iopValues.length ? Math.min(...iopValues) : 0;
 	const iopMax = iopValues.length ? Math.max(...iopValues) : 40;
 
-	// Normalize functions to map all metrics to 0-100 scale
+	// Count active metrics
+	const activeMetrics = [showVA, showIOP, showCMT].filter(Boolean).length;
+
+	// Normalize functions to map metrics to their respective sections
 	const normalizeVA = (value: number) => {
-		const range = 1.5 - -2; // VA range
+		const range = 1.5 - -2;
 		const normalized = (value - -2) / range;
-		return 66.67 + normalized * 33.33; // Top third (66.67-100)
+		const sectionHeight = 100 / activeMetrics;
+		const sectionIndex = [showVA, showIOP, showCMT].filter(
+			(v, i) => v && i < 0
+		).length;
+		const startY = 100 - (sectionIndex + 1) * sectionHeight;
+		return startY + normalized * sectionHeight;
 	};
 
 	const normalizeIOP = (value: number) => {
@@ -143,13 +148,23 @@ export function LineChart({
 		const max = Math.max(40, Math.ceil(iopMax / 5) * 5);
 		const range = max - min;
 		const normalized = (value - min) / range;
-		return 33.33 + normalized * 33.33; // Middle third (33.33-66.67)
+		const sectionHeight = 100 / activeMetrics;
+		const sectionIndex = [showVA, showIOP, showCMT].filter(
+			(v, i) => v && i < 1
+		).length;
+		const startY = 100 - (sectionIndex + 1) * sectionHeight;
+		return startY + normalized * sectionHeight;
 	};
 
 	const normalizeCMT = (value: number) => {
 		const range = 1000 - 0;
 		const normalized = (value - 0) / range;
-		return 0 + normalized * 33.33; // Bottom third (0-33.33)
+		const sectionHeight = 100 / activeMetrics;
+		const sectionIndex = [showVA, showIOP, showCMT].filter(
+			(v, i) => v && i < 2
+		).length;
+		const startY = 100 - (sectionIndex + 1) * sectionHeight;
+		return startY + normalized * sectionHeight;
 	};
 
 	// Combine all data points by date
@@ -260,9 +275,6 @@ export function LineChart({
 	if (chartData.length === 0 && positionedProcedures.length === 0) {
 		return (
 			<Card className="overflow-visible">
-				<CardHeader>
-					<CardTitle>Clinical Metrics Over Time</CardTitle>
-				</CardHeader>
 				<CardContent>
 					<div className="h-[400px] flex items-center justify-center">
 						<p className="text-muted-foreground">No data available</p>
@@ -275,9 +287,6 @@ export function LineChart({
 	if (!hasAnyMetric) {
 		return (
 			<Card className="overflow-visible">
-				<CardHeader>
-					<CardTitle>Clinical Metrics Over Time</CardTitle>
-				</CardHeader>
 				<CardContent>
 					<div className="h-[400px] flex items-center justify-center">
 						<p className="text-muted-foreground">
@@ -324,11 +333,11 @@ export function LineChart({
 		setTooltipData({ visible: false, x: 0, y: 0, procedure: null });
 	};
 
+	// Calculate section height percentage for each metric
+	const sectionHeight = 100 / activeMetrics;
+
 	return (
 		<Card className="overflow-visible">
-			<CardHeader>
-				<CardTitle>Clinical Metrics Over Time</CardTitle>
-			</CardHeader>
 			<CardContent className="overflow-visible">
 				<div className="relative">
 					{/* Procedures Overlay */}
@@ -462,11 +471,12 @@ export function LineChart({
 						</ResponsiveContainer>
 					</div>
 
-					<div className="absolute left-0 top-20 bottom-5 w-14 flex flex-col justify-between text-[11px] pointer-events-none">
+					<div className="absolute left-0 top-20 bottom-5 w-14 flex flex-col text-[11px] pointer-events-none">
 						{showVA && (
 							<div
-								className="flex flex-col justify-between h-1/3"
+								className="flex flex-col justify-between"
 								style={{
+									height: `${sectionHeight}%`,
 									color: isDark ? metrics[0].colorDark : metrics[0].colorLight,
 								}}
 							>
@@ -480,8 +490,9 @@ export function LineChart({
 						)}
 						{showIOP && (
 							<div
-								className="flex flex-col justify-between h-1/3"
+								className="flex flex-col justify-between"
 								style={{
+									height: `${sectionHeight}%`,
 									color: isDark ? metrics[1].colorDark : metrics[1].colorLight,
 								}}
 							>
@@ -494,8 +505,9 @@ export function LineChart({
 						)}
 						{showCMT && (
 							<div
-								className="flex flex-col justify-between h-1/3"
+								className="flex flex-col justify-between"
 								style={{
+									height: `${sectionHeight}%`,
 									color: isDark ? metrics[2].colorDark : metrics[2].colorLight,
 								}}
 							>

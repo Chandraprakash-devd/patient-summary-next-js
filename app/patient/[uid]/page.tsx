@@ -296,9 +296,7 @@ export default function PatientDetailPage() {
 				<div className="w-80 flex-shrink-0 flex flex-col gap-4 h-full overflow-hidden">
 					{/* Patient Summary Box */}
 					<div className="flex-[1_1_40%] min-h-[280px] bg-card rounded-lg border shadow-sm flex flex-col overflow-hidden">
-						<div className="px-3 py-2.5 font-bold border-b bg-muted/30 flex-shrink-0">
-							Patient Summary
-						</div>
+						<div className="px-3 py-2.5 flex-shrink-0">Patient Summary</div>
 						<div className="p-3 overflow-y-auto box-scroll flex-1 text-sm leading-relaxed">
 							{computedData.summary}
 						</div>
@@ -306,9 +304,6 @@ export default function PatientDetailPage() {
 
 					{/* Disease Box */}
 					<div className="flex-[1_1_30%] min-h-[200px] bg-card rounded-lg border shadow-sm flex flex-col overflow-hidden">
-						<div className="px-3 py-2.5 font-bold border-b bg-muted/30 flex-shrink-0">
-							Disease
-						</div>
 						<div className="p-3 overflow-y-auto box-scroll flex-1">
 							<DiseaseList diseases={computedData.diseases} compact />
 						</div>
@@ -316,9 +311,7 @@ export default function PatientDetailPage() {
 
 					{/* Procedures Box */}
 					<div className="flex-[1_1_40%] min-h-[300px] bg-card rounded-lg border shadow-sm flex flex-col overflow-hidden">
-						<div className="px-3 py-2.5 font-bold border-b bg-muted/30 flex-shrink-0">
-							Procedures
-						</div>
+						<div className="px-3 py-2.5 flex-shrink-0">Procedures</div>
 						<div className="p-3 overflow-y-auto box-scroll flex-1">
 							<ProcedureList procedures={computedData.procedures} compact />
 						</div>
