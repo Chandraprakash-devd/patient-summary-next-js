@@ -132,24 +132,32 @@ const GanttBar = (props: any) => {
 };
 
 // Custom tooltip component
-const CustomTooltip = ({ active, payload }: any) => {
+const CustomTooltip = ({ active, payload, barColor }: any) => {
 	if (active && payload && payload.length) {
 		const data = payload[0].payload;
 		return (
-			<div className="bg-background border rounded-lg shadow-lg p-3 text-sm max-w-xs">
-				<p className="font-semibold mb-2">{data.task}</p>
-				<p className="text-muted-foreground">
+			<div
+				className="bg-background border rounded-lg shadow-lg p-1.5 text-xs max-w-xs"
+				style={{
+					borderLeft: `4px solid ${barColor}`,
+				}}
+			>
+				<p className="font-semibold mb-0.5 text-xs">{data.task}</p>
+				{data.dosage && (
+					<p className="text-muted-foreground mt-0.5 text-xs font-bold">
+						Dosage: <span className="">{data.dosage}</span>
+					</p>
+				)}
+				<p className="text-muted-foreground text-xs">
 					Start: {format(parseISO(data.start), "dd MMM yyyy")}
 				</p>
-				<p className="text-muted-foreground">
+				<p className="text-muted-foreground text-xs">
 					End: {format(parseISO(data.end), "dd MMM yyyy")}
 				</p>
-				{data.dosage && (
-					<p className="text-muted-foreground mt-1">Dosage: {data.dosage}</p>
-				)}
-				<p className="text-muted-foreground mt-1">
+
+				{/* <p className="text-muted-foreground mt-0.5 text-xs">
 					Duration: {data.duration} day{data.duration !== 1 ? "s" : ""}
-				</p>
+				</p> */}
 			</div>
 		);
 	}
@@ -359,7 +367,7 @@ export function GanttChart({
 								domain={[-0.5, (trackCount - 1) * 2 + 0.5]}
 								hide={true}
 							/>
-							<Tooltip content={<CustomTooltip />} />
+							<Tooltip content={<CustomTooltip barColor={barColor} />} />
 							<Scatter
 								data={processedData}
 								shape={<GanttBar barColor={barColor} />}

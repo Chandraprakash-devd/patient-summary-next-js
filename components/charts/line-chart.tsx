@@ -10,11 +10,11 @@ import {
 	ResponsiveContainer,
 	ComposedChart,
 } from "recharts";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent } from "@/components/ui/card";
 import { ChartData, MetricConfig, ProcedureData } from "@/types/patient";
 import { useTheme } from "next-themes";
 import { format, parseISO } from "date-fns";
-import { Syringe, Zap, Cookie, Scissors, Flashlight } from "lucide-react";
+import { Syringe, Cookie, Flashlight } from "lucide-react";
 
 interface PositionedProcedure extends ProcedureData {
 	position: number;
@@ -218,51 +218,75 @@ export function LineChart({
 
 		const data = payload[0].payload;
 
+		// Determine the primary color for the left border based on active metrics
+		let borderColor = "";
+		if (data.vaLabel && showVA && metrics[0]) {
+			borderColor = isDark
+				? metrics[0].colorDark || "#666"
+				: metrics[0].colorLight || "#ccc";
+		} else if (data.iop !== undefined && showIOP && metrics[1]) {
+			borderColor = isDark
+				? metrics[1].colorDark || "#666"
+				: metrics[1].colorLight || "#ccc";
+		} else if (data.cmt !== undefined && showCMT && metrics[2]) {
+			borderColor = isDark
+				? metrics[2].colorDark || "#666"
+				: metrics[2].colorLight || "#ccc";
+		}
+
+		// Fallback to a default color if no specific metric color is found
+		const finalBorderColor = borderColor || (isDark ? "#666" : "#ccc");
+
 		return (
-			<div className="bg-background border rounded-lg shadow-lg p-3 text-sm">
-				<p className="font-semibold mb-2">
+			<div
+				className="bg-background border rounded-lg shadow-lg p-2 text-xs"
+				style={{
+					borderLeft: `4px solid ${finalBorderColor}`,
+				}}
+			>
+				<p className="font-semibold mb-1 text-xs">
 					{format(parseISO(data.date), "dd MMM yyyy")}
 				</p>
 				{data.vaLabel && (
-					<div className="flex items-center gap-2 mb-1">
+					<div className="flex items-center gap-1.5 mb-0.5">
 						<div
-							className="w-3 h-3 rounded-full"
+							className="w-2 h-2 rounded-full"
 							style={{
 								backgroundColor: isDark
-									? metrics[0].colorDark
-									: metrics[0].colorLight,
+									? metrics[0]?.colorDark || "#666"
+									: metrics[0]?.colorLight || "#ccc",
 							}}
 						/>
-						<span>VA: {data.vaLabel}</span>
+						<span className="text-xs">VA: {data.vaLabel}</span>
 						{data.nv && (
-							<span className="text-muted-foreground">({data.nv})</span>
+							<span className="text-muted-foreground text-xs">({data.nv})</span>
 						)}
 					</div>
 				)}
 				{data.iop !== undefined && (
-					<div className="flex items-center gap-2 mb-1">
+					<div className="flex items-center gap-1.5 mb-0.5">
 						<div
-							className="w-3 h-3 rounded-full"
+							className="w-2 h-2 rounded-full"
 							style={{
 								backgroundColor: isDark
-									? metrics[1].colorDark
-									: metrics[1].colorLight,
+									? metrics[1]?.colorDark || "#666"
+									: metrics[1]?.colorLight || "#ccc",
 							}}
 						/>
-						<span>IOP: {data.iop} mmHg</span>
+						<span className="text-xs">IOP: {data.iop} mmHg</span>
 					</div>
 				)}
 				{data.cmt !== undefined && (
-					<div className="flex items-center gap-2">
+					<div className="flex items-center gap-1.5">
 						<div
-							className="w-3 h-3 rounded-full"
+							className="w-2 h-2 rounded-full"
 							style={{
 								backgroundColor: isDark
-									? metrics[2].colorDark
-									: metrics[2].colorLight,
+									? metrics[2]?.colorDark || "#666"
+									: metrics[2]?.colorLight || "#ccc",
 							}}
 						/>
-						<span>CMT: {data.cmt} µm</span>
+						<span className="text-xs">CMT: {data.cmt} µm</span>
 					</div>
 				)}
 			</div>
@@ -385,8 +409,13 @@ export function LineChart({
 										transform: "translateX(-30%) translateY(80%)",
 									}}
 								>
-									<div className="bg-background border rounded-lg shadow-lg p-3 text-sm whitespace-nowrap">
-										<div className="font-semibold mb-1">
+									<div
+										className="bg-background border rounded-lg shadow-lg p-2 text-xs whitespace-nowrap"
+										style={{
+											borderLeft: `4px solid ${tooltipData.procedure.color}`,
+										}}
+									>
+										<div className="font-semibold mb-0.5 text-xs">
 											{tooltipData.procedure.name}
 										</div>
 										<div className="text-muted-foreground text-xs">
@@ -397,7 +426,7 @@ export function LineChart({
 										</div>
 										{tooltipData.procedure.count &&
 											tooltipData.procedure.count > 1 && (
-												<div className="text-muted-foreground text-xs mt-1 italic">
+												<div className="text-muted-foreground text-xs mt-0.5 italic">
 													Occurred {tooltipData.procedure.count} times
 												</div>
 											)}
@@ -432,7 +461,9 @@ export function LineChart({
 										type="monotone"
 										dataKey="vaNormalized"
 										stroke={
-											isDark ? metrics[0].colorDark : metrics[0].colorLight
+											isDark
+												? metrics[0]?.colorDark || "#666"
+												: metrics[0]?.colorLight || "#ccc"
 										}
 										strokeWidth={2}
 										dot={{ r: 4 }}
@@ -446,7 +477,9 @@ export function LineChart({
 										type="monotone"
 										dataKey="iopNormalized"
 										stroke={
-											isDark ? metrics[1].colorDark : metrics[1].colorLight
+											isDark
+												? metrics[1]?.colorDark || "#666"
+												: metrics[1]?.colorLight || "#ccc"
 										}
 										strokeWidth={2}
 										dot={{ r: 4 }}
@@ -460,7 +493,9 @@ export function LineChart({
 										type="monotone"
 										dataKey="cmtNormalized"
 										stroke={
-											isDark ? metrics[2].colorDark : metrics[2].colorLight
+											isDark
+												? metrics[2]?.colorDark || "#666"
+												: metrics[2]?.colorLight || "#ccc"
 										}
 										strokeWidth={2}
 										dot={{ r: 4 }}
@@ -477,7 +512,9 @@ export function LineChart({
 								className="flex flex-col justify-between"
 								style={{
 									height: `${sectionHeight}%`,
-									color: isDark ? metrics[0].colorDark : metrics[0].colorLight,
+									color: isDark
+										? metrics[0]?.colorDark || "#666"
+										: metrics[0]?.colorLight || "#ccc",
 								}}
 							>
 								<div className="text-right pr-2">6/6</div>
@@ -493,7 +530,9 @@ export function LineChart({
 								className="flex flex-col justify-between"
 								style={{
 									height: `${sectionHeight}%`,
-									color: isDark ? metrics[1].colorDark : metrics[1].colorLight,
+									color: isDark
+										? metrics[1]?.colorDark || "#666"
+										: metrics[1]?.colorLight || "#ccc",
 								}}
 							>
 								{iopTicks.map((tick) => (
@@ -508,7 +547,9 @@ export function LineChart({
 								className="flex flex-col justify-between"
 								style={{
 									height: `${sectionHeight}%`,
-									color: isDark ? metrics[2].colorDark : metrics[2].colorLight,
+									color: isDark
+										? metrics[2]?.colorDark || "#666"
+										: metrics[2]?.colorLight || "#ccc",
 								}}
 							>
 								<div className="text-right pr-2">1000</div>
@@ -529,8 +570,8 @@ export function LineChart({
 								className="w-3 h-3 rounded-full"
 								style={{
 									backgroundColor: isDark
-										? metrics[0].colorDark
-										: metrics[0].colorLight,
+										? metrics[0]?.colorDark || "#666"
+										: metrics[0]?.colorLight || "#ccc",
 								}}
 							/>
 							<span className="text-sm">Visual Acuity</span>
@@ -542,8 +583,8 @@ export function LineChart({
 								className="w-3 h-3 rounded-full"
 								style={{
 									backgroundColor: isDark
-										? metrics[1].colorDark
-										: metrics[1].colorLight,
+										? metrics[1]?.colorDark || "#666"
+										: metrics[1]?.colorLight || "#ccc",
 								}}
 							/>
 							<span className="text-sm">IOP (mmHg)</span>
@@ -555,8 +596,8 @@ export function LineChart({
 								className="w-3 h-3 rounded-full"
 								style={{
 									backgroundColor: isDark
-										? metrics[2].colorDark
-										: metrics[2].colorLight,
+										? metrics[2]?.colorDark || "#666"
+										: metrics[2]?.colorLight || "#ccc",
 								}}
 							/>
 							<span className="text-sm">CMT (µm)</span>
