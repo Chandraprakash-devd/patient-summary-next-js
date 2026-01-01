@@ -15,6 +15,7 @@ import { ChartData, MetricConfig, ProcedureData } from "@/types/patient";
 import { useTheme } from "next-themes";
 import { format, parseISO } from "date-fns";
 import { Syringe, Cookie, Flashlight } from "lucide-react";
+import { convertNumericToSnellen } from "@/lib/utils/vision-utils";
 
 interface PositionedProcedure extends ProcedureData {
 	position: number;
@@ -123,18 +124,39 @@ export function LineChart({
 
 	const isDark = theme === "dark";
 
-	// Calculate dynamic IOP range
+	// Calculate dynamic ranges based on data
+	const vaValues = data.visualAcuityData
+		.map((d) => d.yNumeric)
+		.filter((v) => v != null);
 	const iopValues = data.iopData.map((d) => d.y).filter((v) => v != null);
-	const iopMin = iopValues.length ? Math.min(...iopValues) : 0;
-	const iopMax = iopValues.length ? Math.max(...iopValues) : 40;
+	const cmtValues = data.cmtData.map((d) => d.y).filter((v) => v != null);
+
+	// VA range: Dynamic based on data with 0.5 step, minimum range 0.25-1.75
+	const vaDataMin = vaValues.length ? Math.min(...vaValues) : 0.5;
+	const vaDataMax = vaValues.length ? Math.max(...vaValues) : 1.5;
+	const vaMin = Math.min(0.25, Math.floor(vaDataMin * 2) / 2 - 0.5);
+	const vaMax = Math.max(1.75, Math.ceil(vaDataMax * 2) / 2 + 0.5);
+	const vaStep = 0.5;
+
+	// IOP range: Dynamic based on data with 4 step, minimum range 4-16
+	const iopDataMin = iopValues.length ? Math.min(...iopValues) : 8;
+	const iopDataMax = iopValues.length ? Math.max(...iopValues) : 12;
+	const iopMin = Math.min(4, Math.floor((iopDataMin - 2) / 4) * 4);
+	const iopMax = Math.max(16, Math.ceil((iopDataMax + 2) / 4) * 4);
+
+	// CMT range: Dynamic based on data with 500 step, minimum range 0-500
+	const cmtDataMin = cmtValues.length ? Math.min(...cmtValues) : 200;
+	const cmtDataMax = cmtValues.length ? Math.max(...cmtValues) : 400;
+	const cmtMin = 0;
+	const cmtMax = Math.max(500, Math.ceil(cmtDataMax / 500) * 500);
 
 	// Count active metrics
 	const activeMetrics = [showVA, showIOP, showCMT].filter(Boolean).length;
 
 	// Normalize functions to map metrics to their respective sections
 	const normalizeVA = (value: number) => {
-		const range = 1.5 - -2;
-		const normalized = (value - -2) / range;
+		const range = vaMax - vaMin;
+		const normalized = (value - vaMin) / range;
 		const sectionHeight = 100 / activeMetrics;
 		const sectionIndex = [showVA, showIOP, showCMT].filter(
 			(v, i) => v && i < 0
@@ -144,10 +166,8 @@ export function LineChart({
 	};
 
 	const normalizeIOP = (value: number) => {
-		const min = Math.min(0, Math.floor(iopMin / 5) * 5);
-		const max = Math.max(40, Math.ceil(iopMax / 5) * 5);
-		const range = max - min;
-		const normalized = (value - min) / range;
+		const range = iopMax - iopMin;
+		const normalized = (value - iopMin) / range;
 		const sectionHeight = 100 / activeMetrics;
 		const sectionIndex = [showVA, showIOP, showCMT].filter(
 			(v, i) => v && i < 1
@@ -157,8 +177,8 @@ export function LineChart({
 	};
 
 	const normalizeCMT = (value: number) => {
-		const range = 1000 - 0;
-		const normalized = (value - 0) / range;
+		const range = cmtMax - cmtMin;
+		const normalized = (value - cmtMin) / range;
 		const sectionHeight = 100 / activeMetrics;
 		const sectionIndex = [showVA, showIOP, showCMT].filter(
 			(v, i) => v && i < 2
@@ -257,7 +277,9 @@ export function LineChart({
 									: metrics[0]?.colorLight || "#ccc",
 							}}
 						/>
-						<span className="text-xs">VA: {data.vaLabel}</span>
+						<span className="text-xs">
+							VA: {convertNumericToSnellen(data.va)}
+						</span>
 						{data.nv && (
 							<span className="text-muted-foreground text-xs">({data.nv})</span>
 						)}
@@ -323,14 +345,23 @@ export function LineChart({
 		);
 	}
 
-	// Calculate IOP ticks for custom labels
-	const iopMinScale = Math.min(0, Math.floor(iopMin / 5) * 5);
-	const iopMaxScale = Math.max(40, Math.ceil(iopMax / 5) * 5);
-	const iopRange = iopMaxScale - iopMinScale;
-	const iopStep = iopRange > 30 ? 10 : 5;
+	// Calculate dynamic ticks for each metric
+	// VA ticks: decimal values with 0.5 step
+	const vaTicks = [];
+	for (let i = vaMax; i >= vaMin; i -= vaStep) {
+		vaTicks.push(Number(i.toFixed(1)));
+	}
+
+	// IOP ticks: dynamic range with 4 step
 	const iopTicks = [];
-	for (let i = iopMaxScale; i >= iopMinScale; i -= iopStep) {
+	for (let i = iopMax; i >= iopMin; i -= 4) {
 		iopTicks.push(i);
+	}
+
+	// CMT ticks: 0 to max with 500 step
+	const cmtTicks = [];
+	for (let i = cmtMax; i >= cmtMin; i -= 500) {
+		cmtTicks.push(i);
 	}
 
 	const handleProcedureMouseEnter = (
@@ -517,12 +548,11 @@ export function LineChart({
 										: metrics[0]?.colorLight || "#ccc",
 								}}
 							>
-								<div className="text-right pr-2">6/6</div>
-								<div className="text-right pr-2">6/18</div>
-								<div className="text-right pr-2">6/60</div>
-								<div className="text-right pr-2">CF</div>
-								<div className="text-right pr-2">HM</div>
-								<div className="text-right pr-2">PL</div>
+								{vaTicks.map((tick) => (
+									<div key={tick} className="text-right pr-2">
+										{tick}
+									</div>
+								))}
 							</div>
 						)}
 						{showIOP && (
@@ -552,11 +582,11 @@ export function LineChart({
 										: metrics[2]?.colorLight || "#ccc",
 								}}
 							>
-								<div className="text-right pr-2">1000</div>
-								<div className="text-right pr-2">750</div>
-								<div className="text-right pr-2">500</div>
-								<div className="text-right pr-2">250</div>
-								<div className="text-right pr-2">0</div>
+								{cmtTicks.map((tick) => (
+									<div key={tick} className="text-right pr-2">
+										{tick}
+									</div>
+								))}
 							</div>
 						)}
 					</div>

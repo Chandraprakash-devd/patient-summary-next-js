@@ -107,3 +107,46 @@ export function convertVAToNumeric(va: string): number | null {
 export function getVAScaleLabels(): string[] {
 	return ["6/6", "6/18", "6/60", "CF", "HM", "PL"];
 }
+
+/**
+ * Convert numeric VA value back to Snellen notation
+ */
+export function convertNumericToSnellen(numericValue: number): string {
+	// Reverse the LogMAR conversion
+	const logMAR = 1.5 - numericValue;
+
+	// Common Snellen values lookup with more precise matching
+	const logMARToSnellen: { [key: string]: string } = {
+		"0.00": "6/6",
+		"0.10": "6/7.5",
+		"0.18": "6/9",
+		"0.30": "6/12",
+		"0.40": "6/15",
+		"0.48": "6/18",
+		"0.60": "6/24",
+		"0.70": "6/30",
+		"0.78": "6/36",
+		"0.90": "6/48",
+		"1.00": "6/60",
+		"1.30": "6/120",
+	};
+
+	// Find closest match with tolerance
+	const tolerance = 0.05;
+	for (const [logMARStr, snellen] of Object.entries(logMARToSnellen)) {
+		const logMARValue = parseFloat(logMARStr);
+		if (Math.abs(logMAR - logMARValue) <= tolerance) {
+			return snellen;
+		}
+	}
+
+	// Handle special cases
+	if (logMAR >= 2.0) return "NLP";
+	if (logMAR >= 1.5) return "PL";
+	if (logMAR >= 1.0) return "HM";
+	if (logMAR >= 0.5) return "CF";
+
+	// Calculate approximate Snellen for other values
+	const denominator = Math.round(6 * Math.pow(10, logMAR));
+	return `6/${denominator}`;
+}
